@@ -78,6 +78,7 @@ import javax.swing.Timer;
 import javax.vecmath.Vector2d;
 
 import mekhq.MekHQ;
+import mekhq.gui.dialog.CustomizePlanetarySystemDialog;
 import org.joda.time.DateTime;
 
 import megamek.common.EquipmentType;
@@ -346,22 +347,19 @@ public class InterstellarMapPanel extends JPanel {
                         });
                     }
                     menuGM.add(item);
-                    /*
-                     * TODO: re-enable this later
-                    item = new JMenuItem("Edit planetary events");
+                    item = new JMenuItem("Edit planetary system...");
                     item.setEnabled(selectedSystem != null && campaign.isGM());
                     if (selectedSystem != null) {
-                        item.setText("Edit planetary events for " + selectedSystem.getPrintableName(Utilities.getDateTimeDay(campaign.getCalendar())));
+                        item.setText("Edit planetary information for " + selectedSystem.getPrintableName(Utilities.getDateTimeDay(campaign.getCalendar())));
                         item.addActionListener(new ActionListener() {
                             @Override
                             public void actionPerformed(ActionEvent ae) {
-                                openPlanetEventEditor(selectedSystem);
+                                CustomizePlanetarySystemDialog pdialog = new CustomizePlanetarySystemDialog(hqview.getFrame(), true, selectedSystem);
+                                pdialog.setVisible(true);
                             }
                         });
                     }
                     menuGM.add(item);
-                    */
-
                     item = new JMenuItem("Recharge Jumpdrive");
                     item.setEnabled(campaign.getLocation().isRecharging(campaign) && campaign.isGM());
                     item.addActionListener(new ActionListener() {
