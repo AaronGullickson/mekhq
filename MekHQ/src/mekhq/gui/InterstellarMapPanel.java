@@ -354,7 +354,7 @@ public class InterstellarMapPanel extends JPanel {
                         item.addActionListener(new ActionListener() {
                             @Override
                             public void actionPerformed(ActionEvent ae) {
-                                CustomizePlanetarySystemDialog pdialog = new CustomizePlanetarySystemDialog(hqview.getFrame(), true, selectedSystem);
+                                CustomizePlanetarySystemDialog pdialog = new CustomizePlanetarySystemDialog(hqview.getFrame(), true, selectedSystem, campaign);
                                 pdialog.setVisible(true);
                             }
                         });
