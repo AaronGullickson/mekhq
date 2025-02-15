@@ -1,0 +1,320 @@
+id: Blida
+sucsId: 343
+xcood: 168.303
+ycood: -240.211
+spectralType:
+  value: G9V
+primarySlot: 2
+event:
+  - date: '2620-05-08'
+    zenithCharge:
+      value: yes
+  - date: '2788-02-25'
+    zenithCharge:
+      value: no
+  - date: '2905-01-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Yaseen
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Blida
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 11400
+    density:
+      value: 5.8284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 36
+    water:
+      value: 26
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Wilaya de Djelfa
+        capital:
+          value: Ali
+      - name:
+          value: Adrar
+    event:
+      - date: '2606-12-23'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 51720.0
+        socioIndustrial:
+          value: B-C-B-D-C
+      - date: '2610-01-01'
+        population:
+          value: 204881.0
+      - date: '2620-01-01'
+        population:
+          value: 2712121.0
+      - date: '2630-01-01'
+        population:
+          value: 14876688.0
+      - date: '2640-01-01'
+        population:
+          value: 45542082.0
+      - date: '2644-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2650-01-01'
+        population:
+          value: 95207967.0
+      - date: '2660-01-01'
+        population:
+          value: 155573400.0
+      - date: '2670-12-12'
+        hpg:
+          value: B
+        population:
+          value: 215598209.0
+      - date: '2680-01-01'
+        population:
+          value: 266955850.0
+      - date: '2690-01-01'
+        population:
+          value: 306777582.0
+      - date: '2700-01-01'
+        population:
+          value: 337377284.0
+      - date: '2710-01-01'
+        population:
+          value: 357517939.0
+      - date: '2720-01-01'
+        population:
+          value: 369961990.0
+      - date: '2730-01-01'
+        population:
+          value: 376500447.0
+      - date: '2740-01-01'
+        population:
+          value: 379405951.0
+      - date: '2750-02-16'
+        population:
+          value: 383499609.0
+        socioIndustrial:
+          value: B-C-B-B-A
+      - date: '2760-01-01'
+        population:
+          value: 387898265.0
+      - date: '2770-01-01'
+        population:
+          value: 390550690.0
+      - date: '2780-01-01'
+        population:
+          value: 390436214.0
+      - date: '2790-01-01'
+        population:
+          value: 302307649.0
+      - date: '2800-01-01'
+        population:
+          value: 81839568.0
+      - date: '2810-01-01'
+        population:
+          value: 32664678.0
+      - date: '2820-01-01'
+        population:
+          value: 13930893.0
+      - date: '2830-01-01'
+        population:
+          value: 4778576.0
+      - date: '2840-01-01'
+        population:
+          value: 1463092.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2850-01-01'
+        population:
+          value: 431316.0
+      - date: '2860-01-01'
+        population:
+          value: 135864.0
+      - date: '2870-01-01'
+        population:
+          value: 37840.0
+      - date: '2880-01-01'
+        population:
+          value: 11586.0
+      - date: '2890-01-01'
+        population:
+          value: 3900.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: C-C-B-D-C
+      - date: '2900-01-01'
+        population:
+          value: 1471.0
+      - date: '2905-02-05'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Aïn Defla Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+  - name:
+      value: Saint Altaner
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: M11
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: M12
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: M13
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: M14
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Wilaya de Médéa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: J1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: J2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: J3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: J4
+        size:
+          value: medium
+        icon: oddmoon2

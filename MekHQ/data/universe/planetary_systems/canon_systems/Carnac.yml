@@ -1,0 +1,354 @@
+id: Carnac
+sucsId: 481
+xcood: 233.807
+ycood: -24.011
+spectralType:
+  value: F1V
+primarySlot: 4
+event:
+  - date: '2723-12-19'
+    zenithCharge:
+      value: yes
+  - date: '2792-08-30'
+    zenithCharge:
+      value: no
+  - date: '2923-12-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Lamarque-Rustaing
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 9
+  - name:
+      value: Hamilton
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 6
+  - name:
+      value: Saint-Germain-en-Laye
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.4
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Jupiter
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      source: canon
+      value: Carnac
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 27
+    water:
+      value: 44
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Fayolle
+        capital:
+          value: Verges
+      - name:
+          value: Simon
+      - name:
+          value: Big Cross
+      - name:
+          value: Little Cross
+    satellite:
+      - name:
+          value: Villiers-en-Lieu 1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Villiers-en-Lieu 2
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2689-09-16'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 49167.0
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2690-01-01'
+        population:
+          value: 97137.0
+      - date: '2697-04-01'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 9211195.0
+      - date: '2710-01-01'
+        population:
+          value: 74568092.0
+      - date: '2720-01-01'
+        population:
+          value: 194454589.0
+      - date: '2723-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '2730-01-01'
+        population:
+          value: 301936747.0
+      - date: '2740-01-01'
+        population:
+          value: 371627783.0
+      - date: '2750-01-01'
+        population:
+          value: 412854174.0
+      - date: '2760-01-01'
+        population:
+          value: 435454921.0
+      - date: '2770-01-01'
+        population:
+          value: 448869599.0
+      - date: '2780-01-01'
+        population:
+          value: 457517921.0
+      - date: '2790-01-01'
+        population:
+          value: 363103082.0
+      - date: '2800-01-01'
+        population:
+          value: 103866709.0
+      - date: '2810-01-01'
+        population:
+          value: 27105799.0
+      - date: '2820-01-01'
+        population:
+          value: 7253024.0
+      - date: '2830-01-01'
+        population:
+          value: 2145163.0
+      - date: '2840-01-01'
+        population:
+          value: 713072.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2850-01-01'
+        population:
+          value: 243040.0
+      - date: '2860-01-01'
+        population:
+          value: 93881.0
+      - date: '2870-01-01'
+        population:
+          value: 37183.0
+      - date: '2880-01-01'
+        population:
+          value: 16009.0
+      - date: '2890-01-01'
+        population:
+          value: 9002.0
+      - date: '2900-01-01'
+        population:
+          value: 4541.0
+      - date: '2901-01-01'
+        socioIndustrial:
+          value: D-D-C-D-B
+      - date: '2910-01-01'
+        population:
+          value: 2022.0
+      - date: '2920-01-01'
+        population:
+          value: 863.0
+      - date: '2923-03-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Lamanère
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 9.6
+    temperature:
+      value: -64
+    water:
+      value: 0
+  - name:
+      value: Ruíz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 24.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Bhutas
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Cazaux-Layrisse
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.24
+    diameter:
+      value: 14500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 64.0
+    satellite:
+      - name:
+          value: Schweitzer
+        size:
+          value: giant
+        icon: rock6

@@ -1,0 +1,339 @@
+id: Kupang (CC)
+sucsId: 1422
+xcood: -51.334
+ycood: -273.649
+spectralType:
+  value: G9V
+primarySlot: 2
+event:
+  - date: '2752-01-20'
+    zenithCharge:
+      value: yes
+  - date: '2858-11-22'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Ananas's Revenge
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Kupang (CC)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: green33
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 10500
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 26
+    water:
+      value: 45
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Flens
+        capital:
+          value: Borovník Baru
+      - name:
+          value: Harnett
+      - name:
+          value: Jambuluwuk Baru
+      - name:
+          value: Mustokoharjo
+      - name:
+          value: Pandansari Lor
+    satellite:
+      - name:
+          value: Kayarda
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Kecamatan Way Jepara
+        size:
+          value: medium
+        icon: rock14
+    event:
+      - date: '2748-10-03'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 53750.0
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '2750-01-01'
+        population:
+          value: 78567.0
+      - date: '2757-02-27'
+        hpg:
+          value: B
+      - date: '2760-01-01'
+        population:
+          value: 409374.0
+      - date: '2770-01-01'
+        population:
+          value: 1507154.0
+      - date: '2780-01-01'
+        population:
+          value: 4225654.0
+      - date: '2790-01-01'
+        population:
+          value: 9540735.0
+      - date: '2800-01-01'
+        population:
+          value: 18116238.0
+      - date: '2810-01-01'
+        population:
+          value: 30163998.0
+      - date: '2816-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2820-01-01'
+        population:
+          value: 45030059.0
+      - date: '2827-01-01'
+        socioIndustrial:
+          value: B-C-B-B-B
+      - date: '2830-01-01'
+        population:
+          value: 61860643.0
+      - date: '2840-01-01'
+        population:
+          value: 79961011.0
+      - date: '2850-01-01'
+        population:
+          value: 3651234.0
+      - date: '2858-03-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Subandrio's Tears
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+    water:
+      value: 0
+  - name:
+      value: Sumual
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: frozen62
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.62
+    diameter:
+      value: 10500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -104
+    water:
+      value: 45
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Dukoh Kidul
+      - name:
+          value: Bielawny
+  - name:
+      value: Graves
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Sumual A
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Sumual B
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bintang's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 6
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Wat Po
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Bezirk Mittell
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 31.04
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Lubis
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Sangkangunung
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cipondoh
+        size:
+          value: medium
+        icon: oddmoon1

@@ -1,0 +1,391 @@
+id: Boeotia
+sucsId: 355
+xcood: 160.821
+ycood: -136.233
+spectralType:
+  value: K1V
+primarySlot: 2
+event:
+  - date: '2924-10-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Jari
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 50000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Boeotia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 38
+    water:
+      value: 46
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Dimos Marathon
+        capital:
+          value: Picoulas
+      - name:
+          value: Péta
+    event:
+      - date: '2685-04-08'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 48754.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2690-12-26'
+        hpg:
+          value: B
+        population:
+          value: 416315.0
+      - date: '2700-01-01'
+        population:
+          value: 5279785.0
+      - date: '2701-01-01'
+        socioIndustrial:
+          value: C-C-A-C-F
+      - date: '2710-01-01'
+        population:
+          value: 18286717.0
+      - date: '2720-01-01'
+        population:
+          value: 33675675.0
+      - date: '2730-01-01'
+        population:
+          value: 45286291.0
+      - date: '2740-01-01'
+        population:
+          value: 52116432.0
+      - date: '2750-01-01'
+        population:
+          value: 55639680.0
+      - date: '2760-01-01'
+        population:
+          value: 57645784.0
+      - date: '2770-01-01'
+        population:
+          value: 59009285.0
+      - date: '2780-01-01'
+        population:
+          value: 59893794.0
+      - date: '2790-01-01'
+        population:
+          value: 52077625.0
+      - date: '2800-01-01'
+        population:
+          value: 26357024.0
+      - date: '2810-01-01'
+        population:
+          value: 13069799.0
+      - date: '2820-01-01'
+        population:
+          value: 6264028.0
+      - date: '2830-01-01'
+        population:
+          value: 2862435.0
+      - date: '2840-01-01'
+        population:
+          value: 1264241.0
+      - date: '2850-01-01'
+        population:
+          value: 554583.0
+      - date: '2860-01-01'
+        population:
+          value: 280680.0
+      - date: '2870-01-01'
+        population:
+          value: 162783.0
+      - date: '2873-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2880-01-01'
+        population:
+          value: 101751.0
+      - date: '2890-07-20'
+        population:
+          value: 69489.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2900-01-01'
+        population:
+          value: 43732.0
+      - date: '2910-01-01'
+        population:
+          value: 30691.0
+      - date: '2920-01-01'
+        population:
+          value: 16971.0
+      - date: '2924-07-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Aiaru
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: frozen11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.86
+    diameter:
+      value: 14500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -114
+    water:
+      value: 78
+    landmass:
+      - name:
+          value: Mandráki
+      - name:
+          value: Marathónas
+      - name:
+          value: Maidment
+      - name:
+          value: Passas
+      - name:
+          value: Skiotis
+      - name:
+          value: Thessaly
+  - name:
+      value: Wahini Hai
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 4
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -162
+    water:
+      value: 0
+  - name:
+      value: Lethe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: CPZ-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Rokola
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Kárystos
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Paramythiá
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Dimos Volos
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Alíartos
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Irákleia
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Rigatos
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: McDaniel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 7
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 23
+  - name:
+      value: Diwa Zib
+    type:
+      value: ICE_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 8
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 10

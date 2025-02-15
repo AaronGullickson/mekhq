@@ -1,0 +1,640 @@
+id: Hot Springs
+sucsId: 1139
+xcood: -170.584
+ycood: 367.787
+spectralType:
+  source: canon
+  value: G6V
+primarySlot: 4
+event:
+  - date: '2521-06-12'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: New Cochranton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren12
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 173
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Raton
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1700
+    density:
+      value: 1.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -56
+    water:
+      value: 0
+  - name:
+      value: Harvard
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: barren6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 17
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Chalchihuitlicue
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Hot Springs
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 4
+    icon: green40
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13097
+    density:
+      value: 5.360520078823
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      source: canon
+      value: 45
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Hot Springs was colonized to take advantage of the planet’s abundance of
+      mineral and metal ores, however the planet quickly became famous for its rich
+      mineral water, which quickly developed into a thriving tourist industry centered
+      around the therapeutic hot springs. However, other than the hot springs, there
+      is very little to attract vacationers to Hot Springs, the planet’s two continents
+      were formed by volcanic activity and the larger continent of Silver Springs
+      is primarily black rock and ash, with occasional outcroppings of trees and broken
+      up by dense jungle and brackish lakes. The large Lucas Mountains Range in the
+      western end of the continent is part of the mountain chain that formed the continent.
+      The second continent, Manta Springs, is more livable and is home to much of
+      the planet’s population, including the capital city Boulder. Boulder is home
+      to the renowned Institute for Advance Studies in Physical Therapy.
+    landmass:
+      - name:
+          source: canon
+          value: Manta Springs
+        capital:
+          source: canon
+          value: Boulder
+      - name:
+          source: canon
+          value: Silver Springs
+    satellite:
+      - name:
+          value: Buckstone
+        size:
+          value: large
+        icon: rock5
+    event:
+      - date: '2509-02-17'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 50066.0
+        socioIndustrial:
+          value: C-C-A-F-D
+      - date: '2510-01-01'
+        population:
+          value: 56822.0
+      - date: '2520-01-01'
+        population:
+          value: 172132.0
+      - date: '2529-01-01'
+        socioIndustrial:
+          value: C-C-A-D-D
+      - date: '2530-01-01'
+        population:
+          value: 406807.0
+      - date: '2540-01-01'
+        population:
+          value: 790270.0
+      - date: '2550-01-01'
+        population:
+          value: 1318681.0
+      - date: '2560-01-01'
+        population:
+          value: 1964993.0
+      - date: '2570-01-01'
+        population:
+          value: 2699266.0
+      - date: '2580-01-01'
+        population:
+          value: 3488348.0
+      - date: '2590-01-01'
+        population:
+          value: 4273124.0
+      - date: '2599-01-01'
+        socioIndustrial:
+          value: C-C-A-C-D
+      - date: '2600-01-01'
+        population:
+          value: 5027919.0
+      - date: '2610-01-01'
+        population:
+          value: 5697420.0
+      - date: '2620-01-01'
+        population:
+          value: 6268183.0
+      - date: '2626-01-01'
+        socioIndustrial:
+          value: B-B-A-B-C
+      - date: '2630-01-01'
+        population:
+          value: 6771512.0
+      - date: '2637-07-05'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 7229457.0
+      - date: '2650-01-01'
+        population:
+          value: 7616059.0
+      - date: '2660-01-01'
+        population:
+          value: 7941478.0
+      - date: '2670-01-01'
+        population:
+          value: 8141535.0
+      - date: '2680-01-01'
+        population:
+          value: 8282352.0
+      - date: '2690-01-01'
+        population:
+          value: 8389773.0
+      - date: '2700-01-01'
+        population:
+          value: 8447126.0
+      - date: '2710-01-01'
+        population:
+          value: 8517598.0
+      - date: '2720-01-01'
+        population:
+          value: 8551759.0
+      - date: '2730-01-01'
+        population:
+          value: 8530947.0
+      - date: '2740-01-01'
+        population:
+          value: 8499330.0
+      - date: '2750-01-01'
+        population:
+          value: 8472967.0
+      - date: '2760-01-01'
+        population:
+          value: 8443530.0
+      - date: '2770-01-01'
+        population:
+          value: 8422595.0
+      - date: '2780-01-01'
+        population:
+          value: 8349206.0
+      - date: '2790-01-01'
+        population:
+          value: 8261586.0
+      - date: '2800-01-01'
+        population:
+          value: 8180779.0
+      - date: '2810-01-01'
+        population:
+          value: 8065882.0
+      - date: '2820-01-01'
+        population:
+          value: 8053323.0
+      - date: '2830-01-01'
+        population:
+          value: 7994652.0
+      - date: '2840-01-01'
+        population:
+          value: 7962136.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2850-01-01'
+        population:
+          value: 7901288.0
+      - date: '2860-01-01'
+        population:
+          value: 7928802.0
+      - date: '2870-01-01'
+        population:
+          value: 7962136.0
+      - date: '2880-01-01'
+        population:
+          value: 7969775.0
+      - date: '2890-01-01'
+        population:
+          value: 7986032.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2900-01-01'
+        population:
+          value: 7973597.0
+      - date: '2910-01-01'
+        population:
+          value: 7984118.0
+      - date: '2920-01-01'
+        population:
+          value: 7911713.0
+      - date: '2930-01-01'
+        population:
+          value: 7733562.0
+      - date: '2940-01-01'
+        population:
+          value: 7497157.0
+      - date: '2950-01-01'
+        population:
+          value: 7370626.0
+      - date: '2960-01-01'
+        population:
+          value: 7277568.0
+      - date: '2970-01-01'
+        population:
+          value: 7044961.0
+      - date: '2980-01-01'
+        population:
+          value: 6787982.0
+      - date: '2990-01-01'
+        population:
+          value: 6575751.0
+      - date: '3000-01-01'
+        population:
+          value: 6372447.0
+      - date: '3010-01-01'
+        population:
+          value: 6220002.0
+      - date: '3020-01-01'
+        population:
+          value: 6029865.0
+      - date: '3030-01-01'
+        population:
+          value: 5967349.0
+      - date: '3040-01-01'
+        population:
+          value: 6051479.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-A-B-C
+      - date: '3050-01-01'
+        population:
+          value: 6134341.0
+      - date: '3050-06-25'
+        faction:
+          source: canon
+          value:
+            - CJF
+            - FC
+      - date: '3050-06-30'
+        faction:
+          source: canon
+          value:
+            - CJF
+      - date: '3060-01-01'
+        population:
+          value: 6217095.0
+      - date: '3070-01-01'
+        population:
+          value: 6298445.0
+      - date: '3080-01-01'
+        population:
+          value: 6398750.0
+      - date: '3090-01-01'
+        population:
+          value: 6511063.0
+      - date: '3100-01-01'
+        population:
+          value: 6618725.0
+      - date: '3110-01-01'
+        population:
+          value: 6732205.0
+      - date: '3120-01-01'
+        population:
+          value: 6808029.0
+      - date: '3127-01-01'
+        socioIndustrial:
+          value: B-B-A-B-C
+      - date: '3130-01-01'
+        population:
+          value: 6901251.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 6974793.0
+      - date: '3145-01-01'
+        population:
+          value: 7011157.0
+      - date: '3152-03-15'
+        faction:
+          source: canon
+          value:
+            - CHH
+  - name:
+      value: Friendship
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1700
+    density:
+      value: 3.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -109
+    water:
+      value: 0
+  - name:
+      value: New Michigamme
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Weber I
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Weber II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Weber III
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Weber IV
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Weber V
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Weber VI
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Weber VII
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Lookout
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Payne
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Herman
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Buhler
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Tanner
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Powell
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Yinglan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: Hanover
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Jones
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Adams
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Carter
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Ashley
+        size:
+          value: medium
+        icon: oddmoon1

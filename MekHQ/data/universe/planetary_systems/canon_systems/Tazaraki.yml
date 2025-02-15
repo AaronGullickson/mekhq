@@ -1,0 +1,345 @@
+id: Tazaraki
+sucsId: 2503
+xcood: 182.503
+ycood: -262.427
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2905-07-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Ernest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1000
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 167
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Tazaraki
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green14
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.19
+    diameter:
+      value: 13200
+    density:
+      value: 6.3437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 35
+    water:
+      value: 28
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - capital:
+          value: Pryderi
+    satellite:
+      - name:
+          value: Guguyni
+        size:
+          value: large
+        icon: rock15
+    event:
+      - date: '2701-02-17'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 50508.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2710-01-01'
+        population:
+          value: 205759.0
+      - date: '2720-01-01'
+        population:
+          value: 747691.0
+      - date: '2730-06-16'
+        hpg:
+          value: B
+        population:
+          value: 2156387.0
+      - date: '2740-01-01'
+        population:
+          value: 5155135.0
+      - date: '2750-01-01'
+        population:
+          value: 10454023.0
+      - date: '2760-01-01'
+        population:
+          value: 18507656.0
+      - date: '2770-01-01'
+        population:
+          value: 29525161.0
+      - date: '2777-04-04'
+        hpg:
+          value: C
+      - date: '2780-01-01'
+        population:
+          value: 43487785.0
+      - date: '2790-01-01'
+        population:
+          value: 43317263.0
+      - date: '2800-01-01'
+        population:
+          value: 20558531.0
+      - date: '2810-01-01'
+        population:
+          value: 8617441.0
+      - date: '2820-01-01'
+        population:
+          value: 4251744.0
+      - date: '2830-01-01'
+        population:
+          value: 2232176.0
+      - date: '2840-01-01'
+        population:
+          value: 1127280.0
+      - date: '2850-01-01'
+        population:
+          value: 560521.0
+      - date: '2860-01-01'
+        population:
+          value: 310709.0
+      - date: '2870-01-01'
+        population:
+          value: 158136.0
+      - date: '2880-01-01'
+        population:
+          value: 79243.0
+      - date: '2890-01-01'
+        population:
+          value: 41927.0
+      - date: '2900-01-01'
+        population:
+          value: 24349.0
+      - date: '2905-04-29'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: X-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 5
+  - name:
+      value: Wyndmere
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: MI1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: MI2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: MI3
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: MI4
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Minamitane Chō
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Lampetie
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Ikelos
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: New Fudai-mura
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Irusan
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: X-2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -185
+  - name:
+      value: Barkhamsted
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Krauthammer
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Mihail
+        size:
+          value: medium
+        icon: oddmoon1

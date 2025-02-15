@@ -1,0 +1,513 @@
+id: Ilmar
+sucsId: 1184
+xcood: 48.803
+ycood: -170.535
+spectralType:
+  value: G7V
+primarySlot: 3
+event:
+  - date: '2625-11-12'
+    zenithCharge:
+      value: yes
+  - date: '2626-12-05'
+    nadirCharge:
+      value: yes
+  - date: '2803-10-12'
+    zenithCharge:
+      value: no
+  - date: '2806-10-26'
+    nadirCharge:
+      value: no
+  - date: '2821-01-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Sadhbh
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren22
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 157
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Kleitsch
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Parmentier
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Saddle River
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Morrigna
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1800
+    density:
+      value: 3.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 44
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Ilmar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green42
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 27
+    water:
+      value: 45
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Jones's Wheel
+        capital:
+          value: New Owen
+      - name:
+          value: Ming
+    event:
+      - date: '2622-11-24'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52366.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2630-01-01'
+        population:
+          value: 1032318.0
+      - date: '2635-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2637-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2640-01-01'
+        population:
+          value: 12160028.0
+      - date: '2650-01-01'
+        population:
+          value: 57345693.0
+      - date: '2660-11-05'
+        hpg:
+          value: B
+        population:
+          value: 151775783.0
+      - date: '2670-01-01'
+        population:
+          value: 279657511.0
+      - date: '2680-01-01'
+        population:
+          value: 410413724.0
+      - date: '2690-01-01'
+        population:
+          value: 523312853.0
+      - date: '2700-01-01'
+        population:
+          value: 607476686.0
+      - date: '2710-01-01'
+        population:
+          value: 667385335.0
+      - date: '2720-01-01'
+        population:
+          value: 711601422.0
+      - date: '2730-01-01'
+        population:
+          value: 742121241.0
+      - date: '2740-01-01'
+        population:
+          value: 761404369.0
+      - date: '2750-01-01'
+        population:
+          value: 775087900.0
+      - date: '2760-01-01'
+        population:
+          value: 785319316.0
+      - date: '2770-01-01'
+        population:
+          value: 788405884.0
+      - date: '2780-01-01'
+        population:
+          value: 789241281.0
+      - date: '2790-01-01'
+        population:
+          value: 785767572.0
+      - date: '2800-01-01'
+        population:
+          value: 603668946.0
+      - date: '2810-01-01'
+        population:
+          value: 4696039.0
+      - date: '2820-01-01'
+        population:
+          value: 64065.0
+      - date: '2821-09-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Housden's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: Zhou's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Heimdall 1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Heimdall 2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Heimdall 3
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Heimdall 4
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Heimdall 5
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Heimdall 6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Heimdall 7
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brimacombe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: God Ch I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: God Ch II
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: God Ch III
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: God Ch IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: God Ch V
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Bormo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      value: Tapanelli
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Mummu
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Abzu
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Ana
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Arionrod 1
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Arionrod 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Ildánach
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 579.1
+    satellite:
+      - name:
+          value: Cupid
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Mortia
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Candelifera
+        size:
+          value: medium
+        icon: rock4

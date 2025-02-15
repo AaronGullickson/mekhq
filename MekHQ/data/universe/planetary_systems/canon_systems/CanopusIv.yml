@@ -1,0 +1,664 @@
+id: Canopus IV
+sucsId: 462
+xcood: -147.166
+ycood: -394.997
+spectralType:
+  source: canon
+  value: F5IV
+primarySlot: 4
+event:
+  - date: '2569-02-11'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Canopus I
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 55000
+    density:
+      value: 2.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Nevill
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Oliver
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Sanxter
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Decker
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Canopus II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.8
+    diameter:
+      value: 13500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 278
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Canopus III
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.0
+  - name:
+      source: canon
+      value: Canopus IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: green22
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.1
+    diameter:
+      value: 15262
+    density:
+      value: 5.087470190692
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.9
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: FISH
+    desc: |-
+      Canopus IV is a temperate planet with three continents. The most settled continent is Salonika, which was originally covered in lush forests and rolling hills, it has over time become industrialized and polluted. It is home to the three major cities on Canopus IV; the capital Crimson, Delphi the capital in the planet's early history, and Astarte. Salonika is also home to all major manufacturing centers on planet.
+
+      The primary military manufacturing centers on Canopus IV are Canopus Industries Alpha and Majestic Metals and Manufacturing. The Canopus Industries factory, which creates the iconic Pike Support Vehicle, is located in Astarte on the continent of Salonika. Majestics Metals and Manufacturing, which produces several different lines of BattleMechs and combat vehicles for the Magistracy, is located in the city of Mertonia, also on the Salonika continent.
+
+      The Emma Centrella Martial Academy was still under construction as of 3080, however classes were already in progress using temporary facilities. The Academy is located in the city of Astarte on the continent of Salonika.
+
+      Manufacturing centers:
+      Canopus Industries Alpha
+      Majestic Metals and Manufacturing
+    landmass:
+      - name:
+          source: canon
+          value: Alinia
+      - name:
+          source: canon
+          value: Obio
+      - name:
+          source: canon
+          value: Salonika
+        capital:
+          source: canon
+          value: Crimson
+    satellite:
+      - name:
+          value: Cybele
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Inanna
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2531-10-22'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 43501.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2532-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2540-01-01'
+        population:
+          value: 378407.0
+      - date: '2550-01-01'
+        population:
+          value: 2332546.0
+      - date: '2552-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2560-01-01'
+        population:
+          value: 9105858.0
+      - date: '2570-01-01'
+        population:
+          value: 25100937.0
+      - date: '2580-01-01'
+        population:
+          value: 53322880.0
+      - date: '2584-03-06'
+        faction:
+          source: canon
+          value:
+            - MOC
+            - SL
+      - date: '2584-05-03'
+        faction:
+          source: canon
+          value:
+            - SL
+      - date: '2590-01-01'
+        population:
+          value: 94041169.0
+      - date: '2597-03-21'
+        faction:
+          source: canon
+          value:
+            - MOC
+      - date: '2600-01-01'
+        population:
+          value: 143999641.0
+      - date: '2610-01-01'
+        population:
+          value: 197566798.0
+      - date: '2620-01-01'
+        population:
+          value: 248460135.0
+      - date: '2630-01-03'
+        population:
+          value: 293312514.0
+        socioIndustrial:
+          value: A-B-A-B-B
+      - date: '2638-12-25'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 330692727.0
+      - date: '2650-01-01'
+        population:
+          value: 362684631.0
+      - date: '2660-01-01'
+        population:
+          value: 390882249.0
+      - date: '2670-01-01'
+        population:
+          value: 414226280.0
+      - date: '2680-01-01'
+        population:
+          value: 434228242.0
+      - date: '2690-01-01'
+        population:
+          value: 450121675.0
+      - date: '2700-01-01'
+        population:
+          value: 463040403.0
+      - date: '2710-01-01'
+        population:
+          value: 475974492.0
+      - date: '2720-01-01'
+        population:
+          value: 486669703.0
+      - date: '2730-01-01'
+        population:
+          value: 496276848.0
+      - date: '2740-01-01'
+        population:
+          value: 504110091.0
+      - date: '2750-01-01'
+        population:
+          value: 511400316.0
+      - date: '2760-01-01'
+        population:
+          value: 518242474.0
+      - date: '2770-01-01'
+        population:
+          value: 523423208.0
+      - date: '2780-01-01'
+        population:
+          value: 529024723.0
+      - date: '2790-01-01'
+        population:
+          value: 531786482.0
+      - date: '2800-01-01'
+        population:
+          value: 532225445.0
+      - date: '2810-01-01'
+        population:
+          value: 532902157.0
+      - date: '2820-01-01'
+        population:
+          value: 533764671.0
+      - date: '2830-01-01'
+        population:
+          value: 534840364.0
+      - date: '2840-01-01'
+        population:
+          value: 535745799.0
+      - date: '2850-01-01'
+        population:
+          value: 536639482.0
+      - date: '2857-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2860-01-01'
+        population:
+          value: 537707659.0
+      - date: '2870-01-01'
+        population:
+          value: 538791298.0
+      - date: '2880-01-01'
+        population:
+          value: 539583200.0
+      - date: '2890-01-01'
+        population:
+          value: 540510043.0
+      - date: '2900-01-01'
+        population:
+          value: 541143705.0
+      - date: '2910-01-01'
+        population:
+          value: 542113484.0
+      - date: '2911-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2920-01-01'
+        population:
+          value: 542937147.0
+      - date: '2930-01-01'
+        population:
+          value: 543452571.0
+      - date: '2940-01-01'
+        population:
+          value: 543685793.0
+      - date: '2950-01-01'
+        population:
+          value: 543717196.0
+      - date: '2960-01-01'
+        population:
+          value: 543802442.0
+      - date: '2970-01-01'
+        population:
+          value: 543766547.0
+      - date: '2980-01-01'
+        population:
+          value: 543555715.0
+      - date: '2990-01-01'
+        population:
+          value: 543452571.0
+      - date: '3000-01-01'
+        population:
+          value: 543376347.0
+      - date: '3010-01-01'
+        population:
+          value: 543138776.0
+      - date: '3020-01-01'
+        population:
+          value: 543371864.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 537000000.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: B-C-B-C-D
+      - date: '3030-01-01'
+        population:
+          value: 594455268.0
+      - date: '3040-01-01'
+        population:
+          value: 706221663.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-B-B-B-C
+      - date: '3050-01-01'
+        population:
+          value: 837557577.0
+      - date: '3060-01-01'
+        population:
+          value: 978034875.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 1107200000.0
+      - date: '3070-01-01'
+        population:
+          value: 1107156664.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 1107000000.0
+      - date: '3080-01-01'
+        population:
+          value: 1107839256.0
+      - date: '3090-01-01'
+        population:
+          value: 1114283393.0
+      - date: '3091-01-01'
+        socioIndustrial:
+          value: A-A-B-B-C
+      - date: '3100-01-01'
+        population:
+          value: 1116514190.0
+      - date: '3110-01-01'
+        population:
+          value: 1124357208.0
+      - date: '3120-01-01'
+        population:
+          value: 1127509820.0
+      - date: '3130-01-01'
+        population:
+          value: 1127735344.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1127960914.0
+      - date: '3145-01-01'
+        population:
+          value: 1129541165.0
+  - name:
+      value: Canopus V
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Janus
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Iupiter
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Apocatequil
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Jove
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Canopus VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 52.4
+    smallMoons:
+      value: 13
+  - name:
+      value: Canopus VII
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 143.7
+    smallMoons:
+      value: 3
+  - name:
+      value: Canopus VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 400.4
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: WS1
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: WS2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: WS3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Canopus IX
+    type:
+      value: ICE_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 40000
+    density:
+      value: 1.5
+    dayLength:
+      value: 7
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Ammon Ra
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Min
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: K-1
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Canopus X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: X-1
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: X-2
+        size:
+          value: medium
+        icon: oddmoon3

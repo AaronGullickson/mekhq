@@ -1,0 +1,445 @@
+id: Segerica
+sucsId: 2271
+xcood: -27.284
+ycood: -406.942
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2701-01-28'
+    zenithCharge:
+      value: yes
+  - date: '2849-10-03'
+    zenithCharge:
+      value: no
+  - date: '2925-09-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Segerica
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green54
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.19
+    diameter:
+      value: 13200
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 33
+    water:
+      value: 49
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: New Ringwood A
+        capital:
+          value: Zao Jun
+      - name:
+          value: New Ringwood B
+      - name:
+          value: New Ringwood C
+    event:
+      - date: '2691-05-24'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 47023.0
+        socioIndustrial:
+          value: C-C-A-D-F
+      - date: '2698-10-07'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 3442470.0
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2710-01-01'
+        population:
+          value: 33713772.0
+      - date: '2720-01-01'
+        population:
+          value: 96252183.0
+      - date: '2730-01-01'
+        population:
+          value: 155910095.0
+      - date: '2737-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2740-01-01'
+        population:
+          value: 194873446.0
+      - date: '2750-01-01'
+        population:
+          value: 217658169.0
+      - date: '2760-01-01'
+        population:
+          value: 229278266.0
+      - date: '2770-01-01'
+        population:
+          value: 235211997.0
+      - date: '2780-01-01'
+        population:
+          value: 240415702.0
+      - date: '2790-01-01'
+        population:
+          value: 199525996.0
+      - date: '2800-01-01'
+        population:
+          value: 88309883.0
+      - date: '2810-01-01'
+        population:
+          value: 36166442.0
+      - date: '2820-01-01'
+        population:
+          value: 13705311.0
+      - date: '2830-01-01'
+        population:
+          value: 5316013.0
+      - date: '2840-01-01'
+        population:
+          value: 2211185.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2850-01-01'
+        population:
+          value: 905569.0
+      - date: '2860-01-01'
+        population:
+          value: 345841.0
+      - date: '2870-01-01'
+        population:
+          value: 120330.0
+      - date: '2880-01-01'
+        population:
+          value: 50441.0
+      - date: '2890-07-24'
+        population:
+          value: 21144.0
+        socioIndustrial:
+          value: D-D-C-F-F
+      - date: '2900-01-01'
+        population:
+          value: 10514.0
+      - date: '2910-01-01'
+        population:
+          value: 5694.0
+      - date: '2920-01-01'
+        population:
+          value: 2766.0
+      - date: '2925-07-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: New Lloydminster
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 40000
+    density:
+      value: 2.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Uni
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Turms
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Menerva
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Angavanakis
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Dixmont
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -38
+    water:
+      value: 0
+  - name:
+      value: Ripley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Nunet Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -133
+  - name:
+      value: Cekcyn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 15
+  - name:
+      value: Alburtis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Young A
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Young B
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Vanderbilt
+    type:
+      value: ICE_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Basford I
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Basford II
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Basford III
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Basford IV
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Columbus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 315.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Lucifer 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Lucifer 2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lucifer 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lucifer 4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lucifer 5
+        size:
+          value: medium
+        icon: rock5

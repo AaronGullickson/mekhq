@@ -1,0 +1,472 @@
+id: Skiland
+sucsId: 2352
+xcood: -83.83
+ycood: 545.678
+spectralType:
+  value: G7V
+primarySlot: 2
+event:
+  - date: '2788-08-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Verbeia's Den
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: greenhouse35
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 196
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Skiland
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 2
+    icon: green5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 31
+    water:
+      value: 64
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Mendoza
+        capital:
+          value: Matthews's Frontier City
+      - name:
+          value: Hooper
+      - name:
+          value: Honeywill
+      - name:
+          value: Welch
+      - name:
+          value: Cleeton's Stand
+      - name:
+          value: Zarei
+      - name:
+          value: Roghi
+      - name:
+          value: Stafford
+    event:
+      - date: '2696-07-28'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52796.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2697-02-14'
+        hpg:
+          value: X
+      - date: '2700-01-01'
+        population:
+          value: 371718.0
+      - date: '2710-01-01'
+        population:
+          value: 6324301.0
+      - date: '2720-01-01'
+        population:
+          value: 22202996.0
+      - date: '2730-01-01'
+        population:
+          value: 38686444.0
+      - date: '2735-01-01'
+        socioIndustrial:
+          value: B-D-A-D-B
+      - date: '2740-01-01'
+        population:
+          value: 15173961.0
+      - date: '2750-01-01'
+        population:
+          value: 4152930.0
+      - date: '2760-01-01'
+        population:
+          value: 1577892.0
+      - date: '2770-01-01'
+        population:
+          value: 404426.0
+      - date: '2779-01-11'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 56499.0
+      - date: '2788-09-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Brown
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -64
+    water:
+      value: 0
+  - name:
+      value: Barber
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 30000
+    density:
+      value: 2.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Shichi Fukujin A
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Shichi Fukujin B
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Shichi Fukujin C
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Shichi Fukujin D
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Shichi Fukujin E
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Iupiter
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 46-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 46-2
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Tao Te T'ien Tsun
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 2
+  - name:
+      value: Txamsem's Wheel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+  - name:
+      value: Perkunas
+    type:
+      value: ICE_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 8
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 579.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Wilkinson 1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Wilkinson 2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Wilkinson 3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Wilkinson 4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Wilkinson 5
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Torvik
+    type:
+      value: ICE_GIANT
+    orbitalDist: 138.6
+    sysPos:
+      value: 9
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1631.7
+    smallMoons:
+      value: 3
+  - name:
+      value: Iovis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 10
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 4606.2
+    smallMoons:
+      value: 20
+  - name:
+      value: Britannia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 553.32
+    sysPos:
+      value: 11
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 13015.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Fitzpatrick A
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Fitzpatrick B
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Fitzpatrick C
+        size:
+          value: medium
+        icon: oddmoon2

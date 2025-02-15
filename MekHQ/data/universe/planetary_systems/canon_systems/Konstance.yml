@@ -1,0 +1,649 @@
+id: Konstance
+sucsId: 1395
+xcood: -20.166
+ycood: 96.371
+spectralType:
+  source: canon
+  value: K1IV
+primarySlot: 4
+event:
+  - date: '2386-01-31'
+    zenithCharge:
+      value: yes
+  - date: '2501-01-18'
+    nadirCharge:
+      value: yes
+  - date: '2799-12-02'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Ogunquit
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Goerts 1
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Goerts 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Canton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: barren1
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 1.1
+    diameter:
+      value: 14500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 165
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: CYO1
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: New Crickhowell
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Konstance
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: green31
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.64
+    diameter:
+      value: 10258
+    density:
+      value: 4.403407396057
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.7
+    temperature:
+      source: canon
+      value: 62
+    water:
+      source: canon
+      value: 74
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Brutally hot and muggy much of the time, Konstance suffers from an overabundance of carbon dioxide that casts a haze over the planet and traps heat from its weak, K-class sun. Once necessary to give life on this world a fighting chance, this environmental taint, already present to a much lesser degree when colonists first set foot here almost a thousand years ago, has been aggravated by centuries of human development. Despite efforts to control the greenhouse-effect problem in its infancy, the presence of large underground pockets of petrochemicals and natural gas inevitably led to a series of drilling and refining industries that helped develop Konstance, but over time added to the atmospheric pollution. Konstance thus continued to grow hotter over the centuries, to the point where the effects of this global warming have forced the local population to move into the cooler polar reaches of the planet.
+
+      Unfortunately, despite the decreased presence of heavy industry in the middle and equatorial latitudes—save a few automated pumping and refining facilities occasionally tended to by visiting laborers and technicians in special environmental gear—the planet continues to grow warmer with each passing year. The abandoned cities and towns of the planet‘s interior landmasses of Juranias and Tiburia—including the former capital city of Konstantinople—have gradually been reclaimed by Mother Nature, with hardy but mutated rain forest trees, fed by acid rains, growing through the crumbling remains of streets and buildings. Tropical storms, also the result of the planet‘s shifting climate, have rendered travel into and through these regions a chancy proposition, so most transcontinental travel is accomplished either through suborbital DropShip hops or by the use of submersible passenger vehicles. While this complicates administrative and commercial business on Konstance somewhat, especially in the formation of distinctive ―northern and ―southern subcultures, it has made raids against this world over the last century or two an equally complex affair as hostile parties must often try to coordinate a two-pronged assault to tie up local defenses, which have long since grown accustomed to the quirks of Konstance‘s heat and tempestuous weather.
+
+      The capital city of Konstance, Ishtalia, is located on the southern polar continent of Perragea, and also doubles as the southern hemisphere‘s largest spaceport city. Its counterpart on the north polar continent of Epigaus, Lazarus Bay, also boasts the planet‘s largest submarine seaport, which ferries over half the harsh-environment workforce for local fuel producers like Axis PetroChem Unlimited.
+    landmass:
+      - name:
+          source: canon
+          value: Epigaus
+        capital:
+          source: canon
+          value: Lazarus Bay
+      - name:
+          source: canon
+          value: Perragea
+        capital:
+          source: canon
+          value: Ishtalia
+    satellite:
+      - name:
+          value: Drezix
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Esther
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Volaria
+        size:
+          value: medium
+        icon: rock3
+    event:
+      - date: '2299-01-25'
+        faction:
+          source: canon
+          value:
+            - FoS
+        population:
+          value: 50345.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2300-01-01'
+        population:
+          value: 60894.0
+      - date: '2310-01-01'
+        population:
+          value: 347152.0
+      - date: '2320-01-01'
+        population:
+          value: 1535828.0
+      - date: '2330-01-01'
+        population:
+          value: 5454183.0
+      - date: '2340-01-01'
+        population:
+          value: 16025012.0
+      - date: '2341-04-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2349-01-01'
+        socioIndustrial:
+          value: D-C-C-B-F
+      - date: '2350-01-01'
+        population:
+          value: 40253203.0
+      - date: '2360-01-01'
+        population:
+          value: 88326117.0
+      - date: '2370-01-01'
+        population:
+          value: 173738134.0
+      - date: '2380-01-01'
+        population:
+          value: 309582936.0
+      - date: '2390-01-01'
+        population:
+          value: 507875944.0
+      - date: '2400-01-01'
+        population:
+          value: 771395467.0
+      - date: '2410-01-01'
+        population:
+          value: 1098281348.0
+      - date: '2420-01-01'
+        population:
+          value: 1477282644.0
+      - date: '2430-01-01'
+        population:
+          value: 1895546551.0
+      - date: '2440-01-01'
+        population:
+          value: 2338260742.0
+      - date: '2450-01-01'
+        population:
+          value: 2786786584.0
+      - date: '2460-01-01'
+        population:
+          value: 3237210405.0
+      - date: '2470-01-01'
+        population:
+          value: 3680071232.0
+      - date: '2480-01-01'
+        population:
+          value: 4118160924.0
+      - date: '2490-01-01'
+        population:
+          value: 4507227049.0
+      - date: '2500-01-01'
+        population:
+          value: 4863068275.0
+      - date: '2510-01-01'
+        population:
+          value: 5208590317.0
+      - date: '2520-01-01'
+        population:
+          value: 5535739682.0
+      - date: '2530-01-01'
+        population:
+          value: 5819253623.0
+      - date: '2540-01-01'
+        population:
+          value: 6070704365.0
+      - date: '2550-01-01'
+        population:
+          value: 6264271506.0
+      - date: '2560-01-01'
+        population:
+          value: 6426932785.0
+      - date: '2570-01-01'
+        population:
+          value: 6565313092.0
+      - date: '2580-01-01'
+        population:
+          value: 6668998784.0
+      - date: '2590-01-01'
+        population:
+          value: 6742979179.0
+      - date: '2600-01-01'
+        population:
+          value: 6785610643.0
+      - date: '2610-01-01'
+        population:
+          value: 6816934316.0
+      - date: '2620-01-01'
+        population:
+          value: 6839313727.0
+      - date: '2630-01-01'
+        population:
+          value: 6871285858.0
+      - date: '2640-01-01'
+        population:
+          value: 6942551592.0
+      - date: '2650-01-01'
+        population:
+          value: 7029180135.0
+      - date: '2660-01-01'
+        population:
+          value: 7106060286.0
+      - date: '2662-07-14'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 7208558155.0
+      - date: '2680-01-01'
+        population:
+          value: 7315346126.0
+      - date: '2690-01-01'
+        population:
+          value: 7412625193.0
+      - date: '2700-01-01'
+        population:
+          value: 7532315843.0
+      - date: '2710-01-01'
+        population:
+          value: 7633263953.0
+      - date: '2720-01-01'
+        population:
+          value: 7713701838.0
+      - date: '2730-01-01'
+        population:
+          value: 7790570822.0
+      - date: '2737-01-01'
+        socioIndustrial:
+          value: D-B-C-A-D
+      - date: '2740-01-01'
+        population:
+          value: 7887801793.0
+      - date: '2750-01-01'
+        population:
+          value: 7955427884.0
+      - date: '2760-01-01'
+        population:
+          value: 7975420411.0
+      - date: '2770-01-01'
+        population:
+          value: 7971564515.0
+      - date: '2771-05-19'
+        hpg:
+          value: X
+      - date: '2780-08-10'
+        hpg:
+          value: B
+        population:
+          value: 7971177834.0
+      - date: '2790-01-01'
+        population:
+          value: 7943013414.0
+      - date: '2800-01-01'
+        population:
+          value: 7945968017.0
+      - date: '2810-01-01'
+        population:
+          value: 8038107869.0
+      - date: '2820-01-01'
+        population:
+          value: 8131316156.0
+      - date: '2830-01-01'
+        population:
+          value: 8221017821.0
+      - date: '2840-01-01'
+        population:
+          value: 8228664989.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-C-C-B-F
+      - date: '2850-01-01'
+        population:
+          value: 8167686269.0
+      - date: '2860-01-01'
+        population:
+          value: 8075562611.0
+      - date: '2870-01-01'
+        population:
+          value: 7904703401.0
+      - date: '2880-01-01'
+        population:
+          value: 7643078475.0
+      - date: '2890-01-01'
+        population:
+          value: 7336712197.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: F-C-C-C-F
+      - date: '2900-06-21'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 7117670396.0
+      - date: '2910-01-01'
+        population:
+          value: 6855271940.0
+      - date: '2920-01-01'
+        population:
+          value: 6547528182.0
+      - date: '2930-01-01'
+        population:
+          value: 6246626155.0
+      - date: '2940-01-01'
+        population:
+          value: 5972865764.0
+      - date: '2950-01-01'
+        population:
+          value: 5720668980.0
+      - date: '2960-01-01'
+        population:
+          value: 5488298295.0
+      - date: '2970-01-01'
+        population:
+          value: 5327413080.0
+      - date: '2980-01-01'
+        population:
+          value: 5156840066.0
+      - date: '2990-01-01'
+        population:
+          value: 5042105201.0
+      - date: '3000-01-01'
+        population:
+          value: 4905233300.0
+      - date: '3010-01-01'
+        population:
+          value: 4748177630.0
+      - date: '3020-01-01'
+        population:
+          value: 4647717772.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: D-C-C-B-F
+      - date: '3030-01-01'
+        population:
+          value: 4642178041.0
+      - date: '3040-01-01'
+        population:
+          value: 4671516081.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: C-B-C-A-D
+      - date: '3050-01-01'
+        population:
+          value: 4694462683.0
+      - date: '3060-01-01'
+        population:
+          value: 4718465598.0
+      - date: '3070-01-01'
+        population:
+          value: 4765886965.0
+      - date: '3080-01-01'
+        population:
+          value: 4840817743.0
+      - date: '3081-01-28'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3082-01-01'
+        socioIndustrial:
+          value: C-B-C-B-D
+      - date: '3090-01-01'
+        population:
+          value: 4926770299.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: B-B-B-B-D
+      - date: '3100-01-01'
+        population:
+          value: 5009237268.0
+      - date: '3110-01-01'
+        population:
+          value: 5057557512.0
+      - date: '3120-01-01'
+        population:
+          value: 5068696386.0
+      - date: '3130-01-01'
+        population:
+          value: 5092066099.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 5129887153.0
+      - date: '3145-02-23'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 5146329085.0
+  - name:
+      value: Klawis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 3
+  - name:
+      value: Tafea
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Borne
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 7
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Colan
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ponce
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Brown
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Wendt
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Strenua
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Pawan
+        size:
+          value: large
+        icon: rock11

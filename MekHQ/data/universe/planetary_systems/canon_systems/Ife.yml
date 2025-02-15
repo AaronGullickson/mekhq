@@ -1,0 +1,588 @@
+id: Ife
+sucsId: 1173
+xcood: 71.485
+ycood: -288.139
+spectralType:
+  value: K8V
+primarySlot: 1
+event:
+  - date: '2628-07-03'
+    zenithCharge:
+      value: yes
+  - date: '2644-09-05'
+    nadirCharge:
+      value: yes
+  - date: '2799-10-30'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ife
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 12900
+    density:
+      value: 5.2795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 21
+    water:
+      value: 41
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Larger New Lemu
+        capital:
+          value: Bentham
+      - name:
+          value: Smaller New Lemu
+      - name:
+          value: New Edo
+    event:
+      - date: '2622-09-05'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 48728.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2630-01-01'
+        population:
+          value: 780609.0
+      - date: '2635-12-09'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 7818551.0
+      - date: '2650-01-01'
+        population:
+          value: 33696943.0
+      - date: '2655-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2660-01-01'
+        population:
+          value: 85091439.0
+      - date: '2670-01-01'
+        population:
+          value: 153078122.0
+      - date: '2680-01-01'
+        population:
+          value: 221943683.0
+      - date: '2690-01-01'
+        population:
+          value: 280857758.0
+      - date: '2700-01-01'
+        population:
+          value: 327217703.0
+      - date: '2710-01-01'
+        population:
+          value: 360782067.0
+      - date: '2720-01-01'
+        population:
+          value: 383500156.0
+      - date: '2730-01-01'
+        population:
+          value: 401034252.0
+      - date: '2740-01-01'
+        population:
+          value: 412890842.0
+      - date: '2750-01-01'
+        population:
+          value: 419056178.0
+      - date: '2760-01-01'
+        population:
+          value: 422636125.0
+      - date: '2770-01-01'
+        population:
+          value: 422305037.0
+      - date: '2780-01-01'
+        population:
+          value: 95544982.0
+      - date: '2790-01-01'
+        population:
+          value: 5733300.0
+      - date: '2799-03-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Abeguwo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Ienpw Alpha
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Ienpw Beta
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Ienpw Gamma
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Vari
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Tibbetts
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Qamata
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Vinck
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Hine Titama's Frontier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Elegua
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Ku Kua Akahi's Harvest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Laumas
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Žemepatis
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Oro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: A7Y-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: A7Y-2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: A7Y-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: A7Y-4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pallas Athena Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 14.7
+    temperature:
+      value: -202
+  - name:
+      value: Marakihau's Nest
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Te Ikawai
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Garin Tuwo 1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Garin Tuwo 2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Garin Tuwo 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kane
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 315.2
+    satellite:
+      - name:
+          value: Brodie
+        size:
+          value: giant
+        icon: rock17
+  - name:
+      value: Papa
+    type:
+      value: ICE_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 888.2
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: O1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: O2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: O3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Dudugera
+    type:
+      value: ICE_GIANT
+    orbitalDist: 184.56
+    sysPos:
+      value: 12
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2507.3
+    smallMoons:
+      value: 5
+  - name:
+      value: Susano O
+    type:
+      value: GAS_GIANT
+    orbitalDist: 368.88
+    sysPos:
+      value: 13
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7084.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Damerell
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Nu'u
+    type:
+      value: GAS_GIANT
+    orbitalDist: 737.52
+    sysPos:
+      value: 14
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 20029.099999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Oluyeye
+        size:
+          value: large
+        icon: rock1

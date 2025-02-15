@@ -1,0 +1,356 @@
+id: Caerlaverock
+sucsId: 429
+xcood: 488.177
+ycood: 43.475
+spectralType:
+  value: F9V
+primarySlot: 2
+event:
+  - date: '2661-08-15'
+    zenithCharge:
+      value: yes
+  - date: '2721-05-31'
+    nadirCharge:
+      value: yes
+  - date: '2801-03-23'
+    nadirCharge:
+      value: no
+  - date: '2850-12-18'
+    zenithCharge:
+      value: no
+  - date: '2925-07-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Hazel Green
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 1
+    icon: barren7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 124
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Prospect Park 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Prospect Park 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Caerlaverock
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 2
+    icon: green7
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 11700
+    density:
+      value: 6.8337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 34
+    water:
+      value: 25
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: GZ1
+        capital:
+          value: New Vordingborg
+      - name:
+          value: GZ2
+    event:
+      - date: '2642-01-17'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 53973.0
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2643-01-01'
+        socioIndustrial:
+          value: B-D-A-C-B
+      - date: '2644-01-12'
+        hpg:
+          value: A
+      - date: '2650-01-01'
+        population:
+          value: 707644.0
+      - date: '2660-01-01'
+        population:
+          value: 5434438.0
+      - date: '2665-01-01'
+        socioIndustrial:
+          value: B-D-A-D-B
+      - date: '2670-01-01'
+        population:
+          value: 18445393.0
+      - date: '2680-01-01'
+        population:
+          value: 38222202.0
+      - date: '2690-01-01'
+        population:
+          value: 58819785.0
+      - date: '2700-01-01'
+        population:
+          value: 75986214.0
+      - date: '2710-01-01'
+        population:
+          value: 88185477.0
+      - date: '2720-01-01'
+        population:
+          value: 96347003.0
+      - date: '2730-01-01'
+        population:
+          value: 101856466.0
+      - date: '2740-01-01'
+        population:
+          value: 105421398.0
+      - date: '2750-01-01'
+        population:
+          value: 107592168.0
+      - date: '2760-01-01'
+        population:
+          value: 108856465.0
+      - date: '2767-06-11'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 109172301.0
+      - date: '2780-06-19'
+        hpg:
+          value: A
+        population:
+          value: 108878260.0
+      - date: '2790-01-01'
+        population:
+          value: 92265636.0
+      - date: '2800-01-01'
+        population:
+          value: 43698028.0
+      - date: '2810-01-01'
+        population:
+          value: 22398249.0
+      - date: '2820-01-01'
+        population:
+          value: 10381810.0
+      - date: '2830-01-01'
+        population:
+          value: 5245458.0
+      - date: '2840-01-01'
+        population:
+          value: 2575194.0
+      - date: '2850-01-01'
+        population:
+          value: 1019080.0
+      - date: '2860-01-01'
+        population:
+          value: 397525.0
+      - date: '2870-01-01'
+        population:
+          value: 166621.0
+      - date: '2872-01-01'
+        socioIndustrial:
+          value: C-F-B-F-C
+      - date: '2880-01-01'
+        population:
+          value: 55491.0
+      - date: '2890-01-01'
+        population:
+          value: 19858.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: C-F-B-F-C
+      - date: '2900-01-01'
+        population:
+          value: 7157.0
+      - date: '2910-01-01'
+        population:
+          value: 2732.0
+      - date: '2920-01-01'
+        population:
+          value: 1145.0
+      - date: '2925-01-17'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: North Lanarkshire
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 3
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -24
+    water:
+      value: 0
+  - name:
+      value: Celje
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 4
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 5.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Iovis Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 11.0
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -173
+  - name:
+      value: Sharman's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 6
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Cape Robinson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 7
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 782.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Coward
+        size:
+          value: medium
+        icon: oddmoon2

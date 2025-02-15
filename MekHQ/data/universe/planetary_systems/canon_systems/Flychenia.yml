@@ -1,0 +1,437 @@
+id: Flychenia
+sucsId: 888
+xcood: -181.916
+ycood: -100.888
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2656-06-19'
+    zenithCharge:
+      value: yes
+  - date: '2832-10-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Flychenia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green44
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 37
+    water:
+      value: 46
+    lifeForm:
+      value: PLANT
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Miller's Dawn
+        capital:
+          value: Optimus Maximus
+    event:
+      - date: '2600-12-23'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 45143.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2610-01-01'
+        population:
+          value: 1065828.0
+      - date: '2620-01-01'
+        population:
+          value: 8761910.0
+      - date: '2630-01-01'
+        population:
+          value: 35728611.0
+      - date: '2637-02-02'
+        hpg:
+          value: B
+      - date: '2640-01-20'
+        population:
+          value: 91115718.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2650-01-01'
+        population:
+          value: 170772011.0
+      - date: '2651-01-01'
+        socioIndustrial:
+          value: D-C-A-D-D
+      - date: '2660-01-01'
+        population:
+          value: 259881735.0
+      - date: '2670-01-01'
+        population:
+          value: 346671980.0
+      - date: '2680-01-01'
+        population:
+          value: 421662678.0
+      - date: '2690-01-01'
+        population:
+          value: 481019008.0
+      - date: '2700-01-01'
+        population:
+          value: 527003711.0
+      - date: '2710-01-01'
+        population:
+          value: 560139548.0
+      - date: '2720-01-01'
+        population:
+          value: 582982246.0
+      - date: '2730-01-01'
+        population:
+          value: 597523776.0
+      - date: '2740-01-01'
+        population:
+          value: 609443191.0
+      - date: '2750-01-01'
+        population:
+          value: 618136397.0
+      - date: '2760-01-01'
+        population:
+          value: 626834045.0
+      - date: '2770-01-01'
+        population:
+          value: 637058618.0
+      - date: '2780-01-01'
+        population:
+          value: 643837873.0
+      - date: '2790-01-01'
+        population:
+          value: 643830529.0
+      - date: '2800-01-01'
+        population:
+          value: 584909496.0
+      - date: '2810-01-01'
+        population:
+          value: 30245182.0
+      - date: '2820-01-01'
+        population:
+          value: 768963.0
+      - date: '2830-01-01'
+        population:
+          value: 14048.0
+      - date: '2832-04-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Tuulikki
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.65
+    diameter:
+      value: 35000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 11
+  - name:
+      value: Echo Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -38
+  - name:
+      value: Ukko
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Xin
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Fiske
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Brown
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Namasri
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Manlulu
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Agua Dulce
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Eidlin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Chang Fei A
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Chang Fei B
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Chang Fei C
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Chang Fei D
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Chang Fei E
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Tapio
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Wainamoinen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Susanoo
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Gondola
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 112.3
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Thurneysen 1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Thurneysen 2
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Väinämöinen
+    type:
+      value: ICE_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 8
+  - name:
+      value: Zephyros Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 92.4
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 888.2
+    temperature:
+      value: -254

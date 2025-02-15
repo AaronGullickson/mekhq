@@ -1,0 +1,666 @@
+id: St. Gall
+sucsId: 2390
+xcood: -74.86
+ycood: -87.658
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2645-07-18'
+    nadirCharge:
+      value: yes
+  - date: '2668-07-27'
+    zenithCharge:
+      value: yes
+  - date: '2788-10-14'
+    zenithCharge:
+      value: no
+  - date: '2818-09-28'
+    nadirCharge:
+      value: no
+  - date: '2904-08-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: St. Gall
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green33
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.23
+    diameter:
+      value: 12600
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 38
+    water:
+      value: 36
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Sumual I
+        capital:
+          value: New Magliaso
+      - name:
+          value: Sumual II
+      - name:
+          value: Sumual III
+      - name:
+          value: Sumual IV
+      - name:
+          value: Sumual V
+      - name:
+          value: Sumual VI
+    event:
+      - date: '2640-09-06'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 47129.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2648-06-30'
+        hpg:
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 2188032.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: B-D-B-C-C
+      - date: '2660-01-01'
+        population:
+          value: 21631478.0
+      - date: '2670-01-01'
+        population:
+          value: 85241943.0
+      - date: '2680-01-01'
+        population:
+          value: 193861350.0
+      - date: '2690-01-01'
+        population:
+          value: 315769024.0
+      - date: '2700-01-01'
+        population:
+          value: 421841859.0
+      - date: '2710-01-01'
+        population:
+          value: 500302359.0
+      - date: '2720-01-01'
+        population:
+          value: 554718312.0
+      - date: '2728-01-01'
+        socioIndustrial:
+          value: A-C-B-B-B
+      - date: '2730-01-01'
+        population:
+          value: 591732561.0
+      - date: '2740-01-01'
+        population:
+          value: 615562380.0
+      - date: '2750-01-01'
+        population:
+          value: 631239310.0
+      - date: '2760-01-01'
+        population:
+          value: 643068176.0
+      - date: '2770-01-01'
+        population:
+          value: 651958139.0
+      - date: '2780-01-01'
+        population:
+          value: 659438310.0
+      - date: '2790-01-01'
+        population:
+          value: 547111424.0
+      - date: '2800-01-01'
+        population:
+          value: 227016156.0
+      - date: '2810-01-01'
+        population:
+          value: 81895869.0
+      - date: '2820-01-01'
+        population:
+          value: 26467617.0
+      - date: '2830-01-01'
+        population:
+          value: 7587072.0
+      - date: '2840-01-01'
+        population:
+          value: 2174871.0
+      - date: '2850-01-01'
+        population:
+          value: 617237.0
+      - date: '2854-01-01'
+        socioIndustrial:
+          value: B-D-C-C-C
+      - date: '2860-01-01'
+        population:
+          value: 176934.0
+      - date: '2870-01-01'
+        population:
+          value: 41529.0
+      - date: '2880-01-01'
+        population:
+          value: 9650.0
+      - date: '2890-01-01'
+        population:
+          value: 2631.0
+      - date: '2900-01-01'
+        population:
+          value: 894.0
+      - date: '2904-11-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Theiner's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Aether
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Khelone
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hyppolyte
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Koecksmorgendämmerung
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: frozen33
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -19
+    water:
+      value: 100
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: New Bezirk Winterthur Archipelago
+      - name:
+          value: New Dawuro Archipelago
+      - name:
+          value: Notre-Dame-des-Anges Archipelago
+      - name:
+          value: Grandval Archipelago
+      - name:
+          value: Wolfhalden Archipelago
+      - name:
+          value: Port-Valais Archipelago
+      - name:
+          value: Canobbio Archipelago
+    satellite:
+      - name:
+          value: Bezzenberg
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Cape Riedle
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.64
+    diameter:
+      value: 160000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Ewen
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Lefebvre
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Swensen
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Achurch
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Michel
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Landwerlen's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Engel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 27
+  - name:
+      value: Kadmos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Frey
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 1L-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 1L-2
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Celaeno
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: K71
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: K72
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: K73
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: K74
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: K75
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: K76
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: K77
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: K78
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Helfenbein
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Pfeifenberger
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Dittmar's Home
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 11
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.2
+    diameter:
+      value: 150000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 675.7
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Andhrimnir
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Odinn
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Armstrong's Home
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 153.8
+    sysPos:
+      value: 12
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1907.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: Ziesemer's Redoubt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 13
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5389.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: MWA1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: MWA2
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: MWA3
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: MWA4
+        size:
+          value: medium
+        icon: rock1

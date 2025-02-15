@@ -1,0 +1,536 @@
+id: Minowa
+sucsId: 1716
+xcood: 183.519
+ycood: 157.407
+spectralType:
+  value: F5V
+primarySlot: 3
+planet:
+  - name:
+      value: Higashiōmi-shi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: greenhouse33
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.33
+    diameter:
+      value: 5500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 303
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Y1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Y2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Y3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Raionul Drochia
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Minowa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: green15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 13800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 29
+    water:
+      value: 33
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: New Glendon
+        capital:
+          value: Miyazaki
+      - name:
+          value: Nova Ōra Machi
+      - name:
+          value: Old Shinjuku-ku
+      - name:
+          value: Wako
+    satellite:
+      - name:
+          value: Varuni I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Varuni II
+        size:
+          value: medium
+        icon: rock15
+    event:
+      - date: '2689-07-02'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 52785.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2690-02-11'
+        population:
+          value: 106924.0
+        socioIndustrial:
+          value: C-C-B-D-C
+      - date: '2700-01-01'
+        population:
+          value: 11904729.0
+      - date: '2701-04-15'
+        hpg:
+          value: B
+      - date: '2705-01-01'
+        socioIndustrial:
+          value: C-A-B-D-A
+      - date: '2710-01-01'
+        population:
+          value: 103107666.0
+      - date: '2720-01-01'
+        population:
+          value: 275848721.0
+      - date: '2730-01-01'
+        population:
+          value: 431189406.0
+      - date: '2740-01-01'
+        population:
+          value: 526217757.0
+      - date: '2750-01-01'
+        population:
+          value: 573560616.0
+      - date: '2760-01-01'
+        population:
+          value: 593962900.0
+      - date: '2770-01-01'
+        population:
+          value: 607402825.0
+      - date: '2780-01-01'
+        population:
+          value: 619276830.0
+      - date: '2790-01-01'
+        population:
+          value: 614900128.0
+      - date: '2800-05-06'
+        hpg:
+          value: C
+        population:
+          value: 596409939.0
+      - date: '2810-01-01'
+        population:
+          value: 575138970.0
+      - date: '2820-01-01'
+        population:
+          value: 558382517.0
+      - date: '2830-01-01'
+        population:
+          value: 551870642.0
+      - date: '2840-01-01'
+        population:
+          value: 544646452.0
+      - date: '2847-01-01'
+        socioIndustrial:
+          value: C-B-C-F-B
+      - date: '2850-01-01'
+        population:
+          value: 542201377.0
+      - date: '2860-01-01'
+        population:
+          value: 540027552.0
+      - date: '2870-01-01'
+        population:
+          value: 535275764.0
+      - date: '2880-01-01'
+        population:
+          value: 530565789.0
+      - date: '2890-01-01'
+        population:
+          value: 524631165.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: D-C-D-F-B
+      - date: '2900-01-01'
+        population:
+          value: 517763551.0
+      - date: '2910-01-01'
+        population:
+          value: 518179722.0
+      - date: '2920-01-01'
+        population:
+          value: 518346284.0
+      - date: '2930-01-01'
+        population:
+          value: 515521995.0
+      - date: '2940-01-01'
+        population:
+          value: 509264396.0
+      - date: '2950-01-01'
+        population:
+          value: 510411377.0
+      - date: '2960-01-01'
+        population:
+          value: 511560941.0
+      - date: '2970-01-01'
+        population:
+          value: 506815252.0
+      - date: '2980-01-01'
+        population:
+          value: 496098459.0
+      - date: '2990-01-01'
+        population:
+          value: 487484702.0
+      - date: '3000-01-01'
+        population:
+          value: 478558877.0
+      - date: '3010-01-01'
+        population:
+          value: 472522104.0
+      - date: '3020-01-01'
+        population:
+          value: 461194530.0
+      - date: '3030-01-01'
+        population:
+          value: 456272384.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-C-C-F-B
+      - date: '3040-01-01'
+        population:
+          value: 460213248.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: B-B-B-D-B
+      - date: '3050-01-01'
+        population:
+          value: 464002512.0
+      - date: '3060-01-01'
+        population:
+          value: 466421609.0
+      - date: '3070-01-01'
+        population:
+          value: 469744986.0
+      - date: '3080-01-01'
+        population:
+          value: 473896984.0
+      - date: '3090-02-12'
+        population:
+          value: 476558252.0
+        socioIndustrial:
+          value: B-B-B-D-B
+      - date: '3100-01-01'
+        population:
+          value: 480097863.0
+      - date: '3110-01-01'
+        population:
+          value: 480962818.0
+      - date: '3120-01-01'
+        population:
+          value: 481444021.0
+      - date: '3130-01-01'
+        population:
+          value: 482311401.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 483954051.0
+      - date: '3145-01-01'
+        population:
+          value: 484050851.0
+  - name:
+      value: Higashikawa-chō
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.6
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Janus
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Jove
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Ninohe
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: frozen38
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 7.9
+    temperature:
+      value: -73
+    water:
+      value: 28
+    landmass:
+      - name:
+          value: Ernst
+      - name:
+          value: Matsumura's Harbour
+  - name:
+      value: Gerry
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.15
+    diameter:
+      value: 1700
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -130
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Tochigi-shi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 14.0
+    sysPos:
+      value: 7
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.37
+    diameter:
+      value: 5500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 52.4
+    temperature:
+      value: -165
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Karumai Machi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 27.44
+    sysPos:
+      value: 8
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 143.7
+    temperature:
+      value: -200
+    water:
+      value: 0
+  - name:
+      value: Chikuma
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Hayagawa I
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Hayagawa II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hayagawa III
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Hayagawa IV
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Hayagawa V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Hayagawa VI
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Hayagawa VII
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hayagawa VIII
+        size:
+          value: medium
+        icon: oddmoon1

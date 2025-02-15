@@ -1,0 +1,532 @@
+id: Krin
+sucsId: 1415
+xcood: -7.765
+ycood: -221.268
+spectralType:
+  source: canon
+  value: K2V
+primarySlot: 4
+event:
+  - date: '2730-12-18'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Þriðji
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1900
+    density:
+      value: 5.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 143
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Hercules
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -65
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Helheim
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -10
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Krin
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 4
+    icon: green31
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.07
+    diameter:
+      value: 13084
+    density:
+      value: 5.756565205388
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 28
+    water:
+      source: canon
+      value: 52
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      Krin is a relatively comfortable planet with a temperate to tropical climate and modest agricultural and mining concerns. Krin possesses a well established industrial core, however the planet is not home to any major military manufacturers.
+
+      Krin is one of many planets in the Capellan Confederation that host a Duchy RTC facility. The facilities on Krin are located in the mountains of the Fairfax continent and focus on training vehicle crews and unarmored infantry.
+    landmass:
+      - name:
+          source: canon
+          value: Auburn
+        capital:
+          source: canon
+          value: Pole
+      - name:
+          source: canon
+          value: Fairfax
+    event:
+      - date: '2689-12-07'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 46314.0
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2690-01-01'
+        population:
+          value: 106263.0
+      - date: '2695-12-14'
+        hpg:
+          source: canon
+          value: B
+      - date: '2700-10-26'
+        population:
+          value: 26402539.0
+        socioIndustrial:
+          value: C-C-C-D-D
+      - date: '2710-10-22'
+        population:
+          value: 321184610.0
+        socioIndustrial:
+          value: C-B-C-D-D
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: B-A-B-C-C
+      - date: '2720-01-01'
+        population:
+          value: 999706829.0
+      - date: '2730-01-01'
+        population:
+          value: 1676251917.0
+      - date: '2740-01-01'
+        population:
+          value: 2133972838.0
+      - date: '2750-01-01'
+        population:
+          value: 2395144879.0
+      - date: '2760-01-01'
+        population:
+          value: 2536574867.0
+      - date: '2770-01-01'
+        population:
+          value: 2616548244.0
+      - date: '2780-01-01'
+        population:
+          value: 2666484269.0
+      - date: '2790-01-01'
+        population:
+          value: 2659749376.0
+      - date: '2800-01-01'
+        population:
+          value: 2631536142.0
+      - date: '2810-01-01'
+        population:
+          value: 2625270692.0
+      - date: '2820-01-01'
+        population:
+          value: 2615080125.0
+      - date: '2830-01-01'
+        population:
+          value: 2621650147.0
+      - date: '2840-01-01'
+        population:
+          value: 2643116930.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-B-C-D-D
+      - date: '2850-01-01'
+        population:
+          value: 2656747831.0
+      - date: '2860-01-01'
+        population:
+          value: 2629555965.0
+      - date: '2870-01-01'
+        population:
+          value: 2609508553.0
+      - date: '2880-01-01'
+        population:
+          value: 2575034936.0
+      - date: '2890-01-01'
+        population:
+          value: 2519114679.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: C-C-C-D-F
+      - date: '2900-01-01'
+        population:
+          value: 2456999503.0
+      - date: '2910-01-01'
+        population:
+          value: 2405452593.0
+      - date: '2920-01-01'
+        population:
+          value: 2339966877.0
+      - date: '2930-01-01'
+        population:
+          value: 2278835616.0
+      - date: '2940-01-01'
+        population:
+          value: 2239439507.0
+      - date: '2950-01-01'
+        population:
+          value: 2201552939.0
+      - date: '2960-01-01'
+        population:
+          value: 2188883971.0
+      - date: '2970-01-01'
+        population:
+          value: 2190257494.0
+      - date: '2980-01-01'
+        population:
+          value: 2193282278.0
+      - date: '2990-01-01'
+        population:
+          value: 2206253483.0
+      - date: '3000-01-01'
+        population:
+          value: 2204316751.0
+      - date: '3010-01-01'
+        population:
+          value: 2205699958.0
+      - date: '3020-01-01'
+        population:
+          value: 2186413801.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: C-C-C-D-D
+      - date: '3030-01-01'
+        population:
+          value: 2180731783.0
+      - date: '3040-01-01'
+        population:
+          value: 2195611292.0
+      - date: '3045-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-C-C-C
+      - date: '3050-01-01'
+        population:
+          value: 2209708267.0
+      - date: '3060-01-01'
+        population:
+          value: 2222117346.0
+      - date: '3070-01-01'
+        population:
+          value: 2239965583.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 2272000000.0
+      - date: '3080-01-01'
+        population:
+          value: 2274273136.0
+      - date: '3090-01-01'
+        population:
+          value: 2292081830.0
+      - date: '3100-01-01'
+        population:
+          value: 2293457492.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: B-B-C-C-C
+      - date: '3110-01-01'
+        population:
+          value: 2294833980.0
+      - date: '3120-01-01'
+        population:
+          value: 2292540293.0
+      - date: '3130-01-01'
+        population:
+          value: 2291165181.0
+      - date: '3140-01-01'
+        population:
+          value: 2288875161.0
+      - date: '3145-01-01'
+        population:
+          value: 2287959794.0
+  - name:
+      value: Titans Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -116
+  - name:
+      value: Gangleri
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Manes
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Dies Pater
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Libera
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Cuchulainn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Steinhauser I
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Steinhauser II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Steinhauser III
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Steinhauser IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Steinhauser V
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Ragnarök
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Lesovy
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Fenris
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 1
+  - name:
+      value: Fafnir
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Amida
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: A1
+        size:
+          value: medium
+        icon: rock11

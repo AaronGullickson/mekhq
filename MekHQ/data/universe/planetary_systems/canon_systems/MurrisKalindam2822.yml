@@ -1,0 +1,493 @@
+id: Murris (Kalindam 2822+)
+sucsId: 1777
+xcood: 52.218
+ycood: -379.328
+spectralType:
+  value: K5V
+primarySlot: 1
+event:
+  - date: '2667-01-26'
+    zenithCharge:
+      value: yes
+  - date: '2773-01-04'
+    nadirCharge:
+      value: yes
+  - date: '2817-03-29'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+  - date: '2855-09-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Murris
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.16
+    diameter:
+      value: 12900
+    density:
+      value: 6.3437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 30
+    water:
+      value: 54
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Bashkia Devoll
+        capital:
+          value: Coburn
+      - name:
+          value: Bashkia e Shkodrës
+      - name:
+          value: Bashkia Kavajë
+      - name:
+          value: Sage
+      - name:
+          value: Korçë
+      - name:
+          value: Tepelenë i Ri
+    event:
+      - date: '2660-04-30'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 48839.0
+        socioIndustrial:
+          value: C-F-A-D-D
+      - date: '2663-01-01'
+        socioIndustrial:
+          value: D-F-B-D-D
+      - date: '2670-01-01'
+        population:
+          value: 2385820.0
+      - date: '2679-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2680-01-01'
+        population:
+          value: 20505744.0
+      - date: '2690-01-01'
+        population:
+          value: 67495063.0
+      - date: '2700-01-01'
+        population:
+          value: 130224275.0
+      - date: '2710-01-01'
+        population:
+          value: 187863850.0
+      - date: '2720-01-01'
+        population:
+          value: 229642725.0
+      - date: '2728-11-10'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 257775638.0
+      - date: '2740-01-01'
+        population:
+          value: 275494620.0
+      - date: '2750-01-01'
+        population:
+          value: 286050430.0
+      - date: '2760-01-01'
+        population:
+          value: 290142292.0
+      - date: '2770-01-01'
+        population:
+          value: 292472442.0
+      - date: '2780-01-01'
+        population:
+          value: 294512513.0
+      - date: '2790-01-01'
+        population:
+          value: 294413830.0
+      - date: '2800-01-01'
+        population:
+          value: 289016576.0
+      - date: '2810-01-01'
+        population:
+          value: 283876585.0
+      - date: '2820-01-01'
+        population:
+          value: 282822792.0
+      - date: '2830-01-01'
+        population:
+          value: 167396676.0
+      - date: '2840-01-01'
+        population:
+          value: 889015.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: F-D-C-D-D
+      - date: '2850-01-01'
+        population:
+          value: 3194.0
+      - date: '2855-11-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '2108-12-05'
+        name:
+          value: Murris
+      - date: '2822-01-01'
+        name:
+          value: Kalindam
+        message: Murris renamed to Kalindam
+  - name:
+      value: Mishaxhi's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 11
+  - name:
+      value: Jugumishanta
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Volkmann
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Maan Emo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: O7I1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: O7I2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: O7I3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ala Muki
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Picus I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Picus II
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Kolonja's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -169
+  - name:
+      value: Afekan
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 7
+  - name:
+      value: Demaci's Refuge
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 50.8
+  - name:
+      value: Arc-Tafaj
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Meliades I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Meliades II
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Meliades III
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Meliades IV
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Meliades V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Meliades VI
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Toptani
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 397.3
+    temperature:
+      value: -246
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Godsticks
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1119.3
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Kutishi 1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Kutishi 2
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Haliti's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 430.36
+    sysPos:
+      value: 12
+    icon: asteroid2
+    yearLength:
+      value: 8927.9
+    temperature:
+      value: -264

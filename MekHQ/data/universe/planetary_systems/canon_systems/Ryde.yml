@@ -1,0 +1,723 @@
+id: Ryde
+sucsId: 2193
+xcood: -45.356
+ycood: 91.722
+spectralType:
+  source: canon
+  value: F5V
+primarySlot: 3
+event:
+  - date: '2355-06-07'
+    zenithCharge:
+      value: yes
+  - date: '2412-07-16'
+    nadirCharge:
+      value: yes
+  - date: '2802-11-20'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Evans
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 242
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Fort Barbosa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock12
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.32
+    diameter:
+      value: 6500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Gent
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Ryde
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: green20
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.04
+    diameter:
+      value: 12719
+    density:
+      value: 5.739421599382
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      source: canon
+      value: 20
+    water:
+      source: canon
+      value: 23
+    lifeForm:
+      source: canon
+      value: NONE
+    desc: |-
+      3135 - Its orbit slightly elongated by the powerful gravitational pull of three large gas giants, Ryde is a world of long, harsh winters, still tortured by the tectonic stresses of its own formation. Of its seven major landmasses—Breight, Larnea, and Lesser Dasentica in the northern hemisphere; Creos, Greater Dasentica, Kale, and Roschi in the south—only the Dasenticas and Kale are calm and warm enough to support cities. The others, too far north and south of the equator, are covered almost year-round by snow and ice, which only melt to any great extent when the local volcanoes and geysers erupt, spewing molten rock and hot gases into the sky. Though these same eruptions and the occasional earthquake also shake up the populated continents, their lessened presence and correspondingly lessened pressures gave Ryde‘s settlers relatively safe access to an abundance of geothermal energy, as well as a source for easily accessible minerals that in turn fueled a very profitable chemical industry.
+
+      All three of Ryde‘s seas, the largest bodies of water on the planet, are steaming hot, tainted yellow by sulfur from geysers that regularly erupt beneath each. An abundance of other heavy metals, thrown into the mix by the odd submerged volcano, rendered these water sources useless to the early colonists, who were forced to import water from off-world, relying on ice ships and the like for their very survival. No doubt it was because of this that Ryde became home to a Water Pure facility. Water Pure Industries, based on Corridan IV, found the chemical industry already established on Ryde, as well as its water problem, an ideal reason to set up shop on this world, and so built a massive purification plant just outside the capital city of Heaven‘s Gate on the Kale continent. Though this facility has been damaged over the years since, due to heavy raiding by forces from House Kurita throughout the Succession Wars, the Water Pure facility remains in operation, continuously cleansing the Heaven‘s Gate reservoirs that are fed by annual snowmelts.
+
+      Throughout the Succession Wars, Ryde‘s chemical industry, which produces everything from pharmaceuticals to specialized fuels and industrial-grade explosives, has made this world the subject of heavy fighting by the neighboring Steiner and Kurita realms. Its industrial importance, as well as its strategic location, led the Lyran Commonwealth to seed the planet with several armed outposts near major cities. Even after the planet was ceded to The Republic following the Jihad, many of these outposts remain, though most have been stripped of their weapons and now only serve as monuments to the past.
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          source: canon
+          value: Breight
+      - name:
+          source: canon
+          value: Creos
+      - name:
+          source: canon
+          value: Greater Dasentica
+      - name:
+          source: canon
+          value: Kale
+        capital:
+          source: canon
+          value: Heaven’s Gate
+      - name:
+          source: canon
+          value: Larnea
+      - name:
+          source: canon
+          value: Lesser Dasentica
+      - name:
+          source: canon
+          value: Roschi
+    satellite:
+      - name:
+          value: Beaverhead
+        size:
+          value: medium
+        icon: rock6
+    event:
+      - date: '2165-09-13'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 40443.0
+        socioIndustrial:
+          value: F-D-A-D-C
+      - date: '2170-01-01'
+        population:
+          value: 74833.0
+      - date: '2180-01-01'
+        population:
+          value: 230773.0
+      - date: '2190-01-01'
+        population:
+          value: 625309.0
+      - date: '2200-01-01'
+        population:
+          value: 1509157.0
+      - date: '2210-01-01'
+        population:
+          value: 3294757.0
+      - date: '2220-07-22'
+        population:
+          value: 6598045.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2230-01-01'
+        population:
+          value: 12207556.0
+      - date: '2235-03-27'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2236-04-17'
+        faction:
+          source: canon
+          value:
+            - IND
+            - TA
+      - date: '2237-12-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2240-01-01'
+        population:
+          value: 21084908.0
+      - date: '2250-01-01'
+        population:
+          value: 34062562.0
+      - date: '2260-01-01'
+        population:
+          value: 52068398.0
+      - date: '2270-01-01'
+        population:
+          value: 75988658.0
+      - date: '2280-01-01'
+        population:
+          value: 106090314.0
+      - date: '2290-01-01'
+        population:
+          value: 142514388.0
+      - date: '2299-01-08'
+        faction:
+          source: canon
+          value:
+            - FoS
+      - date: '2300-01-01'
+        population:
+          value: 185162012.0
+      - date: '2310-01-01'
+        population:
+          value: 233396332.0
+      - date: '2320-01-01'
+        population:
+          value: 287262631.0
+      - date: '2330-01-01'
+        population:
+          value: 342696124.0
+      - date: '2340-01-01'
+        population:
+          value: 399640245.0
+      - date: '2341-12-08'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 456748658.0
+      - date: '2360-01-01'
+        population:
+          value: 511449786.0
+      - date: '2370-01-01'
+        population:
+          value: 565307656.0
+      - date: '2380-01-01'
+        population:
+          value: 616918815.0
+      - date: '2390-01-01'
+        population:
+          value: 667142412.0
+      - date: '2400-01-01'
+        population:
+          value: 716696575.0
+      - date: '2410-01-01'
+        population:
+          value: 762818506.0
+      - date: '2420-01-01'
+        population:
+          value: 811034417.0
+      - date: '2430-01-01'
+        population:
+          value: 863688104.0
+      - date: '2440-01-01'
+        population:
+          value: 912427973.0
+      - date: '2450-01-01'
+        population:
+          value: 960157467.0
+      - date: '2460-01-01'
+        population:
+          value: 1004645806.0
+      - date: '2470-01-01'
+        population:
+          value: 1038706378.0
+      - date: '2480-01-01'
+        population:
+          value: 1062947153.0
+      - date: '2490-01-01'
+        population:
+          value: 1079467341.0
+      - date: '2500-01-01'
+        population:
+          value: 1091790133.0
+      - date: '2510-01-01'
+        population:
+          value: 1112078074.0
+      - date: '2520-01-01'
+        population:
+          value: 1137231319.0
+      - date: '2530-01-01'
+        population:
+          value: 1158559168.0
+      - date: '2540-01-01'
+        population:
+          value: 1181756151.0
+      - date: '2550-01-01'
+        population:
+          value: 1198982344.0
+      - date: '2560-01-01'
+        population:
+          value: 1215033244.0
+      - date: '2570-01-01'
+        population:
+          value: 1230296643.0
+      - date: '2580-01-01'
+        population:
+          value: 1252153984.0
+      - date: '2590-01-01'
+        population:
+          value: 1271917362.0
+      - date: '2600-01-01'
+        population:
+          value: 1287556056.0
+      - date: '2610-01-01'
+        population:
+          value: 1304765843.0
+      - date: '2620-01-01'
+        population:
+          value: 1324512565.0
+      - date: '2629-01-01'
+        socioIndustrial:
+          value: C-C-A-C-A
+      - date: '2630-01-01'
+        population:
+          value: 1348623755.0
+      - date: '2640-01-01'
+        population:
+          value: 1363985771.0
+      - date: '2649-06-20'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 1366815276.0
+      - date: '2660-01-01'
+        population:
+          value: 1366365156.0
+      - date: '2670-01-01'
+        population:
+          value: 1370080458.0
+      - date: '2680-01-01'
+        population:
+          value: 1375023440.0
+      - date: '2690-01-01'
+        population:
+          value: 1382362944.0
+      - date: '2700-01-01'
+        population:
+          value: 1392460328.0
+      - date: '2710-01-01'
+        population:
+          value: 1405134270.0
+      - date: '2720-01-01'
+        population:
+          value: 1410862789.0
+      - date: '2730-01-01'
+        population:
+          value: 1418925799.0
+      - date: '2740-01-01'
+        population:
+          value: 1435981460.0
+      - date: '2750-01-01'
+        population:
+          value: 1455666925.0
+      - date: '2760-01-01'
+        population:
+          value: 1468971190.0
+      - date: '2770-01-01'
+        population:
+          value: 1481057730.0
+      - date: '2780-01-01'
+        population:
+          value: 1494301495.0
+      - date: '2790-01-01'
+        population:
+          value: 1479705453.0
+      - date: '2800-01-01'
+        population:
+          value: 1441466561.0
+      - date: '2810-01-01'
+        population:
+          value: 1401784963.0
+      - date: '2820-01-01'
+        population:
+          value: 1360835872.0
+      - date: '2830-01-01'
+        population:
+          value: 1299891249.0
+      - date: '2840-01-01'
+        population:
+          value: 1249589475.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-C-B-D-B
+      - date: '2850-01-01'
+        population:
+          value: 1223641155.0
+      - date: '2860-01-01'
+        population:
+          value: 1203085692.0
+      - date: '2870-01-01'
+        population:
+          value: 1184926799.0
+      - date: '2880-01-01'
+        population:
+          value: 1173801674.0
+      - date: '2890-01-01'
+        population:
+          value: 1135570575.0
+      - date: '2900-01-01'
+        population:
+          value: 1112632321.0
+      - date: '2910-01-01'
+        population:
+          value: 1101549582.0
+      - date: '2920-01-01'
+        population:
+          value: 1102610416.0
+      - date: '2930-01-01'
+        population:
+          value: 1122313111.0
+      - date: '2940-01-04'
+        population:
+          value: 1130553566.0
+        socioIndustrial:
+          value: D-C-C-D-B
+      - date: '2950-01-01'
+        population:
+          value: 1127727676.0
+      - date: '2960-01-01'
+        population:
+          value: 1106863975.0
+      - date: '2970-01-01'
+        population:
+          value: 1078260139.0
+      - date: '2980-01-01'
+        population:
+          value: 1032352750.0
+      - date: '2990-01-01'
+        population:
+          value: 995848798.0
+      - date: '3000-01-01'
+        population:
+          value: 970674288.0
+      - date: '3010-01-01'
+        population:
+          value: 945043935.0
+      - date: '3020-01-01'
+        population:
+          value: 902720428.0
+      - date: '3030-01-01'
+        population:
+          value: 885850814.0
+      - date: '3039-01-01'
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '3040-01-23'
+        population:
+          value: 896186514.0
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3050-01-01'
+        population:
+          value: 908003792.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 919608977.0
+      - date: '3070-01-01'
+        population:
+          value: 929873499.0
+      - date: '3080-01-01'
+        population:
+          value: 943360552.0
+      - date: '3081-01-19'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 954940042.0
+      - date: '3100-01-01'
+        population:
+          value: 965116245.0
+      - date: '3108-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3110-01-01'
+        population:
+          value: 973257366.0
+      - date: '3120-01-01'
+        population:
+          value: 977744663.0
+      - date: '3130-01-01'
+        population:
+          value: 986584082.0
+      - date: '3132-07-01'
+        faction:
+          source: canon
+          value:
+            - CJF
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 999893282.0
+      - date: '3145-01-01'
+        population:
+          value: 1003900864.0
+      - date: '3152-06-01'
+        faction:
+          source: sucs
+          value:
+            - IND
+  - name:
+      value: Hepburn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 7.9
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Horsey I
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Horsey II
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Adelai
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 19.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Tregellas
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Dowse
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 52.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Vimpany
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: frozen57
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 143.7
+    temperature:
+      value: -191
+    water:
+      value: 100
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: New Colona 1 Archipelago
+      - name:
+          value: New Colona 2 Archipelago
+  - name:
+      value: Dreamtime Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 108.08
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 1123.6
+    temperature:
+      value: -236
+  - name:
+      value: Kara
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: DS-1
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: DS-2
+        size:
+          value: giant
+        icon: rock15

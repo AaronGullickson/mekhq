@@ -1,0 +1,391 @@
+id: Hegel
+sucsId: 1078
+xcood: -239.883
+ycood: 126.151
+spectralType:
+  value: M1V
+primarySlot: 1
+event:
+  - date: '2817-01-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Hegel
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 13800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 19
+    water:
+      value: 37
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Tupin-et-Semons
+        capital:
+          value: Dussart
+      - name:
+          value: Nouveau Concriers
+      - name:
+          value: Louey
+      - name:
+          value: Eastern New Longpont-sur-Orge
+      - name:
+          value: Western New Longpont-sur-Orge
+      - name:
+          value: StrathconaDistrict
+    event:
+      - date: '2705-06-04'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 46503.0
+        socioIndustrial:
+          value: C-F-C-F-F
+      - date: '2710-01-01'
+        population:
+          value: 108910.0
+      - date: '2716-04-30'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 470506.0
+      - date: '2730-01-01'
+        population:
+          value: 1555692.0
+      - date: '2740-01-01'
+        population:
+          value: 4140009.0
+      - date: '2750-01-01'
+        population:
+          value: 9183072.0
+      - date: '2756-01-01'
+        socioIndustrial:
+          value: B-F-C-D-F
+      - date: '2760-01-01'
+        population:
+          value: 17631231.0
+      - date: '2770-01-01'
+        population:
+          value: 29975750.0
+      - date: '2772-01-03'
+        hpg:
+          value: C
+      - date: '2780-01-01'
+        population:
+          value: 45925746.0
+      - date: '2790-01-01'
+        population:
+          value: 51998710.0
+      - date: '2800-01-01'
+        population:
+          value: 1669287.0
+      - date: '2810-01-01'
+        population:
+          value: 11169.0
+      - date: '2817-02-27'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Genius
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 7
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Lunar
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Lucifer Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -78
+  - name:
+      value: Repos de Optimus Maximus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Fornax
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Santos
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Łochów
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Grandjean
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Dabo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: W-1
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: W-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: W-3
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: W-4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Castelnaud-de-Gratecambe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 8
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Ares
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Cerynean Hind
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Battigny
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 90000
+    density:
+      value: 0.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 675.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Girard A
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Girard B
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Girard C
+        size:
+          value: medium
+        icon: rock12

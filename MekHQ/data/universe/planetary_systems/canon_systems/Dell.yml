@@ -1,0 +1,525 @@
+id: Dell
+sucsId: 683
+xcood: -61.279
+ycood: 330.822
+spectralType:
+  source: canon
+  value: K3V
+primarySlot: 4
+event:
+  - date: '2737-01-15'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Eros
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 1
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Mars
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tria Fata
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cerigo
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: badwater32
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 44
+    water:
+      value: 83
+    landmass:
+      - name:
+          value: North Collins
+      - name:
+          value: Brimfield
+    satellite:
+      - name:
+          value: Aphrodite
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Ion
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -21
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Upper Arlington
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      source: canon
+      value: Dell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 4
+    icon: wet8
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.98
+    diameter:
+      value: 14553
+    density:
+      value: 4.73286382648
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 27
+    water:
+      source: canon
+      value: 86
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: Dell is a relatively comfortable, if somewhat cool, temperate planet that
+      was part of the Lyran Commonwealth for most of its history. Dell’s primary industries
+      are agriculture and aerospace production. The planet was the site of the Bowie
+      Industries’ Chippewa Aerospace Fighter factory until Clan Wolf captured the
+      planet during Operation Revival. After Dell was conquered by Clan Wolf, the
+      Bowie factory sat abandoned for more than a decade before Clan Wolf began retooling
+      the factory in order to restart their aerospace industry after the Wolves were
+      displaced from the Clan Homeworlds.
+    landmass:
+      - name:
+          source: canon
+          value: Hawaii
+      - name:
+          source: canon
+          value: Honolulu
+      - name:
+          source: canon
+          value: Kauai
+        capital:
+          source: canon
+          value: Cosmopolis
+      - name:
+          source: canon
+          value: Kalawao
+      - name:
+          source: canon
+          value: Maui
+      - name:
+          source: canon
+          value: Sandwich
+    satellite:
+      - name:
+          value: Ai Kanaka
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Lona
+        size:
+          value: medium
+        icon: rock5
+    event:
+      - date: '2630-11-22'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 52882.0
+        socioIndustrial:
+          value: D-D-C-F-C
+      - date: '2631-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2634-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2640-02-26'
+        population:
+          value: 1217693.0
+        socioIndustrial:
+          value: B-B-B-B-A
+      - date: '2650-01-01'
+        population:
+          value: 8611371.0
+      - date: '2660-01-01'
+        population:
+          value: 28949503.0
+      - date: '2670-01-01'
+        population:
+          value: 61331325.0
+      - date: '2680-01-01'
+        population:
+          value: 97797200.0
+      - date: '2690-01-01'
+        population:
+          value: 129614727.0
+      - date: '2696-02-23'
+        hpg:
+          source: canon
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 153871373.0
+      - date: '2710-01-01'
+        population:
+          value: 170956490.0
+      - date: '2720-01-01'
+        population:
+          value: 182973684.0
+      - date: '2730-01-01'
+        population:
+          value: 190417294.0
+      - date: '2740-01-01'
+        population:
+          value: 195908076.0
+      - date: '2750-01-27'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 199028469.0
+      - date: '2760-01-01'
+        population:
+          value: 199875251.0
+      - date: '2770-01-01'
+        population:
+          value: 199374933.0
+      - date: '2780-01-01'
+        population:
+          value: 198110331.0
+      - date: '2790-01-01'
+        population:
+          value: 195684750.0
+      - date: '2800-01-01'
+        population:
+          value: 194438228.0
+      - date: '2810-01-01'
+        population:
+          value: 196500732.0
+      - date: '2820-01-01'
+        population:
+          value: 197173547.0
+      - date: '2830-01-01'
+        population:
+          value: 197320116.0
+      - date: '2840-08-18'
+        population:
+          value: 198172365.0
+        socioIndustrial:
+          value: B-B-C-C-B
+      - date: '2850-01-01'
+        population:
+          value: 198054595.0
+      - date: '2860-01-01'
+        population:
+          value: 196792977.0
+      - date: '2870-01-01'
+        population:
+          value: 193285803.0
+      - date: '2880-01-01'
+        population:
+          value: 188323719.0
+      - date: '2890-01-01'
+        population:
+          value: 183489022.0
+      - date: '2900-01-01'
+        population:
+          value: 180218946.0
+      - date: '2910-01-01'
+        population:
+          value: 174889149.0
+      - date: '2920-01-01'
+        population:
+          value: 169339060.0
+      - date: '2928-01-01'
+        socioIndustrial:
+          value: C-C-D-C-C
+      - date: '2930-01-01'
+        population:
+          value: 165359956.0
+      - date: '2940-01-01'
+        population:
+          value: 160112275.0
+      - date: '2950-01-01'
+        population:
+          value: 154479157.0
+      - date: '2960-01-01'
+        population:
+          value: 148646055.0
+      - date: '2970-01-01'
+        population:
+          value: 143288519.0
+      - date: '2980-01-01'
+        population:
+          value: 139609978.0
+      - date: '2990-01-01'
+        population:
+          value: 137305427.0
+      - date: '3000-01-01'
+        population:
+          value: 135219656.0
+      - date: '3010-01-01'
+        population:
+          value: 133106212.0
+      - date: '3020-01-01'
+        population:
+          value: 130442930.0
+      - date: '3030-01-01'
+        population:
+          value: 129214212.0
+      - date: '3040-01-01'
+        population:
+          value: 130460642.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3043-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-B-C-C-B
+      - date: '3050-01-01'
+        population:
+          value: 131982797.0
+      - date: '3050-09-03'
+        faction:
+          source: canon
+          value:
+            - CW
+            - FC
+      - date: '3050-10-06'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3060-01-01'
+        population:
+          value: 133229284.0
+      - date: '3070-01-01'
+        population:
+          value: 134554805.0
+      - date: '3080-01-01'
+        population:
+          value: 134608637.0
+      - date: '3090-01-01'
+        population:
+          value: 134554805.0
+      - date: '3100-01-01'
+        population:
+          value: 135283366.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: C-A-B-B-B
+      - date: '3110-01-01'
+        population:
+          value: 135771264.0
+      - date: '3120-01-01'
+        population:
+          value: 136670318.0
+      - date: '3130-01-01'
+        population:
+          value: 138237274.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-08-17'
+        faction:
+          source: canon
+          value:
+            - CHH
+        population:
+          value: 139570742.0
+      - date: '3145-01-01'
+        population:
+          value: 140298400.0
+  - name:
+      value: Clymene's Mistake
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Knox I
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Knox II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Knox III
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Knox IV
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Knox V
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Knox VI
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Dorsey's Redoubt
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 40000
+    density:
+      value: 1.3
+    dayLength:
+      value: 8
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 6
+  - name:
+      value: Orion
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.74
+    diameter:
+      value: 17500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 18.5

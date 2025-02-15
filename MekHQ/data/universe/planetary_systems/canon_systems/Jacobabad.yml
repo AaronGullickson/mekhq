@@ -1,0 +1,543 @@
+id: Jacobabad
+sucsId: 1227
+xcood: 407.865
+ycood: -283.421
+spectralType:
+  value: F8V
+primarySlot: 3
+event:
+  - date: '2922-04-22'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Matiāri
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+  - name:
+      value: Lehri
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 2
+    icon: greenhouse35
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 148
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Jacobabad
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 3
+    icon: green5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12600
+    density:
+      value: 5.2795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 42
+    water:
+      value: 26
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Akbar Alpha
+        capital:
+          value: Kalypso
+      - name:
+          value: Akbar Beta
+    event:
+      - date: '2731-10-13'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 46709.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2733-07-02'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 144184.0
+      - date: '2750-01-01'
+        population:
+          value: 402048.0
+      - date: '2760-01-01'
+        population:
+          value: 920574.0
+      - date: '2770-01-01'
+        population:
+          value: 1802505.0
+      - date: '2780-01-01'
+        population:
+          value: 3078948.0
+      - date: '2790-01-01'
+        population:
+          value: 3494962.0
+      - date: '2794-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2800-01-01'
+        population:
+          value: 2398808.0
+      - date: '2810-01-01'
+        population:
+          value: 1507787.0
+      - date: '2820-01-01'
+        population:
+          value: 943109.0
+      - date: '2830-01-01'
+        population:
+          value: 676424.0
+      - date: '2840-01-01'
+        population:
+          value: 499589.0
+      - date: '2850-01-01'
+        population:
+          value: 347964.0
+      - date: '2860-01-01'
+        population:
+          value: 187048.0
+      - date: '2870-01-01'
+        population:
+          value: 96220.0
+      - date: '2880-01-01'
+        population:
+          value: 51471.0
+      - date: '2890-01-01'
+        population:
+          value: 29054.0
+      - date: '2900-01-01'
+        population:
+          value: 14801.0
+      - date: '2910-01-01'
+        population:
+          value: 7322.0
+      - date: '2920-01-01'
+        population:
+          value: 4491.0
+      - date: '2922-11-01'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Umarkot
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.92
+    sysPos:
+      value: 4
+    icon: frozen4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 14500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -11
+    water:
+      value: 39
+    landmass:
+      - name:
+          value: Aphrodite
+      - name:
+          value: Qadir
+      - name:
+          value: Kardar
+      - name:
+          value: Noorani
+  - name:
+      value: Layyah
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.36
+    sysPos:
+      value: 5
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 6.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: FS-1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: FS-2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: FS-3
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: FS-4
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: FS-5
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Sial's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.24
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 15.6
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: L-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: L-2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: L-3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: L-4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Daggar Tehsil
+    type:
+      value: GAS_GIANT
+    orbitalDist: 12.0
+    sysPos:
+      value: 7
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 80000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 41.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Tschernobog
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Koschei Bessmertnyi
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Dolya
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Zaganos's Tears
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.52
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 114.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: H.1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: H.2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: H.3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: H.4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: H.5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Thonapa Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.56
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 317.7
+    temperature:
+      value: -223
+  - name:
+      value: Mictlantecuhtli
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 92.64
+    sysPos:
+      value: 10
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 891.7
+    smallMoons:
+      value: 3
+  - name:
+      value: Dera Ismāīl Khān Tribal Area
+    type:
+      value: ICE_GIANT
+    orbitalDist: 184.8
+    sysPos:
+      value: 11
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 40000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2512.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Loralai
+    type:
+      value: GAS_GIANT
+    orbitalDist: 369.12
+    sysPos:
+      value: 12
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 7091.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Llwyd I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Llwyd II
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Llwyd III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Llwyd IV
+        size:
+          value: medium
+        icon: oddmoon2

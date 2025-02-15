@@ -1,0 +1,622 @@
+id: Exeter
+sucsId: 837
+xcood: 188.432
+ycood: -8.057
+spectralType:
+  source: canon
+  value: A9V
+primarySlot: 7
+planet:
+  - name:
+      value: Whiteface
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.68
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 306
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Rayne
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.19
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.92
+    diameter:
+      value: 13500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+    temperature:
+      value: 165
+    water:
+      value: 0
+    smallMoons:
+      value: 8
+  - name:
+      value: Six Mile Grove
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.7
+    sysPos:
+      value: 3
+    icon: rock6
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 93
+    water:
+      value: 0
+  - name:
+      value: Lyman
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 17.0
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 70.1
+    temperature:
+      value: -157
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Ping Deng Wang
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Scandia
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.76
+    sysPos:
+      value: 5
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 10.5
+    temperature:
+      value: -54
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: DeL
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 8.84
+    sysPos:
+      value: 6
+    icon: frozen2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.59
+    diameter:
+      value: 6500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 26.3
+    temperature:
+      value: -46
+    water:
+      value: 49
+    satellite:
+      - name:
+          value: Fortuna
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Vesta
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      source: canon
+      value: Exeter
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.72
+    sysPos:
+      value: 7
+    icon: green4
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.91
+    diameter:
+      value: 11425
+    density:
+      value: 5.618680512815
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.7
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: Exeter’s four continents are primarily covered in dense jungle and the hot,
+      high atmosphere of the planet can make for uncomfortable living conditions.
+      However, the planet is a fantastic place for agriculture and is a major breadbasket
+      planet that supplies food to several nearby planets. Despite a lack of natural
+      resources, Exeter possesses more industry and higher-tech than the standard
+      Inner Sphere planet.
+    landmass:
+      - name:
+          source: canon
+          value: Bristol
+      - name:
+          source: canon
+          value: Cornwall
+      - name:
+          source: canon
+          value: Devon
+        capital:
+          source: canon
+          value: Exeter
+      - name:
+          source: canon
+          value: Plymouth
+    event:
+      - date: '2301-10-27'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 58962.0
+        socioIndustrial:
+          value: D-D-D-D-B
+      - date: '2310-01-01'
+        population:
+          value: 215495.0
+      - date: '2320-01-01'
+        population:
+          value: 750245.0
+      - date: '2330-01-01'
+        population:
+          value: 2169949.0
+      - date: '2340-01-01'
+        population:
+          value: 5355244.0
+      - date: '2350-01-01'
+        population:
+          value: 11580567.0
+      - date: '2355-06-24'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2360-01-01'
+        population:
+          value: 22461827.0
+      - date: '2370-01-01'
+        population:
+          value: 39700129.0
+      - date: '2380-01-01'
+        population:
+          value: 64806398.0
+      - date: '2390-01-01'
+        population:
+          value: 99049912.0
+      - date: '2400-01-01'
+        population:
+          value: 141394406.0
+      - date: '2410-01-01'
+        population:
+          value: 190197702.0
+      - date: '2420-01-01'
+        population:
+          value: 246157783.0
+      - date: '2430-01-01'
+        population:
+          value: 306072355.0
+      - date: '2435-01-01'
+        socioIndustrial:
+          value: C-C-D-D-B
+      - date: '2440-01-01'
+        population:
+          value: 369457050.0
+      - date: '2450-01-01'
+        population:
+          value: 432875549.0
+      - date: '2460-01-01'
+        population:
+          value: 495236708.0
+      - date: '2470-01-01'
+        population:
+          value: 554675806.0
+      - date: '2480-01-01'
+        population:
+          value: 608255801.0
+      - date: '2490-01-01'
+        population:
+          value: 660338264.0
+      - date: '2500-01-01'
+        population:
+          value: 706678558.0
+      - date: '2510-01-01'
+        population:
+          value: 749706121.0
+      - date: '2520-01-01'
+        population:
+          value: 788884829.0
+      - date: '2530-01-01'
+        population:
+          value: 820013084.0
+      - date: '2540-01-01'
+        population:
+          value: 845151775.0
+      - date: '2550-01-01'
+        population:
+          value: 866774493.0
+      - date: '2560-01-01'
+        population:
+          value: 890282033.0
+      - date: '2570-01-01'
+        population:
+          value: 905877933.0
+      - date: '2580-01-01'
+        population:
+          value: 916612475.0
+      - date: '2590-01-01'
+        population:
+          value: 924634199.0
+      - date: '2600-01-01'
+        population:
+          value: 933078070.0
+      - date: '2610-01-01'
+        population:
+          value: 951592187.0
+      - date: '2612-01-01'
+        socioIndustrial:
+          value: B-B-D-C-B
+      - date: '2620-01-01'
+        population:
+          value: 969582974.0
+      - date: '2630-01-01'
+        population:
+          value: 979218774.0
+      - date: '2634-07-21'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 988749669.0
+      - date: '2650-01-01'
+        population:
+          value: 996179533.0
+      - date: '2660-01-01'
+        population:
+          value: 993851440.0
+      - date: '2670-01-01'
+        population:
+          value: 989866898.0
+      - date: '2680-01-01'
+        population:
+          value: 983780494.0
+      - date: '2690-01-01'
+        population:
+          value: 977299668.0
+      - date: '2700-01-01'
+        population:
+          value: 972465896.0
+      - date: '2710-01-01'
+        population:
+          value: 967008518.0
+      - date: '2717-01-01'
+        socioIndustrial:
+          value: A-A-D-B-A
+      - date: '2720-01-01'
+        population:
+          value: 962542467.0
+      - date: '2730-01-01'
+        population:
+          value: 960837957.0
+      - date: '2740-01-01'
+        population:
+          value: 958663166.0
+      - date: '2750-01-01'
+        population:
+          value: 952626308.0
+      - date: '2760-01-01'
+        population:
+          value: 943777946.0
+      - date: '2770-01-01'
+        population:
+          value: 934466228.0
+      - date: '2780-01-01'
+        population:
+          value: 928251789.0
+      - date: '2790-01-01'
+        population:
+          value: 922619088.0
+      - date: '2800-01-01'
+        population:
+          value: 920772531.0
+      - date: '2810-01-01'
+        population:
+          value: 919626116.0
+      - date: '2820-01-01'
+        population:
+          value: 918434740.0
+      - date: '2830-01-01'
+        population:
+          value: 917522912.0
+      - date: '2840-01-01'
+        population:
+          value: 916681434.0
+      - date: '2850-01-01'
+        population:
+          value: 915725095.0
+      - date: '2860-01-01'
+        population:
+          value: 914815957.0
+      - date: '2862-01-01'
+        socioIndustrial:
+          value: B-B-F-C-B
+      - date: '2870-01-01'
+        population:
+          value: 913723107.0
+      - date: '2880-01-01'
+        population:
+          value: 912746804.0
+      - date: '2890-01-01'
+        population:
+          value: 911978795.0
+      - date: '2900-01-01'
+        population:
+          value: 911625729.0
+      - date: '2909-01-01'
+        socioIndustrial:
+          value: C-C-F-D-C
+      - date: '2910-01-01'
+        population:
+          value: 911871326.0
+      - date: '2920-01-01'
+        population:
+          value: 912116989.0
+      - date: '2930-01-01'
+        population:
+          value: 912155380.0
+      - date: '2940-01-01'
+        population:
+          value: 912447204.0
+      - date: '2950-01-01'
+        population:
+          value: 912439523.0
+      - date: '2960-01-01'
+        population:
+          value: 912869745.0
+      - date: '2970-01-01'
+        population:
+          value: 913438564.0
+      - date: '2980-01-01'
+        population:
+          value: 913500079.0
+      - date: '2990-01-01'
+        population:
+          value: 913307858.0
+      - date: '3000-01-01'
+        population:
+          value: 912885114.0
+      - date: '3010-01-01'
+        population:
+          value: 912370399.0
+      - date: '3020-01-01'
+        population:
+          value: 911326497.0
+      - date: '3030-01-01'
+        population:
+          value: 915624736.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: C-C-F-C-B
+      - date: '3040-01-01'
+        population:
+          value: 926029974.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-D-B-A
+      - date: '3050-01-01'
+        population:
+          value: 939085570.0
+      - date: '3060-01-01'
+        population:
+          value: 952325229.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 964593341.0
+      - date: '3080-01-01'
+        population:
+          value: 973898028.0
+      - date: '3090-01-01'
+        population:
+          value: 981327850.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: B-B-D-A-A
+      - date: '3100-01-01'
+        population:
+          value: 988418908.0
+      - date: '3110-01-01'
+        population:
+          value: 995163061.0
+      - date: '3120-01-01'
+        population:
+          value: 999751356.0
+      - date: '3130-01-01'
+        population:
+          value: 1008991508.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1016892415.0
+      - date: '3145-01-01'
+        population:
+          value: 1021376600.0
+  - name:
+      value: Az Zabadānī
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 33.32
+    sysPos:
+      value: 8
+    icon: frozen8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 192.3
+    temperature:
+      value: -186
+    water:
+      value: 52
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Hypoluxo
+      - name:
+          value: Onondaga
+      - name:
+          value: Green
+      - name:
+          value: Prince William
+      - name:
+          value: Barnum
+      - name:
+          value: Point Marion
+    satellite:
+      - name:
+          value: Achilles
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Achilles
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Carlos Manuel de Céspedes
+        size:
+          value: medium
+        icon: rock1

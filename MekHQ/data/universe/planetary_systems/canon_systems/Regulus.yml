@@ -1,0 +1,762 @@
+id: Regulus
+sucsId: 2129
+xcood: -152.066
+ycood: -180.024
+spectralType:
+  source: canon
+  value: K6III
+primarySlot: 4
+event:
+  - date: '2362-04-29'
+    nadirCharge:
+      value: yes
+  - date: '2510-09-11'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Cathubodva
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: rock1
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor and Phosphine
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 269
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: AQ5-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: AQ5-2
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Aine
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 3
+  - name:
+      value: Bres
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 3
+    icon: badwater39
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon and Argon
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 12
+    water:
+      value: 100
+    landmass:
+      - name:
+          value: Willis Archipelago
+      - name:
+          value: Abbud's Choice Archipelago
+      - name:
+          value: Gros's Grove Archipelago
+      - name:
+          value: Spensley Archipelago
+      - name:
+          value: Batomalaque's Redoubt Archipelago
+      - name:
+          value: New Fatis Archipelago
+      - name:
+          value: Bob's Station Archipelago
+      - name:
+          value: McGrath Archipelago
+      - name:
+          value: Roach Archipelago
+  - name:
+      source: canon
+      value: Regulus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 4
+    icon: green39
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.95
+    diameter:
+      value: 11578
+    density:
+      value: 5.768000442541
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 45
+    water:
+      source: canon
+      value: 53
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Regulus originally belonged to the Selaj family, until their attempts to kill off the entire Marik line resulted in the Selaj family’s fall from power and expulsion from the Free Worlds League. While the Selaj are gone, their influence remains in the Indian styled architecture that dominates most of the cities on Regulus. Even with the seditious Selaj family removed, Regulus, as the capital of the Principality of Regulus has long been a thorn in the side of the Free Worlds League and the leading Mariks. Regulus is content to enjoy the benefits of being part of the League but is often unwilling or slow to respond to calls for support from the rest of the League.
+
+      Trade is the primary industry on Regulus and the planet is a well known trade-port in League space. Aside from the typical trade of goods and services, Regulus is famous for its contributions to entertainment in the Free Worlds League. The planet is a major producer of Holovids and music, which finds its way all throughout League space and into surrounding realms.
+
+      Manufacturing Centers:
+      Magna Metals Incorporated
+    landmass:
+      - name:
+          source: canon
+          value: Chebbin
+      - name:
+          source: canon
+          value: Tabar
+      - name:
+          source: canon
+          value: Tinnin
+        capital:
+          source: canon
+          value: Regulus City
+    satellite:
+      - name:
+          value: Zamzama
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2247-06-25'
+        faction:
+          source: canon
+          value:
+            - PR
+        population:
+          value: 53490.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2250-01-01'
+        population:
+          value: 85574.0
+      - date: '2260-01-01'
+        population:
+          value: 357462.0
+      - date: '2270-01-01'
+        population:
+          value: 1229467.0
+      - date: '2271-06-01'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2280-01-01'
+        population:
+          value: 3568662.0
+      - date: '2290-01-01'
+        population:
+          value: 8970573.0
+      - date: '2300-01-01'
+        population:
+          value: 19884965.0
+      - date: '2307-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2310-01-01'
+        population:
+          value: 39590622.0
+      - date: '2320-01-01'
+        population:
+          value: 71764104.0
+      - date: '2330-01-01'
+        population:
+          value: 120178261.0
+      - date: '2340-01-01'
+        population:
+          value: 187981701.0
+      - date: '2350-01-01'
+        population:
+          value: 276449877.0
+      - date: '2360-01-01'
+        population:
+          value: 387348503.0
+      - date: '2370-01-01'
+        population:
+          value: 515349272.0
+      - date: '2380-01-01'
+        population:
+          value: 660547153.0
+      - date: '2390-01-01'
+        population:
+          value: 822101411.0
+      - date: '2400-01-01'
+        population:
+          value: 994257261.0
+      - date: '2410-01-01'
+        population:
+          value: 1172650256.0
+      - date: '2419-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2420-01-01'
+        population:
+          value: 1358544872.0
+      - date: '2430-01-01'
+        population:
+          value: 1540420715.0
+      - date: '2435-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2440-01-01'
+        population:
+          value: 1725929286.0
+      - date: '2450-01-01'
+        population:
+          value: 1900231945.0
+      - date: '2460-01-01'
+        population:
+          value: 2066839313.0
+      - date: '2470-01-01'
+        population:
+          value: 2219707408.0
+      - date: '2480-01-01'
+        population:
+          value: 2356300905.0
+      - date: '2490-01-01'
+        population:
+          value: 2479934231.0
+      - date: '2500-01-01'
+        population:
+          value: 2597848050.0
+      - date: '2510-01-01'
+        population:
+          value: 2697141467.0
+      - date: '2520-01-01'
+        population:
+          value: 2778686968.0
+      - date: '2530-01-01'
+        population:
+          value: 2831910115.0
+      - date: '2540-01-01'
+        population:
+          value: 2873487900.0
+      - date: '2550-01-01'
+        population:
+          value: 2914904859.0
+      - date: '2560-01-01'
+        population:
+          value: 2953365350.0
+      - date: '2570-01-01'
+        population:
+          value: 2981574339.0
+      - date: '2580-01-01'
+        population:
+          value: 3011091601.0
+      - date: '2590-01-01'
+        population:
+          value: 3038608576.0
+      - date: '2600-01-01'
+        population:
+          value: 3059352256.0
+      - date: '2610-01-01'
+        population:
+          value: 3065893594.0
+      - date: '2620-01-01'
+        population:
+          value: 3081458569.0
+      - date: '2630-01-01'
+        population:
+          value: 3121659562.0
+      - date: '2635-10-02'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-04-17'
+        population:
+          value: 3151792276.0
+        socioIndustrial:
+          value: A-A-B-A-B
+      - date: '2650-01-01'
+        population:
+          value: 3194881324.0
+      - date: '2660-01-01'
+        population:
+          value: 3225897518.0
+      - date: '2670-01-01'
+        population:
+          value: 3264970612.0
+      - date: '2680-01-01'
+        population:
+          value: 3310011017.0
+      - date: '2690-01-01'
+        population:
+          value: 3340048554.0
+      - date: '2700-01-01'
+        population:
+          value: 3356217243.0
+      - date: '2710-01-01'
+        population:
+          value: 3374654726.0
+      - date: '2720-01-01'
+        population:
+          value: 3415307753.0
+      - date: '2730-01-01'
+        population:
+          value: 3455540302.0
+      - date: '2740-01-01'
+        population:
+          value: 3468984175.0
+      - date: '2750-01-01'
+        population:
+          value: 3500644119.0
+      - date: '2760-01-01'
+        population:
+          value: 3535521269.0
+      - date: '2770-01-01'
+        population:
+          value: 3573072811.0
+      - date: '2780-01-01'
+        population:
+          value: 3599023025.0
+      - date: '2790-01-01'
+        population:
+          value: 3604752025.0
+      - date: '2800-01-01'
+        population:
+          value: 3594781675.0
+      - date: '2810-01-01'
+        population:
+          value: 3574542819.0
+      - date: '2820-01-01'
+        population:
+          value: 3544775581.0
+      - date: '2830-01-01'
+        population:
+          value: 3504599948.0
+      - date: '2840-01-01'
+        population:
+          value: 3470420673.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: B-B-C-B-C
+      - date: '2850-01-01'
+        population:
+          value: 3439871134.0
+      - date: '2860-01-01'
+        population:
+          value: 3415588856.0
+      - date: '2870-01-01'
+        population:
+          value: 3411043693.0
+      - date: '2880-01-01'
+        population:
+          value: 3407593415.0
+      - date: '2890-01-01'
+        population:
+          value: 3411225383.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: B-B-D-C-C
+      - date: '2900-01-01'
+        population:
+          value: 3406686027.0
+      - date: '2910-01-01'
+        population:
+          value: 3399978862.0
+      - date: '2920-01-01'
+        population:
+          value: 3382998369.0
+      - date: '2930-01-01'
+        population:
+          value: 3350540382.0
+      - date: '2940-01-01'
+        population:
+          value: 3309391762.0
+      - date: '2950-01-01'
+        population:
+          value: 3273452749.0
+      - date: '2960-01-01'
+        population:
+          value: 3230668656.0
+      - date: '2970-01-01'
+        population:
+          value: 3192522252.0
+      - date: '2980-01-01'
+        population:
+          value: 3150292491.0
+      - date: '2990-01-01'
+        population:
+          value: 3128554245.0
+      - date: '3000-01-01'
+        population:
+          value: 3123392698.0
+      - date: '3010-01-01'
+        population:
+          value: 3137231485.0
+      - date: '3020-01-01'
+        population:
+          value: 3145095080.0
+      - date: '3025-02-25'
+        population:
+          source: canon
+          value: 3139000000.0
+        socioIndustrial:
+          value: B-B-C-B-C
+      - date: '3030-01-01'
+        population:
+          value: 3151439003.0
+      - date: '3040-01-01'
+        population:
+          value: 3172602018.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-B-B-A-B
+      - date: '3050-01-01'
+        population:
+          value: 3191187663.0
+      - date: '3060-01-01'
+        population:
+          value: 3209101065.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 3220250000.0
+      - date: '3070-01-01'
+        population:
+          value: 3192390549.0
+      - date: '3078-05-01'
+        faction:
+          source: canon
+          value:
+            - PR
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 3110250000.0
+      - date: '3080-01-01'
+        population:
+          value: 3104357547.0
+      - date: '3086-02-01'
+        faction:
+          source: canon
+          value:
+            - RF
+      - date: '3090-01-01'
+        population:
+          value: 3139949713.0
+      - date: '3096-01-01'
+        socioIndustrial:
+          value: A-B-B-A-B
+      - date: '3100-01-01'
+        population:
+          value: 3166436379.0
+      - date: '3110-01-01'
+        population:
+          value: 3188041521.0
+      - date: '3120-01-01'
+        population:
+          value: 3207227269.0
+      - date: '3130-01-01'
+        population:
+          value: 3249843316.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 3293684295.0
+      - date: '3145-01-01'
+        population:
+          value: 3310193957.0
+      - date: '3148-07-07'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL
+  - name:
+      value: Yngvi Freyr's Folly
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: frozen1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -57
+    water:
+      value: 100
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Tenafly Archipelago
+      - name:
+          value: Abat Archipelago
+      - name:
+          value: Singwan-dong Archipelago
+      - name:
+          value: New Iecavas Novads Archipelago
+  - name:
+      value: Crom Crúaich's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Tiamet I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Tiamet II
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Tiamet III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cliodhna
+    type:
+      value: ICE_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 55000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Isom
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Tunnicliffe
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Matsumura
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Nyariki
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Camulos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Odinn
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Vĩnh Khê
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 0Q1-1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 0Q1-2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 0Q1-3
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: 0Q1-4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 0Q1-5
+        size:
+          value: medium
+        icon: rock15

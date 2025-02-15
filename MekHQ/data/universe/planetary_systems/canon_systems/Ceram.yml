@@ -1,0 +1,574 @@
+id: Ceram
+sucsId: 505
+xcood: -518.535
+ycood: 171.094
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2876-11-27'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ceram
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green13
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 34
+    water:
+      value: 54
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Sudikampiran
+        capital:
+          value: Tlogoagung
+      - name:
+          value: Umluj
+      - name:
+          value: Nakanoto Machi
+      - name:
+          value: Conewango
+      - name:
+          value: Lomanis
+      - name:
+          value: Pancor
+      - name:
+          value: Cimamut
+      - name:
+          value: Perumnas Way Halim
+      - name:
+          value: Simpen
+    event:
+      - date: '2699-05-06'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 48563.0
+        socioIndustrial:
+          value: D-D-D-F-F
+      - date: '2700-01-01'
+        population:
+          value: 81430.0
+      - date: '2707-01-01'
+        socioIndustrial:
+          value: D-D-D-D-D
+      - date: '2710-01-01'
+        population:
+          value: 2389535.0
+      - date: '2711-01-01'
+        socioIndustrial:
+          value: F-D-D-D-D
+      - date: '2720-01-01'
+        population:
+          value: 10515407.0
+      - date: '2725-08-10'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 20142104.0
+      - date: '2740-01-01'
+        population:
+          value: 26794115.0
+      - date: '2750-01-01'
+        population:
+          value: 30414794.0
+      - date: '2760-01-01'
+        population:
+          value: 32392143.0
+      - date: '2770-01-01'
+        population:
+          value: 32867425.0
+      - date: '2779-12-17'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 17996941.0
+      - date: '2790-01-01'
+        population:
+          value: 8808990.0
+      - date: '2800-01-01'
+        population:
+          value: 6061418.0
+      - date: '2810-01-01'
+        population:
+          value: 3902651.0
+      - date: '2820-01-01'
+        population:
+          value: 2450878.0
+      - date: '2830-01-01'
+        population:
+          value: 1452209.0
+      - date: '2840-01-01'
+        population:
+          value: 889544.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: F-D-D-D-D
+      - date: '2850-01-01'
+        population:
+          value: 481049.0
+      - date: '2860-01-01'
+        population:
+          value: 268931.0
+      - date: '2870-01-01'
+        population:
+          value: 174596.0
+      - date: '2876-05-05'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Rhiannon's Rest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1000
+    density:
+      value: 5.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 5
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Nazari
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cuchulainn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: frozen60
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -34
+    water:
+      value: 44
+    landmass:
+      - name:
+          value: New Saint-Wenceslas
+      - name:
+          value: Kecamatan Peunaron
+  - name:
+      value: Bran
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+  - name:
+      value: Llwyd
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1700
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -134
+    water:
+      value: 0
+  - name:
+      value: Morrigna
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: frozen41
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Carbon Dioxide and
+        Methane
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -129
+    water:
+      value: 44
+    landmass:
+      - name:
+          value: Kecamatan Awangpone
+  - name:
+      value: Boann
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 1
+  - name:
+      value: Camulus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: frozen32
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 30.7
+    temperature:
+      value: -218
+    water:
+      value: 49
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Paramita
+      - name:
+          value: Sumual's Rift
+  - name:
+      value: Modongan
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 3
+  - name:
+      value: Findbhair
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 239.8
+  - name:
+      value: Eostre
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 11
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Sukarto 1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Sukarto 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Sukarto 3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Konkipudi's Flats
+    type:
+      value: ICE_GIANT
+    orbitalDist: 153.8
+    sysPos:
+      value: 12
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1907.4
+    smallMoons:
+      value: 7
+  - name:
+      value: Bormo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 13
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 45000
+    density:
+      value: 2.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5389.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: F8-1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: F8-2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: F8-3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: F8-4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Birdal's Delight
+    type:
+      value: ICE_GIANT
+    orbitalDist: 614.6
+    sysPos:
+      value: 14
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 45000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 15236.6
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Dasangeres Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Dasangeres Beta
+        size:
+          value: medium
+        icon: rock10

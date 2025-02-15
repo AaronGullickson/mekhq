@@ -1,0 +1,527 @@
+id: New Galicia
+sucsId: 1829
+xcood: -364.78
+ycood: -217.92
+spectralType:
+  value: G3V
+primarySlot: 2
+event:
+  - date: '2707-02-04'
+    nadirCharge:
+      value: yes
+  - date: '2924-07-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Kadambas
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren22
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 192
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: New Galicia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green57
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 38
+    water:
+      value: 34
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Vinje I
+        capital:
+          value: Torres's Retreat City
+      - name:
+          value: Vinje II
+    event:
+      - date: '2682-09-01'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 50947.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2685-01-26'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 1546030.0
+      - date: '2693-01-01'
+        socioIndustrial:
+          value: C-F-B-D-F
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: C-F-B-C-F
+      - date: '2700-01-01'
+        population:
+          value: 14957265.0
+      - date: '2710-01-01'
+        population:
+          value: 45621588.0
+      - date: '2717-01-01'
+        socioIndustrial:
+          value: C-F-B-B-D
+      - date: '2720-01-01'
+        population:
+          value: 79310186.0
+      - date: '2730-01-01'
+        population:
+          value: 104179907.0
+      - date: '2740-01-01'
+        population:
+          value: 119051566.0
+      - date: '2750-01-01'
+        population:
+          value: 127175918.0
+      - date: '2760-01-01'
+        population:
+          value: 130841161.0
+      - date: '2770-01-01'
+        population:
+          value: 132415792.0
+      - date: '2780-01-01'
+        population:
+          value: 132715586.0
+      - date: '2790-01-01'
+        population:
+          value: 114539690.0
+      - date: '2800-01-01'
+        population:
+          value: 57230808.0
+      - date: '2810-01-01'
+        population:
+          value: 29670970.0
+      - date: '2820-01-01'
+        population:
+          value: 16318430.0
+      - date: '2830-01-01'
+        population:
+          value: 6829956.0
+      - date: '2840-01-01'
+        population:
+          value: 2376936.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-F-C-B-D
+      - date: '2850-01-01'
+        population:
+          value: 821129.0
+      - date: '2860-01-01'
+        population:
+          value: 261544.0
+      - date: '2870-01-01'
+        population:
+          value: 92375.0
+      - date: '2880-01-01'
+        population:
+          value: 41933.0
+      - date: '2890-01-01'
+        population:
+          value: 20645.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: D-F-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 8389.0
+      - date: '2910-01-01'
+        population:
+          value: 2963.0
+      - date: '2920-01-01'
+        population:
+          value: 1296.0
+      - date: '2924-10-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Tendilla
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Alba
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 22
+  - name:
+      value: Bella Union
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 5
+  - name:
+      value: Shahrestān-e Nekā
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Murillo
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Chávez
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Núñez
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Lansdale Nueva
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Palomeque
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Omphale Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -227
+  - name:
+      value: Añana
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Khuno
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Inti
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ajomama
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Elección de Ramírez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 10
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1911.1
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: U.1
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Loke's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.6
+    sysPos:
+      value: 11
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 5394.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Aras
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Domínez's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 614.8
+    sysPos:
+      value: 12
+    icon: asteroid3
+    yearLength:
+      value: 15244.1
+    temperature:
+      value: -262
+  - name:
+      value: Jorba
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1229.2
+    sysPos:
+      value: 13
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 43095.699999999997
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Susano Wo
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Achelois
+        size:
+          value: large
+        icon: rock1

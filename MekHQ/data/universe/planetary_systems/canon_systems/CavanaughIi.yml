@@ -1,0 +1,977 @@
+id: Cavanaugh II
+sucsId: 497
+xcood: -307.125
+ycood: -52.558
+spectralType:
+  source: canon
+  value: M9II
+primarySlot: 4
+event:
+  - date: '2390-01-27'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Cavanaugh I
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: greenhouse17
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 5
+    water:
+      value: 75
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: J1
+      - name:
+          value: J2
+      - name:
+          value: J3
+      - name:
+          value: J4
+      - name:
+          value: J5
+      - name:
+          value: J6
+  - name:
+      value: Cavanaugh II
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Shichi Fuku Jin
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: Cavanaugh III
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 700
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 41
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Cavanaugh II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 4
+    icon: wet9
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.99
+    diameter:
+      value: 11608
+    density:
+      value: 6.009917658357
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      Cavanaugh II has a warm climate with fertile soil and as a result the planet is known for its agriculture. The planet has a strong industrial base which makes it mostly self-sufficient and even creates enough to send to neighboring systems, however the planet's industry has focused on consumer goods.
+
+      Cavanaugh II was settled by a mixture of English, Welsh and Scottish colonists.
+    landmass:
+      - name:
+          source: canon
+          value: Bedivere
+      - name:
+          source: canon
+          value: Gareth
+      - name:
+          source: canon
+          value: Gawain
+        capital:
+          source: canon
+          value: Caerleon
+      - name:
+          source: canon
+          value: Mordred
+      - name:
+          source: canon
+          value: Tristam
+    satellite:
+      - name:
+          value: Cambriae
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Gododin
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Nannius
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Tennyson
+        size:
+          value: medium
+        icon: rock1
+    event:
+      - date: '2303-01-16'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 40866.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2310-01-01'
+        population:
+          value: 101097.0
+      - date: '2320-01-01'
+        population:
+          value: 316843.0
+      - date: '2330-01-01'
+        population:
+          value: 843140.0
+      - date: '2340-01-01'
+        population:
+          value: 1946817.0
+      - date: '2350-01-01'
+        population:
+          value: 3979076.0
+      - date: '2360-01-01'
+        population:
+          value: 7312813.0
+      - date: '2362-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2365-05-11'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2370-01-01'
+        population:
+          value: 12339030.0
+      - date: '2380-01-01'
+        population:
+          value: 19359945.0
+      - date: '2390-01-01'
+        population:
+          value: 28453890.0
+      - date: '2400-01-01'
+        population:
+          value: 39829326.0
+      - date: '2410-01-01'
+        population:
+          value: 53273713.0
+      - date: '2420-01-01'
+        population:
+          value: 68398739.0
+      - date: '2430-01-01'
+        population:
+          value: 84971881.0
+      - date: '2440-01-01'
+        population:
+          value: 102196217.0
+      - date: '2450-01-01'
+        population:
+          value: 119643979.0
+      - date: '2460-01-01'
+        population:
+          value: 136706008.0
+      - date: '2470-01-01'
+        population:
+          value: 153108205.0
+      - date: '2480-01-01'
+        population:
+          value: 169376529.0
+      - date: '2490-01-01'
+        population:
+          value: 184574903.0
+      - date: '2500-01-01'
+        population:
+          value: 199875643.0
+      - date: '2510-01-01'
+        population:
+          value: 213731541.0
+      - date: '2520-01-01'
+        population:
+          value: 225600893.0
+      - date: '2530-01-01'
+        population:
+          value: 236196885.0
+      - date: '2540-01-01'
+        population:
+          value: 244073447.0
+      - date: '2550-01-01'
+        population:
+          value: 251660394.0
+      - date: '2560-01-01'
+        population:
+          value: 259218920.0
+      - date: '2570-01-01'
+        population:
+          value: 267764744.0
+      - date: '2580-01-01'
+        population:
+          value: 275932246.0
+      - date: '2590-01-01'
+        population:
+          value: 281603112.0
+      - date: '2600-01-01'
+        population:
+          value: 286447441.0
+      - date: '2610-01-01'
+        population:
+          value: 292212459.0
+      - date: '2620-01-01'
+        population:
+          value: 298444014.0
+      - date: '2630-01-01'
+        population:
+          value: 302814499.0
+      - date: '2637-07-11'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 307513634.0
+      - date: '2650-01-01'
+        population:
+          value: 310744624.0
+      - date: '2660-01-01'
+        population:
+          value: 312949207.0
+      - date: '2670-01-01'
+        population:
+          value: 315471617.0
+      - date: '2674-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2680-01-01'
+        population:
+          value: 315631557.0
+      - date: '2690-01-01'
+        population:
+          value: 315092061.0
+      - date: '2700-01-01'
+        population:
+          value: 315079538.0
+      - date: '2710-01-01'
+        population:
+          value: 316946250.0
+      - date: '2720-01-01'
+        population:
+          value: 319274461.0
+      - date: '2730-01-01'
+        population:
+          value: 321384268.0
+      - date: '2740-01-01'
+        population:
+          value: 323157253.0
+      - date: '2750-01-01'
+        population:
+          value: 323822854.0
+      - date: '2760-01-01'
+        population:
+          value: 323968139.0
+      - date: '2770-01-01'
+        population:
+          value: 324834133.0
+      - date: '2773-08-27'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-01-21'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 328925357.0
+      - date: '2790-01-01'
+        population:
+          value: 328100961.0
+      - date: '2800-01-01'
+        population:
+          value: 322805665.0
+      - date: '2810-01-01'
+        population:
+          value: 319194403.0
+      - date: '2820-01-01'
+        population:
+          value: 314832204.0
+      - date: '2821-04-27'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2830-01-01'
+        population:
+          value: 308457782.0
+      - date: '2840-01-01'
+        population:
+          value: 302212424.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-B-C-C-D
+      - date: '2850-01-01'
+        population:
+          value: 297334949.0
+      - date: '2860-01-01'
+        population:
+          value: 292373044.0
+      - date: '2870-01-01'
+        population:
+          value: 287895175.0
+      - date: '2880-01-01'
+        population:
+          value: 282381030.0
+      - date: '2890-01-01'
+        population:
+          value: 275893028.0
+      - date: '2900-01-01'
+        population:
+          value: 270382416.0
+      - date: '2904-01-01'
+        socioIndustrial:
+          value: C-C-D-D-F
+      - date: '2910-01-01'
+        population:
+          value: 266910550.0
+      - date: '2920-05-28'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 263630292.0
+      - date: '2930-01-01'
+        population:
+          value: 262651656.0
+      - date: '2940-01-01'
+        population:
+          value: 263434273.0
+      - date: '2950-01-01'
+        population:
+          value: 264957237.0
+      - date: '2960-01-01'
+        population:
+          value: 264932603.0
+      - date: '2970-01-01'
+        population:
+          value: 266315620.0
+      - date: '2980-01-01'
+        population:
+          value: 267332762.0
+      - date: '2990-01-01'
+        population:
+          value: 269178423.0
+      - date: '3000-01-01'
+        population:
+          value: 270281878.0
+      - date: '3010-01-01'
+        population:
+          value: 270860483.0
+      - date: '3020-01-01'
+        population:
+          value: 271137645.0
+      - date: '3030-01-01'
+        population:
+          value: 271772978.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: C-C-D-C-D
+      - date: '3040-01-01'
+        population:
+          value: 273955882.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3046-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-C-B-C
+      - date: '3050-01-01'
+        population:
+          value: 276570864.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 278652944.0
+      - date: '3068-09-28'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3070-01-01'
+        population:
+          value: 280582298.0
+      - date: '3079-10-01'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3080-01-01'
+        population:
+          value: 283402197.0
+      - date: '3090-01-01'
+        population:
+          value: 286422238.0
+      - date: '3100-01-01'
+        population:
+          value: 288896092.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: B-B-C-B-B
+      - date: '3110-01-01'
+        population:
+          value: 290402264.0
+      - date: '3120-01-01'
+        population:
+          value: 292208351.0
+      - date: '3130-01-01'
+        population:
+          value: 297218357.0
+      - date: '3140-01-01'
+        population:
+          value: 302374731.0
+      - date: '3145-06-17'
+        faction:
+          source: canon
+          value:
+            - DTA
+        population:
+          value: 304986367.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL
+  - name:
+      value: Cavanaugh V
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: O6Y-1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: O6Y-2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: O6Y-3
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: O6Y-4
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Cavanaugh VI
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -135
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Cavanaugh VII
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 35000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Burton A
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Burton B
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Burton C
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Burton D
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Burton E
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Burton F
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Cavanaugh VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.8
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Fuamnach 1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Fuamnach 2
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Cavanaugh IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 7.6
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Tārakā
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Draupathi
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Goodman
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Surya
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Lakshmana
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Cavanaugh X
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.72
+    sysPos:
+      value: 10
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 21.5
+    satellite:
+      - name:
+          value: Amrita
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Shiva
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cavanaugh XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.4
+    sysPos:
+      value: 11
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 60.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Grangeio
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Canoa
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Steed
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cavanaugh XII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.76
+    sysPos:
+      value: 12
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 170.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Morel
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Dazhbog
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Cavanaugh XIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.48
+    sysPos:
+      value: 13
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 482.1
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Hunhau 1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hunhau 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Hunhau 3
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Hunhau 4
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Hunhau 5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Cavanaugh XIV
+    type:
+      value: GAS_GIANT
+    orbitalDist: 122.92
+    sysPos:
+      value: 14
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1362.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Dunnellon I
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Dunnellon II
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Dunnellon III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dunnellon IV
+        size:
+          value: medium
+        icon: oddmoon2

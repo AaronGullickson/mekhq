@@ -1,0 +1,485 @@
+id: Dralkig
+sucsId: 738
+xcood: 516.624
+ycood: 113.395
+spectralType:
+  value: F7V
+primarySlot: 3
+event:
+  - date: '2845-06-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Heillecourt
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 216
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Diatiféré
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 96
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Kogel Alpha
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Kogel Beta
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      source: canon
+      value: Dralkig
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: green48
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 10500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 32
+    water:
+      value: 34
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Newberry 1
+        capital:
+          value: Old Woosung City
+      - name:
+          value: Newberry 2
+      - name:
+          value: Newberry 3
+      - name:
+          value: Newberry 4
+      - name:
+          value: Newberry 5
+    event:
+      - date: '2645-11-06'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 53308.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2650-01-01'
+        population:
+          value: 257728.0
+      - date: '2660-01-01'
+        population:
+          value: 2232715.0
+      - date: '2670-01-01'
+        population:
+          value: 8105755.0
+      - date: '2671-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2680-01-01'
+        population:
+          value: 17464868.0
+      - date: '2690-01-01'
+        population:
+          value: 27632459.0
+      - date: '2700-01-01'
+        population:
+          value: 36240560.0
+      - date: '2710-01-01'
+        population:
+          value: 42740616.0
+      - date: '2720-01-01'
+        population:
+          value: 47146307.0
+      - date: '2730-01-01'
+        population:
+          value: 49952569.0
+      - date: '2731-09-15'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 51626025.0
+      - date: '2750-01-01'
+        population:
+          value: 52347171.0
+      - date: '2760-01-01'
+        population:
+          value: 52500656.0
+      - date: '2770-01-01'
+        population:
+          value: 52606575.0
+      - date: '2780-01-01'
+        population:
+          value: 52699065.0
+      - date: '2790-01-01'
+        population:
+          value: 52367760.0
+      - date: '2800-01-01'
+        population:
+          value: 51592256.0
+      - date: '2810-01-01'
+        population:
+          value: 51226347.0
+      - date: '2820-01-01'
+        population:
+          value: 27119579.0
+      - date: '2830-01-01'
+        population:
+          value: 2057476.0
+      - date: '2840-01-01'
+        population:
+          value: 128952.0
+      - date: '2845-10-20'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Polites
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 3.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Lambert A
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Lambert B
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Lambert C
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Lambert D
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Grant's Wind
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: 5F-1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Acaster Selby
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 17.6
+    temperature:
+      value: -138
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Manderscheid
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: frozen41
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 46.9
+    temperature:
+      value: -170
+    water:
+      value: 44
+    landmass:
+      - name:
+          value: Boston A
+      - name:
+          value: Boston B
+      - name:
+          value: Boston C
+      - name:
+          value: Boston D
+  - name:
+      value: Broom's Dawn
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 128.6
+    temperature:
+      value: -203
+    water:
+      value: 0
+  - name:
+      value: Kodersdorf
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 100.36
+    sysPos:
+      value: 9
+    icon: frozen30
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1005.4
+    temperature:
+      value: -236
+    water:
+      value: 100
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Contreras's Glory Archipelago
+        capital:
+          value: Contreras's Glory Archipelago City
+      - name:
+          value: Bert Archipelago
+      - name:
+          value: Smicer Archipelago
+      - name:
+          value: Little McDonald Archipelago
+      - name:
+          value: Kunneppu Chō Archipelago
+      - name:
+          value: Big McDonald Archipelago
+  - name:
+      value: Willoughby
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 200.2
+    sysPos:
+      value: 10
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2832.7
+    temperature:
+      value: -248
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Athamus 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Athamus 2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Athamus 3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Athamus 4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Athamus 5
+        size:
+          value: medium
+        icon: rock2

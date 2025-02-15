@@ -1,0 +1,483 @@
+id: Apsalar
+sucsId: 159
+xcood: -121.355
+ycood: 562.115
+spectralType:
+  value: F9V
+primarySlot: 3
+event:
+  - date: '2860-01-27'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Whitehead's Harbour
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: greenhouse5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon and Carbon Dioxide
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 432
+    water:
+      value: 0
+  - name:
+      value: Mitchell
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: barren17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 124
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: FX5-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: FX5-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: FX5-3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      source: canon
+      value: Apsalar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green46
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.11
+    diameter:
+      value: 12300
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 33
+    water:
+      value: 26
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - capital:
+          value: Hawkins
+    satellite:
+      - name:
+          value: 48-1
+        size:
+          value: medium
+        icon: rock16
+    event:
+      - date: '2734-10-19'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 43420.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2736-01-12'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 96389.0
+      - date: '2750-01-01'
+        population:
+          value: 295258.0
+      - date: '2760-01-01'
+        population:
+          value: 725242.0
+      - date: '2770-01-01'
+        population:
+          value: 1505561.0
+      - date: '2779-03-06'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2715525.0
+      - date: '2790-01-01'
+        population:
+          value: 1383683.0
+      - date: '2800-01-01'
+        population:
+          value: 531632.0
+      - date: '2810-01-01'
+        population:
+          value: 184154.0
+      - date: '2820-01-01'
+        population:
+          value: 55706.0
+      - date: '2830-01-01'
+        population:
+          value: 17397.0
+      - date: '2840-01-01'
+        population:
+          value: 6526.0
+      - date: '2850-01-01'
+        population:
+          value: 2694.0
+      - date: '2857-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2860-06-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Foster
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: K1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: K2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: K3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: K4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Oakham Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -85
+  - name:
+      value: Rezaee
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: R1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: R2
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Hoddinot's Retreat
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 36.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Travis I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Travis II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Travis III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Wrixon's Redoubt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: G7A1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: G7A2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: G7A3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: G7A4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: G7A5
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: G7A6
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: G7A7
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Harrison
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Cederberg 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Cederberg 2
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Hein
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 782.6
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Kalma 1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Kalma 2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Kalma 3
+        size:
+          value: large
+        icon: rock5

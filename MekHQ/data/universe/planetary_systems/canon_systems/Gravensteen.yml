@@ -1,0 +1,367 @@
+id: Gravensteen
+sucsId: 997
+xcood: 219.606
+ycood: -133.944
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2700-11-10'
+    nadirCharge:
+      value: yes
+  - date: '2791-04-07'
+    nadirCharge:
+      value: no
+  - date: '2921-04-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Gravensteen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green20
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 46
+    water:
+      value: 26
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Ognenovic's Rift
+        capital:
+          value: Roux Town
+    event:
+      - date: '2693-08-31'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 46527.0
+        socioIndustrial:
+          value: C-D-B-D-A
+      - date: '2700-01-01'
+        population:
+          value: 1845496.0
+      - date: '2710-01-01'
+        population:
+          value: 27459394.0
+      - date: '2718-01-01'
+        socioIndustrial:
+          value: B-D-B-C-A
+      - date: '2720-01-01'
+        population:
+          value: 93016726.0
+      - date: '2730-01-01'
+        population:
+          value: 161434017.0
+      - date: '2731-08-06'
+        hpg:
+          value: B
+      - date: '2736-01-01'
+        socioIndustrial:
+          value: A-C-B-B-A
+      - date: '2740-01-01'
+        population:
+          value: 207452940.0
+      - date: '2750-01-01'
+        population:
+          value: 233446088.0
+      - date: '2760-01-01'
+        population:
+          value: 247418766.0
+      - date: '2768-08-01'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 255631647.0
+      - date: '2780-04-01'
+        hpg:
+          value: B
+        population:
+          value: 260613438.0
+      - date: '2790-01-01'
+        population:
+          value: 231575067.0
+      - date: '2800-01-01'
+        population:
+          value: 129727554.0
+      - date: '2810-01-01'
+        population:
+          value: 74448933.0
+      - date: '2820-01-01'
+        population:
+          value: 33831546.0
+      - date: '2830-01-01'
+        population:
+          value: 11414586.0
+      - date: '2840-03-19'
+        population:
+          value: 3759349.0
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '2850-01-01'
+        population:
+          value: 1352736.0
+      - date: '2860-01-01'
+        population:
+          value: 431404.0
+      - date: '2870-01-01'
+        population:
+          value: 153989.0
+      - date: '2880-01-01'
+        population:
+          value: 68307.0
+      - date: '2890-01-01'
+        population:
+          value: 38575.0
+      - date: '2900-05-16'
+        population:
+          value: 25383.0
+        socioIndustrial:
+          value: C-D-D-C-C
+      - date: '2910-01-01'
+        population:
+          value: 16569.0
+      - date: '2920-01-01'
+        population:
+          value: 10643.0
+      - date: '2921-07-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: S1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 8
+  - name:
+      value: Young
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Mai 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Mai 2
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: S2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Whiteside I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Whiteside II
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Whiteside III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Whiteside IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Whiteside V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Whiteside VI
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: S3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Fenric
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Goðheimar
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: S4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Nyx I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Nyx II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Nyx III
+        size:
+          value: large
+        icon: rock17

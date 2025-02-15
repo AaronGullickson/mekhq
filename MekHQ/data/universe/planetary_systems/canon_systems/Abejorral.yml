@@ -1,0 +1,631 @@
+id: Abejorral
+sucsId: 7
+xcood: -299.341
+ycood: 127.388
+spectralType:
+  value: F2V
+primarySlot: 4
+planet:
+  - name:
+      value: Guébling
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 285
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Duitama
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: barren20
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 1.1
+    diameter:
+      value: 14500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 160
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Banham
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ipy
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lubchenko
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Herrera's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: barren14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 99
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Abejorral
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green29
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 9900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 33
+    water:
+      value: 54
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Jaunjelgava
+        capital:
+          value: Ciudad Muñíz
+      - name:
+          value: Nueva Alor Pasir
+    satellite:
+      - name:
+          value: M-1
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2632-08-27'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 55962.0
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '2634-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2636-09-03'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1011747.0
+      - date: '2644-01-01'
+        socioIndustrial:
+          value: C-B-A-A-A
+      - date: '2650-01-01'
+        population:
+          value: 10488018.0
+      - date: '2660-01-01'
+        population:
+          value: 43754173.0
+      - date: '2670-01-01'
+        population:
+          value: 104956590.0
+      - date: '2680-01-01'
+        population:
+          value: 178984077.0
+      - date: '2690-01-01'
+        population:
+          value: 246914350.0
+      - date: '2700-01-01'
+        population:
+          value: 300110289.0
+      - date: '2710-01-01'
+        population:
+          value: 338684176.0
+      - date: '2720-01-01'
+        population:
+          value: 364713001.0
+      - date: '2730-01-01'
+        population:
+          value: 381547238.0
+      - date: '2740-01-01'
+        population:
+          value: 390554951.0
+      - date: '2750-01-01'
+        population:
+          value: 396152463.0
+      - date: '2760-01-01'
+        population:
+          value: 396740241.0
+      - date: '2770-01-01'
+        population:
+          value: 395635689.0
+      - date: '2780-01-01'
+        population:
+          value: 393657369.0
+      - date: '2790-01-01'
+        population:
+          value: 391264998.0
+      - date: '2800-01-01'
+        population:
+          value: 390356593.0
+      - date: '2810-01-01'
+        population:
+          value: 392175517.0
+      - date: '2820-01-01'
+        population:
+          value: 391046788.0
+      - date: '2830-01-01'
+        population:
+          value: 391446932.0
+      - date: '2840-01-01'
+        population:
+          value: 391956799.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-C-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 388654498.0
+      - date: '2860-01-01'
+        population:
+          value: 386025521.0
+      - date: '2870-01-01'
+        population:
+          value: 380962454.0
+      - date: '2880-01-01'
+        population:
+          value: 375860940.0
+      - date: '2890-01-01'
+        population:
+          value: 368661960.0
+      - date: '2900-01-01'
+        population:
+          value: 362509755.0
+      - date: '2910-01-01'
+        population:
+          value: 359255080.0
+      - date: '2911-01-01'
+        socioIndustrial:
+          value: D-D-C-C-C
+      - date: '2920-01-01'
+        population:
+          value: 358121196.0
+      - date: '2930-01-01'
+        population:
+          value: 355797985.0
+      - date: '2940-01-01'
+        population:
+          value: 350837679.0
+      - date: '2950-01-01'
+        population:
+          value: 344406052.0
+      - date: '2960-01-01'
+        population:
+          value: 336023997.0
+      - date: '2970-01-01'
+        population:
+          value: 328395077.0
+      - date: '2980-01-01'
+        population:
+          value: 321028892.0
+      - date: '2990-01-01'
+        population:
+          value: 314967969.0
+      - date: '3000-01-01'
+        population:
+          value: 308160723.0
+      - date: '3010-01-01'
+        population:
+          value: 301248412.0
+      - date: '3020-01-01'
+        population:
+          value: 294409019.0
+      - date: '3030-01-01'
+        population:
+          value: 292769249.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '3040-01-01'
+        population:
+          value: 294884794.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: B-B-B-B-A
+      - date: '3050-01-01'
+        population:
+          value: 296778109.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 298892731.0
+      - date: '3070-01-01'
+        population:
+          value: 301474294.0
+      - date: '3080-01-01'
+        population:
+          value: 305235848.0
+      - date: '3090-01-01'
+        population:
+          value: 306827209.0
+      - date: '3100-01-01'
+        population:
+          value: 307502972.0
+      - date: '3110-01-01'
+        population:
+          value: 308673706.0
+      - date: '3120-01-01'
+        population:
+          value: 309291671.0
+      - date: '3130-07-08'
+        population:
+          value: 309044337.0
+        socioIndustrial:
+          value: B-A-B-B-A
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 309044337.0
+      - date: '3145-01-01'
+        population:
+          value: 309663044.0
+  - name:
+      value: Zomba
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: frozen8
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -57
+    water:
+      value: 49
+    landmass:
+      - name:
+          value: Valenzuela Prime
+        capital:
+          value: Valenzuela Prime City
+      - name:
+          value: Kincade's Home
+      - name:
+          value: Jaramillo
+      - name:
+          value: Martínez
+      - name:
+          value: El Peñón
+      - name:
+          value: Cruz
+  - name:
+      value: Nanjiao Qu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 21.8
+    smallMoons:
+      value: 14
+  - name:
+      value: Ortíz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 9
+    yearLength:
+      value: 58.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Cross Creek Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Cross Creek Beta
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Estrada
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.2
+    diameter:
+      value: 150000
+    density:
+      value: 1.5
+    dayLength:
+      value: 8
+    yearLength:
+      value: 159.4
+    smallMoons:
+      value: 15
+  - name:
+      value: La Paz
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: El Tambo
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Bagadó
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Castro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 10
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 16
+  - name:
+      value: Romero
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 11
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3510.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Santa Rosa de Cabal
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Eochaid Ollathair
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 12
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 9911.0
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: '321'
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: '322'
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: '323'
+        size:
+          value: large
+        icon: rock13

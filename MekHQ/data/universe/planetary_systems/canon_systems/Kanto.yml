@@ -1,0 +1,572 @@
+id: Kanto
+sucsId: 1293
+xcood: 330.78
+ycood: 283.811
+spectralType:
+  value: F8V
+primarySlot: 3
+event:
+  - date: '2701-07-05'
+    zenithCharge:
+      value: yes
+  - date: '2791-08-09'
+    zenithCharge:
+      value: no
+  - date: '2922-11-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Enkil
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: greenhouse36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 431
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Tiamay
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 2
+    icon: barren21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 59
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Kanto
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.92
+    sysPos:
+      value: 3
+    icon: green25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 11100
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.9
+    temperature:
+      value: 38
+    water:
+      value: 52
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: SL1
+        capital:
+          value: Le
+      - name:
+          value: SL2
+    satellite:
+      - name:
+          value: Z.1
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Z.2
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2695-04-04'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 54057.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2700-01-01'
+        population:
+          value: 777818.0
+      - date: '2710-06-30'
+        hpg:
+          value: B
+        population:
+          value: 14986560.0
+      - date: '2720-01-01'
+        population:
+          value: 55359847.0
+      - date: '2730-01-01'
+        population:
+          value: 98313921.0
+      - date: '2732-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2740-01-01'
+        population:
+          value: 126200775.0
+      - date: '2750-01-01'
+        population:
+          value: 140199248.0
+      - date: '2760-01-01'
+        population:
+          value: 146091377.0
+      - date: '2770-01-01'
+        population:
+          value: 148303338.0
+      - date: '2780-01-01'
+        population:
+          value: 148859683.0
+      - date: '2790-01-01'
+        population:
+          value: 118375168.0
+      - date: '2800-01-01'
+        population:
+          value: 45243347.0
+      - date: '2810-01-01'
+        population:
+          value: 19817608.0
+      - date: '2820-01-01'
+        population:
+          value: 11487925.0
+      - date: '2830-01-01'
+        population:
+          value: 8550071.0
+      - date: '2840-01-01'
+        population:
+          value: 5510695.0
+      - date: '2847-01-01'
+        socioIndustrial:
+          value: C-F-C-F-C
+      - date: '2850-01-01'
+        population:
+          value: 2808558.0
+      - date: '2860-01-01'
+        population:
+          value: 1420598.0
+      - date: '2870-01-01'
+        population:
+          value: 686634.0
+      - date: '2880-01-01'
+        population:
+          value: 285232.0
+      - date: '2890-01-01'
+        population:
+          value: 156807.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: D-F-C-F-D
+      - date: '2900-01-01'
+        population:
+          value: 83633.0
+      - date: '2910-01-01'
+        population:
+          value: 46679.0
+      - date: '2920-01-01'
+        population:
+          value: 27681.0
+      - date: '2922-05-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ninsurta's Dawn
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 6.24
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 15.6
+    temperature:
+      value: -135
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Inanna
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 12.0
+    sysPos:
+      value: 5
+    icon: frozen50
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 41.6
+    temperature:
+      value: -171
+    water:
+      value: 78
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: New Burlington
+        capital:
+          value: New Burlington City
+      - name:
+          value: New Thị Trấn Tân Biên
+      - name:
+          value: Hành Nhân
+      - name:
+          value: Widner Mới
+  - name:
+      value: Vĩnh Tế
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 23.52
+    sysPos:
+      value: 6
+    icon: frozen28
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 27
+    yearLength:
+      value: 114.1
+    temperature:
+      value: -194
+    water:
+      value: 31
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Zhenglong
+      - name:
+          value: Tân Phước Hưng
+      - name:
+          value: Huyện Bạch Thông
+    satellite:
+      - name:
+          value: Ng
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Tung
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ho
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Nova Quảng Phúc
+    type:
+      value: ICE_GIANT
+    orbitalDist: 46.56
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 317.7
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Gautr
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: An
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.64
+    sysPos:
+      value: 8
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 891.7
+    smallMoons:
+      value: 27
+    satellite:
+      - name:
+          value: Abdul-Muttalib I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Abdul-Muttalib II
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Abdul-Muttalib III
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Abdul-Muttalib IV
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Innina
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.8
+    sysPos:
+      value: 9
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2512.2
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: H0F1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: H0F2
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Ellil
+    type:
+      value: GAS_GIANT
+    orbitalDist: 369.12
+    sysPos:
+      value: 10
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 7091.7
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: YY1
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: YY2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: YY3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: YY4
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: YY5
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: YY6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Bình Quý
+    type:
+      value: GAS_GIANT
+    orbitalDist: 737.76
+    sysPos:
+      value: 11
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 20038.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Susano Wu A
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Susano Wu B
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Susano Wu C
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Susano Wu D
+        size:
+          value: medium
+        icon: oddmoon1

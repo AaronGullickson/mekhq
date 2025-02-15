@@ -1,0 +1,567 @@
+id: Ambrose
+sucsId: 116
+xcood: -226.176
+ycood: 427.523
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2871-11-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ambrose
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 12000
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 30
+    water:
+      value: 26
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Webster
+        capital:
+          value: New Jordan City
+      - name:
+          value: Pritchard
+      - name:
+          value: Torngarsak
+    event:
+      - date: '2627-10-29'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 47773.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2630-01-01'
+        population:
+          value: 118830.0
+      - date: '2635-04-28'
+        hpg:
+          value: X
+      - date: '2640-01-01'
+        population:
+          value: 1152273.0
+      - date: '2642-01-01'
+        socioIndustrial:
+          value: C-D-D-C-F
+      - date: '2650-01-01'
+        population:
+          value: 4830318.0
+      - date: '2660-01-01'
+        population:
+          value: 11911753.0
+      - date: '2670-01-01'
+        population:
+          value: 21208536.0
+      - date: '2680-01-01'
+        population:
+          value: 30787127.0
+      - date: '2690-01-01'
+        population:
+          value: 39132006.0
+      - date: '2700-01-01'
+        population:
+          value: 45630024.0
+      - date: '2710-01-01'
+        population:
+          value: 50297195.0
+      - date: '2711-01-01'
+        socioIndustrial:
+          value: C-D-C-B-D
+      - date: '2720-01-01'
+        population:
+          value: 53765663.0
+      - date: '2730-01-01'
+        population:
+          value: 36866803.0
+      - date: '2740-01-01'
+        population:
+          value: 21567706.0
+      - date: '2750-01-01'
+        population:
+          value: 14745382.0
+      - date: '2760-01-01'
+        population:
+          value: 10530754.0
+      - date: '2770-01-01'
+        population:
+          value: 7199653.0
+      - date: '2779-03-27'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 4861261.0
+      - date: '2790-01-01'
+        population:
+          value: 3201525.0
+      - date: '2800-01-01'
+        population:
+          value: 2056532.0
+      - date: '2810-01-01'
+        population:
+          value: 1218200.0
+      - date: '2820-01-01'
+        population:
+          value: 621335.0
+      - date: '2830-01-01'
+        population:
+          value: 312981.0
+      - date: '2840-01-01'
+        population:
+          value: 170964.0
+      - date: '2850-01-01'
+        population:
+          value: 83998.0
+      - date: '2860-10-14'
+        population:
+          value: 49447.0
+        socioIndustrial:
+          value: D-D-D-C-D
+      - date: '2870-01-01'
+        population:
+          value: 28748.0
+      - date: '2871-09-17'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Suai
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse30
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.99
+    diameter:
+      value: 14500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 3
+    water:
+      value: 36
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: New Breed
+      - name:
+          value: New Eidsvold
+      - name:
+          value: Hingham
+      - name:
+          value: New Conrad Hill
+  - name:
+      value: Czernobog
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1300
+    density:
+      value: 4.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -78
+    water:
+      value: 0
+  - name:
+      value: Cavalier
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 4
+    icon: frozen33
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Argon
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -118
+    water:
+      value: 100
+    landmass:
+      - name:
+          value: Magana Archipelago
+      - name:
+          value: Garrard Archipelago
+      - name:
+          value: Murdoch Archipelago
+      - name:
+          value: Thompson Archipelago
+  - name:
+      value: Oglethorpe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Yum Cimih 1
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Yum Cimih 2
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Yum Cimih 3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Yum Cimih 4
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Yum Cimih 5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Yum Cimih 6
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Yum Cimih 7
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Yum Cimih 8
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: New Hanalei
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 15
+  - name:
+      value: Pompton Lakes
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 7
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Doña Ana
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.16
+    sysPos:
+      value: 8
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 141.5
+  - name:
+      value: Rusalka
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 9
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 170000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 397.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Susano
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Seven Gods of Luck
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Kuku No Chi
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Chernabog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 10
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 170000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Volkh 1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Volkh 2
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Cavan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 11
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3159.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Mokhtari
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Hickory Plain
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 430.36
+    sysPos:
+      value: 12
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8927.9
+    satellite:
+      - name:
+          value: Manito
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Old Man
+        size:
+          value: medium
+        icon: oddmoon1

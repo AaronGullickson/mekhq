@@ -1,0 +1,310 @@
+id: New Venice
+sucsId: 2874
+xcood: -470.704
+ycood: -296.494
+spectralType:
+  value: F5V
+primarySlot: 3
+planet:
+  - name:
+      value: Chinú
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: De La Torre I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: De La Torre II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: De La Torre III
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: De La Torre IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: De La Torre V
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: De La Torre VI
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pittsfield
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1800
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: New Venice
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: green20
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.19
+    diameter:
+      value: 13200
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 43
+    water:
+      value: 31
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Mays
+        capital:
+          value: Luck
+      - name:
+          value: Wadsworth's Retreat
+      - name:
+          value: Wilson's Rest
+      - name:
+          value: Lockhart
+      - name:
+          value: Hester
+    event:
+      - date: '3000-04-12'
+        faction:
+          source: canon
+          value:
+            - MH
+        population:
+          value: 49293.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '3003-06-18'
+        hpg:
+          value: B
+      - date: '3010-01-01'
+        population:
+          value: 4960884.0
+      - date: '3020-01-01'
+        population:
+          value: 24358750.0
+      - date: '3030-01-01'
+        population:
+          value: 42213518.0
+      - date: '3040-04-15'
+        population:
+          value: 51185804.0
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '3050-01-01'
+        population:
+          value: 55016072.0
+      - date: '3060-01-01'
+        population:
+          value: 56155287.0
+      - date: '3070-01-01'
+        population:
+          value: 56513365.0
+      - date: '3080-01-01'
+        population:
+          value: 57229938.0
+      - date: '3090-01-01'
+        population:
+          value: 58222807.0
+      - date: '3100-01-01'
+        population:
+          value: 59292164.0
+      - date: '3110-01-01'
+        population:
+          value: 60332876.0
+      - date: '3120-01-01'
+        population:
+          value: 61453277.0
+      - date: '3129-01-01'
+        socioIndustrial:
+          value: B-D-A-C-F
+      - date: '3130-01-01'
+        population:
+          value: 62707255.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 63312144.0
+      - date: '3145-01-01'
+        population:
+          value: 63515067.0
+  - name:
+      value: Beaverhead
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: rock2
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.6
+    temperature:
+      value: -16
+    water:
+      value: 0
+  - name:
+      value: Weishi Xian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Yehovah
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Alaha
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: New Leonardtown
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Sint Holo I
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Sint Holo II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Sint Holo III
+        size:
+          value: large
+        icon: rock5

@@ -1,0 +1,615 @@
+id: Lochmantle
+sucsId: 1503
+xcood: 138.301
+ycood: -327.701
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2734-06-27'
+    zenithCharge:
+      value: yes
+  - date: '2850-03-13'
+    zenithCharge:
+      value: no
+  - date: '2852-08-14'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Lochmantle
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 38
+    water:
+      value: 40
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Northern Grayson
+        capital:
+          value: New Hurdugi
+      - name:
+          value: Southern Grayson
+      - name:
+          value: Raymond
+    event:
+      - date: '2686-11-08'
+        faction:
+          source: canon
+          value:
+            - CC
+        hpg:
+          value: A
+        population:
+          value: 47809.0
+        socioIndustrial:
+          value: C-F-A-F-B
+      - date: '2689-01-01'
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2690-01-01'
+        population:
+          value: 408474.0
+      - date: '2700-01-01'
+        population:
+          value: 10591599.0
+      - date: '2710-01-01'
+        population:
+          value: 49966722.0
+      - date: '2720-01-01'
+        population:
+          value: 104539964.0
+      - date: '2727-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '2730-01-01'
+        population:
+          value: 148597984.0
+      - date: '2740-01-01'
+        population:
+          value: 175649210.0
+      - date: '2750-01-01'
+        population:
+          value: 191122658.0
+      - date: '2760-01-01'
+        population:
+          value: 199442616.0
+      - date: '2770-01-01'
+        population:
+          value: 204491542.0
+      - date: '2780-01-01'
+        population:
+          value: 208199255.0
+      - date: '2790-01-01'
+        population:
+          value: 207929098.0
+      - date: '2800-01-01'
+        population:
+          value: 207139591.0
+      - date: '2810-01-01'
+        population:
+          value: 207461476.0
+      - date: '2820-01-01'
+        population:
+          value: 207107429.0
+      - date: '2830-01-01'
+        population:
+          value: 46156076.0
+      - date: '2840-01-01'
+        population:
+          value: 2052337.0
+      - date: '2847-01-01'
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '2850-01-01'
+        population:
+          value: 98456.0
+      - date: '2852-10-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Asbru
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 55000
+    density:
+      value: 2.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: VDP1
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: VDP2
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: VDP3
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Fenrisulfr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: J-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: J-2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: J-3
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: J-4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Týr's Rock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Perusan
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Piorun
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Brunsbek
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Yates
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Kamchatka
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Hicks
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Zorya Polunochnaya
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Brotherton
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Fathi
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Frigg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Pax
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Brock
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Shams
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Qilang Xiang
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Casey
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Gangleri's Wind
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 6
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Abdul-Khaliq
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Booth
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Ertugrul
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Bjort
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Aius Locutus
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Danu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Lakey Alpha
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Lakey Beta
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Lakey Gamma
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Lakey Delta
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Helheim
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 141.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Lan Ts'ai Ho I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Lan Ts'ai Ho II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Lan Ts'ai Ho III
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Lan Ts'ai Ho IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lan Ts'ai Ho V
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lan Ts'ai Ho VI
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Asgardr's Folly
+    type:
+      value: ICE_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 397.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Frydeck
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Watkins
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ui
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Patterson
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Fricco
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1119.3
+    smallMoons:
+      value: 11

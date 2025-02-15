@@ -1,0 +1,460 @@
+id: Caledea
+sucsId: 439
+xcood: -283.323
+ycood: 215.575
+spectralType:
+  value: G3V
+primarySlot: 2
+event:
+  - date: '2627-12-02'
+    nadirCharge:
+      value: yes
+  - date: '2795-04-01'
+    nadirCharge:
+      value: no
+  - date: '2922-11-29'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Cizin
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren13
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 192
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Caledea
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green13
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 43
+    water:
+      value: 34
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Passy-sur-Seine
+        capital:
+          value: Bellmawr
+    satellite:
+      - name:
+          value: 7C-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 7C-2
+        size:
+          value: medium
+        icon: rock13
+    event:
+      - date: '2609-05-19'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 46835.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2610-01-01'
+        population:
+          value: 64984.0
+      - date: '2620-01-01'
+        population:
+          value: 894992.0
+      - date: '2630-01-01'
+        population:
+          value: 5023752.0
+      - date: '2640-01-01'
+        population:
+          value: 15575861.0
+      - date: '2650-01-01'
+        population:
+          value: 32876016.0
+      - date: '2660-01-01'
+        population:
+          value: 53709842.0
+      - date: '2669-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2670-01-01'
+        population:
+          value: 74373646.0
+      - date: '2680-01-01'
+        population:
+          value: 92511851.0
+      - date: '2682-01-20'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 107552396.0
+      - date: '2700-01-01'
+        population:
+          value: 118579773.0
+      - date: '2710-01-01'
+        population:
+          value: 126672941.0
+      - date: '2720-01-01'
+        population:
+          value: 132116628.0
+      - date: '2730-01-01'
+        population:
+          value: 136668536.0
+      - date: '2740-01-01'
+        population:
+          value: 140461857.0
+      - date: '2750-01-01'
+        population:
+          value: 142953477.0
+      - date: '2760-01-01'
+        population:
+          value: 145322069.0
+      - date: '2770-01-01'
+        population:
+          value: 147404810.0
+      - date: '2780-01-01'
+        population:
+          value: 149320861.0
+      - date: '2790-01-01'
+        population:
+          value: 124882679.0
+      - date: '2800-01-01'
+        population:
+          value: 52621190.0
+      - date: '2810-01-01'
+        population:
+          value: 21026735.0
+      - date: '2820-01-01'
+        population:
+          value: 10872439.0
+      - date: '2830-01-01'
+        population:
+          value: 4088824.0
+      - date: '2840-01-01'
+        population:
+          value: 1272208.0
+      - date: '2850-01-01'
+        population:
+          value: 398851.0
+      - date: '2860-01-01'
+        population:
+          value: 134892.0
+      - date: '2870-11-15'
+        population:
+          value: 55984.0
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '2880-01-01'
+        population:
+          value: 29614.0
+      - date: '2890-01-01'
+        population:
+          value: 14968.0
+      - date: '2900-01-01'
+        population:
+          value: 6165.0
+      - date: '2904-01-01'
+        socioIndustrial:
+          value: C-F-C-D-D
+      - date: '2910-01-01'
+        population:
+          value: 2578.0
+      - date: '2920-01-01'
+        population:
+          value: 1245.0
+      - date: '2922-07-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Nirupa's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -46
+  - name:
+      value: Mikula Selianinovich
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 9C1
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: 9C2
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: 9C3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 9C4
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: 9C5
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 9C6
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 9C7
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Chac Mol
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Valle de La Pascua
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Hettstadt
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Ler
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Anu
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Amel
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Glodeni
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Aranrhod
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Kehlen
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Xbalanque
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Tawhirimatea
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Kang
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Hun Hunaphu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Courtenay Alpha
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Courtenay Beta
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Courtenay Gamma
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Courtenay Delta
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Courtenay Epsilon
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Courtenay Zeta
+        size:
+          value: medium
+        icon: rock12

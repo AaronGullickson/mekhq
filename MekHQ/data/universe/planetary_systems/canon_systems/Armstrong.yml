@@ -1,0 +1,278 @@
+id: Armstrong
+sucsId: 180
+xcood: -488.302
+ycood: 12.607
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2817-05-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: O1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Warnford I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Warnford II
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Warnford III
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      source: canon
+      value: Armstrong
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: green5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.31
+    diameter:
+      value: 13500
+    density:
+      value: 6.8337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 38
+    water:
+      value: 58
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Olean
+        capital:
+          value: McCree City
+      - name:
+          value: New Blackburn
+      - name:
+          value: Tuolumne
+      - name:
+          value: New Gooding
+      - name:
+          value: Jackson Hill
+    event:
+      - date: '2721-10-14'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 44725.0
+        socioIndustrial:
+          value: C-F-C-D-D
+      - date: '2726-07-04'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 157297.0
+      - date: '2740-01-01'
+        population:
+          value: 492829.0
+      - date: '2750-01-01'
+        population:
+          value: 1252931.0
+      - date: '2760-01-01'
+        population:
+          value: 2681465.0
+      - date: '2770-01-01'
+        population:
+          value: 4993748.0
+      - date: '2779-11-17'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2672669.0
+      - date: '2790-01-01'
+        population:
+          value: 499680.0
+      - date: '2800-01-01'
+        population:
+          value: 91896.0
+      - date: '2810-01-01'
+        population:
+          value: 26780.0
+      - date: '2817-03-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: O3
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Aristaeus
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: O4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Ryan I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Ryan II
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Ryan III
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Ryan IV
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Ryan V
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: O5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Leschi
+        size:
+          value: medium
+        icon: rock2

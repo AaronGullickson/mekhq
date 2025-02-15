@@ -1,0 +1,459 @@
+id: Saggina
+sucsId: 3122
+xcood: -605.874
+ycood: -2003.902
+spectralType:
+  value: F9V
+primarySlot: 3
+planet:
+  - name:
+      value: Mamaroneck
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.15
+    diameter:
+      value: 1700
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Faggiano
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 124
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Saggina
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green27
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 12000
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 30
+    water:
+      value: 32
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: New Savignano Irpino
+        capital:
+          value: New Röhricht Town
+      - name:
+          value: New Melrose
+    satellite:
+      - name:
+          value: JX.1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: JX.2
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '3095-12-31'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '3098-11-11'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 77635.0
+      - date: '3110-01-01'
+        population:
+          value: 135439.0
+      - date: '3120-01-01'
+        population:
+          value: 152478.0
+      - date: '3130-01-01'
+        population:
+          value: 173213.0
+      - date: '3140-01-01'
+        population:
+          value: 188109.0
+      - date: '3145-01-01'
+        population:
+          value: 196768.0
+  - name:
+      value: Rudersdal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: green40
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 29
+    water:
+      value: 29
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - capital:
+          value: Lusatown
+    event:
+      - date: '3095-12-08'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3100-01-01'
+        population:
+          value: 78416.0
+      - date: '3110-01-01'
+        population:
+          value: 127424.0
+      - date: '3120-01-01'
+        population:
+          value: 150961.0
+      - date: '3130-01-01'
+        population:
+          value: 180733.0
+      - date: '3140-01-01'
+        population:
+          value: 209668.0
+      - date: '3145-01-01'
+        population:
+          value: 218333.0
+  - name:
+      value: Morris
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Djous Pater 1
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Djous Pater 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Lierne
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1100
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -135
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Bres
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Pleasure I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Pleasure II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Pleasure III
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Pleasure IV
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Anatina Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -202
+  - name:
+      value: L'alba di Manacorda
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 278.8
+  - name:
+      value: Ottini
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 782.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Mombaroccio
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 169.4
+    sysPos:
+      value: 11
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2204.8
+    satellite:
+      - name:
+          value: Lans
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Ruggieri
+    type:
+      value: GAS_GIANT
+    orbitalDist: 338.36
+    sysPos:
+      value: 12
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 6224.0
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Aosta 1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Aosta 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Aosta 3
+        size:
+          value: medium
+        icon: rock14

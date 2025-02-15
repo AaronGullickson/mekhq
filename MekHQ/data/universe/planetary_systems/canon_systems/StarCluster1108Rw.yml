@@ -1,0 +1,363 @@
+id: Star Cluster 1108 (RW)
+sucsId: 3123
+xcood: 528.249
+ycood: -1890.273
+spectralType:
+  value: G9V
+primarySlot: 2
+planet:
+  - name:
+      value: Stroudsburg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: greenhouse19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 203
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Star Cluster 1108 (RW)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: green55
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 10800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 21
+    water:
+      value: 49
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Davézieux
+        capital:
+          value: Alcides
+      - name:
+          value: Saarwellingen
+    event:
+      - date: '3095-10-12'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3100-08-17'
+        hpg:
+          value: X
+        population:
+          value: 88413.0
+      - date: '3110-01-01'
+        population:
+          value: 170976.0
+      - date: '3120-01-01'
+        population:
+          value: 205310.0
+      - date: '3130-01-01'
+        population:
+          value: 238179.0
+      - date: '3140-01-01'
+        population:
+          value: 266940.0
+      - date: '3145-01-01'
+        population:
+          value: 279226.0
+  - name:
+      value: Chazy
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1600
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Mapimí
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Ananas
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Bowen
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Tso
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Kostner
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Berruti
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: frozen11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -106
+    water:
+      value: 42
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Salomó
+      - name:
+          value: New Arquà Polesine
+  - name:
+      value: Raja
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Harstad
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Sharifi
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Venus
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Perletto
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 55000
+    density:
+      value: 2.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 10
+  - name:
+      value: Hilton
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      value: Erikub Atoll
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.64
+    diameter:
+      value: 160000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Bailey
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Pfaller
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Nasution
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Zhen
+        size:
+          value: medium
+        icon: oddmoon2

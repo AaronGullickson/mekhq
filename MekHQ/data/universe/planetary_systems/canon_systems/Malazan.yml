@@ -1,0 +1,396 @@
+id: Malazan
+sucsId: 1573
+xcood: -282.661
+ycood: -43.906
+spectralType:
+  value: K0V
+primarySlot: 2
+event:
+  - date: '2791-07-03'
+    zenithCharge:
+      value: yes
+  - date: '2796-04-18'
+    zenithCharge:
+      value: no
+  - date: '2922-10-31'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Shamash
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 147
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Malazan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 12900
+    density:
+      value: 5.2795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 38
+    water:
+      value: 42
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Old Dimos Eordaia
+        capital:
+          value: Old Luabo
+    event:
+      - date: '2727-02-14'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 51138.0
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2730-06-25'
+        hpg:
+          value: B
+        population:
+          value: 87792.0
+      - date: '2740-01-01'
+        population:
+          value: 419970.0
+      - date: '2750-01-01'
+        population:
+          value: 1473028.0
+      - date: '2760-01-01'
+        population:
+          value: 4010230.0
+      - date: '2770-01-01'
+        population:
+          value: 8966842.0
+      - date: '2772-01-08'
+        hpg:
+          value: X
+      - date: '2780-07-31'
+        hpg:
+          value: B
+        population:
+          value: 17249414.0
+      - date: '2790-01-01'
+        population:
+          value: 20037261.0
+      - date: '2800-01-01'
+        population:
+          value: 11333080.0
+      - date: '2801-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2810-01-01'
+        population:
+          value: 4644850.0
+      - date: '2820-01-01'
+        population:
+          value: 1915515.0
+      - date: '2830-01-01'
+        population:
+          value: 809767.0
+      - date: '2840-01-01'
+        population:
+          value: 346589.0
+      - date: '2850-01-01'
+        population:
+          value: 157823.0
+      - date: '2860-01-01'
+        population:
+          value: 67133.0
+      - date: '2870-01-01'
+        population:
+          value: 29454.0
+      - date: '2880-01-01'
+        population:
+          value: 13412.0
+      - date: '2890-01-01'
+        population:
+          value: 5600.0
+      - date: '2900-01-01'
+        population:
+          value: 2324.0
+      - date: '2910-01-01'
+        population:
+          value: 952.0
+      - date: '2920-01-01'
+        population:
+          value: 376.0
+      - date: '2922-09-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: González
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.1
+    temperature:
+      value: -7
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Erishkegal
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1100
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -63
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Yoriksson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: PG-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: PG-2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: PG-3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: PG-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: PG-5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Tiamay's Harvest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 35000
+    density:
+      value: 2.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Chengfeng Xiang A
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Chengfeng Xiang B
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Chengfeng Xiang C
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Chengfeng Xiang D
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Tiamat
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 35000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+  - name:
+      value: Yan
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Deucalion
+        size:
+          value: medium
+        icon: oddmoon1

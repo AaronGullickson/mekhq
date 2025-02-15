@@ -1,0 +1,570 @@
+id: Noh-wan Hohm
+sucsId: 1886
+xcood: 155.019
+ycood: -178.376
+spectralType:
+  value: F3V
+primarySlot: 4
+event:
+  - date: '2817-02-24'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Conner's Choice
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: barren11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 289
+    water:
+      value: 0
+  - name:
+      value: Chong's Stand
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.6
+    satellite:
+      - name:
+          value: Sutekh
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: Smith's Meridian
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.99
+    diameter:
+      value: 14500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 64
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Noh-wan Hohm
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.61
+    diameter:
+      value: 10800
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 20
+    water:
+      value: 53
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Finley's Hole
+        capital:
+          value: Mandi Bahāuddīn
+    event:
+      - date: '2705-07-10'
+        faction:
+          source: canon
+          value:
+            - FS
+        hpg:
+          value: B
+        population:
+          value: 52495.0
+        socioIndustrial:
+          value: C-D-D-D-B
+      - date: '2710-01-01'
+        population:
+          value: 123906.0
+      - date: '2720-01-01'
+        population:
+          value: 537490.0
+      - date: '2730-01-01'
+        population:
+          value: 1771319.0
+      - date: '2740-01-01'
+        population:
+          value: 4668773.0
+      - date: '2750-01-01'
+        population:
+          value: 10284109.0
+      - date: '2760-01-01'
+        population:
+          value: 19566855.0
+      - date: '2770-08-16'
+        population:
+          value: 33126068.0
+        socioIndustrial:
+          value: D-D-D-D-B
+      - date: '2780-01-01'
+        population:
+          value: 51051960.0
+      - date: '2790-01-01'
+        population:
+          value: 72677672.0
+      - date: '2800-01-01'
+        population:
+          value: 38734609.0
+      - date: '2810-01-01'
+        population:
+          value: 31131.0
+      - date: '2817-05-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: McCormick's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -72
+  - name:
+      value: Schumacher
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: ZQG-1
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: ZQG-2
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: ZQG-3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: ZQG-4
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: ZQG-5
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: ZQG-6
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: ZQG-7
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Warmisch
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 58.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Peron I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Peron II
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Peron III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Peron IV
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Peron V
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Peron VI
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Peron VII
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Kent
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: frozen24
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 159.4
+    temperature:
+      value: -188
+    water:
+      value: 100
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Jambavan Archipelago
+      - name:
+          value: Devaki Archipelago
+      - name:
+          value: Shiva's Land Archipelago
+      - name:
+          value: Krishna Archipelago
+      - name:
+          value: Walker Archipelago
+      - name:
+          value: Macha Archipelago
+      - name:
+          value: Candra Archipelago
+      - name:
+          value: Chechko Archipelago
+      - name:
+          value: Nirriti Archipelago
+      - name:
+          value: Vedas Archipelago
+      - name:
+          value: Gauri Archipelago
+      - name:
+          value: Tanaka's End Archipelago
+      - name:
+          value: Ama No Minaka Nushi Archipelago
+      - name:
+          value: Vikanes Archipelago
+  - name:
+      value: Wallace
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Wetton
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Scott
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Ives
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Knutsen
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Palamas
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hernández
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Kendal
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: O'Morgan's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Son of Man
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Satan
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: McCormick's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 231.0
+    sysPos:
+      value: 11
+    icon: asteroid2
+    yearLength:
+      value: 3510.9
+    temperature:
+      value: -246
+  - name:
+      value: Ayagawa Chō
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 12
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 9911.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Su
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Izmaylovo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 922.2
+    sysPos:
+      value: 13
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 28005.099999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 15

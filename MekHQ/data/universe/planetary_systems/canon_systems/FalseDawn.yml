@@ -1,0 +1,480 @@
+id: False Dawn
+sucsId: 846
+xcood: 632.695
+ycood: 288.309
+spectralType:
+  value: M2V
+primarySlot: 1
+event:
+  - date: '2810-01-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: False Dawn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: green3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.99
+    diameter:
+      value: 13200
+    density:
+      value: 5.2795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 19
+    water:
+      value: 56
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Smith's Gulf
+        capital:
+          value: Alva
+    satellite:
+      - name:
+          value: Talley
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2598-01-06'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 52406.0
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2600-01-01'
+        population:
+          value: 84615.0
+      - date: '2610-06-18'
+        population:
+          value: 573403.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2620-01-01'
+        population:
+          value: 2109275.0
+      - date: '2630-01-01'
+        population:
+          value: 5134575.0
+      - date: '2640-01-01'
+        population:
+          value: 9387895.0
+      - date: '2650-01-01'
+        population:
+          value: 14142925.0
+      - date: '2660-01-01'
+        population:
+          value: 18675611.0
+      - date: '2670-01-01'
+        population:
+          value: 22596116.0
+      - date: '2680-01-01'
+        population:
+          value: 25778189.0
+      - date: '2690-01-01'
+        population:
+          value: 28310130.0
+      - date: '2700-01-01'
+        population:
+          value: 30313614.0
+      - date: '2710-01-01'
+        population:
+          value: 31879768.0
+      - date: '2720-01-01'
+        population:
+          value: 32870112.0
+      - date: '2726-04-06'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 33202325.0
+      - date: '2740-01-01'
+        population:
+          value: 33396094.0
+      - date: '2750-01-01'
+        population:
+          value: 33548762.0
+      - date: '2760-01-01'
+        population:
+          value: 33671579.0
+      - date: '2770-01-01'
+        population:
+          value: 33822415.0
+      - date: '2780-01-01'
+        population:
+          value: 33880465.0
+      - date: '2790-01-01'
+        population:
+          value: 5982062.0
+      - date: '2793-09-03'
+        hpg:
+          value: D
+      - date: '2800-01-01'
+        population:
+          value: 72662.0
+      - date: '2810-09-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Klamath Falls
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: greenhouse12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 40
+    water:
+      value: 37
+    landmass:
+      - name:
+          value: L'Aleixar
+        capital:
+          value: L'Aleixar City
+    satellite:
+      - name:
+          value: Jones
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Mendocino
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 3
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: E-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Pilan Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.64
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -127
+  - name:
+      value: Potter
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Durango
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Vargas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 6
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Jones I
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Jones II
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Jones III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Jones IV
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Jones V
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Jones VI
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Jones VII
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Jones VIII
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Jones IX
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Berthold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 7
+    yearLength:
+      value: 8.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: 7B1
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: 7B2
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: 7B3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 7B4
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: 7B5
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 7B6
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 7B7
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 7B8
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Baker's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.84
+    sysPos:
+      value: 8
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 22.0
+    smallMoons:
+      value: 15
+  - name:
+      value: Zhou's Garden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.52
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 61.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: L7-1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: L7-2
+        size:
+          value: large
+        icon: rock11

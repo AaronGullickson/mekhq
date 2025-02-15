@@ -1,0 +1,338 @@
+id: Mazdru
+sucsId: 1638
+xcood: 92.725
+ycood: -321.517
+spectralType:
+  value: M7V
+primarySlot: 1
+event:
+  - date: '2922-09-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Mazdru
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 31
+    water:
+      value: 37
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Sethuraman
+        capital:
+          value: New Maryadi Town
+      - name:
+          value: New Sant Martí de Tous
+    event:
+      - date: '2705-05-01'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 46877.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 104854.0
+      - date: '2715-08-21'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 418291.0
+      - date: '2730-01-01'
+        population:
+          value: 1296579.0
+      - date: '2740-01-01'
+        population:
+          value: 3259925.0
+      - date: '2750-01-01'
+        population:
+          value: 6926823.0
+      - date: '2760-01-01'
+        population:
+          value: 12811845.0
+      - date: '2768-09-23'
+        hpg:
+          value: C
+      - date: '2770-01-01'
+        population:
+          value: 21284264.0
+      - date: '2780-01-01'
+        population:
+          value: 32182741.0
+      - date: '2790-01-01'
+        population:
+          value: 33244647.0
+      - date: '2800-01-01'
+        population:
+          value: 17219293.0
+      - date: '2810-01-01'
+        population:
+          value: 6991938.0
+      - date: '2820-01-01'
+        population:
+          value: 2934034.0
+      - date: '2830-01-01'
+        population:
+          value: 1058328.0
+      - date: '2840-01-01'
+        population:
+          value: 413105.0
+      - date: '2850-01-01'
+        population:
+          value: 151980.0
+      - date: '2860-01-01'
+        population:
+          value: 69470.0
+      - date: '2870-01-01'
+        population:
+          value: 35279.0
+      - date: '2880-01-01'
+        population:
+          value: 19388.0
+      - date: '2890-01-01'
+        population:
+          value: 11682.0
+      - date: '2900-01-01'
+        population:
+          value: 7618.0
+      - date: '2910-01-01'
+        population:
+          value: 4104.0
+      - date: '2917-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2920-01-01'
+        population:
+          value: 1939.0
+      - date: '2922-02-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Dumuzi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 2
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 140000
+    density:
+      value: 0.7
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Susano O 1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Susano O 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Susano O 3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Susano O 4
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Wodan
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 3
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 40000
+    density:
+      value: 1.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Thornapple
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Woodruff
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Peko
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 4
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 2KA1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 2KA2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 2KA3
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: 1F-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.52
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -178
+  - name:
+      value: Rogašovci
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 6
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Muijlwijk A
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Muijlwijk B
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Muijlwijk C
+        size:
+          value: large
+        icon: rock1

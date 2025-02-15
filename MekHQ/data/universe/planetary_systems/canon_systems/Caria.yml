@@ -1,0 +1,468 @@
+id: Caria
+sucsId: 474
+xcood: 157.768
+ycood: -125.011
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2763-12-26'
+    nadirCharge:
+      value: yes
+  - date: '2806-11-13'
+    nadirCharge:
+      value: no
+  - date: '2832-02-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Caria
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 31
+    water:
+      value: 50
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Jazente
+        capital:
+          value: Hein
+      - name:
+          value: Monte
+      - name:
+          value: Casal de Cinza
+      - name:
+          value: Nova Cabeceiras de Basto
+      - name:
+          value: Dume
+    satellite:
+      - name:
+          value: A0K1
+        size:
+          value: medium
+        icon: rock5
+    event:
+      - date: '2683-02-08'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 47475.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2684-08-27'
+        hpg:
+          value: A
+      - date: '2690-01-01'
+        population:
+          value: 2454400.0
+      - date: '2700-01-01'
+        population:
+          value: 51664851.0
+      - date: '2710-01-01'
+        population:
+          value: 224208040.0
+      - date: '2720-01-01'
+        population:
+          value: 454525773.0
+      - date: '2722-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2728-01-01'
+        socioIndustrial:
+          value: B-D-B-C-C
+      - date: '2729-01-01'
+        socioIndustrial:
+          value: A-C-B-B-B
+      - date: '2730-01-01'
+        population:
+          value: 638508995.0
+      - date: '2740-01-01'
+        population:
+          value: 755974899.0
+      - date: '2750-01-01'
+        population:
+          value: 820291193.0
+      - date: '2760-01-01'
+        population:
+          value: 857879724.0
+      - date: '2769-01-27'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 878916428.0
+      - date: '2780-03-02'
+        hpg:
+          value: A
+        population:
+          value: 892771771.0
+      - date: '2790-01-01'
+        population:
+          value: 897090147.0
+      - date: '2800-01-01'
+        population:
+          value: 893573699.0
+      - date: '2810-01-01'
+        population:
+          value: 880002677.0
+      - date: '2820-01-01'
+        population:
+          value: 11983391.0
+      - date: '2830-01-01'
+        population:
+          value: 9577.0
+      - date: '2832-03-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Batista
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 8
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Arronches
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Kutaiba
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Padim
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Cary
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Genísio
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 4
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Veritas 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Veritas 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Veritas 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Gaio-Rosário
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Sterculius
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Fates
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Anna Perenna
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Jupiter
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Ventura's Wind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Olufon A
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Olufon B
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Olufon C
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Olufon D
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Saint Serralheiro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Tschernobog
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Mikula
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Volkh
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Boa Ventura
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 112.3
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 1SN1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 1SN2
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: 1SN3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 1SN4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ameno's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 315.2
+    temperature:
+      value: -246

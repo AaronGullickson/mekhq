@@ -1,0 +1,469 @@
+id: Glabach
+sucsId: 962
+xcood: 108.824
+ycood: 443.254
+spectralType:
+  value: G5V
+primarySlot: 2
+event:
+  - date: '2921-06-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Shaefer
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Glabach
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 2
+    icon: green51
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 35
+    water:
+      value: 57
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Buna Lejos Dos
+        capital:
+          value: Junglinster
+      - name:
+          value: Old Niederfeulen
+      - name:
+          value: Kiischpelt
+      - name:
+          value: Neu Redange
+      - name:
+          value: Dippach
+    event:
+      - date: '2675-01-15'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 49609.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2680-01-01'
+        population:
+          value: 396683.0
+      - date: '2690-01-01'
+        population:
+          value: 5172502.0
+      - date: '2700-07-11'
+        hpg:
+          value: B
+        population:
+          value: 19588593.0
+      - date: '2706-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2710-01-01'
+        population:
+          value: 39201429.0
+      - date: '2720-01-01'
+        population:
+          value: 55947017.0
+      - date: '2730-01-01'
+        population:
+          value: 66975376.0
+      - date: '2740-01-01'
+        population:
+          value: 73728219.0
+      - date: '2750-01-01'
+        population:
+          value: 77853206.0
+      - date: '2760-01-01'
+        population:
+          value: 80040269.0
+      - date: '2770-01-01'
+        population:
+          value: 81503060.0
+      - date: '2780-01-01'
+        population:
+          value: 82544145.0
+      - date: '2790-01-01'
+        population:
+          value: 71696594.0
+      - date: '2800-01-01'
+        population:
+          value: 40309130.0
+      - date: '2810-01-01'
+        population:
+          value: 23157245.0
+      - date: '2820-01-01'
+        population:
+          value: 13692259.0
+      - date: '2830-01-01'
+        population:
+          value: 8890041.0
+      - date: '2840-01-01'
+        population:
+          value: 5528093.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2850-01-01'
+        population:
+          value: 2998122.0
+      - date: '2860-01-01'
+        population:
+          value: 1524009.0
+      - date: '2870-01-01'
+        population:
+          value: 856826.0
+      - date: '2880-01-01'
+        population:
+          value: 408221.0
+      - date: '2890-01-01'
+        population:
+          value: 184933.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: F-F-C-F-D
+      - date: '2900-01-01'
+        population:
+          value: 67995.0
+      - date: '2910-01-01'
+        population:
+          value: 19432.0
+      - date: '2920-01-01'
+        population:
+          value: 6942.0
+      - date: '2921-06-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Zoepfel
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 900
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -52
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Ashur's Rock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.94
+    diameter:
+      value: 80000
+    density:
+      value: 1.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Proklersversehen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: RA1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: RA2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: RA3
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: RA4
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: RA5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Idun
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Lokkju
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: Jormungand
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lopti
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Loki Laufeyjarson
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Baldur
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Carew
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Gotterdammerung
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Breede Valley 1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Breede Valley 2
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Breede Valley 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Breede Valley 4
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Breede Valley 5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Morín
+    type:
+      value: GAS_GIANT
+    orbitalDist: 553.32
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 13015.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Annapurna
+        size:
+          value: large
+        icon: rock7

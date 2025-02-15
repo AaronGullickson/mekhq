@@ -1,0 +1,728 @@
+id: Itabaiana
+sucsId: 1218
+xcood: 127.168
+ycood: 307.557
+spectralType:
+  source: canon
+  value: G8V
+primarySlot: 4
+event:
+  - date: '2388-04-24'
+    nadirCharge:
+      value: yes
+  - date: '2431-07-29'
+    zenithCharge:
+      value: yes
+  - date: '2796-10-30'
+    nadirCharge:
+      value: no
+  - date: '2817-02-10'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Seleção de Calvinho
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: greenhouse6
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 218
+    water:
+      value: 0
+    smallMoons:
+      value: 6
+  - name:
+      value: Reino
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 2
+    icon: frozen2
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -27
+    water:
+      value: 25
+  - name:
+      value: Cabido's Redoubt
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.1
+    satellite:
+      - name:
+          value: Lans
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Itabaiana
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 4
+    icon: green50
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.92
+    diameter:
+      value: 12208
+    density:
+      value: 5.292252085833
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      Itabaiana is a very comfortable planet for human habitation, though it lacks any distinct geological features that dominate some planets and make them memorable. The planet has six major continents and almost all of them feature large deposits of rhenium. The Tesouras continent has mostly been mined dry over the centuries of Combine rule due to strip-mining, not only has the strip-mining removed most of the rhenium from the continent it has also destroyed the continent’s ecosystem. The only spaceport on planet is located at the planetary capital of Brasilia on the coast of the Mato Grasso continent.
+
+      Itabaiana became the IS capital for the Diamond Sharks after they captured the planet from the Nova Cats. The Diamond Sharks expanded the manufacturing already on planet and brought the IndustriPlex-C plant to the planet, their largest planet-bound mobile factory.
+    landmass:
+      - name:
+          source: canon
+          value: Arado
+      - name:
+          source: canon
+          value: Cauda do Macaco
+      - name:
+          source: canon
+          value: Cerrado
+      - name:
+          source: canon
+          value: Coelho
+      - name:
+          source: canon
+          value: Mato Grosso
+        capital:
+          source: canon
+          value: Brasilia
+      - name:
+          source: canon
+          value: Tesouras
+    satellite:
+      - name:
+          value: Cara dos Peixes
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Diamante
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: São Cristóvão
+        size:
+          value: large
+        icon: rock12
+    event:
+      - date: '2294-07-08'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 54713.0
+        socioIndustrial:
+          value: D-D-A-D-D
+      - date: '2300-01-01'
+        population:
+          value: 146067.0
+      - date: '2310-01-01'
+        population:
+          value: 618696.0
+      - date: '2320-01-01'
+        population:
+          value: 2118125.0
+      - date: '2322-03-11'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2330-01-01'
+        population:
+          value: 6057087.0
+      - date: '2340-01-01'
+        population:
+          value: 14794661.0
+      - date: '2350-01-01'
+        population:
+          value: 31791706.0
+      - date: '2353-01-01'
+        socioIndustrial:
+          value: C-C-A-C-D
+      - date: '2360-01-01'
+        population:
+          value: 61044271.0
+      - date: '2370-01-01'
+        population:
+          value: 106575854.0
+      - date: '2380-01-01'
+        population:
+          value: 171784411.0
+      - date: '2390-01-01'
+        population:
+          value: 258063083.0
+      - date: '2400-01-01'
+        population:
+          value: 365288224.0
+      - date: '2410-01-01'
+        population:
+          value: 497879733.0
+      - date: '2420-01-01'
+        population:
+          value: 648611923.0
+      - date: '2430-01-01'
+        population:
+          value: 807429800.0
+      - date: '2440-01-01'
+        population:
+          value: 968207396.0
+      - date: '2450-01-01'
+        population:
+          value: 1130983730.0
+      - date: '2460-01-01'
+        population:
+          value: 1288730388.0
+      - date: '2470-01-01'
+        population:
+          value: 1441944127.0
+      - date: '2479-01-01'
+        socioIndustrial:
+          value: B-B-A-B-C
+      - date: '2480-01-01'
+        population:
+          value: 1596786218.0
+      - date: '2490-01-01'
+        population:
+          value: 1739400548.0
+      - date: '2500-01-01'
+        population:
+          value: 1871904954.0
+      - date: '2510-01-01'
+        population:
+          value: 2011047351.0
+      - date: '2520-01-01'
+        population:
+          value: 2145536088.0
+      - date: '2530-01-01'
+        population:
+          value: 2265702894.0
+      - date: '2540-01-01'
+        population:
+          value: 2372815803.0
+      - date: '2550-01-01'
+        population:
+          value: 2481186751.0
+      - date: '2560-01-01'
+        population:
+          value: 2581818404.0
+      - date: '2570-01-01'
+        population:
+          value: 2670479843.0
+      - date: '2580-01-01'
+        population:
+          value: 2749548458.0
+      - date: '2590-01-01'
+        population:
+          value: 2824549056.0
+      - date: '2600-01-01'
+        population:
+          value: 2870362290.0
+      - date: '2610-01-01'
+        population:
+          value: 2895868333.0
+      - date: '2620-01-01'
+        population:
+          value: 2903200427.0
+      - date: '2630-01-01'
+        population:
+          value: 2918010710.0
+      - date: '2638-01-05'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 2936997216.0
+      - date: '2650-01-01'
+        population:
+          value: 2942541293.0
+      - date: '2660-01-01'
+        population:
+          value: 2936250699.0
+      - date: '2670-01-01'
+        population:
+          value: 2927989368.0
+      - date: '2680-01-01'
+        population:
+          value: 2905914229.0
+      - date: '2687-01-01'
+        socioIndustrial:
+          value: A-A-A-A-B
+      - date: '2690-01-01'
+        population:
+          value: 2891971354.0
+      - date: '2700-01-01'
+        population:
+          value: 2881122376.0
+      - date: '2710-01-01'
+        population:
+          value: 2875861017.0
+      - date: '2720-01-01'
+        population:
+          value: 2884994238.0
+      - date: '2730-01-01'
+        population:
+          value: 2889693434.0
+      - date: '2740-01-01'
+        population:
+          value: 2903405514.0
+      - date: '2750-01-01'
+        population:
+          value: 2917617170.0
+      - date: '2760-01-01'
+        population:
+          value: 2922488316.0
+      - date: '2770-01-01'
+        population:
+          value: 2908739905.0
+      - date: '2773-12-22'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-06-26'
+        hpg:
+          source: canon
+          value: A
+        population:
+          value: 2883622968.0
+      - date: '2790-01-01'
+        population:
+          value: 2864147151.0
+      - date: '2800-01-01'
+        population:
+          value: 2845973826.0
+      - date: '2810-01-01'
+        population:
+          value: 2822750150.0
+      - date: '2820-01-01'
+        population:
+          value: 2791764676.0
+      - date: '2830-01-01'
+        population:
+          value: 2757195697.0
+      - date: '2840-01-01'
+        population:
+          value: 2733030325.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2850-01-01'
+        population:
+          value: 2721211443.0
+      - date: '2860-01-01'
+        population:
+          value: 2714953465.0
+      - date: '2870-01-01'
+        population:
+          value: 2713115623.0
+      - date: '2880-01-01'
+        population:
+          value: 2724530328.0
+      - date: '2890-01-01'
+        population:
+          value: 2719921858.0
+      - date: '2900-01-01'
+        population:
+          value: 2713115623.0
+      - date: '2910-01-01'
+        population:
+          value: 2692616599.0
+      - date: '2915-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2920-01-01'
+        population:
+          value: 2656575551.0
+      - date: '2930-01-01'
+        population:
+          value: 2616760727.0
+      - date: '2940-01-01'
+        population:
+          value: 2585408964.0
+      - date: '2950-01-01'
+        population:
+          value: 2559627401.0
+      - date: '2960-01-01'
+        population:
+          value: 2521777809.0
+      - date: '2970-01-01'
+        population:
+          value: 2474916702.0
+      - date: '2980-01-01'
+        population:
+          value: 2437329259.0
+      - date: '2990-01-01'
+        population:
+          value: 2397388730.0
+      - date: '3000-01-01'
+        population:
+          value: 2368665292.0
+      - date: '3010-01-01'
+        population:
+          value: 2337910071.0
+      - date: '3020-01-01'
+        population:
+          value: 2300533235.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '3030-01-01'
+        population:
+          value: 2296298435.0
+      - date: '3040-11-23'
+        population:
+          value: 2316826707.0
+        socioIndustrial:
+          source: canon
+          value: B-B-A-B-C
+      - date: '3050-01-01'
+        population:
+          value: 2334968617.0
+      - date: '3052-08-05'
+        faction:
+          source: canon
+          value:
+            - CNC
+      - date: '3059-06-26'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3060-01-01'
+        population:
+          value: 2348315941.0
+      - date: '3065-06-26'
+        faction:
+          source: canon
+          value:
+            - CDS
+      - date: '3070-01-01'
+        population:
+          value: 2367651299.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 2385714000.0
+      - date: '3080-01-01'
+        population:
+          value: 2387623335.0
+      - date: '3081-04-03'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3090-01-01'
+        population:
+          value: 2416447413.0
+      - date: '3094-01-01'
+        socioIndustrial:
+          value: B-B-A-B-C
+      - date: '3099-04-09'
+        faction:
+          source: canon
+          value:
+            - CDS
+            - CNC
+            - DC
+            - CGB
+      - date: '3099-04-12'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3100-01-01'
+        population:
+          value: 2451986349.0
+      - date: '3110-01-01'
+        population:
+          value: 2492032022.0
+      - date: '3120-01-01'
+        population:
+          value: 2515064503.0
+      - date: '3130-01-01'
+        population:
+          value: 2536280025.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 2575641040.0
+      - date: '3145-01-01'
+        population:
+          value: 2595290485.0
+  - name:
+      value: Guterres's Planet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: frozen36
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -98
+    water:
+      value: 100
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Cabaa Archipelago
+      - name:
+          value: Chamorro Archipelago
+      - name:
+          value: Reynolds Archipelago
+      - name:
+          value: Antolin Archipelago
+      - name:
+          value: Guimares's Harbour Archipelago
+      - name:
+          value: Romarigues Archipelago
+    satellite:
+      - name:
+          value: Pajeú do Piauí
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Barbier's Frontier
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1000
+    density:
+      value: 2.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -151
+    water:
+      value: 0
+  - name:
+      value: Campo de Samarro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Isidoro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Bonfim
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Catalo
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: High Springs
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 160000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Sommer
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Mittermayer
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Pak
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Nothazai
+        size:
+          value: medium
+        icon: oddmoon3

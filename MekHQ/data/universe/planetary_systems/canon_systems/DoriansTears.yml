@@ -1,0 +1,374 @@
+id: Dorian's Tears
+sucsId: 3049
+xcood: -1129.019
+ycood: 411.589
+spectralType:
+  value: M3V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Dorian's Tears
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green45
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 34
+    water:
+      value: 50
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Veseli
+        capital:
+          value: New Ratauli
+      - name:
+          value: Ragnarøkr's Wind
+      - name:
+          value: Martis
+      - name:
+          value: Fretwell
+      - name:
+          value: Blair
+      - name:
+          value: Valentin
+    event:
+      - date: '3095-07-14'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-B-D-D
+      - date: '3100-01-01'
+        population:
+          value: 82436.0
+      - date: '3104-09-03'
+        hpg:
+          value: X
+      - date: '3110-01-01'
+        population:
+          value: 150584.0
+      - date: '3120-01-01'
+        population:
+          value: 186891.0
+      - date: '3130-01-01'
+        population:
+          value: 232647.0
+      - date: '3140-01-01'
+        population:
+          value: 288739.0
+      - date: '3145-01-01'
+        population:
+          value: 321669.0
+  - name:
+      value: Hubbard
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: greenhouse28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 39
+    water:
+      value: 28
+    landmass:
+      - name:
+          value: Soltani
+  - name:
+      value: Rabindra
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: HKK1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: HKK2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: HKK3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: HKK4
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: HKK5
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: HKK6
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: HKK7
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: HKK8
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: HKK9
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Pane's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 4
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Schulden
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Maes
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Briggs
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Garin
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Petty
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 1
+  - name:
+      value: Dimiceli's Hold
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 6
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Greene
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ayyappan
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Newton
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lekimeju's Harvest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.0
+    sysPos:
+      value: 7
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 5
+    yearLength:
+      value: 5.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      value: Hayes
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.88
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 14.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Pilirin
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Bildjiwuaroju
+        size:
+          value: large
+        icon: rock17

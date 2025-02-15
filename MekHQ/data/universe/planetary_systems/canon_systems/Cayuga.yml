@@ -1,0 +1,541 @@
+id: Cayuga
+sucsId: 498
+xcood: -280.178
+ycood: -513.855
+spectralType:
+  value: F6V
+primarySlot: 4
+event:
+  - date: '2921-03-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dufty
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 238
+    water:
+      value: 0
+  - name:
+      value: Cameron
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 113
+    water:
+      value: 0
+  - name:
+      value: Arc-White
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: barren16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.37
+    diameter:
+      value: 7500
+    density:
+      value: 3.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 67
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Cayuga
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: green7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 12900
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 3.2
+    temperature:
+      value: 28
+    water:
+      value: 48
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Jarvis's Plains
+        capital:
+          value: Robertson
+      - name:
+          value: Roach's Frontier
+      - name:
+          value: Pitts's Garden
+      - name:
+          value: Bladen
+    satellite:
+      - name:
+          value: Bailey
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2730-07-12'
+        faction:
+          source: canon
+          value:
+            - MOC
+        hpg:
+          value: B
+        population:
+          value: 51952.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2740-01-01'
+        population:
+          value: 158415.0
+      - date: '2750-01-01'
+        population:
+          value: 391142.0
+      - date: '2760-01-01'
+        population:
+          value: 811332.0
+      - date: '2770-01-01'
+        population:
+          value: 1479573.0
+      - date: '2780-01-01'
+        population:
+          value: 2421982.0
+      - date: '2784-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2790-05-20'
+        hpg:
+          value: D
+        population:
+          value: 2652261.0
+      - date: '2800-01-01'
+        population:
+          value: 1748270.0
+      - date: '2810-01-01'
+        population:
+          value: 1249017.0
+      - date: '2820-01-01'
+        population:
+          value: 918056.0
+      - date: '2830-01-01'
+        population:
+          value: 619650.0
+      - date: '2840-01-01'
+        population:
+          value: 477547.0
+      - date: '2850-01-01'
+        population:
+          value: 333190.0
+      - date: '2860-01-01'
+        population:
+          value: 250771.0
+      - date: '2870-01-01'
+        population:
+          value: 187848.0
+      - date: '2880-01-01'
+        population:
+          value: 135481.0
+      - date: '2890-01-01'
+        population:
+          value: 95879.0
+      - date: '2900-01-01'
+        population:
+          value: 66580.0
+      - date: '2910-01-01'
+        population:
+          value: 47567.0
+      - date: '2920-01-01'
+        population:
+          value: 34633.0
+      - date: '2921-04-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Grabowski
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 40000
+    density:
+      value: 2.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Djous Pater 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Djous Pater 2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Djous Pater 3
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Best's Hold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Rainbow Snake
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Phillips's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 46.9
+  - name:
+      value: Davis's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 128.6
+    smallMoons:
+      value: 15
+  - name:
+      value: Benton's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 100.36
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1005.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Hamilton
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Moody
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Goodman
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Brown
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Richards's Ship
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 200.2
+    sysPos:
+      value: 10
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2832.7
+  - name:
+      value: Ritchie
+    type:
+      value: GAS_GIANT
+    orbitalDist: 799.24
+    sysPos:
+      value: 11
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 22595.200000000001
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Siltala
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Kybele
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Autolykos
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Long's Wind
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1597.96
+    sysPos:
+      value: 12
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 63877.599999999999
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: B1
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: B2
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Arc-Ellis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3195.4
+    sysPos:
+      value: 13
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 180629.200000000012
+    smallMoons:
+      value: 2

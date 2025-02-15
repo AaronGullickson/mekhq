@@ -1,0 +1,748 @@
+id: El Dorado
+sucsId: 780
+xcood: 266.495
+ycood: -145.054
+spectralType:
+  source: canon
+  value: G0V
+primarySlot: 2
+event:
+  - date: '2371-03-11'
+    zenithCharge:
+      value: yes
+  - date: '2567-08-21'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Mongan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: El Dorado
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 2
+    icon: wet13
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.25
+    diameter:
+      value: 13052
+    density:
+      value: 6.731876711981
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.6
+    temperature:
+      source: canon
+      value: 27
+    water:
+      source: canon
+      value: 77
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      El Dorado is an Earth-like planet with 6 major continents and large tracts of arable land. This is due to the massive bodies of fresh water, know as The Super Lakes, which are located on the largest continents of San Diego and Los Angeles.
+
+      El Dorado is slightly warmer than Earth and has increased tectonic activity. Over the centuries of colonization populations centers have settled in locations that avoided the most geologically active sites.
+
+      El Dorado has a single moon named Boulder. It appears silver and sapphire and has a thick nitrogen-carbon dioxide atmosphere.
+
+      For much of its early history El Dorado was known for its JumpShip yards. This ended during the 1st Succession War when the Draconis Combine left the Ship Yards in ruins after a raid. The planet itself still remains heavily industrialized and is home to many renowned universities known as the "Guilded Halls". These universities have allowed El Dorado to remain a front runner in technology and manufacturing throughout the Succession Wars. Despite some losses to the Succession Wars, El Dorado is still one of the "Golden Five" core worlds in the Federated Suns.
+    landmass:
+      - name:
+          source: canon
+          value: San Diego
+      - name:
+          source: canon
+          value: Los Angeles
+        capital:
+          source: canon
+          value: Oro
+      - name:
+          source: canon
+          value: Las Vegas
+      - name:
+          source: canon
+          value: Santa Fe
+      - name:
+          source: canon
+          value: Monterrey
+      - name:
+          source: canon
+          value: Durango
+    satellite:
+      - name:
+          value: Boulder
+        size:
+          value: large
+        icon: rock8
+    event:
+      - date: '2302-11-10'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 56289.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2310-01-01'
+        population:
+          value: 221904.0
+      - date: '2320-01-01'
+        population:
+          value: 981257.0
+      - date: '2330-01-01'
+        population:
+          value: 3486644.0
+      - date: '2340-01-01'
+        population:
+          value: 10264954.0
+      - date: '2350-01-01'
+        population:
+          value: 25923109.0
+      - date: '2360-01-01'
+        population:
+          value: 57026580.0
+      - date: '2370-01-01'
+        population:
+          value: 112053868.0
+      - date: '2377-01-01'
+        socioIndustrial:
+          value: C-C-A-C-B
+      - date: '2380-01-01'
+        population:
+          value: 199187890.0
+      - date: '2390-01-01'
+        population:
+          value: 326072738.0
+      - date: '2400-01-01'
+        population:
+          value: 497121973.0
+      - date: '2410-01-01'
+        population:
+          value: 710234574.0
+      - date: '2420-01-01'
+        population:
+          value: 958563363.0
+      - date: '2430-01-01'
+        population:
+          value: 1228141169.0
+      - date: '2440-01-01'
+        population:
+          value: 1512353445.0
+      - date: '2450-01-01'
+        population:
+          value: 1802850895.0
+      - date: '2453-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2460-01-01'
+        population:
+          value: 2095883677.0
+      - date: '2470-01-01'
+        population:
+          value: 2377733184.0
+      - date: '2480-01-01'
+        population:
+          value: 2665384942.0
+      - date: '2490-01-01'
+        population:
+          value: 2940938370.0
+      - date: '2500-01-01'
+        population:
+          value: 3191857387.0
+      - date: '2510-01-01'
+        population:
+          value: 3413419578.0
+      - date: '2520-01-01'
+        population:
+          value: 3606327923.0
+      - date: '2530-01-01'
+        population:
+          value: 3803364520.0
+      - date: '2540-01-01'
+        population:
+          value: 3978995261.0
+      - date: '2550-01-01'
+        population:
+          value: 4123286472.0
+      - date: '2560-01-01'
+        population:
+          value: 4236397551.0
+      - date: '2570-01-01'
+        population:
+          value: 4329442642.0
+      - date: '2580-01-01'
+        population:
+          value: 4388234855.0
+      - date: '2590-01-01'
+        population:
+          value: 4450313412.0
+      - date: '2600-01-01'
+        population:
+          value: 4500054752.0
+      - date: '2610-01-01'
+        population:
+          value: 4542626836.0
+      - date: '2620-01-01'
+        population:
+          value: 4570357397.0
+      - date: '2630-01-01'
+        population:
+          value: 4576168820.0
+      - date: '2640-07-09'
+        hpg:
+          source: canon
+          value: A
+        population:
+          value: 4573075047.0
+      - date: '2650-01-01'
+        population:
+          value: 4576759001.0
+      - date: '2660-01-07'
+        population:
+          value: 4591802722.0
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2670-01-01'
+        population:
+          value: 4605248570.0
+      - date: '2680-01-01'
+        population:
+          value: 4578193301.0
+      - date: '2690-01-01'
+        population:
+          value: 4549951963.0
+      - date: '2700-01-01'
+        population:
+          value: 4563710997.0
+      - date: '2710-01-01'
+        population:
+          value: 4584359156.0
+      - date: '2720-01-01'
+        population:
+          value: 4628968121.0
+      - date: '2730-01-01'
+        population:
+          value: 4656437497.0
+      - date: '2740-01-01'
+        population:
+          value: 4657387311.0
+      - date: '2750-01-01'
+        population:
+          value: 4651510730.0
+      - date: '2760-01-01'
+        population:
+          value: 4665067625.0
+      - date: '2770-01-01'
+        population:
+          value: 4671214095.0
+      - date: '2780-01-01'
+        population:
+          value: 4639333495.0
+      - date: '2790-01-01'
+        population:
+          value: 4612677202.0
+      - date: '2800-01-01'
+        population:
+          value: 4607937415.0
+      - date: '2810-01-01'
+        population:
+          value: 4594441834.0
+      - date: '2820-01-01'
+        population:
+          value: 4568950474.0
+      - date: '2830-01-01'
+        population:
+          value: 4539892573.0
+      - date: '2840-01-01'
+        population:
+          value: 4515932668.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 4488840449.0
+      - date: '2860-01-01'
+        population:
+          value: 4466365290.0
+      - date: '2870-01-01'
+        population:
+          value: 4439167728.0
+      - date: '2880-01-01'
+        population:
+          value: 4414137436.0
+      - date: '2890-01-01'
+        population:
+          value: 4392036307.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 4362916071.0
+      - date: '2910-01-01'
+        population:
+          value: 4346982321.0
+      - date: '2920-01-01'
+        population:
+          value: 4327179650.0
+      - date: '2930-01-01'
+        population:
+          value: 4300439523.0
+      - date: '2940-01-01'
+        population:
+          value: 4271151624.0
+      - date: '2950-01-01'
+        population:
+          value: 4243217780.0
+      - date: '2960-01-01'
+        population:
+          value: 4218909625.0
+      - date: '2970-01-01'
+        population:
+          value: 4195501831.0
+      - date: '2980-01-01'
+        population:
+          value: 4169575417.0
+      - date: '2990-01-01'
+        population:
+          value: 4144561083.0
+      - date: '3000-01-01'
+        population:
+          value: 4122313627.0
+      - date: '3010-01-01'
+        population:
+          value: 4102045724.0
+      - date: '3020-01-01'
+        population:
+          value: 4088177100.0
+      - date: '3030-01-01'
+        population:
+          value: 4098142071.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '3040-01-01'
+        population:
+          value: 4128580807.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3046-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-A-A-A
+      - date: '3050-01-01'
+        population:
+          value: 4166739009.0
+      - date: '3060-01-01'
+        population:
+          value: 4209878206.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 4265816982.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 4313000000.0
+      - date: '3080-01-01'
+        population:
+          value: 4317315157.0
+      - date: '3090-01-01'
+        population:
+          value: 4363322104.0
+      - date: '3100-01-01'
+        population:
+          value: 4392215272.0
+      - date: '3110-01-01'
+        population:
+          value: 4415114278.0
+      - date: '3120-01-01'
+        population:
+          value: 4423953342.0
+      - date: '3121-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '3130-01-01'
+        population:
+          value: 4427493921.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 4446128501.0
+      - date: '3145-01-01'
+        population:
+          value: 4463055931.0
+  - name:
+      value: Van Etten
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: badwater2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 14500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 37
+    water:
+      value: 66
+    landmass:
+      - name:
+          value: Murta
+      - name:
+          value: Drew's Home
+      - name:
+          value: Evans
+      - name:
+          value: Harrell
+  - name:
+      value: Donn
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.77
+    sysPos:
+      value: 4
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 45000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: KB1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: KB2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: KB3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Faisalabad
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 5
+    icon: frozen60
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.85
+    diameter:
+      value: 12500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 28
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -137
+    water:
+      value: 47
+    landmass:
+      - name:
+          value: Robinson
+      - name:
+          value: Downey
+  - name:
+      value: Elmendorf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Eads Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Eads Beta
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Brasher
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Si
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Five Mile
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: DSJ-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lugus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 782.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: JV1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: JV2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: JV3
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Ritzville
+    type:
+      value: GAS_GIANT
+    orbitalDist: 169.4
+    sysPos:
+      value: 10
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 160000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2204.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Walker I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Walker II
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Walker III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Walker IV
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Walker V
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Walker VI
+        size:
+          value: medium
+        icon: oddmoon3

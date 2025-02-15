@@ -1,0 +1,464 @@
+id: Dili
+sucsId: 718
+xcood: -55.0
+ycood: -299.3
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2691-07-18'
+    nadirCharge:
+      value: yes
+  - date: '2697-10-26'
+    zenithCharge:
+      value: yes
+  - date: '2790-10-03'
+    zenithCharge:
+      value: no
+  - date: '2795-02-18'
+    nadirCharge:
+      value: no
+  - date: '2853-12-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Dili
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green50
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 12600
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 33
+    water:
+      value: 56
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Jaisimha's Ship
+        capital:
+          value: Aditinggi
+      - name:
+          value: Sandip
+      - name:
+          value: Nancekivell's Rift
+      - name:
+          value: Gurbux
+      - name:
+          value: Sharma's Gulf
+    satellite:
+      - name:
+          value: O41
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: O42
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2687-10-27'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 51039.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2690-01-01'
+        population:
+          value: 150956.0
+      - date: '2691-02-02'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 1547676.0
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 4845551.0
+      - date: '2720-01-01'
+        population:
+          value: 8495230.0
+      - date: '2730-01-01'
+        population:
+          value: 11201580.0
+      - date: '2740-01-01'
+        population:
+          value: 12751953.0
+      - date: '2750-01-01'
+        population:
+          value: 13567083.0
+      - date: '2760-01-01'
+        population:
+          value: 13979067.0
+      - date: '2770-01-01'
+        population:
+          value: 14120671.0
+      - date: '2780-01-01'
+        population:
+          value: 14147562.0
+      - date: '2790-01-01'
+        population:
+          value: 14025388.0
+      - date: '2800-01-01'
+        population:
+          value: 13886307.0
+      - date: '2810-01-01'
+        population:
+          value: 13673094.0
+      - date: '2820-01-01'
+        population:
+          value: 13405022.0
+      - date: '2830-01-01'
+        population:
+          value: 13230390.0
+      - date: '2840-01-01'
+        population:
+          value: 1169631.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2850-01-01'
+        population:
+          value: 28497.0
+      - date: '2853-11-16'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Frigga Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: asteroid2
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+  - name:
+      value: Irenaeus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 170000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Diwa Zib A
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Diwa Zib B
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Diwa Zib C
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kharybdis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 4
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Reasi I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Reasi II
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Reasi III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Reasi IV
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Reasi V
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Thanotos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 5
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 9AV.1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: 9AV.2
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: 9AV.3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: 9AV.4
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Erichthonius
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.8
+  - name:
+      value: Vega
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 21.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Amon Ra I
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Amon Ra II
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Alectrona
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.44
+    sysPos:
+      value: 8
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 70000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 60.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Vitra
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Atri
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Krishna
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Acheron
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.8
+    sysPos:
+      value: 9
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 170.9
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Gurbux 1
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Gurbux 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Gurbux 3
+        size:
+          value: medium
+        icon: rock6

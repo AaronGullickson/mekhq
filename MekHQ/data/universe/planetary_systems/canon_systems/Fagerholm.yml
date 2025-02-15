@@ -1,0 +1,560 @@
+id: Fagerholm
+sucsId: 839
+xcood: -81.951
+ycood: -363.004
+spectralType:
+  value: F1V
+primarySlot: 4
+event:
+  - date: '2700-08-19'
+    zenithCharge:
+      value: yes
+  - date: '2796-05-07'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Åsarne
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: greenhouse7
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 346
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Tlahuixcalpantecuhtli
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 146
+    water:
+      value: 0
+  - name:
+      value: Quetzalcoatl
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 77
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Torkelinsson 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Torkelinsson 2
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      source: canon
+      value: Fagerholm
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 31
+    water:
+      value: 39
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Hälleberga
+        capital:
+          value: New Oscar City
+      - name:
+          value: Smaller New San Agustín
+      - name:
+          value: New Mörkö
+      - name:
+          value: Larger New San Agustín
+    event:
+      - date: '2689-05-16'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 48843.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2690-01-01'
+        population:
+          value: 89225.0
+      - date: '2700-01-01'
+        population:
+          value: 5130086.0
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2705-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2710-01-01'
+        population:
+          value: 33786540.0
+      - date: '2717-10-14'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 81637802.0
+      - date: '2730-01-01'
+        population:
+          value: 123694293.0
+      - date: '2740-01-01'
+        population:
+          value: 150331146.0
+      - date: '2750-01-01'
+        population:
+          value: 164821049.0
+      - date: '2760-01-01'
+        population:
+          value: 172957105.0
+      - date: '2770-01-01'
+        population:
+          value: 177651651.0
+      - date: '2780-01-01'
+        population:
+          value: 180703515.0
+      - date: '2790-01-01'
+        population:
+          value: 180130330.0
+      - date: '2800-01-01'
+        population:
+          value: 177730160.0
+      - date: '2810-01-01'
+        population:
+          value: 173124130.0
+      - date: '2820-01-01'
+        population:
+          value: 167199716.0
+      - date: '2821-11-13'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2830-01-01'
+        population:
+          value: 161478040.0
+      - date: '2840-01-01'
+        population:
+          value: 156889681.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2850-01-01'
+        population:
+          value: 152105758.0
+      - date: '2860-01-01'
+        population:
+          value: 147657228.0
+      - date: '2870-01-01'
+        population:
+          value: 144015411.0
+      - date: '2873-12-13'
+        hpg:
+          value: C
+      - date: '2880-01-01'
+        population:
+          value: 143625459.0
+      - date: '2890-01-01'
+        population:
+          value: 144468257.0
+      - date: '2900-01-01'
+        population:
+          value: 145316000.0
+      - date: '2910-01-01'
+        population:
+          value: 144550745.0
+      - date: '2920-11-23'
+        population:
+          value: 142319689.0
+        socioIndustrial:
+          value: C-D-D-F-D
+      - date: '2930-01-01'
+        population:
+          value: 140243095.0
+      - date: '2940-01-01'
+        population:
+          value: 138552241.0
+      - date: '2950-01-01'
+        population:
+          value: 138710508.0
+      - date: '2960-01-01'
+        population:
+          value: 138572015.0
+      - date: '2970-01-01'
+        population:
+          value: 137665352.0
+      - date: '2980-01-01'
+        population:
+          value: 136823185.0
+      - date: '2990-01-01'
+        population:
+          value: 135173563.0
+      - date: '3000-01-01'
+        population:
+          value: 133715456.0
+      - date: '3010-01-01'
+        population:
+          value: 131651636.0
+      - date: '3020-01-01'
+        population:
+          value: 127965559.0
+      - date: '3028-01-01'
+        socioIndustrial:
+          value: C-D-C-F-D
+      - date: '3030-01-01'
+        population:
+          value: 126441449.0
+      - date: '3040-01-01'
+        population:
+          value: 127661132.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: B-D-B-C-D
+      - date: '3050-01-01'
+        population:
+          value: 129008636.0
+      - date: '3060-01-01'
+        population:
+          value: 130670560.0
+      - date: '3070-01-01'
+        population:
+          value: 132314193.0
+      - date: '3080-01-01'
+        population:
+          value: 133965103.0
+      - date: '3081-11-19'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3090-01-01'
+        population:
+          value: 135555255.0
+      - date: '3092-01-01'
+        socioIndustrial:
+          value: B-D-B-C-F
+      - date: '3100-01-01'
+        population:
+          value: 136726058.0
+      - date: '3110-01-01'
+        population:
+          value: 137548880.0
+      - date: '3120-01-01'
+        population:
+          value: 138432016.0
+      - date: '3130-04-27'
+        faction:
+          source: canon
+          value:
+            - DA
+        population:
+          value: 138820169.0
+      - date: '3140-01-01'
+        population:
+          value: 139181571.0
+      - date: '3145-01-01'
+        population:
+          value: 139739412.0
+  - name:
+      value: Sankt Ibb
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 9
+  - name:
+      value: Federally Administered Tribal Areas
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 24.0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Handeland
+        size:
+          value: giant
+        icon: rock3
+  - name:
+      value: Teckomatorp
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Odland
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Tlaloc
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 8
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 489.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Rogslösa
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Eagle Man
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 9
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1372.8
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: L1U1
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: L1U2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: L1U3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: L1U4
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: L1U5
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: L1U6
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Timmersdala
+    type:
+      value: GAS_GIANT
+    orbitalDist: 492.16
+    sysPos:
+      value: 10
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 10918.4
+    smallMoons:
+      value: 18

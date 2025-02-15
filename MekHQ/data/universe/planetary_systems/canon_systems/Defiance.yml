@@ -1,0 +1,551 @@
+id: Defiance
+sucsId: 675
+xcood: 424.953
+ycood: -106.593
+spectralType:
+  source: canon
+  value: G0V
+primarySlot: 7
+event:
+  - date: '2730-09-27'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Friends Creek
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1000
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+  - name:
+      value: Panhandle
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: E1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: E2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: E3
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: E4
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: E5
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: E6
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Woodsdale
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1100
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 29
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Malsun
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Horicon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 4
+    icon: frozen62
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -172
+    water:
+      value: 83
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New West Benton
+      - name:
+          value: Gorod Karabash
+      - name:
+          value: Brown
+      - name:
+          value: Morenci
+      - name:
+          value: Pine Beach
+      - name:
+          value: Paupack
+  - name:
+      value: Ōtsu-shi
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 8
+  - name:
+      value: Enfield
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1200
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -141
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Defiance
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 7
+    icon: green39
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.9
+    diameter:
+      value: 11189
+    density:
+      value: 5.664238299384
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.6
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Defiance is a temperate planet with a tainted atmosphere that was originally
+      settled as a mining colony. Unfortunately, years of mining have worsened the
+      atmosphere and removed almost all of the of the valuable materials the planet
+      once contained. Now, Defiance is a sleepy backwater and the planet’s biggest
+      claim to fame is the Defiance Combat Training Center. The planet has only light
+      industry and requires imported food to support its population and any military
+      units rotating through to make use of the Training Center.
+    landmass:
+      - name:
+          source: canon
+          value: Auglaize
+      - name:
+          source: canon
+          value: Cuyahoga
+      - name:
+          source: canon
+          value: Maumee
+        capital:
+          source: canon
+          value: Jerseyville
+      - name:
+          source: canon
+          value: Sandusky
+    satellite:
+      - name:
+          value: Iowa
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Missouri
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2715-06-17'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 43655.0
+        socioIndustrial:
+          value: C-D-D-D-D
+      - date: '2720-01-01'
+        population:
+          value: 92813.0
+      - date: '2721-10-31'
+        hpg:
+          source: canon
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 339127.0
+      - date: '2740-01-01'
+        population:
+          value: 980484.0
+      - date: '2750-01-01'
+        population:
+          value: 2320967.0
+      - date: '2760-01-01'
+        population:
+          value: 4686552.0
+      - date: '2770-01-01'
+        population:
+          value: 8296925.0
+      - date: '2778-11-09'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-03-16'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 13194013.0
+      - date: '2790-01-01'
+        population:
+          value: 19204916.0
+      - date: '2800-01-01'
+        population:
+          value: 25971694.0
+      - date: '2810-01-01'
+        population:
+          value: 32929722.0
+      - date: '2820-01-01'
+        population:
+          value: 40025034.0
+      - date: '2830-01-01'
+        population:
+          value: 47164144.0
+      - date: '2840-01-01'
+        population:
+          value: 53794958.0
+      - date: '2850-01-01'
+        population:
+          value: 59658901.0
+      - date: '2860-01-01'
+        population:
+          value: 65017465.0
+      - date: '2870-01-01'
+        population:
+          value: 69852067.0
+      - date: '2880-01-01'
+        population:
+          value: 73705020.0
+      - date: '2890-01-01'
+        population:
+          value: 77139269.0
+      - date: '2900-01-01'
+        population:
+          value: 80545428.0
+      - date: '2910-01-01'
+        population:
+          value: 83875711.0
+      - date: '2920-01-01'
+        population:
+          value: 86876513.0
+      - date: '2930-01-01'
+        population:
+          value: 89439073.0
+      - date: '2940-01-01'
+        population:
+          value: 91782742.0
+      - date: '2950-01-01'
+        population:
+          value: 93653449.0
+      - date: '2960-01-01'
+        population:
+          value: 95456274.0
+      - date: '2970-01-01'
+        population:
+          value: 97348400.0
+      - date: '2980-01-01'
+        population:
+          value: 99093901.0
+      - date: '2990-01-01'
+        population:
+          value: 100815678.0
+      - date: '3000-01-01'
+        population:
+          value: 102291514.0
+      - date: '3010-01-01'
+        population:
+          value: 103551754.0
+      - date: '3020-01-01'
+        population:
+          value: 104250319.0
+      - date: '3030-01-01'
+        population:
+          value: 104097949.0
+      - date: '3040-01-01'
+        population:
+          value: 103979476.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-D-C-D
+      - date: '3050-01-01'
+        population:
+          value: 103883287.0
+      - date: '3060-01-01'
+        population:
+          value: 103983096.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 104629512.0
+      - date: '3080-01-01'
+        population:
+          value: 105048868.0
+      - date: '3090-01-01'
+        population:
+          value: 105048868.0
+      - date: '3100-01-01'
+        population:
+          value: 105491001.0
+      - date: '3110-01-01'
+        population:
+          value: 106402136.0
+      - date: '3120-01-01'
+        population:
+          value: 107299679.0
+      - date: '3121-01-01'
+        socioIndustrial:
+          value: C-B-D-C-C
+      - date: '3130-01-01'
+        population:
+          value: 107815955.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 108075024.0
+      - date: '3145-01-01'
+        population:
+          value: 108096641.0
+  - name:
+      value: Edgington
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205
+    water:
+      value: 0
+  - name:
+      value: Osborne's Planet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 4
+  - name:
+      value: Old Les Martres-de-Veyre
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 169.4
+    sysPos:
+      value: 10
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1600
+    density:
+      value: 3.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2204.8
+    temperature:
+      value: -249
+    water:
+      value: 0
+    smallMoons:
+      value: 1

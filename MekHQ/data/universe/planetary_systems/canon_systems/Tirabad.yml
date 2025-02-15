@@ -1,0 +1,684 @@
+id: Tirabad
+sucsId: 2552
+xcood: 339.017
+ycood: -389.933
+spectralType:
+  value: K5V
+primarySlot: 1
+event:
+  - date: '2698-06-20'
+    nadirCharge:
+      value: yes
+  - date: '2837-03-04'
+    nadirCharge:
+      value: no
+  - date: '2840-09-24'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Tirabad
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green26
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 29
+    water:
+      value: 52
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Ebadi
+        capital:
+          value: Rosales's Ship City
+    event:
+      - date: '2682-11-24'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 51284.0
+        socioIndustrial:
+          value: C-C-A-D-B
+      - date: '2690-01-01'
+        population:
+          value: 1392808.0
+      - date: '2700-01-01'
+        population:
+          value: 12651211.0
+      - date: '2706-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2710-01-01'
+        population:
+          value: 37566657.0
+      - date: '2720-01-01'
+        population:
+          value: 64299713.0
+      - date: '2730-01-01'
+        population:
+          value: 83972806.0
+      - date: '2731-04-04'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 95683064.0
+      - date: '2750-01-01'
+        population:
+          value: 101130831.0
+      - date: '2760-01-01'
+        population:
+          value: 103317480.0
+      - date: '2770-01-01'
+        population:
+          value: 104064104.0
+      - date: '2780-01-01'
+        population:
+          value: 104669831.0
+      - date: '2790-01-01'
+        population:
+          value: 104308460.0
+      - date: '2800-01-01'
+        population:
+          value: 101241906.0
+      - date: '2810-01-01'
+        population:
+          value: 91673572.0
+      - date: '2820-01-01'
+        population:
+          value: 2413189.0
+      - date: '2830-01-01'
+        population:
+          value: 23196.0
+      - date: '2840-07-05'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Yousefi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: badwater19
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Argon
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 18
+    water:
+      value: 54
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: New Najafābād
+      - name:
+          value: New Shahrestān-e Sepīdān
+      - name:
+          value: Frederiksværk
+      - name:
+          value: Dell
+      - name:
+          value: Shahrestān-e Hashtrūd
+      - name:
+          value: New Lorestān
+    satellite:
+      - name:
+          value: Stone
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Nemati
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Rahimi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Castor
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Aello
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Bromios
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Yum Kaax
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Parsa's Fate
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 4
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: C-1
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Bīrj
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Farhadi
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Maleki
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Salazar
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Najafi
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Rezaei
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Aeacus
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Weaver
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 7
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Ḩājjīābād 1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Ḩājjīābād 2
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Ḩājjīābād 3
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Ḩājjīābād 4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Eslami
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 141.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Ortabağ Bucağı
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Shiraz
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Mir
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.04
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Miri 1
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Miri 2
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Miri 3
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Yazdani
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 10
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Tornarsuk A
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Tornarsuk B
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Tornarsuk C
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Ranjbar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 11
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3159.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Aimon Kondi 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Aimon Kondi 2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Aimon Kondi 3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Aimon Kondi 4
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Ahmadi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.44
+    sysPos:
+      value: 12
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 25239.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 27
+    satellite:
+      - name:
+          value: Nasiri
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Ienpw
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Rezaee
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Bagheri
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ghaffari
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Dakuwanga
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Ghafari
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Zare
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Najafi
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Ansari
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Folena's Wind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.6
+    sysPos:
+      value: 13
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 71370.699999999997
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Afshar
+        size:
+          value: large
+        icon: rock11

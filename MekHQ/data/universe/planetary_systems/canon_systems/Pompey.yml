@@ -1,0 +1,420 @@
+id: Pompey
+sucsId: 2876
+xcood: -430.469
+ycood: -320.684
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 3
+planet:
+  - name:
+      value: Cura Carpignano
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+  - name:
+      value: Corbucca's World
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1400
+    density:
+      value: 2.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Pompey
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green51
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.92
+    diameter:
+      value: 11319
+    density:
+      value: 5.698809302751
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 31
+    water:
+      source: canon
+      value: 57
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: |-
+      Pompey is a relatively comfortable temperate world with bountiful agriculture and a well established industrial base. Pompey is home to Hadrian Mechanized Industries, a manufacturer of many staple combat vehicles in the region, including the LRM, SRM and AC Carrier, APCs and Harrasers, the Hadrian factory also produces Shilone aerospace fighters. The massive factory is located in downtown Nola, which is located on the Campania continent. For decades there has been a ‘street war’ between the executives of Hadrian Mechanized Industries and the organized crime syndicate of Nola, with the syndicate attempting to extort money from the company. The planetary capital of Naples is located along the coast of Campania.
+
+      Manufacturing centers:
+      Hadrian Mechanized Industries
+    landmass:
+      - name:
+          source: canon
+          value: Campania
+        capital:
+          source: canon
+          value: Naples
+      - name:
+          source: canon
+          value: Cumae
+      - name:
+          source: canon
+          value: Stabiae
+    satellite:
+      - name:
+          value: Herculaneum
+        size:
+          value: large
+        icon: rock9
+    event:
+      - date: '2920-02-04'
+        faction:
+          source: canon
+          value:
+            - MH
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 46185.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2930-01-01'
+        population:
+          value: 363480.0
+      - date: '2940-01-01'
+        population:
+          value: 1321722.0
+      - date: '2950-01-01'
+        population:
+          value: 2968789.0
+      - date: '2960-01-01'
+        population:
+          value: 4938013.0
+      - date: '2970-01-01'
+        population:
+          value: 6805338.0
+      - date: '2980-01-01'
+        population:
+          value: 8360047.0
+      - date: '2990-01-01'
+        population:
+          value: 9529560.0
+      - date: '3000-01-01'
+        population:
+          value: 10356673.0
+      - date: '3010-01-01'
+        population:
+          value: 10949680.0
+      - date: '3020-01-01'
+        population:
+          value: 11362537.0
+      - date: '3030-01-01'
+        population:
+          value: 11568942.0
+      - date: '3040-01-01'
+        population:
+          value: 11665858.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-C-C-C-B
+      - date: '3050-01-01'
+        population:
+          value: 11779187.0
+      - date: '3060-01-01'
+        population:
+          value: 11845383.0
+      - date: '3070-01-01'
+        population:
+          value: 11886350.0
+      - date: '3080-01-01'
+        population:
+          value: 11996209.0
+      - date: '3090-01-01'
+        population:
+          value: 12073231.0
+      - date: '3095-01-01'
+        socioIndustrial:
+          value: A-C-B-C-B
+      - date: '3100-01-01'
+        population:
+          value: 12170204.0
+      - date: '3110-01-01'
+        population:
+          value: 12344254.0
+      - date: '3120-01-01'
+        population:
+          value: 12488281.0
+      - date: '3130-01-01'
+        population:
+          value: 12533320.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 12540842.0
+      - date: '3145-01-01'
+        population:
+          value: 12558411.0
+  - name:
+      value: MacDonald
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Hantaimiao
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -100
+    water:
+      value: 0
+  - name:
+      value: Remus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 27
+    satellite:
+      - name:
+          value: Anata Thewi 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Anata Thewi 2
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Anata Thewi 3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Galzignano
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 27.0
+  - name:
+      value: Leoni's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Boccanera
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Monighetti
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Tages
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Artume 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Artume 2
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Cavareno Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 579.1
+    temperature:
+      value: -240

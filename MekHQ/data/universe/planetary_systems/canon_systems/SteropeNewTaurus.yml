@@ -1,0 +1,669 @@
+id: Sterope (New Taurus)
+sucsId: 2411
+xcood: 266.755
+ycood: -404.334
+spectralType:
+  source: canon
+  value: K2V
+primarySlot: 5
+event:
+  - date: '2536-04-13'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Peska's Fate
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 55000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Campo di Argo
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 2
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+  - name:
+      value: Freytag's Refuge
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1300
+    density:
+      value: 6.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -10
+    water:
+      value: 0
+  - name:
+      value: Catazara
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -65
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Dies Pater
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      source: canon
+      value: Sterope (New Taurus)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 5
+    icon: green23
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.97
+    diameter:
+      value: 14332
+    density:
+      value: 4.777397765705
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 31
+    water:
+      source: canon
+      value: 50
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Sterope was not colonized until the 26th century during a concerted effort
+      by the Taurian Concordat to settle more worlds. Sterope is a comfortable planet
+      with abundant natural resources, sufficient arable land to feed its population
+      and well established industry. Sterope is home to several military manufacturers,
+      including Sterope Defense Industries in the planetary capital of Tegea on the
+      Siren continent, which produces many of the BattleMech scale weapons for the
+      Concordat, and a satellite factory for Taurus Territorial Industries which is
+      located in Taurus City and also on the continent of Siren. The TTI plant produces
+      aerospace fighters, combat vehicles, battle armor, dropships and defensive equipment
+      including static gun emplacements and mines. Sterope is also home to the Sterope
+      Taurian Academy, which trains armored and unarmored infantry in the mountain
+      town of Heracles on the Siren continent.
+    landmass:
+      - name:
+          source: canon
+          value: Helios
+      - name:
+          source: canon
+          value: Siren
+        capital:
+          source: canon
+          value: Tegea
+      - name:
+          source: canon
+          value: Xanthip
+    satellite:
+      - name:
+          value: Pleuron
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Porthaon
+        size:
+          value: large
+        icon: rock4
+    event:
+      - date: '2530-06-02'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 45330.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2536-01-01'
+        socioIndustrial:
+          value: C-C-B-D-D
+      - date: '2540-01-01'
+        population:
+          value: 250333.0
+      - date: '2550-01-01'
+        population:
+          value: 908844.0
+      - date: '2560-08-05'
+        population:
+          value: 2409359.0
+        socioIndustrial:
+          value: B-B-B-C-C
+      - date: '2570-01-01'
+        population:
+          value: 5025388.0
+      - date: '2580-01-01'
+        population:
+          value: 8695550.0
+      - date: '2590-01-01'
+        population:
+          value: 13154045.0
+      - date: '2596-09-22'
+        faction:
+          source: canon
+          value:
+            - SL
+      - date: '2597-03-21'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '2600-01-01'
+        population:
+          value: 18050127.0
+      - date: '2610-01-01'
+        population:
+          value: 23000757.0
+      - date: '2613-01-01'
+        socioIndustrial:
+          value: A-A-A-B-B
+      - date: '2620-01-01'
+        population:
+          value: 27563153.0
+      - date: '2630-01-01'
+        population:
+          value: 31707445.0
+      - date: '2640-01-01'
+        population:
+          value: 35365986.0
+      - date: '2650-01-01'
+        population:
+          value: 38230097.0
+      - date: '2660-01-01'
+        population:
+          value: 40492178.0
+      - date: '2670-01-01'
+        population:
+          value: 42531084.0
+      - date: '2680-01-01'
+        population:
+          value: 44154276.0
+      - date: '2690-01-01'
+        population:
+          value: 45828271.0
+      - date: '2700-01-01'
+        population:
+          value: 47136634.0
+      - date: '2706-05-30'
+        hpg:
+          source: canon
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 48059072.0
+      - date: '2720-01-01'
+        population:
+          value: 49036641.0
+      - date: '2730-01-01'
+        population:
+          value: 49546386.0
+      - date: '2740-01-01'
+        population:
+          value: 50103695.0
+      - date: '2750-01-01'
+        population:
+          value: 50572397.0
+      - date: '2760-01-01'
+        population:
+          value: 50836059.0
+      - date: '2769-01-06'
+        hpg:
+          source: canon
+          value: C
+      - date: '2770-01-01'
+        population:
+          value: 50986886.0
+      - date: '2780-01-01'
+        population:
+          value: 51444308.0
+      - date: '2790-01-01'
+        population:
+          value: 51685726.0
+      - date: '2800-01-01'
+        population:
+          value: 51645302.0
+      - date: '2810-01-01'
+        population:
+          value: 51691880.0
+      - date: '2820-01-01'
+        population:
+          value: 51767550.0
+      - date: '2830-01-01'
+        population:
+          value: 51787806.0
+      - date: '2840-01-01'
+        population:
+          value: 51821289.0
+      - date: '2850-01-01'
+        population:
+          value: 51886557.0
+      - date: '2855-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2860-01-01'
+        population:
+          value: 51925403.0
+      - date: '2870-01-01'
+        population:
+          value: 51932470.0
+      - date: '2880-01-01'
+        population:
+          value: 51873320.0
+      - date: '2890-01-01'
+        population:
+          value: 51774594.0
+      - date: '2900-01-01'
+        population:
+          value: 51731461.0
+      - date: '2910-01-01'
+        population:
+          value: 51741141.0
+      - date: '2920-01-01'
+        population:
+          value: 51766669.0
+      - date: '2930-01-01'
+        population:
+          value: 51631248.0
+      - date: '2935-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2940-01-01'
+        population:
+          value: 51406917.0
+      - date: '2950-01-01'
+        population:
+          value: 51196620.0
+      - date: '2960-01-01'
+        population:
+          value: 51080933.0
+      - date: '2970-01-01'
+        population:
+          value: 51009738.0
+      - date: '2980-01-01'
+        population:
+          value: 50904862.0
+      - date: '2990-01-01'
+        population:
+          value: 50919584.0
+      - date: '3000-01-01'
+        population:
+          value: 50882355.0
+      - date: '3010-01-01'
+        population:
+          value: 50798474.0
+      - date: '3020-01-01'
+        population:
+          value: 50748384.0
+      - date: '3028-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '3030-01-01'
+        population:
+          value: 50931646.0
+      - date: '3040-01-01'
+        population:
+          value: 51299677.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-B-B-C-C
+      - date: '3050-01-01'
+        population:
+          value: 51696210.0
+      - date: '3060-01-01'
+        population:
+          value: 52043737.0
+      - date: '3070-01-01'
+        population:
+          value: 52524749.0
+      - date: '3080-01-01'
+        population:
+          value: 53329223.0
+      - date: '3090-05-24'
+        population:
+          value: 54308702.0
+        socioIndustrial:
+          value: A-B-B-B-C
+      - date: '3100-01-01'
+        population:
+          value: 55184630.0
+      - date: '3110-01-01'
+        population:
+          value: 56074685.0
+      - date: '3120-06-17'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 56797054.0
+      - date: '3130-01-01'
+        population:
+          value: 57367874.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 57690036.0
+      - date: '3145-01-01'
+        population:
+          value: 57747754.0
+  - name:
+      value: L'alba di Scallini
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 18
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -158
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Romano's End
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 18.5
+  - name:
+      value: Pontoni's Mistake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Palting
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Borgonovo Valtidone
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Maidens
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Siniscola
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Sant'Omero
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Sant'Agata Fossili
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Arzago d'Adda
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: N-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cavriglia-Monastero
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: N-2
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Orlandi
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Bin Malik
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 10
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Mephitis 1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Mephitis 2
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Abbasi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 215.32
+    sysPos:
+      value: 11
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 3159.6
+    temperature:
+      value: -258
+    water:
+      value: 0
+    smallMoons:
+      value: 1

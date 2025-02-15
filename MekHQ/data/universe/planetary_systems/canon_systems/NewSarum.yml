@@ -1,0 +1,480 @@
+id: New Sarum
+sucsId: 1851
+xcood: 228.756
+ycood: 424.374
+spectralType:
+  value: G8V
+primarySlot: 3
+event:
+  - date: '2862-11-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Bin Yusuf's Wind
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 167
+    water:
+      value: 0
+  - name:
+      value: Bin Hanbal's Rock
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 59
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: New Sarum
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green35
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 13500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 26
+    water:
+      value: 51
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Matwaḩ Jadida
+        capital:
+          value: New Muḩāfaz̧at Abyan
+      - name:
+          value: Loutráki
+      - name:
+          value: Hazm Al Udayn
+      - name:
+          value: Zarājah
+    event:
+      - date: '2724-08-13'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 54246.0
+        socioIndustrial:
+          value: B-D-D-D-D
+      - date: '2730-02-28'
+        hpg:
+          value: B
+        population:
+          value: 130666.0
+      - date: '2740-01-01'
+        population:
+          value: 451951.0
+      - date: '2750-01-01'
+        population:
+          value: 1224255.0
+      - date: '2760-01-01'
+        population:
+          value: 2724095.0
+      - date: '2770-01-01'
+        population:
+          value: 5221972.0
+      - date: '2780-01-01'
+        population:
+          value: 8871029.0
+      - date: '2789-01-01'
+        socioIndustrial:
+          value: C-D-D-D-D
+      - date: '2790-01-01'
+        population:
+          value: 13496874.0
+      - date: '2800-01-01'
+        population:
+          value: 18894473.0
+      - date: '2810-01-01'
+        population:
+          value: 24886116.0
+      - date: '2820-01-01'
+        population:
+          value: 31232742.0
+      - date: '2830-01-01'
+        population:
+          value: 23330604.0
+      - date: '2840-01-01'
+        population:
+          value: 1480651.0
+      - date: '2850-01-01'
+        population:
+          value: 148159.0
+      - date: '2860-01-01'
+        population:
+          value: 12109.0
+      - date: '2862-07-31'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bin Dabir's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -53
+  - name:
+      value: Bin Yasser's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Akuman
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Saohyant
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Diabolos
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Bin Rafiq
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Yaman
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Martínez
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Irusan
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tetragrammaton
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Kobayashi's Harvest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: I-1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: I-2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: I-3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: I-4
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Bin Firas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Kishar I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kishar II
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Kishar III
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Kishar IV
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Kishar V
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kishar VI
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Kishar VII
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Mujahid
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Yngvi Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Yngvi Beta
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Yngvi Gamma
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Bin Ka'im's Delight
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: Bin Maudad
+    type:
+      value: ICE_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 10
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Elat
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Elyon
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Devil
+        size:
+          value: medium
+        icon: rock1

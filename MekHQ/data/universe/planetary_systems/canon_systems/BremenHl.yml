@@ -1,0 +1,531 @@
+id: Bremen (HL)
+sucsId: 2985
+xcood: -792.652
+ycood: 807.085
+spectralType:
+  source: canon
+  value: G3V
+primarySlot: 4
+planet:
+  - name:
+      value: Ehlers's Madness
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1100
+    density:
+      value: 5.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 180
+    water:
+      value: 0
+  - name:
+      value: Zoeller
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: frozen21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -34
+    water:
+      value: 35
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Neu Schloß Holte-Stukenbrock
+      - name:
+          value: New Unnau
+  - name:
+      value: Goldbergers Ende
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1600
+    density:
+      value: 3.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 14
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Bremen (HL)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 4
+    icon: green22
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.09
+    diameter:
+      value: 11885
+    density:
+      value: 6.414182960908
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      source: canon
+      value: 28
+    water:
+      source: canon
+      value: 70
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Bremen is the capital of the Hanseatic League and houses the headquarters
+      and homes of the League’s major trading families. It is also home to the central
+      administration of the Council of Merchants and directs their vast trading fleets
+      as well as the Regional Defense Forces. However, despite being the center of
+      the Hanseatic League and coordinating trade, no trade with outsiders is authorized
+      on Bremen and the planet is insulated from outside influences. Bremen is a comfortable
+      garden world with abundant arable land and a comfortable atmosphere and climate.
+      Beyond agriculture, the planet has few natural resources and has limited industry.
+    landmass:
+      - name:
+          source: canon
+          value: Hansa
+        capital:
+          source: canon
+          value: Freie Hansestadt
+      - name:
+          source: canon
+          value: Kreuznach
+      - name:
+          source: canon
+          value: Weser
+    satellite:
+      - name:
+          value: Bremerhaven
+        size:
+          value: medium
+        icon: rock14
+    event:
+      - date: '2891-11-09'
+        faction:
+          source: canon
+          value:
+            - HL
+        population:
+          value: 5226.0
+        socioIndustrial:
+          value: C-D-D-D-C
+      - date: '2892-03-05'
+        hpg:
+          source: canon
+          value: C
+      - date: '2900-01-01'
+        population:
+          value: 5289.0
+      - date: '2910-01-01'
+        population:
+          value: 5346.0
+      - date: '2920-01-01'
+        population:
+          value: 5386.0
+      - date: '2930-01-01'
+        population:
+          value: 5432.0
+      - date: '2940-01-01'
+        population:
+          value: 5487.0
+      - date: '2950-01-01'
+        population:
+          value: 5513.0
+      - date: '2960-01-01'
+        population:
+          value: 5504.0
+      - date: '2970-01-01'
+        population:
+          value: 5539.0
+      - date: '2980-01-01'
+        population:
+          value: 5605.0
+      - date: '2990-01-01'
+        population:
+          value: 5656.0
+      - date: '3000-01-01'
+        population:
+          value: 5731.0
+      - date: '3010-01-01'
+        population:
+          value: 5811.0
+      - date: '3020-01-01'
+        population:
+          value: 5874.0
+      - date: '3030-01-01'
+        population:
+          value: 5947.0
+      - date: '3040-01-01'
+        population:
+          value: 6024.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-D-C-B
+      - date: '3050-01-01'
+        population:
+          value: 6062.0
+      - date: '3060-01-01'
+        population:
+          value: 6095.0
+      - date: '3070-01-01'
+        population:
+          value: 6145.0
+      - date: '3080-01-01'
+        population:
+          value: 6216.0
+      - date: '3090-01-01'
+        population:
+          value: 6283.0
+      - date: '3100-01-01'
+        population:
+          value: 6324.0
+      - date: '3110-01-01'
+        population:
+          value: 6331.0
+      - date: '3111-01-01'
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '3120-01-01'
+        population:
+          value: 6325.0
+      - date: '3130-01-01'
+        population:
+          value: 6342.0
+      - date: '3140-01-01'
+        population:
+          value: 6338.0
+      - date: '3140-10-12'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3145-01-01'
+        population:
+          value: 6351.0
+  - name:
+      value: Fassbinder
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: frozen18
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -81
+    water:
+      value: 37
+    landmass:
+      - name:
+          value: New Reola
+  - name:
+      value: Orbay's Hold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Fu Xi Shi I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Fu Xi Shi II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Fu Xi Shi III
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Neu Yamanashi-shi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 9
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Klais
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Günter
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Mühlhausen-Ehingen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Ildánach 1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Ildánach 2
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Ildánach 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ildánach 4
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Ildánach 5
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Ildánach 6
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ildánach 7
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Ildánach 8
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Ildánach 9
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Ildánach 10
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Welter
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      value: Lehmann's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Karayazı I
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Karayazı II
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Karayazı III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Karayazı IV
+        size:
+          value: large
+        icon: rock2

@@ -1,0 +1,279 @@
+id: Styriania
+sucsId: 2426
+xcood: -503.419
+ycood: 328.205
+spectralType:
+  value: K0V
+primarySlot: 2
+event:
+  - date: '2798-05-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dubovice
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Styriania
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 29
+    water:
+      value: 48
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Arianrod
+        capital:
+          value: Southwick
+      - name:
+          value: YLB1
+      - name:
+          value: Dechtire
+    event:
+      - date: '2684-11-08'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 49789.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2690-01-01'
+        population:
+          value: 483723.0
+      - date: '2691-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2700-01-01'
+        population:
+          value: 4294862.0
+      - date: '2706-12-06'
+        hpg:
+          value: X
+      - date: '2710-01-01'
+        population:
+          value: 12556109.0
+      - date: '2720-01-01'
+        population:
+          value: 21303058.0
+      - date: '2730-01-25'
+        population:
+          value: 27625300.0
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '2740-01-01'
+        population:
+          value: 31575133.0
+      - date: '2750-01-01'
+        population:
+          value: 14827021.0
+      - date: '2760-01-01'
+        population:
+          value: 3407671.0
+      - date: '2770-01-01'
+        population:
+          value: 497563.0
+      - date: '2779-03-10'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 69320.0
+      - date: '2790-01-01'
+        population:
+          value: 25874.0
+      - date: '2798-04-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Moody
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: badwater28
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 0
+    water:
+      value: 29
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Tutov A
+      - name:
+          value: Tutov B
+  - name:
+      value: Hondo
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.7
+    satellite:
+      - name:
+          value: Hitzfeld 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hitzfeld 2
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Porto Tolle
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Z9-1
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Odiinkemelu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16

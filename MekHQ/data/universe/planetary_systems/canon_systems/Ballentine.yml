@@ -1,0 +1,261 @@
+id: Ballentine
+sucsId: 245
+xcood: 236.552
+ycood: 21.565
+spectralType:
+  value: M4V
+primarySlot: 1
+event:
+  - date: '2716-06-20'
+    nadirCharge:
+      value: yes
+  - date: '2717-12-02'
+    zenithCharge:
+      value: yes
+  - date: '2795-03-28'
+    nadirCharge:
+      value: no
+  - date: '2797-03-30'
+    zenithCharge:
+      value: no
+  - date: '2845-03-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ballentine
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green27
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.78
+    diameter:
+      value: 11700
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 12
+    water:
+      value: 60
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: McAdam
+        capital:
+          value: New Rose Creek
+      - name:
+          value: Mzareulov
+    satellite:
+      - name:
+          value: Blowing Rock
+        size:
+          value: large
+        icon: rock11
+    event:
+      - date: '2693-08-09'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 49493.0
+        socioIndustrial:
+          value: B-D-B-D-B
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: B-D-C-D-B
+      - date: '2700-01-01'
+        population:
+          value: 2110088.0
+      - date: '2705-03-13'
+        hpg:
+          value: B
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '2710-01-01'
+        population:
+          value: 33082994.0
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: A-B-C-B-A
+      - date: '2720-01-01'
+        population:
+          value: 114432301.0
+      - date: '2730-01-01'
+        population:
+          value: 199704845.0
+      - date: '2740-01-01'
+        population:
+          value: 255220780.0
+      - date: '2750-01-01'
+        population:
+          value: 283026825.0
+      - date: '2760-01-01'
+        population:
+          value: 295922963.0
+      - date: '2770-01-01'
+        population:
+          value: 302324895.0
+      - date: '2780-01-01'
+        population:
+          value: 304981108.0
+      - date: '2790-01-01'
+        population:
+          value: 305238614.0
+      - date: '2800-01-01'
+        population:
+          value: 304543714.0
+      - date: '2810-01-01'
+        population:
+          value: 303707148.0
+      - date: '2820-01-01'
+        population:
+          value: 59226737.0
+      - date: '2830-01-01'
+        population:
+          value: 3588780.0
+      - date: '2840-01-01'
+        population:
+          value: 150637.0
+      - date: '2845-11-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Gomes's Planet
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1900
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -79
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Walker
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Maple River
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 3
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.74
+    diameter:
+      value: 12500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -145
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Ingwine Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.84
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -176
+  - name:
+      value: Rockingham
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Cupid
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Moss
+        size:
+          value: large
+        icon: rock3

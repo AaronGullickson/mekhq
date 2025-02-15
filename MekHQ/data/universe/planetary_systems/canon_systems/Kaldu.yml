@@ -1,0 +1,447 @@
+id: Kaldu
+sucsId: 1282
+xcood: 599.067
+ycood: 180.035
+spectralType:
+  value: F5V
+primarySlot: 4
+event:
+  - date: '2837-07-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Bramwell's Meridian
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.65
+    diameter:
+      value: 14500
+    density:
+      value: 8.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 242
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Holt's Land
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+  - name:
+      value: Mughal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: rock6
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 53
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Kaldu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green54
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 36
+    water:
+      value: 52
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Houd I
+        capital:
+          value: New Westford
+      - name:
+          value: Houd II
+      - name:
+          value: Houd III
+    event:
+      - date: '2696-08-06'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 48776.0
+        socioIndustrial:
+          value: C-D-A-F-D
+      - date: '2700-01-01'
+        population:
+          value: 278075.0
+      - date: '2710-01-01'
+        population:
+          value: 3557027.0
+      - date: '2715-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2720-01-01'
+        population:
+          value: 11241583.0
+      - date: '2730-09-22'
+        hpg:
+          value: B
+        population:
+          value: 18905563.0
+      - date: '2732-01-01'
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2740-01-01'
+        population:
+          value: 23971694.0
+      - date: '2750-01-01'
+        population:
+          value: 26867121.0
+      - date: '2760-01-01'
+        population:
+          value: 28388380.0
+      - date: '2770-01-30'
+        hpg:
+          value: D
+        population:
+          value: 29300311.0
+      - date: '2780-01-01'
+        population:
+          value: 29623253.0
+      - date: '2790-01-01'
+        population:
+          value: 29678933.0
+      - date: '2800-01-01'
+        population:
+          value: 29646934.0
+      - date: '2810-01-01'
+        population:
+          value: 9040097.0
+      - date: '2820-01-01'
+        population:
+          value: 540496.0
+      - date: '2830-01-01'
+        population:
+          value: 90223.0
+      - date: '2837-10-04'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Hamlet's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 7.9
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: LC-1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: LC-2
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: LC-3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Evans
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -130
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Ku Ka Pua 1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ku Ka Pua 2
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: 7V1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 143.7
+    temperature:
+      value: -200
+  - name:
+      value: Parvati
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 400.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Caffiers Alpha
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Caffiers Beta
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Caffiers Gamma
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Caffiers Delta
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: 7V2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 1123.6
+    temperature:
+      value: -236
+  - name:
+      value: López
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 90000
+    density:
+      value: 0.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Barnes A
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Barnes B
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Barnes C
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Barnes D
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Barnes E
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Martins
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.64
+    sysPos:
+      value: 11
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8936.6
+    smallMoons:
+      value: 12

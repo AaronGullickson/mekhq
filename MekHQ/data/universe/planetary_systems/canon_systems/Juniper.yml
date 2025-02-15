@@ -1,0 +1,406 @@
+id: Juniper
+sucsId: 3141
+xcood: 9.735
+ycood: 131.747
+spectralType:
+  value: M0V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Juniper
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green31
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 10800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 38
+    water:
+      value: 44
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Nillumbik
+        capital:
+          value: New Aurora
+      - name:
+          value: Neosho
+      - name:
+          value: New Chester
+      - name:
+          value: Westphalia
+      - name:
+          value: Clements
+      - name:
+          value: New Catawba Isl
+    event:
+      - date: '2773-07-06'
+        hpg:
+          value: X
+      - date: '2780-11-01'
+        hpg:
+          value: B
+      - date: '2783-11-15'
+        faction:
+          source: canon
+          value:
+            - LA
+        hpg:
+          value: B
+        population:
+          value: 23172.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2790-01-01'
+        population:
+          value: 23360.0
+      - date: '2800-01-01'
+        population:
+          value: 19545.0
+      - date: '2805-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2810-01-01'
+        population:
+          value: 9915.0
+      - date: '2811-03-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: New Hampton
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -40
+    water:
+      value: 0
+  - name:
+      value: Golden Belt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Swain
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Sligo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 30000
+    density:
+      value: 2.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Mictlantecuhtli 1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Mictlantecuhtli 2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Mictlantecuhtli 3
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Mentor
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Foreman
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Huffman
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Wallace
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Randall's Grove
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 20
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 6
+  - name:
+      value: Shapleigh
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: BN21
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: Higashi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Harbor Springs I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Harbor Springs II
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Harbor Springs III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kenosha
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.0
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.65
+    diameter:
+      value: 14500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 675.7
+    smallMoons:
+      value: 6
+  - name:
+      value: Turman
+    type:
+      value: GAS_GIANT
+    orbitalDist: 153.8
+    sysPos:
+      value: 10
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1907.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Batara Gura I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Batara Gura II
+        size:
+          value: large
+        icon: rock5

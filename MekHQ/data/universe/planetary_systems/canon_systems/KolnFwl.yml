@@ -1,0 +1,415 @@
+id: Köln (FWL)
+sucsId: 1389
+xcood: -150.073
+ycood: -153.989
+spectralType:
+  value: K5V
+primarySlot: 1
+event:
+  - date: '2704-12-19'
+    nadirCharge:
+      value: yes
+  - date: '2712-06-05'
+    zenithCharge:
+      value: yes
+  - date: '2794-10-24'
+    nadirCharge:
+      value: no
+  - date: '2795-02-08'
+    zenithCharge:
+      value: no
+  - date: '2924-01-01'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Köln (FWL)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green41
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.63
+    diameter:
+      value: 11100
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 23
+    water:
+      value: 40
+    lifeForm:
+      value: PLANT
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Lüz
+        capital:
+          value: Beerockxstadt
+    satellite:
+      - name:
+          value: Hirten
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Tandberg
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Chemerivtsi
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2669-01-14'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 50187.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2670-01-01'
+        population:
+          value: 89280.0
+      - date: '2680-01-01'
+        population:
+          value: 5443385.0
+      - date: '2690-01-01'
+        population:
+          value: 46931142.0
+      - date: '2691-01-14'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 145666306.0
+      - date: '2710-01-01'
+        population:
+          value: 262973870.0
+      - date: '2720-01-01'
+        population:
+          value: 357890734.0
+      - date: '2726-01-01'
+        socioIndustrial:
+          value: B-D-C-C-C
+      - date: '2730-03-30'
+        population:
+          value: 421516476.0
+        socioIndustrial:
+          value: A-C-C-B-B
+      - date: '2740-01-01'
+        population:
+          value: 457603394.0
+      - date: '2750-01-01'
+        population:
+          value: 478854793.0
+      - date: '2760-01-01'
+        population:
+          value: 494606700.0
+      - date: '2770-01-01'
+        population:
+          value: 505505892.0
+      - date: '2780-01-01'
+        population:
+          value: 512541070.0
+      - date: '2790-01-01'
+        population:
+          value: 421847848.0
+      - date: '2800-01-01'
+        population:
+          value: 203736128.0
+      - date: '2810-01-01'
+        population:
+          value: 126466659.0
+      - date: '2820-01-01'
+        population:
+          value: 67528417.0
+      - date: '2830-01-01'
+        population:
+          value: 27588934.0
+      - date: '2840-01-01'
+        population:
+          value: 8917721.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 3295368.0
+      - date: '2860-01-01'
+        population:
+          value: 1056306.0
+      - date: '2870-01-01'
+        population:
+          value: 286425.0
+      - date: '2880-01-01'
+        population:
+          value: 81664.0
+      - date: '2890-01-01'
+        population:
+          value: 23090.0
+      - date: '2900-01-01'
+        population:
+          value: 7098.0
+      - date: '2910-01-01'
+        population:
+          value: 2024.0
+      - date: '2920-01-01'
+        population:
+          value: 735.0
+      - date: '2924-03-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Price
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: badwater35
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 26
+    water:
+      value: 61
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Lokesh
+      - name:
+          value: New Pill
+      - name:
+          value: Western Mautner
+      - name:
+          value: Puqi
+      - name:
+          value: New Oberbettingen
+      - name:
+          value: Eastern Mautner
+  - name:
+      value: Koller
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -35
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Bhutani
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Kemnath
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Oberschlettenbach
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Biebertal
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Nídhögg Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -169
+  - name:
+      value: Koehneman's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: PB1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: PB2
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: PB3
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Bedurftig
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 7
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.94
+    diameter:
+      value: 170000
+    density:
+      value: 0.8
+    dayLength:
+      value: 7
+    yearLength:
+      value: 141.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Nyffenegger's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 8
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 397.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 24

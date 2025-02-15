@@ -1,0 +1,349 @@
+id: Summerstide
+sucsId: 2434
+xcood: 533.347
+ycood: -141.269
+spectralType:
+  value: F6V
+primarySlot: 3
+event:
+  - date: '2798-09-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Nymphs
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: barren5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.37
+    diameter:
+      value: 5500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 265
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Ceneus
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.4
+  - name:
+      source: canon
+      value: Summerstide
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: green30
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 11700
+    density:
+      value: 5.8284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 30
+    water:
+      value: 22
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Day I
+        capital:
+          value: San Vicente Centenario
+      - name:
+          value: Day II
+      - name:
+          value: Day III
+    event:
+      - date: '2689-04-10'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 47523.0
+        socioIndustrial:
+          value: B-D-B-D-D
+      - date: '2690-01-01'
+        population:
+          value: 76848.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2696-01-01'
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2700-01-01'
+        population:
+          value: 2017049.0
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 9605156.0
+      - date: '2717-01-19'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 20327832.0
+      - date: '2730-01-01'
+        population:
+          value: 29134619.0
+      - date: '2740-01-01'
+        population:
+          value: 34756762.0
+      - date: '2750-01-01'
+        population:
+          value: 37918664.0
+      - date: '2760-01-01'
+        population:
+          value: 39525624.0
+      - date: '2770-01-01'
+        population:
+          value: 37836191.0
+      - date: '2780-01-01'
+        population:
+          value: 3794061.0
+      - date: '2790-01-01'
+        population:
+          value: 173626.0
+      - date: '2798-03-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Adonis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.2
+    temperature:
+      value: -18
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Ou-yang
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -80
+    water:
+      value: 0
+  - name:
+      value: Nikothoe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 160000
+    density:
+      value: 0.8
+    dayLength:
+      value: 6
+    yearLength:
+      value: 17.6
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: OVJ-1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Zang's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 46.9
+    temperature:
+      value: -171
+  - name:
+      value: Ramírez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 128.6
+    smallMoons:
+      value: 25
+  - name:
+      value: Elektra
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      value: 9
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 358.2
+    smallMoons:
+      value: 28
+    satellite:
+      - name:
+          value: Hypnus
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Helen
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Mason's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 100.36
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 1005.4
+    temperature:
+      value: -236

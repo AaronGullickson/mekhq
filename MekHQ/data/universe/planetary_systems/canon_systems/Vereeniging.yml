@@ -1,0 +1,323 @@
+id: Vereeniging
+sucsId: 2675
+xcood: 417.33
+ycood: -163.871
+spectralType:
+  value: G0V
+primarySlot: 3
+event:
+  - date: '2779-08-29'
+    nadirCharge:
+      value: yes
+  - date: '2795-08-11'
+    nadirCharge:
+      value: no
+  - date: '2944-06-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: I-1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+  - name:
+      value: I-2
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: barren6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 108
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Z91
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      source: canon
+      value: Vereeniging
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green6
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 12300
+    density:
+      value: 5.2795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 32
+    water:
+      value: 29
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Geldermalsen 1
+        capital:
+          value: Aalten
+      - name:
+          value: Geldermalsen 2
+    event:
+      - date: '2725-01-16'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 59652.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2727-12-24'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 121974.0
+      - date: '2740-01-01'
+        population:
+          value: 413778.0
+      - date: '2750-01-01'
+        population:
+          value: 1108030.0
+      - date: '2760-01-01'
+        population:
+          value: 2476806.0
+      - date: '2770-01-01'
+        population:
+          value: 4775642.0
+      - date: '2780-01-01'
+        population:
+          value: 8112338.0
+      - date: '2785-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2790-01-01'
+        population:
+          value: 9111939.0
+      - date: '2800-01-01'
+        population:
+          value: 5467025.0
+      - date: '2810-01-01'
+        population:
+          value: 3171321.0
+      - date: '2820-01-01'
+        population:
+          value: 1761539.0
+      - date: '2830-01-01'
+        population:
+          value: 910225.0
+      - date: '2840-01-01'
+        population:
+          value: 450369.0
+      - date: '2850-01-01'
+        population:
+          value: 239543.0
+      - date: '2860-01-01'
+        population:
+          value: 129888.0
+      - date: '2870-01-01'
+        population:
+          value: 69419.0
+      - date: '2880-01-01'
+        population:
+          value: 46983.0
+      - date: '2890-01-01'
+        population:
+          value: 32262.0
+      - date: '2900-01-01'
+        population:
+          value: 25110.0
+      - date: '2910-01-01'
+        population:
+          value: 20215.0
+      - date: '2920-01-01'
+        population:
+          value: 14850.0
+      - date: '2930-01-01'
+        population:
+          value: 10050.0
+      - date: '2940-01-01'
+        population:
+          value: 6297.0
+      - date: '2944-10-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: I-4
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: frozen20
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -21
+    water:
+      value: 100
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Lesser Nieuw Wijdemeren Archipelago
+      - name:
+          value: Nijkerk Archipelago
+      - name:
+          value: Thaba Chweu Archipelago
+      - name:
+          value: Neder-Betuwe Archipelago
+      - name:
+          value: Maastricht Archipelago
+      - name:
+          value: Nieuw Ommen Archipelago
+      - name:
+          value: Noordwijkerhout Archipelago
+      - name:
+          value: Greater Nieuw Wijdemeren Archipelago
+  - name:
+      value: I-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 17
+  - name:
+      value: I-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Wiraqutra 1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Wiraqutra 2
+        size:
+          value: large
+        icon: rock13

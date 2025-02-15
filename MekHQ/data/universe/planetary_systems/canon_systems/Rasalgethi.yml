@@ -1,0 +1,722 @@
+id: Rasalgethi
+sucsId: 2122
+xcood: -41.881
+ycood: 212.179
+spectralType:
+  source: canon
+  value: M9Ia
+primarySlot: 6
+event:
+  - date: '2366-07-29'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Yehovah's Dawn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: barren13
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane and Sulfur
+        Dioxide
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 237
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Elyon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 2
+    icon: frozen24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -132
+    water:
+      value: 56
+    landmass:
+      - name:
+          value: Hennock
+      - name:
+          value: Kandep
+      - name:
+          value: Tríkala
+      - name:
+          value: Connecticut
+  - name:
+      value: Oromasdes
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1600
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 41
+    water:
+      value: 0
+  - name:
+      value: Yeshua
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -18
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Diabolos's Folly
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: frozen1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -75
+    water:
+      value: 48
+    landmass:
+      - name:
+          value: Makói Járás
+      - name:
+          value: Nole
+    satellite:
+      - name:
+          value: ZRO-1
+        size:
+          value: large
+        icon: rock15
+  - name:
+      source: canon
+      value: Rasalgethi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 6
+    icon: wet1
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12756
+    density:
+      value: 5.507320336217
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    temperature:
+      source: canon
+      value: 45
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Rasalgethi is a planet covered in water, with only 20% of the planet devoted
+      to the two continents, Rasal and Karlstad. The western continent of Rasal is
+      more fertile and home to Rønne, the planetary capital. The land on Rasal that
+      is not devoted to agriculture or settled, is dominated by massive hardwood forests,
+      often dwarfing BattleMechs and capable of growing 10 centimeters in a single
+      year and topping out at nearly 100 meters tall. The eastern continent of Karlstad
+      is covered in mountains and glaciers, due to being further north than Rasal.
+      The mountains of Karlstad are full of rich deposits of rare metals and precious
+      stones, these rare minerals are the key export from Rasalgethi along with timber
+      and minerals mined from the southern islands.
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          source: canon
+          value: Karlstad
+      - name:
+          source: canon
+          value: Rasal
+        capital:
+          source: canon
+          value: Rønne
+    satellite:
+      - name:
+          value: King
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Bailey
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2171-10-19'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 49933.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2180-01-01'
+        population:
+          value: 136618.0
+      - date: '2190-01-01'
+        population:
+          value: 371171.0
+      - date: '2200-01-01'
+        population:
+          value: 899649.0
+      - date: '2210-01-01'
+        population:
+          value: 1970540.0
+      - date: '2220-01-01'
+        population:
+          value: 3916494.0
+      - date: '2230-01-01'
+        population:
+          value: 7181264.0
+      - date: '2235-03-27'
+        faction:
+          source: canon
+          value:
+            - TamP
+      - date: '2240-01-01'
+        population:
+          value: 12220375.0
+      - date: '2250-01-01'
+        population:
+          value: 19605026.0
+      - date: '2260-01-01'
+        population:
+          value: 29852959.0
+      - date: '2270-01-01'
+        population:
+          value: 43255941.0
+      - date: '2280-01-01'
+        population:
+          value: 59832020.0
+      - date: '2290-01-01'
+        population:
+          value: 80291056.0
+      - date: '2300-01-01'
+        population:
+          value: 104112122.0
+      - date: '2310-01-01'
+        population:
+          value: 130666303.0
+      - date: '2320-01-01'
+        population:
+          value: 160135500.0
+      - date: '2324-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2330-01-01'
+        population:
+          value: 191027963.0
+      - date: '2340-01-01'
+        population:
+          value: 221788761.0
+      - date: '2341-03-25'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 252070119.0
+      - date: '2360-01-01'
+        population:
+          value: 282382233.0
+      - date: '2370-01-01'
+        population:
+          value: 313387968.0
+      - date: '2380-01-01'
+        population:
+          value: 341479491.0
+      - date: '2390-01-01'
+        population:
+          value: 367619461.0
+      - date: '2400-01-01'
+        population:
+          value: 392527301.0
+      - date: '2410-01-01'
+        population:
+          value: 415754382.0
+      - date: '2420-01-01'
+        population:
+          value: 439183210.0
+      - date: '2430-01-01'
+        population:
+          value: 460705389.0
+      - date: '2440-01-01'
+        population:
+          value: 482222252.0
+      - date: '2450-01-01'
+        population:
+          value: 505197339.0
+      - date: '2460-01-01'
+        population:
+          value: 528162521.0
+      - date: '2470-01-01'
+        population:
+          value: 549117356.0
+      - date: '2480-01-01'
+        population:
+          value: 569382895.0
+      - date: '2490-01-01'
+        population:
+          value: 589191365.0
+      - date: '2500-01-01'
+        population:
+          value: 604789787.0
+      - date: '2510-01-01'
+        population:
+          value: 620840718.0
+      - date: '2519-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2520-01-01'
+        population:
+          value: 636653287.0
+      - date: '2530-01-01'
+        population:
+          value: 650533196.0
+      - date: '2540-01-01'
+        population:
+          value: 664081775.0
+      - date: '2550-01-01'
+        population:
+          value: 677403425.0
+      - date: '2560-01-01'
+        population:
+          value: 681404997.0
+      - date: '2570-01-01'
+        population:
+          value: 682275466.0
+      - date: '2580-01-01'
+        population:
+          value: 681187260.0
+      - date: '2590-01-01'
+        population:
+          value: 682588512.0
+      - date: '2600-01-01'
+        population:
+          value: 685883712.0
+      - date: '2610-01-01'
+        population:
+          value: 694215176.0
+      - date: '2620-01-01'
+        population:
+          value: 702748884.0
+      - date: '2630-01-01'
+        population:
+          value: 711970848.0
+      - date: '2640-01-01'
+        population:
+          value: 722965217.0
+      - date: '2650-01-01'
+        population:
+          value: 732183681.0
+      - date: '2658-12-18'
+        hpg:
+          source: canon
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 741073906.0
+      - date: '2663-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2670-01-01'
+        population:
+          value: 749506033.0
+      - date: '2680-01-01'
+        population:
+          value: 752209209.0
+      - date: '2690-01-01'
+        population:
+          value: 753807496.0
+      - date: '2700-01-01'
+        population:
+          value: 750255700.0
+      - date: '2710-01-01'
+        population:
+          value: 746707877.0
+      - date: '2720-01-01'
+        population:
+          value: 745415687.0
+      - date: '2730-01-01'
+        population:
+          value: 742512894.0
+      - date: '2740-01-01'
+        population:
+          value: 738475775.0
+      - date: '2750-01-01'
+        population:
+          value: 731724138.0
+      - date: '2760-01-01'
+        population:
+          value: 724804123.0
+      - date: '2770-01-01'
+        population:
+          value: 718449533.0
+      - date: '2780-01-01'
+        population:
+          value: 711658137.0
+      - date: '2790-01-01'
+        population:
+          value: 703553713.0
+      - date: '2800-01-01'
+        population:
+          value: 690546197.0
+      - date: '2810-01-01'
+        population:
+          value: 677779167.0
+      - date: '2820-01-01'
+        population:
+          value: 667211242.0
+      - date: '2830-01-01'
+        population:
+          value: 654297009.0
+      - date: '2840-01-01'
+        population:
+          value: 641254731.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 627177495.0
+      - date: '2860-01-01'
+        population:
+          value: 614313673.0
+      - date: '2870-01-01'
+        population:
+          value: 604557140.0
+      - date: '2880-01-01'
+        population:
+          value: 597943229.0
+      - date: '2890-01-01'
+        population:
+          value: 588620105.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: C-C-C-B-C
+      - date: '2900-01-01'
+        population:
+          value: 582180547.0
+      - date: '2910-01-01'
+        population:
+          value: 581437676.0
+      - date: '2920-01-01'
+        population:
+          value: 576094281.0
+      - date: '2930-01-01'
+        population:
+          value: 567613351.0
+      - date: '2940-01-01'
+        population:
+          value: 555479989.0
+      - date: '2950-01-01'
+        population:
+          value: 542166326.0
+      - date: '2960-01-01'
+        population:
+          value: 531515769.0
+      - date: '2970-01-01'
+        population:
+          value: 521842682.0
+      - date: '2980-01-01'
+        population:
+          value: 516742355.0
+      - date: '2990-01-01'
+        population:
+          value: 517300942.0
+      - date: '3000-01-01'
+        population:
+          value: 518929358.0
+      - date: '3010-01-01'
+        population:
+          value: 518267196.0
+      - date: '3020-01-01'
+        population:
+          value: 518674580.0
+      - date: '3030-01-01'
+        population:
+          value: 522762248.0
+      - date: '3040-01-01'
+        population:
+          value: 526381780.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3041-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-B-C
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-A-A-B
+      - date: '3050-01-01'
+        population:
+          value: 529549565.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 533589474.0
+      - date: '3062-12-16'
+        faction:
+          source: canon
+          value:
+            - LA
+            - FC
+      - date: '3063-01-24'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3067-01-11'
+        faction:
+          source: canon
+          value:
+            - CJF
+      - date: '3069-10-04'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3070-01-01'
+        population:
+          value: 538251955.0
+      - date: '3080-01-01'
+        population:
+          value: 544532031.0
+      - date: '3090-01-01'
+        population:
+          value: 549894679.0
+      - date: '3100-01-01'
+        population:
+          value: 551436542.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: B-A-A-A-B
+      - date: '3110-01-01'
+        population:
+          value: 550995569.0
+      - date: '3120-01-01'
+        population:
+          value: 551216011.0
+      - date: '3130-01-01'
+        population:
+          value: 554755107.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-05-15'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 561901612.0
+      - date: '3145-01-01'
+        population:
+          value: 565170111.0
+  - name:
+      value: Ashima
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1000
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -174
+    water:
+      value: 0
+  - name:
+      value: Yhvh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Anderson
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Gaiduk
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Evgrafov
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Vogel
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Routley's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.88
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 7.6
+    temperature:
+      value: -223

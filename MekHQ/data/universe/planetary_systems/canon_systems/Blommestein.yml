@@ -1,0 +1,560 @@
+id: Blommestein
+sucsId: 344
+xcood: 724.778
+ycood: 222.868
+spectralType:
+  value: F6V
+primarySlot: 4
+planet:
+  - name:
+      value: Ehles
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: U1
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Van Keulen's Madness
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Manasa
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Heerenveen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: greenhouse17
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 88
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Blommestein
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: green26
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.2
+    temperature:
+      value: 28
+    water:
+      value: 53
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Breur
+        capital:
+          value: New Tamási
+      - name:
+          value: De Zeeuw
+      - name:
+          value: Van Straaten
+      - name:
+          value: Luyks
+      - name:
+          value: Fonkert
+    event:
+      - date: '2709-05-06'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 55820.0
+        socioIndustrial:
+          value: C-D-A-F-A
+      - date: '2710-01-01'
+        population:
+          value: 65936.0
+      - date: '2714-11-29'
+        hpg:
+          value: X
+      - date: '2720-01-01'
+        population:
+          value: 292460.0
+      - date: '2730-01-01'
+        population:
+          value: 984227.0
+      - date: '2740-01-01'
+        population:
+          value: 2639321.0
+      - date: '2750-01-01'
+        population:
+          value: 5871074.0
+      - date: '2760-01-01'
+        population:
+          value: 11232690.0
+      - date: '2770-01-01'
+        population:
+          value: 19100346.0
+      - date: '2780-01-01'
+        population:
+          value: 29491579.0
+      - date: '2790-01-01'
+        population:
+          value: 42116530.0
+      - date: '2800-01-01'
+        population:
+          value: 56752506.0
+      - date: '2810-01-01'
+        population:
+          value: 72332871.0
+      - date: '2820-01-01'
+        population:
+          value: 87838579.0
+      - date: '2830-01-01'
+        population:
+          value: 102805793.0
+      - date: '2840-01-01'
+        population:
+          value: 116754419.0
+      - date: '2850-01-01'
+        population:
+          value: 129300785.0
+      - date: '2860-01-01'
+        population:
+          value: 140667501.0
+      - date: '2864-10-21'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2865-01-01'
+        socioIndustrial:
+          value: C-D-A-D-A
+      - date: '2870-01-01'
+        population:
+          value: 150202815.0
+      - date: '2880-01-01'
+        population:
+          value: 156990508.0
+      - date: '2890-01-01'
+        population:
+          value: 162672711.0
+      - date: '2900-01-01'
+        population:
+          value: 167495967.0
+      - date: '2910-01-01'
+        population:
+          value: 170954079.0
+      - date: '2920-01-01'
+        population:
+          value: 174532472.0
+      - date: '2930-01-01'
+        population:
+          value: 178062552.0
+      - date: '2940-01-01'
+        population:
+          value: 180892669.0
+      - date: '2947-01-01'
+        socioIndustrial:
+          value: C-D-A-C-A
+      - date: '2950-01-01'
+        population:
+          value: 182162381.0
+      - date: '2960-01-01'
+        population:
+          value: 182412896.0
+      - date: '2970-01-01'
+        population:
+          value: 182486742.0
+      - date: '2980-01-01'
+        population:
+          value: 181831344.0
+      - date: '2990-01-01'
+        population:
+          value: 180652889.0
+      - date: '3000-01-01'
+        population:
+          value: 178611677.0
+      - date: '3010-01-01'
+        population:
+          value: 177219141.0
+      - date: '3020-01-01'
+        population:
+          value: 176488779.0
+      - date: '3030-01-01'
+        population:
+          value: 176188721.0
+      - date: '3040-01-01'
+        population:
+          value: 175666752.0
+      - date: '3049-01-01'
+        socioIndustrial:
+          value: B-C-A-B-A
+      - date: '3050-01-01'
+        population:
+          value: 175220140.0
+      - date: '3060-01-01'
+        population:
+          value: 174336854.0
+      - date: '3070-01-01'
+        population:
+          value: 173743414.0
+      - date: '3080-01-01'
+        population:
+          value: 175384302.0
+      - date: '3090-01-01'
+        population:
+          value: 177359648.0
+      - date: '3100-01-01'
+        population:
+          value: 178998886.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3110-01-01'
+        population:
+          value: 180220226.0
+      - date: '3120-01-01'
+        population:
+          value: 181196047.0
+      - date: '3130-01-01'
+        population:
+          value: 183566974.0
+      - date: '3140-01-01'
+        population:
+          value: 186938480.0
+      - date: '3145-01-01'
+        population:
+          value: 188741731.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Mosson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: frozen52
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -70
+    water:
+      value: 12
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Pignatelli
+  - name:
+      value: Y841
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: E-2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: E-3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: E-4
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: E-5
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: E-6
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: E-7
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Heijmans
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 46.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: De Clerq
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Plutus
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Sito
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Erotes
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Morpheus
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Lubbers's Dageraad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 128.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: T-1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: T-2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: T-3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: T-4
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: T-5
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Leeuwenburg's Gulf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 100.36
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1005.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Bodb Dearg 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Bodb Dearg 2
+        size:
+          value: medium
+        icon: oddmoon1

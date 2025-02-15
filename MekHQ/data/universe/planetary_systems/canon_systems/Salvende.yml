@@ -1,0 +1,343 @@
+id: Salvende
+sucsId: 2222
+xcood: 640.213
+ycood: 278.418
+spectralType:
+  value: G3V
+primarySlot: 2
+event:
+  - date: '2756-11-13'
+    nadirCharge:
+      value: yes
+  - date: '2814-06-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Cardea's Hole
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1200
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 180
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Salvende
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green47
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 11400
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 37
+    water:
+      value: 31
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Nelson's Station
+        capital:
+          value: Nova Scenic Rim
+      - name:
+          value: Angola
+      - name:
+          value: Lesser Bellbrook
+      - name:
+          value: Greater Bellbrook
+    event:
+      - date: '2745-09-28'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 58273.0
+        socioIndustrial:
+          value: C-C-A-F-F
+      - date: '2750-01-01'
+        population:
+          value: 103801.0
+      - date: '2751-12-23'
+        hpg:
+          value: B
+      - date: '2760-01-01'
+        population:
+          value: 277392.0
+      - date: '2767-03-28'
+        hpg:
+          value: D
+      - date: '2770-01-01'
+        population:
+          value: 611035.0
+      - date: '2780-01-01'
+        population:
+          value: 1153161.0
+      - date: '2790-01-01'
+        population:
+          value: 1928352.0
+      - date: '2800-01-01'
+        population:
+          value: 735869.0
+      - date: '2810-01-01'
+        population:
+          value: 12227.0
+      - date: '2814-03-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: 02-1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 4
+  - name:
+      value: 02-2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Milu
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Heitsi
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Tiki
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Parca Maurtia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Harris's Choice
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Lotan
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Shaffer
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 6
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: X01
+        size:
+          value: giant
+        icon: rock5
+  - name:
+      value: 02-3
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 241.7
+  - name:
+      value: 02-4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 678.3

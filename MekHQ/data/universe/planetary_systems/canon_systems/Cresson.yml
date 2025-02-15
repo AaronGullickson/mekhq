@@ -1,0 +1,399 @@
+id: Cresson
+sucsId: 621
+xcood: -269.816
+ycood: -483.923
+spectralType:
+  value: G0V
+primarySlot: 4
+event:
+  - date: '2832-07-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Gandapur
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: barren6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 231
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: 0EB1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 0EB2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 0EB3
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Rogers
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 2
+  - name:
+      value: Green
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.6
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Cox
+        size:
+          value: giant
+        icon: rock13
+  - name:
+      source: canon
+      value: Cresson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: wet14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 19
+    water:
+      value: 76
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Brooke
+        capital:
+          value: Bucksport
+      - name:
+          value: Massachusetts
+      - name:
+          value: Old Dayton Lakes
+    event:
+      - date: '2681-08-11'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 53655.0
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2690-01-01'
+        population:
+          value: 1259032.0
+      - date: '2700-01-01'
+        population:
+          value: 7848061.0
+      - date: '2710-01-01'
+        population:
+          value: 19608121.0
+      - date: '2712-01-01'
+        socioIndustrial:
+          value: C-D-A-C-D
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '2720-01-01'
+        population:
+          value: 30864385.0
+      - date: '2730-12-03'
+        hpg:
+          value: B
+        population:
+          value: 38576722.0
+      - date: '2740-01-01'
+        population:
+          value: 42943426.0
+      - date: '2750-01-01'
+        population:
+          value: 45078625.0
+      - date: '2760-01-01'
+        population:
+          value: 46013047.0
+      - date: '2770-01-01'
+        population:
+          value: 46384300.0
+      - date: '2780-01-01'
+        population:
+          value: 46396225.0
+      - date: '2790-01-01'
+        population:
+          value: 46179187.0
+      - date: '2800-01-01'
+        population:
+          value: 46056027.0
+      - date: '2810-01-01'
+        population:
+          value: 45766225.0
+      - date: '2820-01-01'
+        population:
+          value: 3762403.0
+      - date: '2830-01-01'
+        population:
+          value: 7789.0
+      - date: '2832-12-29'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: TML-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -92
+  - name:
+      value: Ash Valley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Yanluo Wang
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Cao Guojiu
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Lao Tse
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Kuchuna
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Ormsby
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Ferrell I
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Ferrell II
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ferrell III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Piper
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 100.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: FP-1
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Nosovets's Run
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 22

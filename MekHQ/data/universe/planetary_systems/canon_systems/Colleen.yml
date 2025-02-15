@@ -1,0 +1,431 @@
+id: Colleen
+sucsId: 2939
+xcood: -146.566
+ycood: 1837.816
+spectralType:
+  source: canon
+  value: G7V
+primarySlot: 3
+event:
+  - date: '3068-02-01'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Adkins's Stand
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 45000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 9
+  - name:
+      value: Lahti's Harvest
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 44
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Colleen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green8
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.2
+    diameter:
+      value: 12003
+    density:
+      value: 7.011228264644
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 18
+    water:
+      source: canon
+      value: 20
+    lifeForm:
+      value: AMPHIBIAN
+    desc: |-
+      Clan Blood Spirit was under heavy pressure on their homeworld of York in the mid-3060s due to constant attacks by Clan Star Adder. Spirit leadership decided that incase the situation did not improve they would begin a colonization project to begin a new homeworld. In 3067, the Colleen system was discovered and two planets, named Honor and Haven were picked to begin the colonization efforts.
+
+      Haven is the 2nd planet in the system (out of 6) and is relatively temperate planet with slightly higher than Terran gravity and is primarily dominated by mountains, sparse woodlands, and badlands. The planet has an average equitorial temperature of 30 degrees centigrade. This planet was made the Blood Spirits capital after the fall of York.
+
+      Honor is the 4th planet in the system and is best described as an arctic planet with an equitorial high of 18 degrees centigrade.
+    landmass:
+      - name:
+          value: North Clinton
+        capital:
+          value: Greggtown
+      - name:
+          value: Key Colony Beach
+      - name:
+          value: Carrolltown
+      - name:
+          value: Herkimer
+      - name:
+          value: Ratzlaff
+      - name:
+          value: Old Elverson
+    satellite:
+      - name:
+          value: Unnamed
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '3067-11-11'
+        faction:
+          source: canon
+          value:
+            - CBS
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: B-B-A-C-C
+      - date: '3068-09-14'
+        hpg:
+          source: canon
+          value: A
+      - date: '3070-01-01'
+        population:
+          value: 68171.0
+      - date: '3075-08-26'
+        faction:
+          source: canon
+          value:
+            - CBS
+      - date: '3080-01-01'
+        population:
+          value: 167088.0
+      - date: '3083-12-31'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CBS
+      - date: '3083-04-22'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CBS
+            - CSL
+            - CCO
+      - date: '3083-07-01'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CBS
+            - CSA
+      - date: '3083-12-18'
+        faction:
+          source: canon
+          value:
+            - CBS
+      - date: '3085-03-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        population:
+          source: canon
+          value: 0.0
+      - date: '3090-01-01'
+        population:
+          value: 195005.0
+      - date: '3100-01-01'
+        population:
+          value: 213049.0
+      - date: '3110-01-01'
+        population:
+          value: 237347.0
+      - date: '3120-01-01'
+        population:
+          value: 271652.0
+      - date: '3130-01-01'
+        population:
+          value: 310916.0
+      - date: '3140-01-01'
+        population:
+          value: 340707.0
+      - date: '3145-01-01'
+        population:
+          value: 353196.0
+  - name:
+      value: Awitelin Tsta Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -115
+  - name:
+      value: Jenssen's Madness
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Biggs
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Peeksville
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Sebelano's Retreat
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 21
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Breen
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Fountain Run
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Ball
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Meredith
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Alamogordo
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Hammond's Den
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 74.1
+  - name:
+      value: Wilkerson's Land
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Weems I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Weems II
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Winston
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 579.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: 5P-1
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: 5P-2
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: 5P-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 5P-4
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: 5P-5
+        size:
+          value: medium
+        icon: oddmoon2

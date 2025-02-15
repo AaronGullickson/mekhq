@@ -1,0 +1,783 @@
+id: Al Jafr
+sucsId: 49
+xcood: -412.829
+ycood: 12.108
+spectralType:
+  value: F8V
+primarySlot: 4
+event:
+  - date: '2667-03-24'
+    nadirCharge:
+      value: yes
+  - date: '2679-01-17'
+    zenithCharge:
+      value: yes
+  - date: '2786-03-01'
+    nadirCharge:
+      value: no
+  - date: '2797-03-03'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Bin Ma'n
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 8
+  - name:
+      value: Bin Majid al Din's Station
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 2
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Reiner A
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Reiner B
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Rafiq
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 3
+    icon: dry14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 35
+    water:
+      value: 12
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Wearmouth
+        capital:
+          value: Grannos's Choice
+      - name:
+          value: Rafiq
+    satellite:
+      - name:
+          value: Ormizd
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '2665-03-05'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 51922.0
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2670-01-01'
+        population:
+          value: 458702.0
+      - date: '2680-01-01'
+        population:
+          value: 7406239.0
+      - date: '2690-01-01'
+        population:
+          value: 33208474.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: C-C-A-C-D
+      - date: '2700-01-01'
+        population:
+          value: 74512761.0
+      - date: '2706-01-01'
+        socioIndustrial:
+          value: C-B-A-B-C
+      - date: '2710-01-01'
+        population:
+          value: 115062103.0
+      - date: '2720-01-01'
+        population:
+          value: 144592897.0
+      - date: '2730-01-01'
+        population:
+          value: 163322590.0
+      - date: '2735-01-01'
+        socioIndustrial:
+          value: C-B-B-B-C
+      - date: '2740-01-01'
+        population:
+          value: 174564246.0
+      - date: '2750-01-01'
+        population:
+          value: 182023589.0
+      - date: '2760-01-01'
+        population:
+          value: 186021557.0
+      - date: '2770-01-01'
+        population:
+          value: 188122869.0
+      - date: '2780-01-01'
+        population:
+          value: 190372555.0
+      - date: '2790-01-01'
+        population:
+          value: 190545105.0
+      - date: '2800-01-01'
+        population:
+          value: 184943289.0
+      - date: '2810-01-01'
+        population:
+          value: 181768323.0
+      - date: '2820-01-01'
+        population:
+          value: 181151104.0
+      - date: '2830-01-01'
+        population:
+          value: 179950765.0
+      - date: '2840-01-01'
+        population:
+          value: 178675486.0
+      - date: '2850-01-01'
+        population:
+          value: 177491551.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2860-01-01'
+        population:
+          value: 174363617.0
+      - date: '2870-01-01'
+        population:
+          value: 170024316.0
+      - date: '2880-01-01'
+        population:
+          value: 165946876.0
+      - date: '2890-01-01'
+        population:
+          value: 164160568.0
+      - date: '2900-06-12'
+        population:
+          value: 165511280.0
+        socioIndustrial:
+          value: D-C-C-D-D
+      - date: '2910-01-01'
+        population:
+          value: 166718375.0
+      - date: '2920-01-01'
+        population:
+          value: 167002156.0
+      - date: '2930-01-01'
+        population:
+          value: 167908311.0
+      - date: '2940-01-01'
+        population:
+          value: 166255046.0
+      - date: '2950-01-01'
+        population:
+          value: 160322869.0
+      - date: '2960-01-01'
+        population:
+          value: 153744240.0
+      - date: '2970-01-01'
+        population:
+          value: 148878657.0
+      - date: '2980-01-01'
+        population:
+          value: 143499915.0
+      - date: '2990-01-01'
+        population:
+          value: 137803210.0
+      - date: '3000-01-01'
+        population:
+          value: 132516923.0
+      - date: '3010-01-01'
+        population:
+          value: 128442221.0
+      - date: '3020-01-01'
+        population:
+          value: 124781863.0
+      - date: '3030-01-01'
+        population:
+          value: 123141288.0
+      - date: '3040-01-01'
+        population:
+          value: 124093135.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '3050-01-01'
+        population:
+          value: 124927351.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 126069378.0
+      - date: '3070-01-01'
+        population:
+          value: 127591324.0
+      - date: '3080-01-01'
+        population:
+          value: 128719083.0
+      - date: '3090-01-01'
+        population:
+          value: 130220918.0
+      - date: '3099-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '3100-01-01'
+        population:
+          value: 132586117.0
+      - date: '3110-01-01'
+        population:
+          value: 134724557.0
+      - date: '3120-01-01'
+        population:
+          value: 136296461.0
+      - date: '3130-01-01'
+        population:
+          value: 137281337.0
+      - date: '3140-01-01'
+        population:
+          value: 138245678.0
+      - date: '3145-01-01'
+        population:
+          value: 138938637.0
+  - name:
+      source: canon
+      value: Al Jafr
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.92
+    sysPos:
+      value: 4
+    icon: green43
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.9
+    temperature:
+      value: 27
+    water:
+      value: 50
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Arc-Lucifer
+        capital:
+          value: Afeef City
+      - name:
+          value: Sturculinus
+      - name:
+          value: Angerona
+      - name:
+          value: Februus
+    satellite:
+      - name:
+          value: Raghib
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2665-12-16'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 47254.0
+        socioIndustrial:
+          value: C-F-C-D-D
+      - date: '2670-01-01'
+        population:
+          value: 405960.0
+      - date: '2672-01-01'
+        socioIndustrial:
+          value: D-F-C-C-C
+      - date: '2676-01-01'
+        socioIndustrial:
+          value: D-D-C-B-B
+      - date: '2680-01-01'
+        population:
+          value: 6346137.0
+      - date: '2690-01-01'
+        population:
+          value: 28201358.0
+      - date: '2700-01-01'
+        population:
+          value: 63753323.0
+      - date: '2710-01-01'
+        population:
+          value: 99477794.0
+      - date: '2720-01-01'
+        population:
+          value: 126994740.0
+      - date: '2730-09-22'
+        hpg:
+          value: B
+        population:
+          value: 144889459.0
+      - date: '2740-01-01'
+        population:
+          value: 156315070.0
+      - date: '2750-01-01'
+        population:
+          value: 163645591.0
+      - date: '2760-01-01'
+        population:
+          value: 168803168.0
+      - date: '2770-01-01'
+        population:
+          value: 171902064.0
+      - date: '2780-01-01'
+        population:
+          value: 174338037.0
+      - date: '2782-07-20'
+        hpg:
+          value: C
+      - date: '2790-01-01'
+        population:
+          value: 174239678.0
+      - date: '2800-01-01'
+        population:
+          value: 173934586.0
+      - date: '2810-01-01'
+        population:
+          value: 173964328.0
+      - date: '2820-01-01'
+        population:
+          value: 173994075.0
+      - date: '2830-01-01'
+        population:
+          value: 174079624.0
+      - date: '2840-01-01'
+        population:
+          value: 174265747.0
+      - date: '2850-01-01'
+        population:
+          value: 174474441.0
+      - date: '2856-01-01'
+        socioIndustrial:
+          value: D-D-D-B-B
+      - date: '2860-01-01'
+        population:
+          value: 174716988.0
+      - date: '2870-01-01'
+        population:
+          value: 174959872.0
+      - date: '2880-01-01'
+        population:
+          value: 175203094.0
+      - date: '2890-01-01'
+        population:
+          value: 175165653.0
+      - date: '2900-01-01'
+        population:
+          value: 174758068.0
+      - date: '2910-01-01'
+        population:
+          value: 174183828.0
+      - date: '2912-01-01'
+        socioIndustrial:
+          value: D-D-D-C-C
+      - date: '2920-01-01'
+        population:
+          value: 173444586.0
+      - date: '2930-01-01'
+        population:
+          value: 172608848.0
+      - date: '2940-01-01'
+        population:
+          value: 171909353.0
+      - date: '2950-01-01'
+        population:
+          value: 171113923.0
+      - date: '2960-01-01'
+        population:
+          value: 170475129.0
+      - date: '2970-01-01'
+        population:
+          value: 170340375.0
+      - date: '2980-01-01'
+        population:
+          value: 170511567.0
+      - date: '2990-01-01'
+        population:
+          value: 170420486.0
+      - date: '3000-01-01'
+        population:
+          value: 170504279.0
+      - date: '3010-01-01'
+        population:
+          value: 170063918.0
+      - date: '3020-01-01'
+        population:
+          value: 169537711.0
+      - date: '3030-01-01'
+        population:
+          value: 170135273.0
+      - date: '3040-01-01'
+        population:
+          value: 171845161.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3049-01-01'
+        socioIndustrial:
+          value: C-D-C-B-C
+      - date: '3050-01-01'
+        population:
+          value: 173989307.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 176142591.0
+      - date: '3070-01-01'
+        population:
+          value: 178340357.0
+      - date: '3080-01-01'
+        population:
+          value: 179700907.0
+      - date: '3090-01-01'
+        population:
+          value: 180927038.0
+      - date: '3100-01-01'
+        population:
+          value: 181035626.0
+      - date: '3110-01-01'
+        population:
+          value: 181434343.0
+      - date: '3120-01-01'
+        population:
+          value: 182489720.0
+      - date: '3122-01-01'
+        socioIndustrial:
+          value: C-D-C-B-C
+      - date: '3130-01-01'
+        population:
+          value: 183367776.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 183441138.0
+      - date: '3145-01-01'
+        population:
+          value: 183441138.0
+  - name:
+      value: Trinity Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.36
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 6.3
+    temperature:
+      value: -85
+  - name:
+      value: Sulaiman's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.24
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 15.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Jumah
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hani
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Hakim
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Bin Qays
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ananda Devi
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: As Salţ
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Bin Jibril's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 12.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 7
+    yearLength:
+      value: 41.6
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: S-1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: S-2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: S-3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Ata
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.52
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 114.1
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Bin Siraj I
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Bin Siraj II
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Bin Siraj III
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Bin Siraj IV
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Bin Siraj V
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Bin Siraj VI
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Bin Siraj VII
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Bin Siraj VIII
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Bin Siraj IX
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Hudhayfah's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.56
+    sysPos:
+      value: 9
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 317.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: G1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: G2
+        size:
+          value: medium
+        icon: oddmoon3

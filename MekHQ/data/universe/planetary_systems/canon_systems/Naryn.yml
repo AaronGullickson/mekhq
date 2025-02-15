@@ -1,0 +1,328 @@
+id: Naryn
+sucsId: 1799
+xcood: -37.191
+ycood: -361.153
+spectralType:
+  value: G6V
+primarySlot: 2
+event:
+  - date: '2921-01-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Rama
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: greenhouse2
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 213
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Naryn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: green16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 12900
+    density:
+      value: 5.2795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 40
+    water:
+      value: 33
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Cömert
+        capital:
+          value: Yeni Tokmok
+      - name:
+          value: Pollaiuolo
+      - name:
+          value: Birdal's Rest
+      - name:
+          value: Talu
+      - name:
+          value: Fremantle
+    event:
+      - date: '2690-02-06'
+        faction:
+          source: canon
+          value:
+            - CC
+        hpg:
+          value: B
+        population:
+          value: 53007.0
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '2700-01-01'
+        population:
+          value: 3334539.0
+      - date: '2709-01-01'
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '2710-01-01'
+        population:
+          value: 22766573.0
+      - date: '2720-01-01'
+        population:
+          value: 55491984.0
+      - date: '2730-01-01'
+        population:
+          value: 83855449.0
+      - date: '2731-01-01'
+        socioIndustrial:
+          value: A-B-C-B-B
+      - date: '2740-01-01'
+        population:
+          value: 101367979.0
+      - date: '2750-01-01'
+        population:
+          value: 110301164.0
+      - date: '2760-01-01'
+        population:
+          value: 114159031.0
+      - date: '2770-01-01'
+        population:
+          value: 115574594.0
+      - date: '2780-01-01'
+        population:
+          value: 115977531.0
+      - date: '2790-01-01'
+        population:
+          value: 100106428.0
+      - date: '2800-01-01'
+        population:
+          value: 63093774.0
+      - date: '2810-01-01'
+        population:
+          value: 36638933.0
+      - date: '2820-01-01'
+        population:
+          value: 18469839.0
+      - date: '2830-01-01'
+        population:
+          value: 8389088.0
+      - date: '2840-01-01'
+        population:
+          value: 3616863.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 1618515.0
+      - date: '2860-01-01'
+        population:
+          value: 638164.0
+      - date: '2870-01-01'
+        population:
+          value: 237072.0
+      - date: '2880-01-01'
+        population:
+          value: 91410.0
+      - date: '2890-01-01'
+        population:
+          value: 31995.0
+      - date: '2900-01-01'
+        population:
+          value: 10318.0
+      - date: '2902-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2910-01-01'
+        population:
+          value: 3352.0
+      - date: '2920-01-01'
+        population:
+          value: 1089.0
+      - date: '2921-11-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Saktassura
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Eithne
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: Juggernaut's Den
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 21
+  - name:
+      value: Ashvathaman
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Nirriti
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Bhagiratha
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Yama
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Kadru
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 170000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Iovis
+        size:
+          value: large
+        icon: rock2

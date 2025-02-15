@@ -1,0 +1,505 @@
+id: Coromodir
+sucsId: 603
+xcood: 92.158
+ycood: -466.511
+spectralType:
+  source: canon
+  value: G3V
+primarySlot: 6
+event:
+  - date: '2780-05-07'
+    nadirCharge:
+      source: canon
+      value: no
+    zenithCharge:
+      source: canon
+      value: yes
+planet:
+  - name:
+      value: Heard
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      source: canon
+      value: 1
+    icon: greenhouse29
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.25
+    temperature:
+      value: 265
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: T-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: T-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: T-3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Butler
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      source: canon
+      value: 2
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.58
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Freya Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Freya Beta
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Freya Gamma
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Freya Delta
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Freya Epsilon
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lane
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      source: canon
+      value: 3
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.5
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Spotsylvania Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.6
+    sysPos:
+      source: canon
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -91
+  - name:
+      source: canon
+      value: Coromodir V
+    type:
+      source: canon
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      source: canon
+      value: 5
+    icon: frozen15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      source: canon
+      value: BREATHABLE
+    composition:
+      source: canon
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.1
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.7
+    temperature:
+      source: canon
+      value: 39
+    water:
+      source: canon
+      value: 38
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    landmass:
+      - name:
+          value: Eden
+      - name:
+          value: Sottrel
+      - name:
+          value: Felenak
+    satellite:
+      - name:
+          source: canon
+          value: Tatur
+        size:
+          value: small
+        icon: rock13
+    event:
+      - date: '2735-11-16'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2910-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3025-09-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 909000000.0
+        socioIndustrial:
+          source: canon
+          value: C-C-B-C-A
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      source: canon
+      value: Coromodir
+    type:
+      source: canon
+      value: TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      source: canon
+      value: 6
+    icon: green42
+    pressure:
+      value: STANDARD
+    atmosphere:
+      source: canon
+      value: BREATHABLE
+    composition:
+      source: canon
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.95
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 11.8
+    temperature:
+      source: canon
+      value: 29
+    water:
+      source: canon
+      value: 83
+    lifeForm:
+      source: canon
+      value: REPTILE
+    smallMoons:
+      source: canon
+      value: 7
+    landmass:
+      - name:
+          value: Dison
+        capital:
+          value: Cordia City
+    event:
+      - date: '2735-11-16'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 44130.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2740-01-01'
+        population:
+          value: 89848.0
+      - date: '2742-01-20'
+        hpg:
+          source: canon
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 300272.0
+      - date: '2760-01-01'
+        population:
+          value: 790302.0
+      - date: '2770-01-01'
+        population:
+          value: 1714751.0
+      - date: '2780-01-01'
+        population:
+          value: 3183806.0
+      - date: '2790-01-01'
+        population:
+          value: 3822979.0
+      - date: '2800-01-01'
+        population:
+          value: 2924426.0
+      - date: '2810-01-01'
+        population:
+          value: 2255588.0
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 1983000000.0
+        socioIndustrial:
+          source: canon
+          value: C-C-A-C-A
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Jackson's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      source: canon
+      value: 7
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Viel
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.6
+    sysPos:
+      source: canon
+      value: 8
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 86.6
+    smallMoons:
+      value: 3
+  - name:
+      value: Thirtle
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      source: canon
+      value: 9
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 241.2
+    smallMoons:
+      value: 5
+  - name:
+      value: Far Coromodir Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 68.1
+    sysPos:
+      source: canon
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 600.2
+    temperature:
+      value: -151
+  - name:
+      value: Coromodir XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 500.0
+    sysPos:
+      source: canon
+      value: 11
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2500.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Coromodir XI IIX
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Coromodir XI X
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Coromodir XI XV
+        size:
+          value: medium
+        icon: oddmoon1

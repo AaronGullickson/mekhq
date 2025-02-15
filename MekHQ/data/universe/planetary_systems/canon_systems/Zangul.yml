@@ -1,0 +1,485 @@
+id: Zangul
+sucsId: 2816
+xcood: 119.804
+ycood: -402.483
+spectralType:
+  value: K6V
+primarySlot: 1
+event:
+  - date: '2716-09-26'
+    zenithCharge:
+      value: yes
+  - date: '2793-02-28'
+    zenithCharge:
+      value: no
+  - date: '2801-11-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Zangul
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green50
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 12300
+    density:
+      value: 4.6818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 35
+    water:
+      value: 44
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Old Khorramshahr
+        capital:
+          value: Sahasadecha
+      - name:
+          value: Ravānsar
+      - name:
+          value: New Miyashiro Machi
+    event:
+      - date: '2708-02-16'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 59509.0
+        socioIndustrial:
+          value: B-D-C-D-D
+      - date: '2710-01-01'
+        population:
+          value: 78877.0
+      - date: '2715-11-18'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 275088.0
+      - date: '2730-01-01'
+        population:
+          value: 759643.0
+      - date: '2740-01-01'
+        population:
+          value: 1734546.0
+      - date: '2750-01-01'
+        population:
+          value: 3406924.0
+      - date: '2760-01-01'
+        population:
+          value: 5929668.0
+      - date: '2770-01-01'
+        population:
+          value: 9301803.0
+      - date: '2780-01-01'
+        population:
+          value: 9088464.0
+      - date: '2790-01-01'
+        population:
+          value: 7059382.0
+      - date: '2800-01-01'
+        population:
+          value: 6791003.0
+      - date: '2801-05-20'
+        hpg:
+          value: X
+        population:
+          value: 5086336.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3003-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3025-03-15'
+        faction:
+          source: assumption
+          value:
+            - ARC
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          value: 4456717.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Fugen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: badwater14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 32
+    water:
+      value: 63
+    landmass:
+      - name:
+          value: Madani
+      - name:
+          value: Amiri's Stand
+      - name:
+          value: Fallah
+      - name:
+          value: Hashemi
+      - name:
+          value: Ansari's Retreat
+      - name:
+          value: Ramírez
+      - name:
+          value: Mohammadi
+      - name:
+          value: Rostami
+    satellite:
+      - name:
+          value: 2Z1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 2Z2
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Abdollahi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 3
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Aurgelmir
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Niflheimr
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Shoten
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 4
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: MF1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: MF2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: MF3
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Burbage's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Šu
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Sochet
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Ho Ori No Mikoto
+    type:
+      value: ICE_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Wickens
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Inari
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 112.3
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Heyrick
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Shokri's Land
+    type:
+      value: ICE_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 8
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Uuôden
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Khademi's Hold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 160000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 888.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Dehghan
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Bainton
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Ghafari
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ama No Minaka Nushi's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.56
+    sysPos:
+      value: 10
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2507.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17

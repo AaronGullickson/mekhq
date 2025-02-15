@@ -1,0 +1,262 @@
+id: Carvajal
+sucsId: 2888
+xcood: 417.122
+ycood: -435.915
+spectralType:
+  value: G7V
+primarySlot: 2
+planet:
+  - name:
+      value: Gil
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 146
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Carvajal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: green9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.27
+    diameter:
+      value: 14100
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 37
+    water:
+      value: 36
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Western Silva
+        capital:
+          value: Ragnarok
+      - name:
+          value: Eastern Silva
+      - name:
+          value: Zúñiga
+      - name:
+          value: Dalton
+    event:
+      - date: '3028-05-27'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48432.0
+        socioIndustrial:
+          value: C-F-A-D-F
+      - date: '3029-07-05'
+        hpg:
+          value: C
+      - date: '3030-11-02'
+        population:
+          value: 212462.0
+        socioIndustrial:
+          value: D-F-A-D-F
+      - date: '3040-01-01'
+        population:
+          value: 4062229.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3050-01-01'
+        population:
+          value: 6899507.0
+      - date: '3060-01-01'
+        population:
+          value: 7626692.0
+      - date: '3070-01-01'
+        population:
+          value: 7808649.0
+      - date: '3080-01-01'
+        population:
+          value: 7936180.0
+      - date: '3090-01-01'
+        population:
+          value: 8073863.0
+      - date: '3098-01-01'
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3100-01-01'
+        population:
+          value: 8209007.0
+      - date: '3110-01-01'
+        population:
+          value: 8366470.0
+      - date: '3120-01-14'
+        faction:
+          source: canon
+          value:
+            - CDP
+        population:
+          value: 8513320.0
+      - date: '3130-01-01'
+        population:
+          value: 8667947.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 8813036.0
+      - date: '3145-01-01'
+        population:
+          value: 8889155.0
+  - name:
+      value: López
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: greenhouse24
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 23
+    water:
+      value: 34
+    landmass:
+      - name:
+          value: New San Mateo Peñasco I
+        capital:
+          value: New San Mateo Peñasco I City
+      - name:
+          value: New San Mateo Peñasco II
+    satellite:
+      - name:
+          value: Zang 1
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Zang 2
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Zang 3
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Espinoza's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 100000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: AP21
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: AP22
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: AP23
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: AP24
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: AP25
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: AP26
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: AP27
+        size:
+          value: large
+        icon: rock12

@@ -1,0 +1,986 @@
+id: Telos IV
+sucsId: 2511
+xcood: 43.942
+ycood: 40.273
+spectralType:
+  source: canon
+  value: K7IV
+primarySlot: 4
+event:
+  - date: '2353-11-19'
+    zenithCharge:
+      value: yes
+  - date: '2357-07-23'
+    nadirCharge:
+      value: yes
+  - date: '2786-09-28'
+    zenithCharge:
+      value: no
+  - date: '2831-10-18'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Telos I
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.27
+    diameter:
+      value: 5500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 281
+    water:
+      value: 0
+  - name:
+      value: Telos II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: barren4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 146
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: I981
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: I982
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: I983
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Telos III
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 3
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -10
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Telos IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 4
+    icon: wet20
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.73
+    diameter:
+      value: 10252
+    density:
+      value: 4.979787142921
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 44
+    water:
+      source: canon
+      value: 82
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Cursed with a weak ozone layer that lets in more than the average amount
+      of solar radiation, Telos IV is a warm, dreary world of continual rainstorms
+      and freak tornadoes that ravage all four of its island continents in the middle
+      latitudes. Surviving despite these hazards, the people of this world have developed
+      a reputation for being stubborn and fiercely independent, a reputation that
+      has caused them no small share of problems over the centuries when dealing with
+      the greater realms. Shiro Kurita, founder of the Draconis Combine, manipulated
+      the people of Telos IV into joining his growing state through guile and political
+      trickery. When the deceit was discovered, the Telosians revolted, which prompted
+      the first Coordinator to invade the planet as a demonstration of the Combine‘s
+      superiority. In the years that followed, the population remained stubborn. Though
+      suppressed for a time, the Kuritas found the Telosians difficult to deal with,
+      as they resorted to passive resistance instead of outright rebellion. Since
+      Telos IV lacked significant mineral or agricultural wealth, the Combine willingly
+      ceded the world to the rising Terran Hegemony, hoping its dissident population
+      would give the Camerons as much trouble as it had the Kuritas. At first, the
+      Telosians did just that, but Hegemony efforts to improve relations with the
+      planet, which included placing several storm inhibitors (similar to those employed
+      on Bryant) in Telos IV‘s orbit, helped win over the locals. This amicable relationship
+      helped during the Amaris Crisis, when the Usurper, finding little of value on
+      Telos IV, abandoned the world after demolishing the storm inhibitors and planetary
+      defense network. Kerensky‘s forces found support on Telos IV when they arrived
+      and easily advanced on their campaign of liberation. Returned to Kurita rule
+      after the fall of the League, the Telosians resumed their attitude of passive
+      resistance, which prevented the Dragon from exploiting the planet‘s modest resources
+      to the fullest, even centuries later. However, this attitude underwent marked
+      improvement after the reforms enacted by Coordinator Theodore Kurita. When Telos
+      IV was ceded to the Republic, its inhabitants had mixed feelings about the transfer
+      and initially balked at the resettlement directives. Today, however, the warm
+      and stormy world of Telos IV is tranquil once again, secure in the freedoms
+      of the Terran Hegemony‘s closest successor. The capital of Telos IV, Triumph,
+      is located on the large northern continent of Dulles. Telos IV's other three
+      continents—Rustov on the equator and Fellin and Haranshire in the southern hemisphere—are
+      home to a scattering of large cities and mining towns.
+    landmass:
+      - name:
+          source: canon
+          value: Dulles
+        capital:
+          source: canon
+          value: Triumph
+      - name:
+          source: canon
+          value: Fellin
+      - name:
+          source: canon
+          value: Haranshire
+      - name:
+          source: canon
+          value: Rustov
+    satellite:
+      - name:
+          value: Sadib
+        size:
+          value: large
+        icon: rock7
+    event:
+      - date: '2164-03-08'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 41550.0
+        socioIndustrial:
+          value: D-D-C-D-B
+      - date: '2170-01-01'
+        population:
+          value: 93176.0
+      - date: '2180-01-01'
+        population:
+          value: 313148.0
+      - date: '2190-01-01'
+        population:
+          value: 912664.0
+      - date: '2200-01-01'
+        population:
+          value: 2349616.0
+      - date: '2210-01-01'
+        population:
+          value: 5385884.0
+      - date: '2220-01-01'
+        population:
+          value: 11153041.0
+      - date: '2230-01-01'
+        population:
+          value: 21181691.0
+      - date: '2240-01-01'
+        population:
+          value: 37170922.0
+      - date: '2242-12-29'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2250-01-01'
+        population:
+          value: 61221504.0
+      - date: '2260-01-01'
+        population:
+          value: 95103606.0
+      - date: '2270-01-01'
+        population:
+          value: 139585264.0
+      - date: '2280-01-01'
+        population:
+          value: 194360294.0
+      - date: '2290-01-01'
+        population:
+          value: 259308194.0
+      - date: '2300-01-01'
+        population:
+          value: 334775651.0
+      - date: '2309-03-26'
+        faction:
+          source: canon
+          value:
+            - AG
+      - date: '2310-01-01'
+        population:
+          value: 421970058.0
+      - date: '2311-09-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2311-09-15'
+        faction:
+          source: canon
+          value:
+            - IND
+            - AG
+      - date: '2312-04-01'
+        faction:
+          source: canon
+          value:
+            - AG
+      - date: '2319-03-09'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2320-01-01'
+        population:
+          value: 517089477.0
+      - date: '2330-01-01'
+        population:
+          value: 615620514.0
+      - date: '2340-01-01'
+        population:
+          value: 717739196.0
+      - date: '2341-06-23'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2350-01-01'
+        population:
+          value: 825030025.0
+      - date: '2360-01-01'
+        population:
+          value: 936584854.0
+      - date: '2363-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2370-01-01'
+        population:
+          value: 1053807089.0
+      - date: '2380-01-01'
+        population:
+          value: 1171396433.0
+      - date: '2390-01-01'
+        population:
+          value: 1282991335.0
+      - date: '2400-01-01'
+        population:
+          value: 1393704717.0
+      - date: '2410-01-01'
+        population:
+          value: 1499766883.0
+      - date: '2420-01-01'
+        population:
+          value: 1607183313.0
+      - date: '2430-01-01'
+        population:
+          value: 1707816509.0
+      - date: '2440-01-01'
+        population:
+          value: 1796653462.0
+      - date: '2450-01-01'
+        population:
+          value: 1878613514.0
+      - date: '2460-01-01'
+        population:
+          value: 1958296247.0
+      - date: '2470-01-01'
+        population:
+          value: 2037873134.0
+      - date: '2480-01-01'
+        population:
+          value: 2120222867.0
+      - date: '2490-01-01'
+        population:
+          value: 2191861617.0
+      - date: '2500-01-01'
+        population:
+          value: 2258222043.0
+      - date: '2510-01-01'
+        population:
+          value: 2325502940.0
+      - date: '2520-01-01'
+        population:
+          value: 2382432806.0
+      - date: '2530-01-01'
+        population:
+          value: 2434144173.0
+      - date: '2540-01-01'
+        population:
+          value: 2486769348.0
+      - date: '2550-01-01'
+        population:
+          value: 2529170058.0
+      - date: '2560-01-01'
+        population:
+          value: 2566371344.0
+      - date: '2570-01-01'
+        population:
+          value: 2582468850.0
+      - date: '2580-01-01'
+        population:
+          value: 2589299398.0
+      - date: '2590-01-01'
+        population:
+          value: 2583999572.0
+      - date: '2594-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2600-01-01'
+        population:
+          value: 2587017452.0
+      - date: '2610-01-01'
+        population:
+          value: 2599665579.0
+      - date: '2620-01-01'
+        population:
+          value: 2620204796.0
+      - date: '2625-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2630-01-01'
+        population:
+          value: 2643720859.0
+      - date: '2632-06-12'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 2667259084.0
+      - date: '2650-01-01'
+        population:
+          value: 2702834254.0
+      - date: '2660-01-01'
+        population:
+          value: 2743365960.0
+      - date: '2670-01-01'
+        population:
+          value: 2777493948.0
+      - date: '2680-01-01'
+        population:
+          value: 2797230207.0
+      - date: '2690-01-01'
+        population:
+          value: 2826562792.0
+      - date: '2700-01-01'
+        population:
+          value: 2855005991.0
+      - date: '2710-01-01'
+        population:
+          value: 2883179064.0
+      - date: '2720-01-01'
+        population:
+          value: 2911717914.0
+      - date: '2730-01-01'
+        population:
+          value: 2924265828.0
+      - date: '2740-01-01'
+        population:
+          value: 2938243647.0
+      - date: '2750-01-01'
+        population:
+          value: 2943103590.0
+      - date: '2760-01-01'
+        population:
+          value: 2940604898.0
+      - date: '2767-09-24'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 2931786532.0
+      - date: '2779-03-09'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2780-01-01'
+        population:
+          value: 2922569812.0
+      - date: '2790-03-25'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 2911446639.0
+      - date: '2800-01-01'
+        population:
+          value: 2901605122.0
+      - date: '2810-01-01'
+        population:
+          value: 2890698950.0
+      - date: '2820-01-01'
+        population:
+          value: 2880927566.0
+      - date: '2830-01-01'
+        population:
+          value: 2869690435.0
+      - date: '2840-01-01'
+        population:
+          value: 2860261591.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 2851269726.0
+      - date: '2860-01-01'
+        population:
+          value: 2842441048.0
+      - date: '2870-01-01'
+        population:
+          value: 2835388821.0
+      - date: '2880-01-01'
+        population:
+          value: 2827280256.0
+      - date: '2890-01-01'
+        population:
+          value: 2820533398.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: C-B-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 2816207818.0
+      - date: '2910-01-01'
+        population:
+          value: 2808154107.0
+      - date: '2920-01-01'
+        population:
+          value: 2796802531.0
+      - date: '2930-01-01'
+        population:
+          value: 2785629067.0
+      - date: '2940-01-01'
+        population:
+          value: 2776740017.0
+      - date: '2950-01-01'
+        population:
+          value: 2765384160.0
+      - date: '2960-01-01'
+        population:
+          value: 2755513137.0
+      - date: '2970-01-01'
+        population:
+          value: 2745416700.0
+      - date: '2980-01-01'
+        population:
+          value: 2736266292.0
+      - date: '2990-01-01'
+        population:
+          value: 2726758057.0
+      - date: '3000-01-01'
+        population:
+          value: 2717153883.0
+      - date: '3010-01-01'
+        population:
+          value: 2705656392.0
+      - date: '3020-01-01'
+        population:
+          value: 2695614678.0
+      - date: '3028-01-01'
+        socioIndustrial:
+          value: B-B-C-C-B
+      - date: '3030-01-01'
+        population:
+          value: 2703989267.0
+      - date: '3040-01-01'
+        population:
+          value: 2725980524.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: A-B-B-B-A
+      - date: '3050-01-01'
+        population:
+          value: 2745678411.0
+      - date: '3060-01-01'
+        population:
+          value: 2764136221.0
+      - date: '3070-01-01'
+        population:
+          value: 2792195458.0
+      - date: '3072-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3077-02-05'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - WOB
+      - date: '3077-02-10'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 2811809395.0
+      - date: '3081-05-26'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 2836662511.0
+      - date: '3091-01-01'
+        socioIndustrial:
+          value: A-B-B-B-A
+      - date: '3100-01-01'
+        population:
+          value: 2865744535.0
+      - date: '3110-01-01'
+        population:
+          value: 2896282995.0
+      - date: '3120-01-01'
+        population:
+          value: 2922467194.0
+      - date: '3130-01-01'
+        population:
+          value: 2953019449.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-09-26'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3140-01-01'
+        population:
+          value: 2974357915.0
+      - date: '3145-01-01'
+        population:
+          value: 2984487943.0
+  - name:
+      value: Telos V
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Ilma
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Ajatar
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Surma
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Telos VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: 6YK-1
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: 6YK-2
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: 6YK-3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 6YK-4
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 6YK-5
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 6YK-6
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 6YK-7
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: 6YK-8
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Telos VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Polites
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Cosmatos
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Penie
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Telos VIII
+    type:
+      value: ICE_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Cupra Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 112.3
+    temperature:
+      value: -220
+  - name:
+      value: Telos IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: G9-1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: G9-2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: G9-3
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Telos X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 888.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Katevatis I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Katevatis II
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Katevatis III
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Katevatis IV
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Katevatis V
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Telos XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 368.88
+    sysPos:
+      value: 12
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 7084.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Dimitrakos 1
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Dimitrakos 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dimitrakos 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Telos XII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1474.8
+    sysPos:
+      value: 13
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 56636.900000000001
+    ring:
+      value: yes
+    smallMoons:
+      value: 16

@@ -1,0 +1,220 @@
+id: Bazaar
+sucsId: 3018
+xcood: 23.578
+ycood: 754.886
+spectralType:
+  source: canon
+  value: G2VI
+primarySlot: 3
+event:
+  - date: '3052-12-02'
+    zenithCharge:
+      value: yes
+  - date: '3110-12-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: LL1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 1
+    icon: greenhouse13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Nitrous Oxide and Sulfur Dioxide
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 424
+    water:
+      value: 0
+    ring:
+      value: yes
+    landmass:
+      - name:
+          value: K1
+      - name:
+          value: K0
+  - name:
+      value: LL2
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 2
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.4
+  - name:
+      source: canon
+      value: Bazaar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: green15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 11400
+    density:
+      value: 6.3437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 35
+    water:
+      value: 38
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: A1
+    event:
+      - date: '3052-10-26'
+        faction:
+          source: canon
+          value:
+            - CDS
+        hpg:
+          value: A
+        population:
+          value: 1250.0
+        socioIndustrial:
+          value: A-X-X-X-X
+      - date: '3110-11-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: LL4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: G9-1
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: LL5
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 11.9
+    temperature:
+      value: -92
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: LL6
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 6

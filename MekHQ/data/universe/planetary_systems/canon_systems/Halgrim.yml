@@ -1,0 +1,444 @@
+id: Halgrim
+sucsId: 1038
+xcood: 625.961
+ycood: 154.393
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2922-10-14'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Halgrim
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green40
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 13800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 35
+    water:
+      value: 38
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Carpentier
+        capital:
+          value: Besnard Town
+      - name:
+          value: Jones's Revenge
+      - name:
+          value: Postlethwaite
+    event:
+      - date: '2714-05-16'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 47339.0
+        socioIndustrial:
+          value: C-C-C-D-F
+      - date: '2717-07-05'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 99484.0
+      - date: '2730-01-01'
+        population:
+          value: 284018.0
+      - date: '2740-01-01'
+        population:
+          value: 668871.0
+      - date: '2750-01-01'
+        population:
+          value: 1344937.0
+      - date: '2759-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2760-01-01'
+        population:
+          value: 2372069.0
+      - date: '2770-01-01'
+        population:
+          value: 3764883.0
+      - date: '2780-01-01'
+        population:
+          value: 5467999.0
+      - date: '2790-01-01'
+        population:
+          value: 5779812.0
+      - date: '2798-02-23'
+        hpg:
+          value: D
+      - date: '2800-01-01'
+        population:
+          value: 3854304.0
+      - date: '2810-01-01'
+        population:
+          value: 2916254.0
+      - date: '2820-01-01'
+        population:
+          value: 2206503.0
+      - date: '2830-01-01'
+        population:
+          value: 1669490.0
+      - date: '2840-01-01'
+        population:
+          value: 1303692.0
+      - date: '2850-01-01'
+        population:
+          value: 820482.0
+      - date: '2860-01-01'
+        population:
+          value: 489903.0
+      - date: '2870-01-01'
+        population:
+          value: 370672.0
+      - date: '2880-01-01'
+        population:
+          value: 261915.0
+      - date: '2890-01-01'
+        population:
+          value: 197131.0
+      - date: '2900-01-01'
+        population:
+          value: 148371.0
+      - date: '2910-01-01'
+        population:
+          value: 108201.0
+      - date: '2920-01-01'
+        population:
+          value: 65980.0
+      - date: '2922-01-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Philadelphia
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.55
+    diameter:
+      value: 30000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Amphitrite
+        size:
+          value: giant
+        icon: rock11
+  - name:
+      value: San Marcos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Tagwerker
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Williams
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Wolf Point
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Nakano 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Nakano 2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Nakano 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Nakano 4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Beeville
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: Eyota
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Spurrett
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Claverack
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Ilythia Alpha
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ilythia Beta
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ilythia Gamma
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Ilythia Delta
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Ilythia Epsilon
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Rojas
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.6
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 3
+  - name:
+      value: Nova Ensley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 21
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: KJZ1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: KJZ2
+        size:
+          value: medium
+        icon: rock9

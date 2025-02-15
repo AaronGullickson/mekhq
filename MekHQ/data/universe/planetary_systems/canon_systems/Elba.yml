@@ -1,0 +1,432 @@
+id: Elba
+sucsId: 783
+xcood: -418.221
+ycood: 302.556
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2854-01-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Elba
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green55
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 12300
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 36
+    water:
+      value: 25
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Patrick
+        capital:
+          value: Ayr Prime
+      - name:
+          value: Sofian's Stand
+      - name:
+          value: Melikki
+    event:
+      - date: '2706-05-17'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 44823.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2710-01-01'
+        population:
+          value: 77225.0
+      - date: '2718-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2720-01-01'
+        population:
+          value: 252158.0
+      - date: '2723-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2724-09-15'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 662061.0
+      - date: '2740-01-01'
+        population:
+          value: 1460903.0
+      - date: '2750-01-01'
+        population:
+          value: 2804294.0
+      - date: '2760-01-01'
+        population:
+          value: 4811449.0
+      - date: '2770-01-01'
+        population:
+          value: 7507916.0
+      - date: '2779-03-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2780-01-01'
+        population:
+          value: 10784559.0
+      - date: '2790-01-01'
+        population:
+          value: 14483069.0
+      - date: '2800-01-01'
+        population:
+          value: 18431548.0
+      - date: '2810-01-01'
+        population:
+          value: 22442361.0
+      - date: '2820-01-01'
+        population:
+          value: 26392606.0
+      - date: '2830-01-01'
+        population:
+          value: 30171095.0
+      - date: '2840-01-01'
+        population:
+          value: 3851421.0
+      - date: '2850-01-01'
+        population:
+          value: 108867.0
+      - date: '2854-06-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Carpenter
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Port Kane
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 40000
+    density:
+      value: 2.2
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Eloah 1
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Eloah 2
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Dixon
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 45000
+    density:
+      value: 1.5
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Hilliard 1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Hilliard 2
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Gates
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: E8-1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: E8-2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: E8-3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: E8-4
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: E8-5
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Harrington
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Norris
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Bull
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Dixon
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Hurst
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Hartman
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Armstrong
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Jackson
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Allen
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Smith
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Susano
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Susano Wu
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Inktomi Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 239.8
+    temperature:
+      value: -247

@@ -1,0 +1,367 @@
+id: Manksville
+sucsId: 1591
+xcood: 388.4
+ycood: -22.866
+spectralType:
+  value: K8V
+primarySlot: 1
+event:
+  - date: '2856-06-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Manksville
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green24
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 31
+    water:
+      value: 35
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Collins
+        capital:
+          value: Menoetius City
+      - name:
+          value: Tulun
+      - name:
+          value: New Nikopol
+      - name:
+          value: Popieluszko
+      - name:
+          value: New Langtoft
+      - name:
+          value: Purcell
+    event:
+      - date: '2727-12-09'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 47292.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2728-11-02'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 77046.0
+      - date: '2740-01-01'
+        population:
+          value: 318021.0
+      - date: '2750-01-01'
+        population:
+          value: 995322.0
+      - date: '2760-01-01'
+        population:
+          value: 2483522.0
+      - date: '2770-01-01'
+        population:
+          value: 5172156.0
+      - date: '2780-01-01'
+        population:
+          value: 9318739.0
+      - date: '2790-01-01'
+        population:
+          value: 15029913.0
+      - date: '2800-01-01'
+        population:
+          value: 22000476.0
+      - date: '2810-01-01'
+        population:
+          value: 29792312.0
+      - date: '2820-01-01'
+        population:
+          value: 38009514.0
+      - date: '2830-01-01'
+        population:
+          value: 46377682.0
+      - date: '2840-01-01'
+        population:
+          value: 21797810.0
+      - date: '2850-01-01'
+        population:
+          value: 520514.0
+      - date: '2856-08-17'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ceneus
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.8
+  - name:
+      value: Hecate
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 3
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -96
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Achelois
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 4
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Yue
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Beedell
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Valdéz
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Fukuda
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Van Poppel
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Pakpahan
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Rush
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Caeneus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Nankil'slas
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Khronos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 8OG-1
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: 8OG-2
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: 8OG-3
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: 8OG-4
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 8OG-5
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 8OG-6
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: New Hattem
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 7
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Acolmiztli
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Coatlicue
+        size:
+          value: large
+        icon: rock3

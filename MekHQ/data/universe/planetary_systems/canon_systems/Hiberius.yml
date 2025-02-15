@@ -1,0 +1,378 @@
+id: Hiberius
+sucsId: 1106
+xcood: -513.023
+ycood: 65.019
+spectralType:
+  value: G9V
+primarySlot: 2
+event:
+  - date: '2816-04-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Woodruff
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1700
+    density:
+      value: 5.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 152
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Hiberius
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green56
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.16
+    diameter:
+      value: 12900
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 35
+    water:
+      value: 26
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 3
+    landmass:
+      - capital:
+          value: New O'Herlihytown
+    event:
+      - date: '2661-03-23'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 47785.0
+        socioIndustrial:
+          value: B-D-B-D-F
+      - date: '2670-01-01'
+        population:
+          value: 892796.0
+      - date: '2680-04-14'
+        population:
+          value: 5805692.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2690-01-01'
+        population:
+          value: 16470167.0
+      - date: '2696-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2700-01-01'
+        population:
+          value: 29446259.0
+      - date: '2701-01-01'
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '2710-01-01'
+        population:
+          value: 40906775.0
+      - date: '2720-01-01'
+        population:
+          value: 49395307.0
+      - date: '2730-01-01'
+        population:
+          value: 55032303.0
+      - date: '2731-09-02'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 42303724.0
+      - date: '2750-01-01'
+        population:
+          value: 13786939.0
+      - date: '2760-01-01'
+        population:
+          value: 7003137.0
+      - date: '2770-01-01'
+        population:
+          value: 4819356.0
+      - date: '2779-11-16'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2419590.0
+      - date: '2790-01-01'
+        population:
+          value: 1007727.0
+      - date: '2800-01-01'
+        population:
+          value: 340132.0
+      - date: '2810-01-01'
+        population:
+          value: 123136.0
+      - date: '2816-05-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Waylen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: -4
+    water:
+      value: 0
+  - name:
+      value: Van Aerden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Hayes 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Hayes 2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Hayes 3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Hayes 4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hayes 5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Oberon
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 1
+  - name:
+      value: Fournier's Wheel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Turner
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Salinas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 7
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Robinson
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Babbington
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Ine
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brugger's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.08
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3860.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Sylvanus
+        size:
+          value: large
+        icon: rock6

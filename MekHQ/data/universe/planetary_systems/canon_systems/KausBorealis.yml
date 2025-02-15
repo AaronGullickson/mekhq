@@ -1,0 +1,696 @@
+id: Kaus Borealis
+sucsId: 1309
+xcood: 11.373
+ycood: 96.371
+spectralType:
+  source: canon
+  value: K1IV
+primarySlot: 4
+event:
+  - date: '2488-08-09'
+    nadirCharge:
+      value: yes
+  - date: '2570-11-12'
+    zenithCharge:
+      value: yes
+  - date: '2793-11-16'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Windischgraetz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren15
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 306
+    water:
+      value: 0
+  - name:
+      value: Port Millman
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: barren8
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon and Nitrous
+        Oxide
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 165
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Lug
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Adams
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Kaus Borealis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: green21
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.87
+    diameter:
+      value: 9830
+    density:
+      value: 6.22043685882
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.7
+    temperature:
+      source: canon
+      value: 55
+    water:
+      source: canon
+      value: 71
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      A hellish world of continuous volcanic activity that geologists are attributing to a severe tectonic shift of unparalleled magnitude, Kaus Borealis is a world that many feel is on death‘s door. Over 300 active volcanoes have formed in the last three centuries alone, erupting with increasing intensity that now has lava flowing freely and regularly over almost ten percent of the planet‘s surface at any given time. When first discovered, Kaus Borealis was a serene world of deep green oceans, fertile soil, hardy woodlands, abundant wildlife, and blue skies. The early colonists quickly made their paradise a home and established it as an agricultural world. Although, like most terrestrial planets, Kaus Borealis had its share of seismic disturbances, scientists thought little of them until three new volcanoes explosively emerged on the west coast of the northern continent of Lucynda in 2803, each within three months of the other. As more eruptions followed, and entire towns or farming regions were swallowed up by the earth or incinerated by tons of molten rock, a gradual exodus began, which stalled in the thirty-first century when the planet grew inexplicably silent. However, by that stage so much sulfur, methane, and ash had been thrown into the atmosphere that the ozone layer was compromised, breathing was impossible without respirators, and acid rain regularly fell from dark, yellow skies. Gone were the serene oceans, fertile soil, and hardy woodlands, and most of the native wildlife had perished. Turbulent, superheated seas and barren wastes of broken rock and charcoal now dominated the landscape, but began to give way to the first signs of rejuvenation by the time Kaus Borealis became a part of by the last 31st century.
+
+      In 3102, all hell broke loose again. With renewed fury, five volcanoes scattered across all four of the planet‘s major landmasses blasted fire and hot gases into the skies and ran molten lava into the land and seas, prompting the start of another mass exodus that continues to this day. Geologists studying the ongoing phenomenon have claimed that the rate of eruptions suggests that the continuous turmoil may run its course, as the tectonic plates settle into new positions within another few centuries, but the less analytical inhabitants of this world may not wait around that long.
+
+      The capital of Kaus Borealis, Iamda, is located on the northern continent of Allysi, which lies east of Lucynda. Grand Cauldron, a newer city on the southern continent of Bellaria, is home to the largest of the planet‘s geological research facilities, the Gordon Weiss Institute of Tectonics, as well as the southern hub of the Kaus Borealis Planetary Evacuation Command. Rashatta, Kaus Borealis‘ fourth and smallest continent, located in the equatorial zones between Allysi and Rashatta, is completely lifeless, a result of the planet‘s brutal heat and the presence of no fewer than ten of its twenty largest active volcanoes.
+    landmass:
+      - name:
+          source: canon
+          value: Allysi
+        capital:
+          source: canon
+          value: Iamda
+      - name:
+          source: canon
+          value: Bellaria
+      - name:
+          source: canon
+          value: Lucynda
+      - name:
+          source: canon
+          value: Rashatta
+    satellite:
+      - name:
+          value: Blufisch
+        size:
+          value: large
+        icon: rock6
+    event:
+      - date: '2281-08-11'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 56132.0
+        socioIndustrial:
+          value: D-D-F-D-F
+      - date: '2290-01-01'
+        population:
+          value: 272741.0
+      - date: '2300-01-01'
+        population:
+          value: 1240879.0
+      - date: '2310-01-01'
+        population:
+          value: 4519223.0
+      - date: '2320-01-01'
+        population:
+          value: 13592418.0
+      - date: '2330-01-01'
+        population:
+          value: 34837229.0
+      - date: '2340-01-01'
+        population:
+          value: 78117523.0
+      - date: '2341-03-01'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 155709334.0
+      - date: '2360-01-01'
+        population:
+          value: 280261313.0
+      - date: '2370-01-01'
+        population:
+          value: 464018342.0
+      - date: '2380-01-01'
+        population:
+          value: 717564661.0
+      - date: '2390-01-01'
+        population:
+          value: 1038415372.0
+      - date: '2400-01-01'
+        population:
+          value: 1427237431.0
+      - date: '2410-01-01'
+        population:
+          value: 1865186491.0
+      - date: '2420-01-01'
+        population:
+          value: 2341920079.0
+      - date: '2430-01-01'
+        population:
+          value: 2852052267.0
+      - date: '2440-01-01'
+        population:
+          value: 3363630621.0
+      - date: '2441-01-01'
+        socioIndustrial:
+          value: D-D-F-C-F
+      - date: '2450-01-01'
+        population:
+          value: 3887161925.0
+      - date: '2460-01-01'
+        population:
+          value: 4380576320.0
+      - date: '2470-01-01'
+        population:
+          value: 4846127452.0
+      - date: '2480-01-01'
+        population:
+          value: 5279846009.0
+      - date: '2490-01-01'
+        population:
+          value: 5691508639.0
+      - date: '2500-12-11'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 6096641888.0
+      - date: '2510-01-01'
+        population:
+          value: 6474251368.0
+      - date: '2520-01-01'
+        population:
+          value: 6806458670.0
+      - date: '2530-01-01'
+        population:
+          value: 7118272108.0
+      - date: '2540-01-01'
+        population:
+          value: 7420518617.0
+      - date: '2550-01-01'
+        population:
+          value: 7668432544.0
+      - date: '2560-01-01'
+        population:
+          value: 7899632164.0
+      - date: '2570-01-01'
+        population:
+          value: 8141815873.0
+      - date: '2580-01-01'
+        population:
+          value: 8380121307.0
+      - date: '2590-01-01'
+        population:
+          value: 8540697767.0
+      - date: '2600-01-01'
+        population:
+          value: 8684715985.0
+      - date: '2610-01-01'
+        population:
+          value: 8883362226.0
+      - date: '2620-01-01'
+        population:
+          value: 9073793201.0
+      - date: '2630-01-01'
+        population:
+          value: 9246580652.0
+      - date: '2640-01-01'
+        population:
+          value: 9355755842.0
+      - date: '2642-05-11'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 9436582029.0
+      - date: '2660-01-01'
+        population:
+          value: 9554599098.0
+      - date: '2670-01-01'
+        population:
+          value: 9675697771.0
+      - date: '2680-01-01'
+        population:
+          value: 9754194503.0
+      - date: '2690-01-01'
+        population:
+          value: 9815521970.0
+      - date: '2700-01-01'
+        population:
+          value: 9842481046.0
+      - date: '2710-01-01'
+        population:
+          value: 9815874518.0
+      - date: '2720-01-01'
+        population:
+          value: 9736762528.0
+      - date: '2730-01-01'
+        population:
+          value: 9668625960.0
+      - date: '2737-01-01'
+        socioIndustrial:
+          value: F-D-F-C-F
+      - date: '2740-01-01'
+        population:
+          value: 9630939437.0
+      - date: '2750-01-01'
+        population:
+          value: 9539421711.0
+      - date: '2760-01-01'
+        population:
+          value: 9501761271.0
+      - date: '2767-12-31'
+        hpg:
+          source: canon
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 9483405122.0
+      - date: '2780-01-01'
+        population:
+          value: 9457963959.0
+      - date: '2790-01-01'
+        population:
+          value: 9390988389.0
+      - date: '2800-01-01'
+        population:
+          value: 9321847034.0
+      - date: '2810-01-01'
+        population:
+          value: 9199185934.0
+      - date: '2820-01-01'
+        population:
+          value: 9062962450.0
+      - date: '2830-01-01'
+        population:
+          value: 8945578591.0
+      - date: '2840-04-01'
+        population:
+          value: 8809424928.0
+        socioIndustrial:
+          value: F-F-F-D-F
+      - date: '2850-01-01'
+        population:
+          value: 8657218544.0
+      - date: '2860-01-01'
+        population:
+          value: 8511201323.0
+      - date: '2870-01-01'
+        population:
+          value: 8390428435.0
+      - date: '2880-01-01'
+        population:
+          value: 8278291827.0
+      - date: '2890-01-01'
+        population:
+          value: 8138665784.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: F-F-F-D-F
+      - date: '2900-01-01'
+        population:
+          value: 8021501304.0
+      - date: '2910-01-01'
+        population:
+          value: 7920919026.0
+      - date: '2920-01-01'
+        population:
+          value: 7841252706.0
+      - date: '2930-01-01'
+        population:
+          value: 7747790270.0
+      - date: '2940-01-01'
+        population:
+          value: 7692355639.0
+      - date: '2950-01-01'
+        population:
+          value: 7630931110.0
+      - date: '2960-01-01'
+        population:
+          value: 7612864933.0
+      - date: '2970-01-01'
+        population:
+          value: 7591665360.0
+      - date: '2980-01-01'
+        population:
+          value: 7565776319.0
+      - date: '2990-01-01'
+        population:
+          value: 7539975565.0
+      - date: '3000-01-01'
+        population:
+          value: 7544181915.0
+      - date: '3010-01-01'
+        population:
+          value: 7575276304.0
+      - date: '3020-01-01'
+        population:
+          value: 7603317809.0
+      - date: '3030-01-01'
+        population:
+          value: 7647733162.0
+      - date: '3040-01-01'
+        population:
+          value: 7721504939.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: F-F-F-D-F
+      - date: '3050-01-01'
+        population:
+          value: 7798327482.0
+      - date: '3060-01-01'
+        population:
+          value: 7871190214.0
+      - date: '3070-01-01'
+        population:
+          value: 7933618885.0
+      - date: '3072-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3075-08-28'
+        faction:
+          source: canon
+          value:
+            - CGB
+            - WOB
+      - date: '3075-09-06'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 7946322836.0
+      - date: '3081-09-10'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 7941556472.0
+      - date: '3100-01-01'
+        population:
+          value: 7967010157.0
+      - date: '3110-01-01'
+        population:
+          value: 8011750570.0
+      - date: '3117-01-01'
+        socioIndustrial:
+          value: D-F-F-D-D
+      - date: '3120-01-01'
+        population:
+          value: 8034214907.0
+      - date: '3130-01-01'
+        population:
+          value: 8039036883.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 8040644851.0
+      - date: '3145-06-13'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 8039036883.0
+  - name:
+      value: Potter
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: greenhouse41
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Chlorine
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.5
+    temperature:
+      value: 29
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Wendlinger
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Skoll
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Rig
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Zankiev
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Istar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Bishamonten 1
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Bishamonten 2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hassani
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 160000
+    density:
+      value: 0.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Mwingiro I
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Mwingiro II
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Mwingiro III
+        size:
+          value: medium
+        icon: oddmoon3

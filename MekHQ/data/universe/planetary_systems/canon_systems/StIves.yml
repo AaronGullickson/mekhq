@@ -1,0 +1,651 @@
+id: St. Ives
+sucsId: 2391
+xcood: 109.619
+ycood: -214.379
+spectralType:
+  source: canon
+  value: G8V
+primarySlot: 3
+event:
+  - date: '2373-01-14'
+    zenithCharge:
+      value: yes
+  - date: '2402-06-28'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Ramakian
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Blevins
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Khon
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Brian A
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Brian B
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Brian C
+        size:
+          value: large
+        icon: rock5
+  - name:
+      source: canon
+      value: St. Ives
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green12
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.01
+    diameter:
+      value: 12791
+    density:
+      value: 5.545073357946
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      source: canon
+      value: 34
+    water:
+      source: canon
+      value: 67
+    lifeForm:
+      source: canon
+      value: PLANT
+    desc: |-
+      St. Ives is a comfortable planet which was first settled in 2197 by refugees from Hong Kong. The planet was an independent realm for much of its early history and did not recognize the rule of the Terran Alliance. In 2244 St. Ives became the capital of the fledgling St. Ives Mercantile League until eventually joining the Capellan Confederation as the capital of the St. Ives Commonality.
+
+      St. Ives was always an important world in the Confederation due to hosting the largest concentration of electronics and avionics manufacturing facilities in the realm. In addition the planet is a major BattleMech production center and was historically the largest Aerospace fighter production center in the Confederation. These industries are located in vast underground facilities that honeycomb the planet making them almost invulnerable to attack and the key reason these plants survived the Succession Wars.
+
+      St. Ives is home to a number of military industrial facilities, including a Ceres Metals BattleMech and combat vehicle plant located in the mountsains of the 'Zone continent, a Hildco Interplanetary BattleMech factory located in the flatlands of 'Zona, a Tengo Aerospace factory located in the capital city Tain-tan, and a StarCorps BattleMech factory located in the mountains of Liaoning. St. Ives is also home to the well known St. Ives Academy of Martial Sciences, which trains MechWarriors, aerospace pilots, tank crews, and armored and unarmored infantry. The planet is also home to one of many Duchy RTCs which focus on MechWarrior, combat vehicle crew and unarmored infantry training.
+
+      Manufacturing centers:
+      Ceres Metal Industries
+      HildCo Interplanetary
+      Mujika Aerospace Technologies
+      StarCorps Industries
+      Tengo Aerospace
+    landmass:
+      - name:
+          source: canon
+          value: Liaoning
+        capital:
+          source: canon
+          value: Tian-tan
+      - name:
+          source: canon
+          value: '''Zona'
+    satellite:
+      - name:
+          value: Cochrane
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2197-03-25'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50154.0
+        socioIndustrial:
+          value: D-C-B-D-D
+      - date: '2200-01-01'
+        population:
+          value: 78610.0
+      - date: '2210-01-01'
+        population:
+          value: 312810.0
+      - date: '2220-01-01'
+        population:
+          value: 1056107.0
+      - date: '2230-01-01'
+        population:
+          value: 3072660.0
+      - date: '2240-01-01'
+        population:
+          value: 7845045.0
+      - date: '2245-11-06'
+        faction:
+          source: canon
+          value:
+            - SIMA
+      - date: '2250-01-01'
+        population:
+          value: 17887739.0
+      - date: '2260-01-01'
+        population:
+          value: 36861484.0
+      - date: '2270-01-01'
+        population:
+          value: 69645550.0
+      - date: '2280-01-01'
+        population:
+          value: 121525556.0
+      - date: '2283-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2290-01-01'
+        population:
+          value: 196763013.0
+      - date: '2300-01-01'
+        population:
+          value: 299222352.0
+      - date: '2310-01-01'
+        population:
+          value: 429919614.0
+      - date: '2320-01-01'
+        population:
+          value: 595406762.0
+      - date: '2330-01-01'
+        population:
+          value: 791513373.0
+      - date: '2340-01-01'
+        population:
+          value: 1006295540.0
+      - date: '2350-01-01'
+        population:
+          value: 1245157070.0
+      - date: '2360-01-01'
+        population:
+          value: 1490833859.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 1743364717.0
+      - date: '2380-01-01'
+        population:
+          value: 2000537425.0
+      - date: '2390-01-01'
+        population:
+          value: 2253046425.0
+      - date: '2400-01-01'
+        population:
+          value: 2515962996.0
+      - date: '2410-01-01'
+        population:
+          value: 2792936386.0
+      - date: '2420-01-01'
+        population:
+          value: 3071959535.0
+      - date: '2430-01-01'
+        population:
+          value: 3334186662.0
+      - date: '2440-01-01'
+        population:
+          value: 3596473512.0
+      - date: '2450-01-01'
+        population:
+          value: 3873074584.0
+      - date: '2460-01-01'
+        population:
+          value: 4135997478.0
+      - date: '2470-01-01'
+        population:
+          value: 4351337735.0
+      - date: '2480-01-01'
+        population:
+          value: 4560777923.0
+      - date: '2490-01-01'
+        population:
+          value: 4743817110.0
+      - date: '2500-01-01'
+        population:
+          value: 4889693418.0
+      - date: '2510-01-01'
+        population:
+          value: 5004218795.0
+      - date: '2520-01-01'
+        population:
+          value: 5110810624.0
+      - date: '2530-01-01'
+        population:
+          value: 5189117739.0
+      - date: '2540-01-01'
+        population:
+          value: 5243831503.0
+      - date: '2550-01-01'
+        population:
+          value: 5300147790.0
+      - date: '2560-01-01'
+        population:
+          value: 5356349391.0
+      - date: '2570-01-01'
+        population:
+          value: 5424549655.0
+      - date: '2580-01-01'
+        population:
+          value: 5465745551.0
+      - date: '2590-01-01'
+        population:
+          value: 5496782799.0
+      - date: '2600-01-01'
+        population:
+          value: 5487555804.0
+      - date: '2610-01-01'
+        population:
+          value: 5503594193.0
+      - date: '2620-01-01'
+        population:
+          value: 5553574494.0
+      - date: '2630-01-01'
+        population:
+          value: 5617644571.0
+      - date: '2634-11-09'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 5694543128.0
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2650-01-01'
+        population:
+          value: 5755251444.0
+      - date: '2660-01-01'
+        population:
+          value: 5793858696.0
+      - date: '2670-01-01'
+        population:
+          value: 5795198155.0
+      - date: '2680-01-01'
+        population:
+          value: 5778027057.0
+      - date: '2690-01-01'
+        population:
+          value: 5731317948.0
+      - date: '2700-01-01'
+        population:
+          value: 5706023943.0
+      - date: '2710-01-01'
+        population:
+          value: 5702079157.0
+      - date: '2720-01-01'
+        population:
+          value: 5693378901.0
+      - date: '2730-01-01'
+        population:
+          value: 5696036463.0
+      - date: '2740-01-01'
+        population:
+          value: 5680597053.0
+      - date: '2750-01-01'
+        population:
+          value: 5671102351.0
+      - date: '2760-01-01'
+        population:
+          value: 5656309578.0
+      - date: '2770-01-01'
+        population:
+          value: 5611611448.0
+      - date: '2780-01-01'
+        population:
+          value: 5564445494.0
+      - date: '2790-01-01'
+        population:
+          value: 5547264833.0
+      - date: '2800-01-01'
+        population:
+          value: 5552584422.0
+      - date: '2810-01-01'
+        population:
+          value: 5562141179.0
+      - date: '2820-01-01'
+        population:
+          value: 5583035110.0
+      - date: '2830-01-01'
+        population:
+          value: 5606377776.0
+      - date: '2840-10-20'
+        population:
+          value: 5621729604.0
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 5617135483.0
+      - date: '2860-01-01'
+        population:
+          value: 5604007528.0
+      - date: '2870-01-01'
+        population:
+          value: 5599427889.0
+      - date: '2880-01-01'
+        population:
+          value: 5594378837.0
+      - date: '2890-01-01'
+        population:
+          value: 5595956176.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 5586656298.0
+      - date: '2910-01-01'
+        population:
+          value: 5587758865.0
+      - date: '2920-01-01'
+        population:
+          value: 5582720335.0
+      - date: '2930-01-01'
+        population:
+          value: 5586656298.0
+      - date: '2940-01-01'
+        population:
+          value: 5590595036.0
+      - date: '2950-01-01'
+        population:
+          value: 5593590334.0
+      - date: '2960-01-01'
+        population:
+          value: 5606061685.0
+      - date: '2970-01-01'
+        population:
+          value: 5612386893.0
+      - date: '2980-01-01'
+        population:
+          value: 5630611648.0
+      - date: '2990-01-01'
+        population:
+          value: 5630294191.0
+      - date: '3000-01-01'
+        population:
+          value: 5628548495.0
+      - date: '3010-01-01'
+        population:
+          value: 5644438382.0
+      - date: '3020-01-01'
+        population:
+          value: 5659415775.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 5619000000.0
+      - date: '3030-06-21'
+        faction:
+          source: canon
+          value:
+            - SIC
+        population:
+          value: 5705841229.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '3035-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '3040-01-01'
+        population:
+          value: 5772522446.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-B-A-C
+      - date: '3050-01-01'
+        population:
+          value: 5831846228.0
+      - date: '3060-06-08'
+        population:
+          value: 5867869090.0
+        socioIndustrial:
+          value: A-A-A-A-C
+      - date: '3062-02-18'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 5900000000.0
+      - date: '3070-01-01'
+        population:
+          value: 5666840789.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 5258000000.0
+      - date: '3080-01-01'
+        population:
+          value: 4893900811.0
+      - date: '3090-01-01'
+        population:
+          value: 4951990898.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: A-B-A-A-C
+      - date: '3100-01-01'
+        population:
+          value: 5022810800.0
+      - date: '3110-01-01'
+        population:
+          value: 5101781015.0
+      - date: '3120-01-01'
+        population:
+          value: 5216307089.0
+      - date: '3130-01-01'
+        population:
+          value: 5320619252.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 5416174191.0
+      - date: '3145-01-01'
+        population:
+          value: 5467326267.0
+  - name:
+      value: Raksasa
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1900
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -53
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Thep Norsingha
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: frozen50
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -103
+    water:
+      value: 41
+    landmass:
+      - name:
+          value: New Sambhal
+      - name:
+          value: Ramsla
+      - name:
+          value: Old Upottery
+  - name:
+      value: Bedawang
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -151
+    water:
+      value: 0
+  - name:
+      value: Batara Kala
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Rugman
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Bullmore
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Morrigna
+        size:
+          value: medium
+        icon: oddmoon1

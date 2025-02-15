@@ -1,0 +1,662 @@
+id: Pec
+sucsId: 2004
+xcood: -156.612
+ycood: -224.803
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2850-03-31'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Pec
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green34
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 36
+    water:
+      value: 42
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Novi Ludslavice
+        capital:
+          value: Novi Ludslavice City
+      - name:
+          value: Shamash
+      - name:
+          value: Gibil's Redoubt
+    event:
+      - date: '2624-12-02'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 51196.0
+        socioIndustrial:
+          value: D-F-B-F-F
+      - date: '2627-01-01'
+        socioIndustrial:
+          value: D-F-B-D-F
+      - date: '2630-01-01'
+        population:
+          value: 408276.0
+      - date: '2640-01-01'
+        population:
+          value: 4531148.0
+      - date: '2641-10-24'
+        hpg:
+          value: B
+      - date: '2650-09-05'
+        population:
+          value: 20546496.0
+        socioIndustrial:
+          value: D-D-B-C-F
+      - date: '2654-01-01'
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '2660-01-01'
+        population:
+          value: 53364578.0
+      - date: '2670-01-01'
+        population:
+          value: 97872243.0
+      - date: '2680-01-01'
+        population:
+          value: 143659278.0
+      - date: '2690-01-01'
+        population:
+          value: 183374486.0
+      - date: '2700-01-01'
+        population:
+          value: 213782014.0
+      - date: '2710-01-01'
+        population:
+          value: 236552155.0
+      - date: '2720-01-01'
+        population:
+          value: 252673414.0
+      - date: '2730-01-01'
+        population:
+          value: 262546999.0
+      - date: '2740-01-01'
+        population:
+          value: 268493186.0
+      - date: '2750-01-01'
+        population:
+          value: 272516109.0
+      - date: '2760-01-01'
+        population:
+          value: 272963358.0
+      - date: '2770-01-01'
+        population:
+          value: 272604560.0
+      - date: '2780-01-01'
+        population:
+          value: 273763039.0
+      - date: '2790-01-01'
+        population:
+          value: 273092484.0
+      - date: '2800-01-01'
+        population:
+          value: 272737239.0
+      - date: '2810-01-01'
+        population:
+          value: 271623759.0
+      - date: '2820-01-01'
+        population:
+          value: 180820735.0
+      - date: '2830-01-01'
+        population:
+          value: 8654775.0
+      - date: '2840-01-01'
+        population:
+          value: 134722.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-C-B-C-D
+      - date: '2850-12-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Aulenti's Frontier
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: barren19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 38
+    water:
+      value: 0
+  - name:
+      value: Garosh
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: O-1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: O-2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: O-3
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: O-4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: O-5
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: O-6
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Klepsa's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: IC1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: IC2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: IC3
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: IC4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: IC5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Feindel's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Buddha 1
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Buddha 2
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Buddha 3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Buddha 4
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Buddha 5
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Buddha 6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Buddha 7
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Buddha 8
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Littleworth's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Týnec nad Sázavou
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Častolovice
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Kadmos Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: asteroid1
+    yearLength:
+      value: 18.5
+    temperature:
+      value: -195
+  - name:
+      value: Kouba
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    satellite:
+      - name:
+          value: Masley I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Masley II
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Mashek
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 141.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Ajattara
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Urolek
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Tloque Nahuaque
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: X-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Piquete Zina
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Jileckov
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: E-2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: E-3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: E-4
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: E-5
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: E-6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Havlat's Wheel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 12
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3159.6
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Vlasak I
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Vlasak II
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Zorya Polunochnaya
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.36
+    sysPos:
+      value: 13
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8927.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Nix
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Aello
+        size:
+          value: medium
+        icon: oddmoon1

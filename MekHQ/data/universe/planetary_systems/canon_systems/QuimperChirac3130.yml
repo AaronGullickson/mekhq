@@ -1,0 +1,413 @@
+id: Quimper (Chirac 3130+)
+sucsId: 2098
+xcood: 380.419
+ycood: -239.333
+spectralType:
+  value: M8V
+primarySlot: 1
+event:
+  - date: '2693-07-05'
+    zenithCharge:
+      value: yes
+  - date: '2804-01-25'
+    zenithCharge:
+      value: no
+  - date: '2923-01-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Quimper
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green53
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 12000
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 24
+    water:
+      value: 54
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Alagoinha do Piauí
+        capital:
+          value: Badb
+    event:
+      - date: '2689-07-18'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 49710.0
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2690-11-30'
+        hpg:
+          value: B
+        population:
+          value: 86453.0
+      - date: '2700-01-01'
+        population:
+          value: 3651883.0
+      - date: '2704-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2710-01-01'
+        population:
+          value: 21353986.0
+      - date: '2720-01-01'
+        population:
+          value: 49220346.0
+      - date: '2730-01-01'
+        population:
+          value: 73265123.0
+      - date: '2740-01-01'
+        population:
+          value: 88203829.0
+      - date: '2750-01-01'
+        population:
+          value: 95806108.0
+      - date: '2760-01-01'
+        population:
+          value: 99035437.0
+      - date: '2770-01-01'
+        population:
+          value: 99876887.0
+      - date: '2780-01-01'
+        population:
+          value: 99822919.0
+      - date: '2790-01-01'
+        population:
+          value: 85350231.0
+      - date: '2800-06-13'
+        hpg:
+          value: X
+        population:
+          value: 52596640.0
+      - date: '2805-09-02'
+        hpg:
+          value: B
+      - date: '2810-01-01'
+        population:
+          value: 30153046.0
+      - date: '2820-01-01'
+        population:
+          value: 15399131.0
+      - date: '2830-01-01'
+        population:
+          value: 6905213.0
+      - date: '2840-01-01'
+        population:
+          value: 2738494.0
+      - date: '2850-01-01'
+        population:
+          value: 1201652.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: D-F-D-D-D
+      - date: '2860-01-01'
+        population:
+          value: 636259.0
+      - date: '2870-01-01'
+        population:
+          value: 356938.0
+      - date: '2880-01-01'
+        population:
+          value: 233051.0
+      - date: '2890-01-01'
+        population:
+          value: 145707.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: F-F-D-D-D
+      - date: '2900-01-01'
+        population:
+          value: 77150.0
+      - date: '2910-01-01'
+        population:
+          value: 36390.0
+      - date: '2920-01-01'
+        population:
+          value: 14225.0
+      - date: '2923-01-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FS
+      - date: '2108-12-05'
+        name:
+          value: Quimper
+      - date: '3130-01-01'
+        name:
+          value: Chirac
+        message: Quimper renamed to Chirac
+  - name:
+      value: Finn Mccool
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 7
+  - name:
+      value: Guillemin's End
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.3
+  - name:
+      value: Xulsigiae
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Vahl-Ebersing
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Cedar Isl
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: J1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.52
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -180
+  - name:
+      value: Bonneuil-en-Valois
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+  - name:
+      value: Pryderi
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 50000
+    density:
+      value: 2.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Týr
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Lopti
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Helheim
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Embla
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Boutin's Rock
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 8
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.6
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Robiga
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Arionrod
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.72
+    sysPos:
+      value: 9
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 21.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14

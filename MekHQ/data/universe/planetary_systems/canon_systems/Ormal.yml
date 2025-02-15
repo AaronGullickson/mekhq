@@ -1,0 +1,476 @@
+id: Ormal
+sucsId: 1950
+xcood: 420.005
+ycood: -68.215
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2921-09-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ormal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green13
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 14100
+    density:
+      value: 5.2795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 29
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Dalziel's Plains
+        capital:
+          value: Burwell
+    event:
+      - date: '2721-05-27'
+        faction:
+          source: canon
+          value:
+            - FS
+        hpg:
+          value: B
+        population:
+          value: 54780.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2730-01-01'
+        population:
+          value: 183674.0
+      - date: '2740-01-01'
+        population:
+          value: 553145.0
+      - date: '2750-01-01'
+        population:
+          value: 1347681.0
+      - date: '2760-01-01'
+        population:
+          value: 2775308.0
+      - date: '2770-01-01'
+        population:
+          value: 4961721.0
+      - date: '2780-01-01'
+        population:
+          value: 7938195.0
+      - date: '2790-01-01'
+        population:
+          value: 8465178.0
+      - date: '2800-01-01'
+        population:
+          value: 5285576.0
+      - date: '2810-01-01'
+        population:
+          value: 3712655.0
+      - date: '2812-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2820-01-01'
+        population:
+          value: 2789313.0
+      - date: '2830-01-01'
+        population:
+          value: 1981343.0
+      - date: '2840-01-01'
+        population:
+          value: 1455567.0
+      - date: '2850-01-01'
+        population:
+          value: 1063334.0
+      - date: '2860-01-01'
+        population:
+          value: 690512.0
+      - date: '2870-01-01'
+        population:
+          value: 366447.0
+      - date: '2880-01-01'
+        population:
+          value: 197768.0
+      - date: '2890-01-01'
+        population:
+          value: 122794.0
+      - date: '2900-01-01'
+        population:
+          value: 86252.0
+      - date: '2910-01-01'
+        population:
+          value: 57603.0
+      - date: '2920-01-01'
+        population:
+          value: 33627.0
+      - date: '2921-08-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Lorton
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.7
+  - name:
+      value: Tattershall Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: asteroid3
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -40
+  - name:
+      value: East Lavington
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Cliodhna I
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Cliodhna II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cliodhna III
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Cliodhna IV
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Ardley Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -134
+  - name:
+      value: Castlereagh
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Sevington
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Cutforth
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: South Cove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 150000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Old Spilsby
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Dyke
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: Zane
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: Rogers
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Mitchell
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Rawle
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Miðgarðr
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Ennis
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Mimir
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Leong's Frontier
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 2
+  - name:
+      value: Caldbergh with East Scrafton
+    type:
+      value: GAS_GIANT
+    orbitalDist: 153.8
+    sysPos:
+      value: 11
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1907.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+  - name:
+      value: Farnsworth
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 12
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 5389.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 9

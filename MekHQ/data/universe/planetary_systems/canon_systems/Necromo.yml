@@ -1,0 +1,764 @@
+id: Necromo
+sucsId: 1804
+xcood: 102.876
+ycood: -188.465
+spectralType:
+  source: canon
+  value: M5V
+primarySlot: 10
+event:
+  - date: '2361-11-19'
+    nadirCharge:
+      value: yes
+  - date: '2422-12-11'
+    zenithCharge:
+      value: yes
+  - date: '3071-02-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Best
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.44
+    sysPos:
+      value: 1
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 60.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Giovanelli
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Trevail
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Suzuki
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Mercado
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: frozen19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -54
+    water:
+      value: 54
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Dadamtu
+  - name:
+      value: Saint-Paul-d'Abbotsford
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -99
+    water:
+      value: 0
+  - name:
+      value: Xi's Harbour
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: barren16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.45
+    diameter:
+      value: 7500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -128
+    water:
+      value: 0
+  - name:
+      value: Kono's Harvest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -169
+    water:
+      value: 0
+  - name:
+      value: Snyder
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -197
+    water:
+      value: 0
+  - name:
+      value: Tortona
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Sturculinus
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Itaúba
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: frozen38
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide and Carbon
+        Dioxide
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 7.8
+    temperature:
+      value: -233
+    water:
+      value: 37
+  - name:
+      value: Kammerling's Redoubt
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1000
+    density:
+      value: 3.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 21.6
+    temperature:
+      value: -245
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Necromo
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 10
+    icon: dry4
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.03
+    diameter:
+      value: 14117
+    density:
+      value: 5.123682902475
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.4
+    temperature:
+      source: canon
+      value: 39
+    water:
+      source: canon
+      value: 12
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      As of 3025 Necromo was populated by only 5,000 people, all of which were employed at the secret Capellan Dropship repair facilities. In order to keep the repair facilities secure only the most loyal workers were selected and even then their families were not allowed to follow them to Necromo, however workers never remained more than 3 months on planet. In 3055 the Aris Memorial Yards were relocated into orbit around Necromo and the Maskirova finally allowed people to live on the planet.
+
+      Necromo is overall a comfortable planet to live despite arid conditions. The planet is primarily covered in rolling hills and forests. Almost the entire population lives inside the domed capital of Landing place.
+    landmass:
+      - capital:
+          source: canon
+          value: Landingplace
+    satellite:
+      - name:
+          value: Acorna
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2270-06-05'
+        faction:
+          source: canon
+          value:
+            - CH
+        population:
+          value: 10084.0
+        socioIndustrial:
+          value: D-D-D-D-F
+      - date: '2280-01-01'
+        population:
+          value: 10141.0
+      - date: '2290-01-01'
+        population:
+          value: 10184.0
+      - date: '2300-01-01'
+        population:
+          value: 10259.0
+      - date: '2310-04-10'
+        faction:
+          source: canon
+          value:
+            - CCom
+        population:
+          value: 10304.0
+      - date: '2315-01-01'
+        socioIndustrial:
+          value: C-D-D-C-F
+      - date: '2320-01-01'
+        population:
+          value: 10342.0
+      - date: '2330-01-01'
+        population:
+          value: 10462.0
+      - date: '2340-01-01'
+        population:
+          value: 10568.0
+      - date: '2350-01-01'
+        population:
+          value: 10668.0
+      - date: '2360-01-01'
+        population:
+          value: 10769.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 10870.0
+      - date: '2380-01-01'
+        population:
+          value: 10856.0
+      - date: '2390-01-01'
+        population:
+          value: 10779.0
+      - date: '2400-01-01'
+        population:
+          value: 10772.0
+      - date: '2410-01-01'
+        population:
+          value: 10765.0
+      - date: '2420-01-01'
+        population:
+          value: 10745.0
+      - date: '2430-01-01'
+        population:
+          value: 10763.0
+      - date: '2440-01-01'
+        population:
+          value: 10824.0
+      - date: '2450-01-01'
+        population:
+          value: 10834.0
+      - date: '2460-01-01'
+        population:
+          value: 10743.0
+      - date: '2470-01-01'
+        population:
+          value: 10664.0
+      - date: '2480-01-01'
+        population:
+          value: 10574.0
+      - date: '2490-01-01'
+        population:
+          value: 10474.0
+      - date: '2500-01-01'
+        population:
+          value: 10381.0
+      - date: '2510-01-01'
+        population:
+          value: 10331.0
+      - date: '2520-01-01'
+        population:
+          value: 10267.0
+      - date: '2530-01-01'
+        population:
+          value: 10173.0
+      - date: '2532-01-01'
+        socioIndustrial:
+          value: B-C-D-B-F
+      - date: '2540-01-01'
+        population:
+          value: 10118.0
+      - date: '2550-01-01'
+        population:
+          value: 10082.0
+      - date: '2560-01-01'
+        population:
+          value: 10123.0
+      - date: '2570-01-01'
+        population:
+          value: 10144.0
+      - date: '2580-01-01'
+        population:
+          value: 10056.0
+      - date: '2590-01-01'
+        population:
+          value: 9960.0
+      - date: '2600-01-01'
+        population:
+          value: 9876.0
+      - date: '2610-01-01'
+        population:
+          value: 9806.0
+      - date: '2620-01-01'
+        population:
+          value: 9746.0
+      - date: '2630-01-01'
+        population:
+          value: 9666.0
+      - date: '2632-01-26'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 9598.0
+      - date: '2650-01-01'
+        population:
+          value: 9534.0
+      - date: '2660-01-01'
+        population:
+          value: 9438.0
+      - date: '2670-01-01'
+        population:
+          value: 9381.0
+      - date: '2680-01-01'
+        population:
+          value: 9374.0
+      - date: '2690-01-01'
+        population:
+          value: 9366.0
+      - date: '2700-01-01'
+        population:
+          value: 9378.0
+      - date: '2710-01-01'
+        population:
+          value: 9473.0
+      - date: '2720-01-01'
+        population:
+          value: 9559.0
+      - date: '2730-01-01'
+        population:
+          value: 9665.0
+      - date: '2734-01-01'
+        socioIndustrial:
+          value: A-B-D-A-D
+      - date: '2740-01-01'
+        population:
+          value: 9700.0
+      - date: '2750-01-01'
+        population:
+          value: 9675.0
+      - date: '2760-01-01'
+        population:
+          value: 9584.0
+      - date: '2770-01-01'
+        population:
+          value: 9479.0
+      - date: '2772-06-17'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-11-01'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 9385.0
+      - date: '2790-01-01'
+        population:
+          value: 9238.0
+      - date: '2800-01-01'
+        population:
+          value: 9018.0
+      - date: '2810-01-01'
+        population:
+          value: 8849.0
+      - date: '2820-01-01'
+        population:
+          value: 8599.0
+      - date: '2830-01-01'
+        population:
+          value: 8300.0
+      - date: '2840-01-01'
+        population:
+          value: 8065.0
+      - date: '2850-01-01'
+        population:
+          value: 7670.0
+      - date: '2858-01-01'
+        socioIndustrial:
+          value: B-B-F-B-D
+      - date: '2860-01-01'
+        population:
+          value: 7277.0
+      - date: '2870-01-01'
+        population:
+          value: 6946.0
+      - date: '2880-01-01'
+        population:
+          value: 6570.0
+      - date: '2890-01-01'
+        population:
+          value: 6174.0
+      - date: '2900-01-01'
+        population:
+          value: 5884.0
+      - date: '2910-01-01'
+        population:
+          value: 5800.0
+      - date: '2913-01-01'
+        socioIndustrial:
+          value: B-C-F-B-F
+      - date: '2920-01-01'
+        population:
+          value: 5833.0
+      - date: '2930-01-01'
+        population:
+          value: 5792.0
+      - date: '2940-01-01'
+        population:
+          value: 5761.0
+      - date: '2950-01-01'
+        population:
+          value: 5594.0
+      - date: '2960-01-01'
+        population:
+          value: 5315.0
+      - date: '2970-01-01'
+        population:
+          value: 5058.0
+      - date: '2980-01-01'
+        population:
+          value: 4934.0
+      - date: '2990-01-01'
+        population:
+          value: 4903.0
+      - date: '3000-01-01'
+        population:
+          value: 4965.0
+      - date: '3010-01-01'
+        population:
+          value: 5019.0
+      - date: '3020-01-01'
+        population:
+          value: 5067.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 5000.0
+      - date: '3030-01-01'
+        population:
+          value: 9860.0
+      - date: '3038-01-01'
+        socioIndustrial:
+          value: B-B-F-B-F
+      - date: '3040-01-01'
+        population:
+          value: 30852.0
+      - date: '3048-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-D-B-F
+      - date: '3050-01-01'
+        population:
+          value: 88987.0
+      - date: '3060-01-01'
+        population:
+          value: 401785.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 1500000.0
+      - date: '3070-01-01'
+        population:
+          value: 15527.0
+      - date: '3071-06-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Morbidelli
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 30.8
+    sysPos:
+      value: 11
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.15
+    diameter:
+      value: 1700
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 170.9
+    temperature:
+      value: -259
+    water:
+      value: 0
+  - name:
+      value: Old Hashtrūd
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 61.52
+    sysPos:
+      value: 12
+    icon: frozen29
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 482.5
+    temperature:
+      value: -263
+    water:
+      value: 50
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Eastern Uaica
+      - name:
+          value: Western Uaica
+    satellite:
+      - name:
+          value: Freyr
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Thomas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 122.96
+    sysPos:
+      value: 13
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1363.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Gerd
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: T'ien Ming
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Þórr
+        size:
+          value: medium
+        icon: rock8

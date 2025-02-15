@@ -1,0 +1,463 @@
+id: Caesaera
+sucsId: 430
+xcood: 233.978
+ycood: 356.372
+spectralType:
+  value: G3V
+primarySlot: 2
+event:
+  - date: '2830-08-01'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Gamleby
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: greenhouse27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.46
+    diameter:
+      value: 5500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 368
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Miniato
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Fedele
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Palmarocchi
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Caesaera
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 38
+    water:
+      value: 32
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: New Shatrovskiy
+        capital:
+          value: Papatrigo
+    event:
+      - date: '2625-07-14'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 48534.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2630-01-01'
+        population:
+          value: 247539.0
+      - date: '2640-01-01'
+        population:
+          value: 2525523.0
+      - date: '2650-01-01'
+        population:
+          value: 10979866.0
+      - date: '2660-01-01'
+        population:
+          value: 27832507.0
+      - date: '2670-01-01'
+        population:
+          value: 50137578.0
+      - date: '2680-01-01'
+        population:
+          value: 72707025.0
+      - date: '2690-01-01'
+        population:
+          value: 92046740.0
+      - date: '2700-01-01'
+        population:
+          value: 106849751.0
+      - date: '2710-01-01'
+        population:
+          value: 117898003.0
+      - date: '2718-06-09'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 125436397.0
+      - date: '2729-01-01'
+        socioIndustrial:
+          value: B-D-A-D-C
+      - date: '2730-01-01'
+        population:
+          value: 130723244.0
+      - date: '2740-01-01'
+        population:
+          value: 135221920.0
+      - date: '2750-01-01'
+        population:
+          value: 139127778.0
+      - date: '2760-01-01'
+        population:
+          value: 140995505.0
+      - date: '2770-01-01'
+        population:
+          value: 141905172.0
+      - date: '2774-08-30'
+        hpg:
+          value: X
+      - date: '2780-08-21'
+        hpg:
+          value: B
+        population:
+          value: 142191343.0
+      - date: '2790-01-01'
+        population:
+          value: 141459086.0
+      - date: '2800-01-01'
+        population:
+          value: 141446667.0
+      - date: '2810-01-01'
+        population:
+          value: 77155342.0
+      - date: '2820-01-01'
+        population:
+          value: 1223209.0
+      - date: '2830-02-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: San Fior
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.4
+  - name:
+      value: Esino Lario
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Ponte San Pietro
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Trasaghis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 4
+  - name:
+      value: Verdello
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Olòrún
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Obatala
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Orisha Nla
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Olurun
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Oya
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Busso Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -208
+  - name:
+      value: Concordia Sagittaria
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Djo
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Erzulie Mapiangueh
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Ascoli Satriano
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: O1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: O2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: O3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: New Lozio
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 10
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 7
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Hernández 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Hernández 2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Hernández 3
+        size:
+          value: medium
+        icon: oddmoon2

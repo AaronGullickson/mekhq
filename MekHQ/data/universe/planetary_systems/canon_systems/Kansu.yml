@@ -1,0 +1,729 @@
+id: Kansu
+sucsId: 1292
+xcood: 67.719
+ycood: -59.756
+spectralType:
+  source: canon
+  value: F9V
+primarySlot: 4
+event:
+  - date: '2442-04-08'
+    zenithCharge:
+      value: yes
+  - date: '2571-02-05'
+    nadirCharge:
+      value: yes
+  - date: '2791-08-03'
+    nadirCharge:
+      value: no
+  - date: '2811-04-12'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: WHY-1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 3
+  - name:
+      value: WHY-2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: greenhouse1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 260
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Benney
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Shen
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hong
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: WHY-3
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Kansu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: green38
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12178
+    density:
+      value: 5.770975939485
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.6
+    temperature:
+      source: canon
+      value: -30
+    water:
+      source: canon
+      value: 46
+    lifeForm:
+      source: canon
+      value: PLANT
+    desc: |-
+      Note: Planetary data is as of 3130, climate and temperature were arctic prior to 3090.
+
+      3135 - Kansu was colonised in the latter half of the 24th century. Kansu's continents were frozen wastelands covered in vast fields of plants with blue-grey foliage. These plants stored their energy as methane and were extremely volatile when exposed to high heat. Colonists learnt this by accident when they tried using the plants in their fireplaces after drying them out, a process that made the plants even more volatile. The colonists learned to carefully - and remotely—harvest the ice plants as a renewable energy source. Similar metabolisms in the plant and microbial organisms of Kansu‘s ice-shrouded oceans left methane-hydrate crystals covering the seabed floor.
+
+      Kansu is a rather small world with three continents - Kantuene, Matawan and Fetid. Kantuene lies on the equator and is the largest continent. Raijianstad is the capital, it is built in and around a large crevasse. It is the largest of Kansu‘s domed cities and is home to a majority of the population. Matawan and Fetid remained largely unpopulated. Rich fields of radioactive and precious metals were discovered underground. Matawan is where the radioactive ores were refined. The Armed Forces of the Federated Suns built a base on Fetid after the Fourth Succession War.
+
+      During the Jihad, a Word of Blake led force invaded Kansu, the defenders lured them to Fetid. As the invaders advanced, they were decimated by exploding ice plants and artillery, allowing the defending militia to defeat them. The Word of Blake forces detonated a nuclear device, that ignited the native flora for kilometres, and shocked the unstable seafloor‘s methane-hydrate into a catastrophic release of methane. The release of the methane and the subsequent melting of Kansu‘s large ice caps wrecked human civilization and rendered the planet uninhabitable aboveground within a decade.
+
+      By 3091, in an extreme example of a runaway greenhouse effect, the average surface temperature at the equator exceeded the 100 degrees Celsius. The "Seas of Fire", where the freshly released methane burns at the ocean's surface, remains a poignant reminder of the horrors of the Jihad. Today, the remaining population lives underground, while a small portion attempts to colonize Sheng Li to begin life anew.
+    landmass:
+      - name:
+          source: canon
+          value: Kantuene
+        capital:
+          source: canon
+          value: Raijianstad
+      - name:
+          source: canon
+          value: Matawan
+      - name:
+          source: canon
+          value: Fetid
+    satellite:
+      - name:
+          value: Sheng Li
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2243-02-25'
+        faction:
+          source: canon
+          value:
+            - TGU
+        population:
+          value: 59104.0
+        socioIndustrial:
+          value: D-D-C-F-B
+      - date: '2250-01-01'
+        population:
+          value: 155586.0
+      - date: '2251-01-01'
+        socioIndustrial:
+          value: D-D-C-D-B
+      - date: '2260-01-01'
+        population:
+          value: 530494.0
+      - date: '2270-01-01'
+        population:
+          value: 1547573.0
+      - date: '2280-01-01'
+        population:
+          value: 3922231.0
+      - date: '2290-01-01'
+        population:
+          value: 8741814.0
+      - date: '2300-01-01'
+        population:
+          value: 17563080.0
+      - date: '2310-01-01'
+        population:
+          value: 32264035.0
+      - date: '2320-01-01'
+        population:
+          value: 54817654.0
+      - date: '2330-01-01'
+        population:
+          value: 86611304.0
+      - date: '2340-01-01'
+        population:
+          value: 128058843.0
+      - date: '2350-01-01'
+        population:
+          value: 179770688.0
+      - date: '2360-01-01'
+        population:
+          value: 240919550.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 310315511.0
+      - date: '2376-01-01'
+        socioIndustrial:
+          value: C-D-C-C-B
+      - date: '2380-01-01'
+        population:
+          value: 385768308.0
+      - date: '2390-01-01'
+        population:
+          value: 464379336.0
+      - date: '2400-01-01'
+        population:
+          value: 546585445.0
+      - date: '2410-01-01'
+        population:
+          value: 627910641.0
+      - date: '2420-01-01'
+        population:
+          value: 707524606.0
+      - date: '2430-01-01'
+        population:
+          value: 785229824.0
+      - date: '2440-01-01'
+        population:
+          value: 854602162.0
+      - date: '2450-01-01'
+        population:
+          value: 920654945.0
+      - date: '2460-01-01'
+        population:
+          value: 987922844.0
+      - date: '2470-01-01'
+        population:
+          value: 1055166524.0
+      - date: '2480-01-01'
+        population:
+          value: 1118452805.0
+      - date: '2490-01-01'
+        population:
+          value: 1175266008.0
+      - date: '2500-01-01'
+        population:
+          value: 1223237114.0
+      - date: '2510-01-01'
+        population:
+          value: 1260611375.0
+      - date: '2520-01-01'
+        population:
+          value: 1295252435.0
+      - date: '2530-01-01'
+        population:
+          value: 1334364355.0
+      - date: '2540-01-01'
+        population:
+          value: 1372440743.0
+      - date: '2550-01-01'
+        population:
+          value: 1407741535.0
+      - date: '2560-01-01'
+        population:
+          value: 1428256897.0
+      - date: '2570-01-01'
+        population:
+          value: 1439581967.0
+      - date: '2580-01-01'
+        population:
+          value: 1442808600.0
+      - date: '2590-01-01'
+        population:
+          value: 1449532997.0
+      - date: '2596-01-01'
+        socioIndustrial:
+          value: B-C-C-B-B
+      - date: '2600-01-01'
+        population:
+          value: 1455772747.0
+      - date: '2610-01-01'
+        population:
+          value: 1456274983.0
+      - date: '2620-01-01'
+        population:
+          value: 1460316791.0
+      - date: '2630-01-01'
+        population:
+          value: 1470210465.0
+      - date: '2635-07-25'
+        hpg:
+          value: B
+      - date: '2637-01-01'
+        socioIndustrial:
+          value: A-B-B-A-A
+      - date: '2640-01-01'
+        population:
+          value: 1490440970.0
+      - date: '2650-01-01'
+        population:
+          value: 1512205181.0
+      - date: '2660-01-01'
+        population:
+          value: 1533261748.0
+      - date: '2670-01-01'
+        population:
+          value: 1543488018.0
+      - date: '2680-01-01'
+        population:
+          value: 1534780831.0
+      - date: '2690-01-01'
+        population:
+          value: 1523014954.0
+      - date: '2700-01-01'
+        population:
+          value: 1514090953.0
+      - date: '2710-01-01'
+        population:
+          value: 1516200552.0
+      - date: '2720-01-01'
+        population:
+          value: 1523350724.0
+      - date: '2730-01-01'
+        population:
+          value: 1530152252.0
+      - date: '2740-01-01'
+        population:
+          value: 1537572803.0
+      - date: '2750-01-01'
+        population:
+          value: 1537340991.0
+      - date: '2760-01-01'
+        population:
+          value: 1523697054.0
+      - date: '2770-01-01'
+        population:
+          value: 1513890221.0
+      - date: '2780-01-01'
+        population:
+          value: 1514222244.0
+      - date: '2790-01-01'
+        population:
+          value: 1508570669.0
+      - date: '2800-01-01'
+        population:
+          value: 1496296496.0
+      - date: '2810-01-01'
+        population:
+          value: 1484122189.0
+      - date: '2820-01-01'
+        population:
+          value: 1476215672.0
+      - date: '2830-01-01'
+        population:
+          value: 1475010160.0
+      - date: '2840-01-01'
+        population:
+          value: 1468259004.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: B-C-C-B-B
+      - date: '2850-01-01'
+        population:
+          value: 1459611228.0
+      - date: '2860-01-01'
+        population:
+          value: 1456770485.0
+      - date: '2870-01-01'
+        population:
+          value: 1450102813.0
+      - date: '2880-01-01'
+        population:
+          value: 1440203736.0
+      - date: '2890-01-01'
+        population:
+          value: 1430372234.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 1415795163.0
+      - date: '2910-01-01'
+        population:
+          value: 1396092644.0
+      - date: '2920-01-01'
+        population:
+          value: 1382386060.0
+      - date: '2930-01-01'
+        population:
+          value: 1377356591.0
+      - date: '2940-01-01'
+        population:
+          value: 1373121820.0
+      - date: '2950-01-01'
+        population:
+          value: 1373812320.0
+      - date: '2960-01-01'
+        population:
+          value: 1371655657.0
+      - date: '2970-01-01'
+        population:
+          value: 1367696239.0
+      - date: '2980-01-01'
+        population:
+          value: 1367352482.0
+      - date: '2990-01-01'
+        population:
+          value: 1358786590.0
+      - date: '3000-01-01'
+        population:
+          value: 1337605896.0
+      - date: '3010-01-01'
+        population:
+          value: 1314523044.0
+      - date: '3020-01-01'
+        population:
+          value: 1291351524.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: C-B-C-B-B
+      - date: '3030-10-28'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 1287739195.0
+      - date: '3040-01-01'
+        population:
+          value: 1297563297.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: B-A-C-A-A
+      - date: '3050-01-01'
+        population:
+          value: 1306939467.0
+      - date: '3060-01-01'
+        population:
+          value: 1316383388.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3068-10-18'
+        faction:
+          source: canon
+          value:
+            - FS
+            - WOB
+      - date: '3068-11-03'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 1327487581.0
+      - date: '3079-03-10'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - WOB
+      - date: '3079-03-12'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 1339221023.0
+      - date: '3081-06-07'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1349437878.0
+      - date: '3100-01-01'
+        population:
+          value: 1358101976.0
+      - date: '3110-01-01'
+        population:
+          value: 1361909990.0
+      - date: '3112-11-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3113-05-01'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3120-01-01'
+        population:
+          value: 1361909990.0
+      - date: '3130-01-01'
+        population:
+          value: 1361909990.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-01-01'
+        socioIndustrial:
+          value: B-A-C-A-A
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 1363545263.0
+      - date: '3145-10-31'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 1363272581.0
+  - name:
+      value: WHY-5
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: frozen55
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -80
+    water:
+      value: 37
+    landmass:
+      - name:
+          value: Wudi Xian
+      - name:
+          value: New Nanshan Qu
+      - name:
+          value: Yongqing
+  - name:
+      value: WHY-6
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -173
+    water:
+      value: 0
+  - name:
+      value: Moirae Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -202
+  - name:
+      value: WHY-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Chahe
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Zhou
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Ch'in Shu Pao
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Tamutuo Gelake
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: WHY-8
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 84.92
+    sysPos:
+      value: 9
+    icon: frozen32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 1.24
+    diameter:
+      value: 14500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 782.6
+    temperature:
+      value: -236
+    water:
+      value: 40
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Zuglio
+      - name:
+          value: Larger Dinwiddie
+      - name:
+          value: Smaller Dinwiddie

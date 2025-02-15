@@ -1,0 +1,454 @@
+id: Gniezno
+sucsId: 971
+xcood: -127.55
+ycood: -22.018
+spectralType:
+  value: F9V
+primarySlot: 4
+event:
+  - date: '2754-04-04'
+    zenithCharge:
+      value: yes
+  - date: '2790-11-10'
+    zenithCharge:
+      value: no
+  - date: '2794-09-09'
+    nadirCharge:
+      value: yes
+  - date: '2799-05-25'
+    nadirCharge:
+      value: no
+  - date: '2863-12-14'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Zhang Yun
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: barren10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.37
+    diameter:
+      value: 4500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 238
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Nowa Ruda
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Powiat leżajski
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lubrza
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Tien Kung
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: greenhouse19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon and Argon
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 148
+    water:
+      value: 0
+  - name:
+      value: Yi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 50
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Gniezno
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: wet1
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 23
+    water:
+      value: 79
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Jatisuko
+        capital:
+          value: Attis's Dawn
+      - name:
+          value: New Sauble
+      - name:
+          value: Kalāleh
+      - name:
+          value: Powiat sandomierski
+      - name:
+          value: Powiat płocki
+      - name:
+          value: Lubowidz
+      - name:
+          value: Pelplin
+      - name:
+          value: Zwoleń
+    event:
+      - date: '2732-04-02'
+        faction:
+          source: canon
+          value:
+            - FWL
+        hpg:
+          value: B
+        population:
+          value: 45711.0
+        socioIndustrial:
+          value: C-F-B-D-B
+      - date: '2740-01-01'
+        population:
+          value: 209621.0
+      - date: '2750-01-01'
+        population:
+          value: 998958.0
+      - date: '2760-01-01'
+        population:
+          value: 3475166.0
+      - date: '2770-01-01'
+        population:
+          value: 9406520.0
+      - date: '2780-01-01'
+        population:
+          value: 20694722.0
+      - date: '2790-01-01'
+        population:
+          value: 38515674.0
+      - date: '2800-01-01'
+        population:
+          value: 63366276.0
+      - date: '2810-01-01'
+        population:
+          value: 94276423.0
+      - date: '2820-01-01'
+        population:
+          value: 130215106.0
+      - date: '2821-01-09'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2830-01-01'
+        population:
+          value: 168903397.0
+      - date: '2840-01-01'
+        population:
+          value: 207908396.0
+      - date: '2850-01-01'
+        population:
+          value: 6856376.0
+      - date: '2860-01-01'
+        population:
+          value: 52593.0
+      - date: '2863-04-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Powiat białostocki
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: frozen44
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -80
+    water:
+      value: 44
+    landmass:
+      - name:
+          value: Langworthy
+      - name:
+          value: Derlanga
+      - name:
+          value: Dziuma
+  - name:
+      value: Liu Har
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -135
+    water:
+      value: 0
+  - name:
+      value: Kwan Yin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 9
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+  - name:
+      value: Ulgan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Kovacevich
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Wolotka
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Yampolski
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Cerocki
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Drzazgowski
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Fei Lian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 7
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 17
+  - name:
+      value: Fung Hwang
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 782.6
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Leshey
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Matisyrazemlya
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Dazbog
+        size:
+          value: medium
+        icon: rock11

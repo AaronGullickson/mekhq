@@ -1,0 +1,474 @@
+id: Giverny
+sucsId: 960
+xcood: 623.205
+ycood: -84.166
+spectralType:
+  value: F5V
+primarySlot: 3
+event:
+  - date: '2855-12-14'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Nouveau Saint-Jean-de-Linières
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 1
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 4
+  - name:
+      value: Chervey
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: greenhouse19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 28
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 91
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Giverny
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: green4
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 36
+    water:
+      value: 52
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: Bonnetan
+        capital:
+          value: New Sauze
+      - name:
+          value: Saint-Maixent-l'École
+      - name:
+          value: Couargues
+      - name:
+          value: Taninges
+      - name:
+          value: Le Mage
+      - name:
+          value: Old Gussignies
+    event:
+      - date: '2711-09-12'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 55297.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2720-01-01'
+        population:
+          value: 145136.0
+      - date: '2722-12-19'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 352488.0
+      - date: '2740-01-01'
+        population:
+          value: 731211.0
+      - date: '2750-01-01'
+        population:
+          value: 1323558.0
+      - date: '2760-01-01'
+        population:
+          value: 2148491.0
+      - date: '2770-01-01'
+        population:
+          value: 3174699.0
+      - date: '2780-01-01'
+        population:
+          value: 4393489.0
+      - date: '2790-01-01'
+        population:
+          value: 5742572.0
+      - date: '2800-01-01'
+        population:
+          value: 7185261.0
+      - date: '2801-10-20'
+        hpg:
+          value: C
+      - date: '2810-01-01'
+        population:
+          value: 8633483.0
+      - date: '2814-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2820-01-01'
+        population:
+          value: 10007475.0
+      - date: '2830-01-01'
+        population:
+          value: 1641043.0
+      - date: '2840-01-01'
+        population:
+          value: 112185.0
+      - date: '2850-01-01'
+        population:
+          value: 11728.0
+      - date: '2855-09-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Wattrelos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 45000
+    density:
+      value: 1.4
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.9
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Arpenans
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Anisy
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Oiry
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Houdan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: frozen21
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -113
+    water:
+      value: 41
+    landmass:
+      - name:
+          value: Branne
+  - name:
+      value: Ferrari
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 6
+    yearLength:
+      value: 52.4
+  - name:
+      value: Duval's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: asteroid1
+    yearLength:
+      value: 143.7
+    temperature:
+      value: -200
+  - name:
+      value: Les Églisottes-et-Chalaures
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 400.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Mazatlán
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Baudemont
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Kupres
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 150000
+    density:
+      value: 0.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1123.6
+    smallMoons:
+      value: 24
+  - name:
+      value: Pouy-Loubrin
+    type:
+      value: ICE_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Chapelle Alpha
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Chapelle Beta
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Duval's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 430.64
+    sysPos:
+      value: 11
+    icon: asteroid2
+    yearLength:
+      value: 8936.6
+    temperature:
+      value: -255
+  - name:
+      value: Saint-Germain-de-Calberte
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 12
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 25251.799999999999
+    smallMoons:
+      value: 17
+  - name:
+      value: Saint-Étienne-sous-Bailleul
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.88
+    sysPos:
+      value: 13
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 71388.100000000006
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Garcia I
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Garcia II
+        size:
+          value: large
+        icon: rock14

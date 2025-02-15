@@ -1,0 +1,403 @@
+id: Brinton
+sucsId: 394
+xcood: 134.638
+ycood: -411.522
+spectralType:
+  source: canon
+  value: G6V
+primarySlot: 5
+event:
+  - date: '2753-01-29'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Nona
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 162
+    water:
+      value: 0
+  - name:
+      value: Alpheos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Walker
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Lowe
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Richardson
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Matthews
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Tepeyollotli
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -109
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Styx
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 40000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Q-1
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Q-2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Q-3
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Q-4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Brinton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 5
+    icon: green48
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.05
+    diameter:
+      value: 15215
+    density:
+      value: 4.830458915396
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 57
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: |-
+      Near the end of the Third Succession War, Capellan raiders set off an ancient bio-weapon that resulted in the entire planet being contaminated and saw the removal of the planet from star charts for several decades. However, despite the deadly contamination that was still killing off any unprotected visitors decades later, the importance of the O-P Computer Electronics plant on planet kept Brinton from being completely abandoned. Without the contamination from the bioweapon, Brinton was a comfortable planet with abundant resources and arable land and well developed technologically and industrially for a Periphery planet. The O-P Computer Electronics plant is located in the city of Fago on the Charlton continent.
+
+      Manufacturing centers:
+      O-P Computer Electronics
+    landmass:
+      - name:
+          source: canon
+          value: Charlton
+      - name:
+          source: canon
+          value: Fawcett
+        capital:
+          source: canon
+          value: Richard
+      - name:
+          source: canon
+          value: Gladstone
+      - name:
+          source: canon
+          value: Harvey
+    satellite:
+      - name:
+          value: Onion
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Turnip
+        size:
+          value: giant
+        icon: rock14
+    event:
+      - date: '2739-03-23'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 55265.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2740-01-01'
+        population:
+          value: 65255.0
+      - date: '2742-03-20'
+        hpg:
+          source: canon
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 283842.0
+      - date: '2751-05-14'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '2760-01-01'
+        population:
+          value: 921082.0
+      - date: '2770-01-01'
+        population:
+          value: 2348828.0
+      - date: '2780-01-01'
+        population:
+          value: 4940753.0
+      - date: '2790-01-01'
+        population:
+          value: 8975773.0
+      - date: '2800-01-01'
+        population:
+          value: 14471694.0
+      - date: '2810-01-01'
+        population:
+          value: 21245909.0
+      - date: '2812-08-05'
+        hpg:
+          source: canon
+          value: C
+      - date: '2820-01-01'
+        population:
+          value: 28751505.0
+      - date: '2830-01-01'
+        population:
+          value: 36575652.0
+      - date: '2840-01-01'
+        population:
+          value: 44682354.0
+      - date: '2850-01-01'
+        population:
+          value: 52802198.0
+      - date: '2860-01-01'
+        population:
+          value: 60401271.0
+      - date: '2870-01-01'
+        population:
+          value: 67227235.0
+      - date: '2880-01-01'
+        population:
+          value: 73510120.0
+      - date: '2890-01-01'
+        population:
+          value: 78798881.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2900-01-01'
+        population:
+          value: 83275251.0
+      - date: '2910-01-01'
+        population:
+          value: 87302501.0
+      - date: '2913-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2920-01-01'
+        population:
+          value: 91255368.0
+      - date: '2930-01-01'
+        population:
+          value: 94411643.0
+      - date: '2940-01-01'
+        population:
+          value: 96131748.0
+      - date: '2950-01-01'
+        population:
+          value: 97582125.0
+      - date: '2960-01-01'
+        population:
+          value: 98538026.0
+      - date: '2970-01-01'
+        population:
+          value: 98775325.0
+      - date: '2980-01-01'
+        population:
+          value: 98974028.0
+      - date: '2990-01-01'
+        population:
+          value: 98584052.0
+      - date: '3000-01-01'
+        population:
+          value: 98293175.0
+      - date: '3010-01-01'
+        population:
+          value: 97658181.0
+      - date: '3020-01-01'
+        population:
+          value: 96998035.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 55000.0
+      - date: '3030-01-01'
+        population:
+          value: 96118935.0
+      - date: '3040-01-01'
+        population:
+          value: 95307093.0
+      - date: '3048-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-B-B
+      - date: '3050-01-01'
+        population:
+          value: 94477310.0
+      - date: '3060-01-01'
+        population:
+          value: 93995318.0
+      - date: '3070-01-01'
+        population:
+          value: 93963329.0
+      - date: '3080-01-01'
+        population:
+          value: 94415437.0
+      - date: '3090-01-01'
+        population:
+          value: 95173790.0
+      - date: '3100-01-01'
+        population:
+          value: 96245728.0
+      - date: '3103-01-01'
+        socioIndustrial:
+          value: B-B-B-A-B
+      - date: '3110-01-01'
+        population:
+          value: 97466096.0
+      - date: '3120-01-01'
+        population:
+          value: 98939108.0
+      - date: '3130-01-01'
+        population:
+          value: 100414296.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 101667185.0
+      - date: '3145-01-01'
+        population:
+          value: 102299480.0

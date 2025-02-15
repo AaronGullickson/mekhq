@@ -1,0 +1,287 @@
+id: Crichton
+sucsId: 623
+xcood: 589.252
+ycood: 226.772
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2859-10-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Crichton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: wet5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 11400
+    density:
+      value: 5.8284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 22
+    water:
+      value: 84
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Miller
+        capital:
+          value: Nova Blairsville
+      - name:
+          value: Hunter
+      - name:
+          value: Berry
+      - name:
+          value: West Seneca
+      - name:
+          value: Clay
+      - name:
+          value: San Agustín
+    satellite:
+      - name:
+          value: Singleton
+        size:
+          value: large
+        icon: rock13
+    event:
+      - date: '2690-06-29'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 53958.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2696-02-12'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 1437115.0
+      - date: '2707-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2710-01-01'
+        population:
+          value: 6794353.0
+      - date: '2720-01-01'
+        population:
+          value: 14126724.0
+      - date: '2730-01-01'
+        population:
+          value: 19906923.0
+      - date: '2740-01-01'
+        population:
+          value: 23306163.0
+      - date: '2749-01-01'
+        socioIndustrial:
+          value: B-C-C-B-B
+      - date: '2750-01-01'
+        population:
+          value: 25023864.0
+      - date: '2760-01-01'
+        population:
+          value: 25760188.0
+      - date: '2770-01-01'
+        population:
+          value: 25953338.0
+      - date: '2780-01-01'
+        population:
+          value: 26140688.0
+      - date: '2790-01-01'
+        population:
+          value: 26224015.0
+      - date: '2800-01-01'
+        population:
+          value: 26288806.0
+      - date: '2810-01-01'
+        population:
+          value: 26360219.0
+      - date: '2820-01-01'
+        population:
+          value: 26466836.0
+      - date: '2830-01-01'
+        population:
+          value: 26589522.0
+      - date: '2840-01-01'
+        population:
+          value: 7643170.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: C-C-C-B-C
+      - date: '2850-01-01'
+        population:
+          value: 238323.0
+      - date: '2859-05-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jones's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+  - name:
+      value: Törökszentmiklósi Járás
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+  - name:
+      value: Saint Lawrence
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.5
+  - name:
+      value: Cowan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Bogatyr
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Jo Daviess
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Culann A
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Culann B
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Culann C
+        size:
+          value: medium
+        icon: rock8

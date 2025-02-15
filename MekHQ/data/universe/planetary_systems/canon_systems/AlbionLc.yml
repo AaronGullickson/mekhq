@@ -1,0 +1,553 @@
+id: Albion (LC)
+sucsId: 55
+xcood: -284.426
+ycood: 143.518
+spectralType:
+  value: G6V
+primarySlot: 3
+event:
+  - date: '2646-04-08'
+    nadirCharge:
+      value: yes
+  - date: '2824-10-04'
+    nadirCharge:
+      value: no
+  - date: '2896-08-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dewi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 173
+    water:
+      value: 0
+  - name:
+      value: Morrigu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Chlorine
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Albion (LC)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green31
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.11
+    diameter:
+      value: 11400
+    density:
+      value: 6.8337
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 26
+    water:
+      value: 39
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Goodwin
+        capital:
+          value: Flat Rock
+    satellite:
+      - name:
+          value: Selvans
+        size:
+          value: large
+        icon: rock1
+    event:
+      - date: '2643-01-12'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 52536.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2650-01-01'
+        population:
+          value: 735969.0
+      - date: '2660-08-17'
+        hpg:
+          value: B
+        population:
+          value: 8414849.0
+      - date: '2670-01-01'
+        population:
+          value: 35620913.0
+      - date: '2680-01-01'
+        population:
+          value: 83570681.0
+      - date: '2683-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2690-01-01'
+        population:
+          value: 138442283.0
+      - date: '2700-01-01'
+        population:
+          value: 187889693.0
+      - date: '2710-01-01'
+        population:
+          value: 225109584.0
+      - date: '2720-01-01'
+        population:
+          value: 249828215.0
+      - date: '2730-01-01'
+        population:
+          value: 265456911.0
+      - date: '2740-01-01'
+        population:
+          value: 273313786.0
+      - date: '2750-01-01'
+        population:
+          value: 277140395.0
+      - date: '2760-01-01'
+        population:
+          value: 279042934.0
+      - date: '2770-01-01'
+        population:
+          value: 279730585.0
+      - date: '2780-01-01'
+        population:
+          value: 278799838.0
+      - date: '2790-01-01'
+        population:
+          value: 230972878.0
+      - date: '2800-01-01'
+        population:
+          value: 104332405.0
+      - date: '2810-01-01'
+        population:
+          value: 39804743.0
+      - date: '2820-01-01'
+        population:
+          value: 13214497.0
+      - date: '2830-01-01'
+        population:
+          value: 5404632.0
+      - date: '2840-01-01'
+        population:
+          value: 2750399.0
+      - date: '2850-01-01'
+        population:
+          value: 1102764.0
+      - date: '2853-01-01'
+        socioIndustrial:
+          value: D-C-B-C-C
+      - date: '2860-01-01'
+        population:
+          value: 424925.0
+      - date: '2870-01-01'
+        population:
+          value: 149732.0
+      - date: '2880-01-01'
+        population:
+          value: 45457.0
+      - date: '2890-01-01'
+        population:
+          value: 13664.0
+      - date: '2896-07-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bondye Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -56
+  - name:
+      value: Davis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 110000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Khattak I
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Khattak II
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Khattak III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Khattak IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Cáer Ibormeith
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 10.2
+    satellite:
+      - name:
+          value: Y1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Y2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Y3
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Bossu Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 27.0
+    temperature:
+      value: -186
+  - name:
+      value: Findbhair
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Hades
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Losna Alpha
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Losna Beta
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Losna Gamma
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Losna Delta
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Losna Epsilon
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Losna Zeta
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Baron Saturday Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 579.1
+    temperature:
+      value: -242
+  - name:
+      value: Fomoire
+    type:
+      value: GAS_GIANT
+    orbitalDist: 138.6
+    sysPos:
+      value: 11
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1631.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Mil
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 12
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4606.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: K71
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: K72
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: K73
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Mabon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 553.32
+    sysPos:
+      value: 13
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 80000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 13015.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: R4-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: R4-2
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: R4-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: R4-4
+        size:
+          value: medium
+        icon: oddmoon2

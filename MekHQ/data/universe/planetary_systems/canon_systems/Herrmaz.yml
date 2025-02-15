@@ -1,0 +1,390 @@
+id: Herrmaz
+sucsId: 1101
+xcood: -241.42
+ycood: -446.316
+spectralType:
+  value: G0V
+primarySlot: 4
+event:
+  - date: '2830-05-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: El Porvenir
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 45000
+    density:
+      value: 2.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Bin Hajjaj
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: Monaca
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: greenhouse13
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 131
+    water:
+      value: 0
+  - name:
+      value: Quito
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1300
+    density:
+      value: 6.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 29
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Herrmaz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: green50
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.67
+    diameter:
+      value: 11700
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 24
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Poquoson
+        capital:
+          value: New Ziemera pagasts
+      - name:
+          value: New Rhine
+      - name:
+          value: New Edgecliff
+      - name:
+          value: Delight
+      - name:
+          value: Gostyń
+      - name:
+          value: Börilitöbe
+    event:
+      - date: '2659-08-22'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 55419.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2660-10-03'
+        population:
+          value: 80560.0
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2669-01-01'
+        socioIndustrial:
+          value: D-C-C-D-C
+      - date: '2670-01-01'
+        population:
+          value: 1285280.0
+      - date: '2680-01-01'
+        population:
+          value: 6162102.0
+      - date: '2690-03-25'
+        hpg:
+          value: B
+        population:
+          value: 14894529.0
+      - date: '2700-01-01'
+        population:
+          value: 24533471.0
+      - date: '2710-01-01'
+        population:
+          value: 32397881.0
+      - date: '2720-01-01'
+        population:
+          value: 37711955.0
+      - date: '2730-01-01'
+        population:
+          value: 40985452.0
+      - date: '2740-01-01'
+        population:
+          value: 42830717.0
+      - date: '2750-01-01'
+        population:
+          value: 43621122.0
+      - date: '2760-01-01'
+        population:
+          value: 44002603.0
+      - date: '2770-01-01'
+        population:
+          value: 43952762.0
+      - date: '2780-01-01'
+        population:
+          value: 43810761.0
+      - date: '2790-01-01'
+        population:
+          value: 43639173.0
+      - date: '2800-01-01'
+        population:
+          value: 43606197.0
+      - date: '2806-09-29'
+        hpg:
+          value: D
+      - date: '2810-01-01'
+        population:
+          value: 3398439.0
+      - date: '2820-01-01'
+        population:
+          value: 65208.0
+      - date: '2830-09-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ihorombe
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1000
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -92
+    water:
+      value: 0
+  - name:
+      value: Viesca
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 80000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Huai Nan Tzu I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Huai Nan Tzu II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Huai Nan Tzu III
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Huai Nan Tzu IV
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Shutesbury
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: F-1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: F-2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: F-3
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Alonte
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Bettini
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Curtis
+        size:
+          value: medium
+        icon: rock11

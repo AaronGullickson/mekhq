@@ -1,0 +1,380 @@
+id: Guldra
+sucsId: 1017
+xcood: 114.417
+ycood: -461.156
+spectralType:
+  source: canon
+  value: G2V
+primarySlot: 4
+event:
+  - date: '2672-06-19'
+    nadirCharge:
+      source: canon
+      value: no
+    zenithCharge:
+      source: canon
+      value: yes
+planet:
+  - name:
+      value: Pinch
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      source: canon
+      value: 1
+    icon: barren16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.32
+    diameter:
+      value: 6500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 137
+    water:
+      value: 0
+  - name:
+      value: Gibson
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      source: canon
+      value: 2
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.51
+    diameter:
+      value: 30000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Sinaa
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Huallipenyi
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Amitayus Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.24
+    sysPos:
+      source: canon
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 3.6
+    temperature:
+      value: -78
+  - name:
+      source: canon
+      value: Guldra
+    type:
+      source: canon
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      source: canon
+      value: 4
+    icon: green22
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      source: canon
+      value: BREATHABLE
+    composition:
+      source: canon
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.97
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 7.9
+    temperature:
+      source: canon
+      value: 33
+    water:
+      source: canon
+      value: 73
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    smallMoons:
+      source: canon
+      value: 2
+    landmass:
+      - name:
+          value: Old Datangping
+        capital:
+          value: Williams
+      - name:
+          value: Lula
+      - name:
+          value: New Shuixi
+      - name:
+          value: Tompkins
+    event:
+      - date: '2628-01-06'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 53307.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2630-01-01'
+        population:
+          value: 105994.0
+      - date: '2640-01-01'
+        population:
+          value: 1454623.0
+      - date: '2641-02-23'
+        hpg:
+          value: B
+      - date: '2644-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2650-01-01'
+        population:
+          value: 7527429.0
+      - date: '2660-01-01'
+        population:
+          value: 21085356.0
+      - date: '2670-01-01'
+        population:
+          value: 40299642.0
+      - date: '2680-01-01'
+        population:
+          value: 60490429.0
+      - date: '2690-01-01'
+        population:
+          value: 78042676.0
+      - date: '2700-01-01'
+        population:
+          value: 91917592.0
+      - date: '2706-01-01'
+        socioIndustrial:
+          value: B-D-B-D-D
+      - date: '2710-01-01'
+        population:
+          value: 101803652.0
+      - date: '2713-01-01'
+        socioIndustrial:
+          value: A-C-A-C-C
+      - date: '2720-01-01'
+        population:
+          value: 108243634.0
+      - date: '2730-01-01'
+        population:
+          value: 111619489.0
+      - date: '2740-01-01'
+        population:
+          value: 113586588.0
+      - date: '2750-01-01'
+        population:
+          value: 114515795.0
+      - date: '2760-01-01'
+        population:
+          value: 114755557.0
+      - date: '2770-01-01'
+        population:
+          value: 114711185.0
+      - date: '2780-01-01'
+        population:
+          value: 114539568.0
+      - date: '2809-02-11'
+        hpg:
+          value: X
+        population:
+          value: 18308094.0
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2910-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3025-07-01'
+        faction:
+          source: assumption
+          value:
+            - ARC
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 107890000.0
+        socioIndustrial:
+          source: canon
+          value: C-C-A-B-A
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Morán
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      source: canon
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 150000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Qingu
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ninurta
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Dumuzi Amaushumgalana
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Anunnaku
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Abgal
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Khelsch's Hold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      source: canon
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Rockwell
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Guldra VII
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 19.0
+    sysPos:
+      source: canon
+      value: 7
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 82.8
+    temperature:
+      value: -144
+    water:
+      value: 0
+    smallMoons:
+      value: 3

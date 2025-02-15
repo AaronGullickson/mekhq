@@ -1,0 +1,710 @@
+id: Tharkad
+sucsId: 2526
+xcood: -212.999
+ycood: 151.773
+spectralType:
+  source: canon
+  value: G6V
+primarySlot: 5
+event:
+  - date: '2385-05-03'
+    nadirCharge:
+      value: yes
+  - date: '2436-09-15'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Durant
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 162
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Campos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Inada Samadulo Hosi
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Khon
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: Amitabh
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Lucifer
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Reyna's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 3
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+  - name:
+      value: Moret
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: frozen60
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -44
+    water:
+      value: 100
+    landmass:
+      - name:
+          value: New Castro de Rei 1 Archipelago
+      - name:
+          value: New Castro de Rei 2 Archipelago
+    satellite:
+      - name:
+          value: Ody
+        size:
+          value: giant
+        icon: rock16
+  - name:
+      source: canon
+      value: Tharkad
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 5
+    icon: wet19
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.1
+    diameter:
+      value: 12561
+    density:
+      value: 6.17746060559
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 20
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      First discovered in 2310, Tharkad's cliamte is comparable to the arctic wilderness of Terra. The original colonists introduced many cold-weather plants and animals from Terra. Despite being an icy and rugged planet industries and population centers sprang up on almost every continent and Tharkad has served as the capital of the Lyran Commonwealth since 2407.
+
+      As the capital of the Lyran Commonwealth, Thakard is home to many vital parts of the Commonwealth. House Steiner rules from the Triad, a large government campus containing over 300 buildings ringed by the Royal Court, the Royal Palace and the Government House. Other locations of importance to the Commonwealth are Asgard, the command center for the entire Lyran Commonwealth Armed Forces, the capital Tharkad City, and the Nagelring one of the Inner Sphere's premier military academies.
+
+      Tharkad is home to a Defiance Motors factory located on Elizabeth's Island, part of the small Tatyana Island chain, the factory produces engines and combat vehicles. The Lockheed/CBM Corp. facility in the town of Cold Creek is located in the snowy tundra of Bremen and produces aerospace fighters, DropShips and small craft. Tharhes Industries is located in the city of Weibetal in the snowy tundra of Bremen and the planet produces BattleMechs and Battle Armor. The Tharkad Aerospace Group produces DropShips and is located in orbit of Tharkad.
+
+      Manufacturing centers:
+      Defiance Motors
+      Lockheed/CBM Corp.
+      Tharhes Industries
+      Tharkad Aerospace Group
+    landmass:
+      - name:
+          source: canon
+          value: Bremen
+        capital:
+          source: canon
+          value: Tharkad City
+      - name:
+          source: canon
+          value: Franz
+      - name:
+          source: canon
+          value: Grolsch
+      - name:
+          source: canon
+          value: Heidelberg
+      - name:
+          source: canon
+          value: Sutherland
+      - name:
+          source: canon
+          value: Tatyana
+        capital:
+          source: canon
+          value: Archipelago
+      - name:
+          source: canon
+          value: New Bismark
+        capital:
+          source: canon
+          value: Archipelago
+    satellite:
+      - name:
+          value: Marsden
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2314-10-02'
+        faction:
+          source: canon
+          value:
+            - PD
+        population:
+          value: 52863.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2320-01-01'
+        population:
+          value: 159066.0
+      - date: '2330-01-01'
+        population:
+          value: 800615.0
+      - date: '2340-01-01'
+        population:
+          value: 3169282.0
+      - date: '2341-04-30'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 10192286.0
+      - date: '2360-01-01'
+        population:
+          value: 27528345.0
+      - date: '2370-01-01'
+        population:
+          value: 64104198.0
+      - date: '2380-01-01'
+        population:
+          value: 131436064.0
+      - date: '2390-01-01'
+        population:
+          value: 241973508.0
+      - date: '2400-01-01'
+        population:
+          value: 405250164.0
+      - date: '2410-01-01'
+        population:
+          value: 624002015.0
+      - date: '2420-01-01'
+        population:
+          value: 897745106.0
+      - date: '2430-01-01'
+        population:
+          value: 1215410690.0
+      - date: '2440-01-01'
+        population:
+          value: 1568751620.0
+      - date: '2450-01-01'
+        population:
+          value: 1946583152.0
+      - date: '2460-01-01'
+        population:
+          value: 2345114993.0
+      - date: '2470-01-01'
+        population:
+          value: 2755510828.0
+      - date: '2480-01-01'
+        population:
+          value: 3183071587.0
+      - date: '2490-01-01'
+        population:
+          value: 3578592619.0
+      - date: '2491-01-01'
+        socioIndustrial:
+          value: C-C-A-C-B
+      - date: '2500-01-01'
+        population:
+          value: 3948413532.0
+      - date: '2510-01-01'
+        population:
+          value: 4302279839.0
+      - date: '2520-01-01'
+        population:
+          value: 4603075566.0
+      - date: '2530-01-01'
+        population:
+          value: 4864535239.0
+      - date: '2540-01-01'
+        population:
+          value: 5082036935.0
+      - date: '2545-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2550-01-01'
+        population:
+          value: 5256831002.0
+      - date: '2560-01-01'
+        population:
+          value: 5403199264.0
+      - date: '2570-01-01'
+        population:
+          value: 5529483954.0
+      - date: '2580-01-01'
+        population:
+          value: 5632093478.0
+      - date: '2590-01-01'
+        population:
+          value: 5701142675.0
+      - date: '2600-01-01'
+        population:
+          value: 5744583903.0
+      - date: '2601-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2610-01-01'
+        population:
+          value: 5793685056.0
+      - date: '2620-01-01'
+        population:
+          value: 5827782105.0
+      - date: '2630-01-01'
+        population:
+          value: 5874563932.0
+      - date: '2631-09-10'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 5908954046.0
+      - date: '2650-01-01'
+        population:
+          value: 5931126390.0
+      - date: '2660-01-01'
+        population:
+          value: 5955373715.0
+      - date: '2670-01-01'
+        population:
+          value: 5951838599.0
+      - date: '2680-01-01'
+        population:
+          value: 5975068797.0
+      - date: '2690-01-01'
+        population:
+          value: 5984174290.0
+      - date: '2700-01-01'
+        population:
+          value: 5977399533.0
+      - date: '2710-01-01'
+        population:
+          value: 5997224347.0
+      - date: '2720-01-01'
+        population:
+          value: 6068649647.0
+      - date: '2730-01-01'
+        population:
+          value: 6138468273.0
+      - date: '2740-01-01'
+        population:
+          value: 6185914343.0
+      - date: '2750-01-01'
+        population:
+          value: 6187222976.0
+      - date: '2760-01-01'
+        population:
+          value: 6154930755.0
+      - date: '2770-01-01'
+        population:
+          value: 6150991857.0
+      - date: '2780-01-01'
+        population:
+          value: 6126338752.0
+      - date: '2790-01-01'
+        population:
+          value: 6126968497.0
+      - date: '2800-01-01'
+        population:
+          value: 6133815045.0
+      - date: '2810-01-01'
+        population:
+          value: 6137539204.0
+      - date: '2820-01-01'
+        population:
+          value: 6152906599.0
+      - date: '2830-01-01'
+        population:
+          value: 6175055296.0
+      - date: '2840-01-01'
+        population:
+          value: 6190967536.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 6208277192.0
+      - date: '2860-01-01'
+        population:
+          value: 6241071691.0
+      - date: '2870-01-01'
+        population:
+          value: 6278153563.0
+      - date: '2880-01-01'
+        population:
+          value: 6311776886.0
+      - date: '2890-01-01'
+        population:
+          value: 6351128956.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: B-B-C-B-C
+      - date: '2900-01-01'
+        population:
+          value: 6392588550.0
+      - date: '2910-01-01'
+        population:
+          value: 6423548840.0
+      - date: '2920-01-01'
+        population:
+          value: 6462185580.0
+      - date: '2930-01-01'
+        population:
+          value: 6502949037.0
+      - date: '2940-01-01'
+        population:
+          value: 6543016424.0
+      - date: '2950-01-01'
+        population:
+          value: 6583330683.0
+      - date: '2960-01-01'
+        population:
+          value: 6619070504.0
+      - date: '2970-01-01'
+        population:
+          value: 6644832910.0
+      - date: '2980-01-01'
+        population:
+          value: 6662926233.0
+      - date: '2990-01-01'
+        population:
+          value: 6677176971.0
+      - date: '3000-01-01'
+        population:
+          value: 6692920487.0
+      - date: '3010-01-01'
+        population:
+          value: 6716523855.0
+      - date: '3020-01-01'
+        population:
+          value: 6727948359.0
+      - date: '3030-01-01'
+        population:
+          value: 6766000532.0
+      - date: '3040-01-01'
+        population:
+          value: 6830583822.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3045-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-B-B
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-A-A-A
+      - date: '3050-01-01'
+        population:
+          value: 6904063484.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 6962301877.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 7000000000.0
+      - date: '3067-11-28'
+        faction:
+          source: canon
+          value:
+            - LA
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 6997684280.0
+      - date: '3072-01-10'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 6991320000.0
+      - date: '3080-01-01'
+        population:
+          value: 7000485977.0
+      - date: '3090-01-01'
+        population:
+          value: 7063774723.0
+      - date: '3100-01-01'
+        population:
+          value: 7134766839.0
+      - date: '3110-01-01'
+        population:
+          value: 7233909130.0
+      - date: '3112-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '3120-01-01'
+        population:
+          value: 7334429069.0
+      - date: '3130-01-01'
+        population:
+          value: 7393339830.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 7478106154.0
+      - date: '3145-01-01'
+        population:
+          value: 7520101024.0
+  - name:
+      value: Koistinen's Plains
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 10.2
+    temperature:
+      value: -152
+    water:
+      value: 0
+  - name:
+      value: Kousoulas's Tears
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: Tschernobog Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 69.48
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 579.1
+    temperature:
+      value: -242
+  - name:
+      value: Tra
+    type:
+      value: GAS_GIANT
+    orbitalDist: 138.6
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1631.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Sarakka Alpha
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Sarakka Beta
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Ma'n
+    type:
+      value: ICE_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 10
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4606.2
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: RC-1
+        size:
+          value: medium
+        icon: rock7

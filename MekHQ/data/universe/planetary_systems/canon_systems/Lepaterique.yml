@@ -1,0 +1,718 @@
+id: Lepaterique
+sucsId: 1479
+xcood: -375.067
+ycood: -166.558
+spectralType:
+  value: K2V
+primarySlot: 2
+event:
+  - date: '2609-09-26'
+    zenithCharge:
+      value: yes
+  - date: '2645-05-11'
+    nadirCharge:
+      value: yes
+  - date: '2786-10-10'
+    nadirCharge:
+      value: no
+  - date: '2789-09-17'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Barrios
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1100
+    density:
+      value: 3.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 143
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Bishamon
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      source: canon
+      value: Lepaterique
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green28
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 10800
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 32
+    water:
+      value: 36
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Rodríguez
+        capital:
+          value: Hernández
+      - name:
+          value: Kaufman
+      - name:
+          value: Rojas
+      - name:
+          value: Rivera
+    satellite:
+      - name:
+          value: Naz Alpha
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Naz Beta
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Naz Gamma
+        size:
+          value: medium
+        icon: rock15
+    event:
+      - date: '2598-09-14'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 56161.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2600-01-01'
+        population:
+          value: 102569.0
+      - date: '2610-01-01'
+        population:
+          value: 1128130.0
+      - date: '2620-01-01'
+        population:
+          value: 5667254.0
+      - date: '2630-01-01'
+        population:
+          value: 16810039.0
+      - date: '2640-01-01'
+        population:
+          value: 34986178.0
+      - date: '2650-01-01'
+        population:
+          value: 57330919.0
+      - date: '2660-01-01'
+        population:
+          value: 79873546.0
+      - date: '2670-01-01'
+        population:
+          value: 99476035.0
+      - date: '2680-01-01'
+        population:
+          value: 114863845.0
+      - date: '2683-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2690-01-01'
+        population:
+          value: 125977965.0
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: C-D-C-B-C
+      - date: '2700-01-01'
+        population:
+          value: 133724862.0
+      - date: '2710-01-01'
+        population:
+          value: 138727767.0
+      - date: '2720-01-01'
+        population:
+          value: 142149418.0
+      - date: '2730-01-01'
+        population:
+          value: 144123061.0
+      - date: '2731-06-19'
+        hpg:
+          value: B
+      - date: '2737-01-01'
+        socioIndustrial:
+          value: B-C-C-A-B
+      - date: '2740-01-01'
+        population:
+          value: 145219765.0
+      - date: '2750-01-01'
+        population:
+          value: 146715562.0
+      - date: '2760-01-01'
+        population:
+          value: 147399505.0
+      - date: '2770-01-01'
+        population:
+          value: 146883316.0
+      - date: '2780-01-01'
+        population:
+          value: 146331155.0
+      - date: '2790-01-01'
+        population:
+          value: 145859917.0
+      - date: '2800-01-01'
+        population:
+          value: 145035590.0
+      - date: '2810-01-01'
+        population:
+          value: 144014526.0
+      - date: '2820-01-01'
+        population:
+          value: 142568319.0
+      - date: '2830-01-01'
+        population:
+          value: 140873900.0
+      - date: '2840-01-01'
+        population:
+          value: 139264478.0
+      - date: '2850-01-01'
+        population:
+          value: 138477425.0
+      - date: '2857-01-01'
+        socioIndustrial:
+          value: C-D-D-B-C
+      - date: '2860-01-01'
+        population:
+          value: 138918919.0
+      - date: '2870-01-01'
+        population:
+          value: 139134793.0
+      - date: '2880-01-01'
+        population:
+          value: 138832664.0
+      - date: '2890-01-01'
+        population:
+          value: 139145595.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: C-D-D-C-C
+      - date: '2900-01-01'
+        population:
+          value: 139751874.0
+      - date: '2910-01-01'
+        population:
+          value: 139838701.0
+      - date: '2920-01-01'
+        population:
+          value: 140153900.0
+      - date: '2930-01-01'
+        population:
+          value: 140404390.0
+      - date: '2940-01-01'
+        population:
+          value: 139123991.0
+      - date: '2950-01-01'
+        population:
+          value: 136991068.0
+      - date: '2960-01-01'
+        population:
+          value: 135173902.0
+      - date: '2970-01-01'
+        population:
+          value: 133567366.0
+      - date: '2980-01-01'
+        population:
+          value: 132967269.0
+      - date: '2990-01-01'
+        population:
+          value: 132215805.0
+      - date: '3000-01-01'
+        population:
+          value: 130705297.0
+      - date: '3010-01-01'
+        population:
+          value: 128222717.0
+      - date: '3020-01-01'
+        population:
+          value: 126787355.0
+      - date: '3030-01-01'
+        population:
+          value: 126984001.0
+      - date: '3040-01-01'
+        population:
+          value: 127760970.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '3050-01-01'
+        population:
+          value: 128916009.0
+      - date: '3060-01-01'
+        population:
+          value: 129951473.0
+      - date: '3070-01-01'
+        population:
+          value: 131428253.0
+      - date: '3080-01-01'
+        population:
+          value: 132669503.0
+      - date: '3081-01-25'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3090-01-01'
+        population:
+          value: 134110099.0
+      - date: '3100-11-13'
+        population:
+          value: 134917179.0
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '3110-01-01'
+        population:
+          value: 135376678.0
+      - date: '3120-01-01'
+        population:
+          value: 136518631.0
+      - date: '3130-06-19'
+        faction:
+          source: canon
+          value:
+            - DTA
+        population:
+          value: 138498722.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 141014271.0
+      - date: '3145-01-01'
+        population:
+          value: 142118483.0
+      - date: '3147-04-01'
+        faction:
+          source: canon
+          value:
+            - MH
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - MH
+      - date: '3151-02-07'
+        faction:
+          source: canon
+          value:
+            - FWL
+  - name:
+      value: Nandhini Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -10
+  - name:
+      value: Quimistán
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Disparate de Gurânî
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Iovis A
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Iovis B
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Torres
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Rosas's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: A-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: A-2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: A-3
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: A-4
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Salinas's Planet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.65
+    diameter:
+      value: 14500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    satellite:
+      - name:
+          value: K9S.1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: K9S.2
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: K9S.3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: K9S.4
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Roca de López
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Abeona
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Neptune
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Patino
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 397.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Dhatar
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ansa
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Mara
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kumbhakarna
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Heribert of Cologne
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Laksmi
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Aryman
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Nandhini Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 1119.3
+    temperature:
+      value: -252
+  - name:
+      value: New Wisharts
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.44
+    sysPos:
+      value: 12
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 25239.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Soto
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Johnson
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Durán
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.6
+    sysPos:
+      value: 13
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 71370.699999999997
+    smallMoons:
+      value: 20

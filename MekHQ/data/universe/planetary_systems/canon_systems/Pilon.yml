@@ -1,0 +1,388 @@
+id: Pilon
+sucsId: 2029
+xcood: 778.425
+ycood: 199.976
+spectralType:
+  value: K1V
+primarySlot: 2
+event:
+  - date: '2817-10-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: H6L1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1300
+    density:
+      value: 3.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 126
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Pilon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green31
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 13500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 37
+    water:
+      value: 54
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Arjuna
+        capital:
+          value: San José del Fragua
+      - name:
+          value: Puerto de Crespo
+      - name:
+          value: Jaramillo
+      - name:
+          value: Valadez
+      - name:
+          value: Álvarez's Redoubt
+      - name:
+          value: Batur
+    event:
+      - date: '2648-05-25'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 53908.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2650-01-01'
+        population:
+          value: 92460.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2660-01-01'
+        population:
+          value: 685231.0
+      - date: '2663-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2667-01-01'
+        socioIndustrial:
+          value: F-F-C-D-D
+      - date: '2670-01-01'
+        population:
+          value: 2276398.0
+      - date: '2680-01-01'
+        population:
+          value: 4666034.0
+      - date: '2682-03-14'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 7184832.0
+      - date: '2700-01-01'
+        population:
+          value: 9273484.0
+      - date: '2710-01-01'
+        population:
+          value: 10765661.0
+      - date: '2720-01-01'
+        population:
+          value: 11716072.0
+      - date: '2730-01-01'
+        population:
+          value: 12347838.0
+      - date: '2740-01-01'
+        population:
+          value: 12740991.0
+      - date: '2750-01-01'
+        population:
+          value: 12986024.0
+      - date: '2760-01-01'
+        population:
+          value: 13098388.0
+      - date: '2770-01-01'
+        population:
+          value: 13170165.0
+      - date: '2780-01-01'
+        population:
+          value: 13200337.0
+      - date: '2790-01-01'
+        population:
+          value: 13221062.0
+      - date: '2800-01-01'
+        population:
+          value: 5264478.0
+      - date: '2810-01-01'
+        population:
+          value: 734080.0
+      - date: '2817-05-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: H6L3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Hamada I
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Hamada II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hamada III
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Hamada IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hamada V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Hamada VI
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hamada VII
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Kaitangata Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.0
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -193
+  - name:
+      value: H6L4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 5
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      value: H6L5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Valentín 1
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Valentín 2
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Valentín 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: H6L6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 7
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 10
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Nilo
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Curití
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Brigit
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: H6L7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 8
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1367.5
+    smallMoons:
+      value: 26

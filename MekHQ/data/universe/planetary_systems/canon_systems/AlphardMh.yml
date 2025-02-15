@@ -1,0 +1,576 @@
+id: Alphard (MH)
+sucsId: 2858
+xcood: -406.23
+ycood: -298.444
+spectralType:
+  source: canon
+  value: G3IV
+primarySlot: 4
+planet:
+  - name:
+      value: Viljevo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Seilenos I
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Seilenos II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Seilenos III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Seilenos IV
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Seilenos V
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Dethwright
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: D1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: D2
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: D3
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Parzanica
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: greenhouse37
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.31
+    diameter:
+      value: 4500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 180
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Alphard (MH)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green33
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 14139
+    density:
+      value: 4.961389383568
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.3
+    temperature:
+      source: canon
+      value: 33
+    water:
+      source: canon
+      value: 55
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Alphard is the capital of the Marian Hegemony and the nation's seat of power. Alphard is an arid planet full of canyons and arroyos. There is just barely enough arable land on the northern continents for the planet to be self sufficient. Just below the surface Alphard contains vast deposits of metals and gemstones. After the formation of the Hegemony in the late 30th Century, Alphard has seen the introduction of industry picked up in the later part of the 31st Century. The planetary capital is Nova Roma, which was built in the style of ancient Rome out of the local golden sandstone, and is a matter of pride for the young Periphery nation.
+
+      Alphard is home to several industrial concerns, including the Alphard Trading Corporation which produces combat vehicles and during the Word of Blake Jihad upgraded to produce primitive BattleMechs. The factory is located in the hilly city of O’Reilly on the Italia continent. The other primary factory is the Marian Arms, Incorporated, located in the valleys of the Alba continent. THe Marian Arms factory produces combat vehicles, BattleMechs and during the Word of Blake Jihad expanded to also produce primitive BattleMechs.
+
+      Manufacturing centers:
+      Alphard Trading Corporation
+      Marian Arms, Incorporated
+    landmass:
+      - name:
+          source: canon
+          value: Alba
+      - name:
+          source: canon
+          value: Gaul
+      - name:
+          source: canon
+          value: Hispania
+      - name:
+          source: canon
+          value: Italia
+        capital:
+          source: canon
+          value: Nova Roma
+      - name:
+          source: canon
+          value: Moesia
+      - name:
+          source: canon
+          value: Ostia
+    satellite:
+      - name:
+          value: Romulus
+        size:
+          value: medium
+        icon: rock10
+    event:
+      - date: '2920-09-11'
+        faction:
+          source: canon
+          value:
+            - MH
+        population:
+          value: 47403.0
+        socioIndustrial:
+          value: D-F-B-F-D
+      - date: '2921-03-12'
+        hpg:
+          source: canon
+          value: B
+      - date: '2930-01-01'
+        population:
+          value: 4196487.0
+      - date: '2936-01-01'
+        socioIndustrial:
+          value: D-D-B-F-D
+      - date: '2940-01-01'
+        population:
+          value: 59927304.0
+      - date: '2950-01-01'
+        population:
+          value: 289931442.0
+      - date: '2960-01-01'
+        population:
+          value: 740511170.0
+      - date: '2970-01-01'
+        population:
+          value: 1294805811.0
+      - date: '2979-01-01'
+        socioIndustrial:
+          value: C-C-B-D-D
+      - date: '2980-01-01'
+        population:
+          value: 1813421659.0
+      - date: '2990-01-01'
+        population:
+          value: 2226298895.0
+      - date: '3000-01-01'
+        population:
+          value: 2532993529.0
+      - date: '3010-01-01'
+        population:
+          value: 2731046513.0
+      - date: '3020-01-01'
+        population:
+          value: 2860780090.0
+      - date: '3025-05-13'
+        faction:
+          source: canon
+          value:
+            - MH
+      - date: '3030-01-01'
+        population:
+          value: 2945569312.0
+      - date: '3040-01-01'
+        population:
+          value: 2996741075.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-C-C
+      - date: '3050-01-01'
+        population:
+          value: 3045957612.0
+      - date: '3060-01-01'
+        population:
+          value: 3083235028.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 3110205000.0
+      - date: '3070-01-01'
+        population:
+          value: 1888521595.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 311019200.0
+      - date: '3080-01-01'
+        population:
+          value: 277417941.0
+      - date: '3090-01-01'
+        population:
+          value: 279981963.0
+      - date: '3100-01-01'
+        population:
+          value: 281385378.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: B-B-B-C-C
+      - date: '3110-01-01'
+        population:
+          value: 284270197.0
+      - date: '3120-01-01'
+        population:
+          value: 288970667.0
+      - date: '3130-01-01'
+        population:
+          value: 293396572.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 294926208.0
+      - date: '3145-01-01'
+        population:
+          value: 295812315.0
+  - name:
+      value: New Mascotte
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: barren23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -24
+    water:
+      value: 0
+  - name:
+      value: Maw's Frontier
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 45000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 6
+  - name:
+      value: Fort Ballam
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Kytölehto
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Piña
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Phelps
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Claxton
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Terpsichore Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -182
+  - name:
+      value: Yeshua
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Tehuti A
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Tehuti B
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Tehuti C
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Tehuti D
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Altmärkische Wische
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Teva I Uta 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Teva I Uta 2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Teva I Uta 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Teva I Uta 4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Nova Scotia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Bohman A
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Bohman B
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bohman C
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Bohman D
+        size:
+          value: medium
+        icon: rock1

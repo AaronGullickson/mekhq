@@ -1,0 +1,492 @@
+id: Orkney (TC)
+sucsId: 2915
+xcood: 378.867
+ycood: -399.299
+spectralType:
+  value: M7V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Orkney (TC)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 12900
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 32
+    water:
+      value: 35
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Utting
+        capital:
+          value: New Sustead
+      - name:
+          value: Parish
+      - name:
+          value: Crang's Frontier
+      - name:
+          value: Wolinski
+    event:
+      - date: '3035-10-22'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 50815.0
+        socioIndustrial:
+          value: C-D-B-B-D
+      - date: '3036-10-23'
+        hpg:
+          value: B
+      - date: '3040-01-01'
+        population:
+          value: 1596117.0
+      - date: '3050-01-01'
+        population:
+          value: 8020418.0
+      - date: '3060-01-01'
+        population:
+          value: 9692055.0
+      - date: '3070-01-01'
+        population:
+          value: 9886248.0
+      - date: '3080-01-01'
+        population:
+          value: 10011602.0
+      - date: '3090-01-01'
+        population:
+          value: 10195482.0
+      - date: '3100-01-01'
+        population:
+          value: 10397284.0
+      - date: '3110-01-01'
+        population:
+          value: 10550198.0
+      - date: '3120-09-24'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 10669025.0
+      - date: '3130-01-01'
+        population:
+          value: 10765479.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 10901983.0
+      - date: '3145-01-01'
+        population:
+          value: 10982957.0
+  - name:
+      value: Bosomworth
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: '011'
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: '012'
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Mundon Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -57
+  - name:
+      value: Ravenscroft
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Currall
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Sedgwick
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Garside
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Balder
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Sapporo-shi
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Meen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Sagar
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Soto
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Swarbrick
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Shireoaks
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Judson's Harvest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 160000
+    density:
+      value: 0.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Anammelech A
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Anammelech B
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Anammelech C
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Anammelech D
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Huttons Ambo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 23
+  - name:
+      value: Heppell's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Velnias Alpha
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Velnias Beta
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Hempsall
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 9
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 7.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Finn Maccool I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Finn Maccool II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Finn Maccool III
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Hurd
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.72
+    sysPos:
+      value: 10
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 21.5
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Llyr 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Llyr 2
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Thompson's Square
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.4
+    sysPos:
+      value: 11
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 170000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 60.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Essex I
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Essex II
+        size:
+          value: medium
+        icon: rock17

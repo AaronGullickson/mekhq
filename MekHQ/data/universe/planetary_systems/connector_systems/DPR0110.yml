@@ -1,0 +1,231 @@
+id: DPR 0110
+sucsId: .na
+xcood: -365.0
+ycood: 955.0
+spectralType:
+  value: M8V
+planet:
+  - name:
+      value: R-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: barren20
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 73
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: KJI1
+      - name:
+          value: KJI0
+  - name:
+      value: R-2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: barren19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -4
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: Q.1
+      - name:
+          value: Q.0
+    satellite:
+      - name:
+          value: T7-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: T7-2
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: T7-3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: R-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: FY-1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: FY-2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: FY-3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: FY-4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: FY-5
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: FY-6
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: E1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -104
+  - name:
+      value: R-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: II-1
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: II-2
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: R-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: W-1
+        size:
+          value: large
+        icon: rock15

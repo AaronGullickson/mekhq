@@ -1,0 +1,231 @@
+id: Cerignola
+sucsId: 507
+xcood: -328.01
+ycood: -286.324
+spectralType:
+  value: G8V
+primarySlot: 3
+event:
+  - date: '2748-08-09'
+    nadirCharge:
+      value: yes
+  - date: '2850-10-30'
+    nadirCharge:
+      value: no
+  - date: '2858-04-30'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Tombokoirey II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 178
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Eixample
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.0
+    satellite:
+      - name:
+          value: Nerþuz
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Wodan
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Cerignola
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green8
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 12000
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 32
+    water:
+      value: 54
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: New Cursi
+        capital:
+          value: Sessa Aurunca
+      - name:
+          value: Castelsardo
+      - name:
+          value: New Quero
+      - name:
+          value: Hörbich
+      - name:
+          value: Galeata
+      - name:
+          value: Grumello del Monte
+    event:
+      - date: '2723-07-26'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 53471.0
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2730-01-01'
+        population:
+          value: 158794.0
+      - date: '2731-06-03'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 581839.0
+      - date: '2750-01-01'
+        population:
+          value: 1658439.0
+      - date: '2760-01-01'
+        population:
+          value: 3851429.0
+      - date: '2770-01-01'
+        population:
+          value: 7615425.0
+      - date: '2780-01-01'
+        population:
+          value: 13255902.0
+      - date: '2790-01-01'
+        population:
+          value: 20863221.0
+      - date: '2800-01-01'
+        population:
+          value: 30219360.0
+      - date: '2810-01-01'
+        population:
+          value: 40636441.0
+      - date: '2820-01-01'
+        population:
+          value: 51330979.0
+      - date: '2830-01-01'
+        population:
+          value: 61840735.0
+      - date: '2840-01-01'
+        population:
+          value: 3841935.0
+      - date: '2850-01-01'
+        population:
+          value: 98423.0
+      - date: '2858-12-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Nuova Poggio San Vicino
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: frozen17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -41
+    water:
+      value: 25
+    landmass:
+      - name:
+          value: Lewry
+    satellite:
+      - name:
+          value: Loke
+        size:
+          value: large
+        icon: rock13

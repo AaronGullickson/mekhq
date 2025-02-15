@@ -1,0 +1,549 @@
+id: Mirfak
+sucsId: 2914
+xcood: 386.121
+ycood: -478.358
+spectralType:
+  source: canon
+  value: G2V
+primarySlot: 2
+planet:
+  - name:
+      value: Loki
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: greenhouse4
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 243
+    water:
+      value: 0
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Mirfak
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green8
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.23
+    diameter:
+      value: 12600
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      source: canon
+      value: 25
+    water:
+      value: 26
+    lifeForm:
+      value: INSECT
+    desc: Mirfak is an arid planet with a small population, mostly consisting of miners
+      working the sveral small germanium and other rare material mines on the planet.
+    landmass:
+      - name:
+          value: Baudry's Delight
+        capital:
+          value: Humud
+      - name:
+          value: Respigli
+      - name:
+          value: Winkel
+    event:
+      - date: '3020-02-20'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 51510.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '3021-04-22'
+        hpg:
+          source: canon
+          value: C
+      - date: '3030-01-01'
+        population:
+          value: 1242191.0
+      - date: '3040-01-01'
+        population:
+          value: 2703749.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3050-01-01'
+        population:
+          value: 3243060.0
+      - date: '3060-01-01'
+        population:
+          value: 3369069.0
+      - date: '3066-04-01'
+        faction:
+          source: canon
+          value:
+            - CDP
+      - date: '3066-10-01'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '3070-01-01'
+        population:
+          value: 3388659.0
+      - date: '3080-01-01'
+        population:
+          value: 3446759.0
+      - date: '3090-01-01'
+        population:
+          value: 3503751.0
+      - date: '3100-01-01'
+        population:
+          value: 3568817.0
+      - date: '3110-01-01'
+        population:
+          value: 3635818.0
+      - date: '3115-01-01'
+        socioIndustrial:
+          value: C-F-A-D-D
+      - date: '3120-05-24'
+        faction:
+          source: canon
+          value:
+            - CDP
+        population:
+          value: 3703337.0
+      - date: '3130-01-01'
+        population:
+          value: 3763067.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 3817647.0
+      - date: '3145-01-01'
+        population:
+          value: 3841390.0
+  - name:
+      value: Skadi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.4
+  - name:
+      value: Odin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Thor
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 12
+  - name:
+      value: Shepard
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: giant
+        icon: rock8
+  - name:
+      value: Sif
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Hahgwehdaetgah
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Angokoq
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Wakinyan
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Arnakuagsak
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Kwekwaxawe
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Ahayuta
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: MacIntosh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: D1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: D2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: D3
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Brunhilde
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 20
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Kadru
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Deva
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Shri
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Nirrita
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Tschernobog Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -240
+  - name:
+      value: Murphy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: P1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: P2
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: P3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: P4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Mati Syra Zemlya Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 307.6
+    sysPos:
+      value: 12
+    icon: asteroid3
+    yearLength:
+      value: 5394.9
+    temperature:
+      value: -257
+  - name:
+      value: Bladen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 614.8
+    sysPos:
+      value: 13
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 15244.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Qin 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Qin 2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Qin 3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Qin 4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Qin 5
+        size:
+          value: medium
+        icon: oddmoon1

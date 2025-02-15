@@ -1,0 +1,407 @@
+id: Independence
+sucsId: 2907
+xcood: 58.656
+ycood: -505.063
+spectralType:
+  value: K2V
+primarySlot: 2
+planet:
+  - name:
+      value: Morganton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.46
+    diameter:
+      value: 5500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 143
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Dies Pater
+        size:
+          value: large
+        icon: rock11
+  - name:
+      source: canon
+      value: Independence
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green28
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 10200
+    density:
+      value: 5.2795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 38
+    water:
+      value: 42
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Koch's Square
+        capital:
+          value: New Nash
+      - name:
+          value: Alipour
+      - name:
+          value: Turner
+      - name:
+          value: MacNeill's Garden
+    event:
+      - date: '3057-07-26'
+        faction:
+          source: canon
+          value:
+            - NCR
+        population:
+          value: 50004.0
+        socioIndustrial:
+          value: D-F-B-D-D
+      - date: '3058-12-19'
+        hpg:
+          value: X
+      - date: '3060-01-01'
+        population:
+          value: 2424061.0
+      - date: '3066-04-09'
+        faction:
+          source: canon
+          value:
+            - FR
+      - date: '3070-01-01'
+        population:
+          value: 4937778.0
+      - date: '3080-01-01'
+        population:
+          value: 4999388.0
+      - date: '3090-01-01'
+        population:
+          value: 5057718.0
+      - date: '3100-01-01'
+        population:
+          value: 5084087.0
+      - date: '3110-01-01'
+        population:
+          value: 5084087.0
+      - date: '3120-01-01'
+        population:
+          value: 5093246.0
+      - date: '3130-01-01'
+        population:
+          value: 5130050.0
+      - date: '3140-01-01'
+        population:
+          value: 5181608.0
+      - date: '3145-01-01'
+        population:
+          value: 5215920.0
+  - name:
+      value: Luna
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Diana 1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Diana 2
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Stevens's Rock
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.31
+    diameter:
+      value: 4500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -54
+    water:
+      value: 0
+  - name:
+      value: New River Edge
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: O'Toole
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Hesmondhalgh
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Young
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Meiers's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 25
+  - name:
+      value: Antinous
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Lynn
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Lambert
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Baker
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Smith
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Johnson
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Peterson
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Bowman
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Olson
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Reno
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: rock4
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    temperature:
+      value: -214
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Vaino
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Osiecznica
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: frozen32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Carbon Dioxide and Methane
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 141.5
+    temperature:
+      value: -230
+    water:
+      value: 100
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New Bleecker Archipelago
+      - name:
+          value: Chaska Archipelago
+      - name:
+          value: Platea Archipelago
+      - name:
+          value: Trasaghis Archipelago

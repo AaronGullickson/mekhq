@@ -1,0 +1,445 @@
+id: Dove
+sucsId: 735
+xcood: 33.666
+ycood: 178.549
+spectralType:
+  value: G0V
+primarySlot: 3
+event:
+  - date: '2365-07-31'
+    nadirCharge:
+      value: yes
+  - date: '2375-09-22'
+    zenithCharge:
+      value: yes
+  - date: '2795-02-07'
+    nadirCharge:
+      value: no
+  - date: '2822-01-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Sól
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: greenhouse10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 403
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: 4UE1
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: 4UE2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 4UE3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: White
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 2
+    icon: greenhouse2
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 65
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Alsen
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      source: canon
+      value: Dove
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 3
+    icon: green55
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 13200
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 13
+    water:
+      value: 44
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Karlskrona
+        capital:
+          value: Karlskrona City
+      - name:
+          value: Husøy
+      - name:
+          value: Ny Faringe
+      - name:
+          value: Audumla's Skörd
+    event:
+      - date: '2333-01-20'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 66988.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2340-01-01'
+        population:
+          value: 200211.0
+      - date: '2350-01-01'
+        population:
+          value: 773877.0
+      - date: '2360-01-01'
+        population:
+          value: 2417850.0
+      - date: '2370-01-01'
+        population:
+          value: 6370638.0
+      - date: '2380-01-01'
+        population:
+          value: 14407263.0
+      - date: '2390-01-01'
+        population:
+          value: 28724759.0
+      - date: '2400-01-01'
+        population:
+          value: 51181805.0
+      - date: '2410-01-01'
+        population:
+          value: 83327963.0
+      - date: '2420-01-01'
+        population:
+          value: 126138269.0
+      - date: '2430-01-01'
+        population:
+          value: 179257386.0
+      - date: '2440-01-01'
+        population:
+          value: 240505133.0
+      - date: '2450-01-01'
+        population:
+          value: 308651482.0
+      - date: '2460-01-01'
+        population:
+          value: 380317299.0
+      - date: '2470-01-01'
+        population:
+          value: 452407601.0
+      - date: '2480-01-01'
+        population:
+          value: 520959638.0
+      - date: '2490-01-01'
+        population:
+          value: 585700463.0
+      - date: '2500-01-01'
+        population:
+          value: 645650083.0
+      - date: '2510-01-01'
+        population:
+          value: 701990982.0
+      - date: '2520-01-01'
+        population:
+          value: 756134281.0
+      - date: '2530-01-01'
+        population:
+          value: 799007347.0
+      - date: '2540-01-01'
+        population:
+          value: 836686118.0
+      - date: '2550-01-01'
+        population:
+          value: 869258968.0
+      - date: '2560-01-01'
+        population:
+          value: 898464545.0
+      - date: '2570-01-01'
+        population:
+          value: 922900405.0
+      - date: '2580-01-01'
+        population:
+          value: 945678043.0
+      - date: '2590-01-01'
+        population:
+          value: 966267434.0
+      - date: '2600-01-01'
+        population:
+          value: 983603056.0
+      - date: '2610-01-01'
+        population:
+          value: 996876960.0
+      - date: '2620-01-01'
+        population:
+          value: 1011253369.0
+      - date: '2624-01-01'
+        socioIndustrial:
+          value: B-D-B-C-C
+      - date: '2630-01-01'
+        population:
+          value: 1022281758.0
+      - date: '2640-01-01'
+        population:
+          value: 1030622109.0
+      - date: '2650-01-01'
+        population:
+          value: 1032376520.0
+      - date: '2660-01-01'
+        population:
+          value: 1039136853.0
+      - date: '2670-01-01'
+        population:
+          value: 1046609183.0
+      - date: '2680-01-01'
+        population:
+          value: 1049945525.0
+      - date: '2690-01-01'
+        population:
+          value: 1053892176.0
+      - date: '2691-02-14'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 1056687927.0
+      - date: '2710-01-01'
+        population:
+          value: 1055056742.0
+      - date: '2720-01-01'
+        population:
+          value: 1054163165.0
+      - date: '2728-01-01'
+        socioIndustrial:
+          value: A-C-B-B-B
+      - date: '2730-01-01'
+        population:
+          value: 1049249403.0
+      - date: '2740-01-01'
+        population:
+          value: 1044401049.0
+      - date: '2750-01-01'
+        population:
+          value: 1036975421.0
+      - date: '2760-01-01'
+        population:
+          value: 1029749890.0
+      - date: '2770-01-01'
+        population:
+          value: 1019901836.0
+      - date: '2780-01-01'
+        population:
+          value: 1009760398.0
+      - date: '2790-01-01'
+        population:
+          value: 1000798079.0
+      - date: '2800-01-01'
+        population:
+          value: 1004778566.0
+      - date: '2810-01-01'
+        population:
+          value: 692698636.0
+      - date: '2820-01-01'
+        population:
+          value: 3641638.0
+      - date: '2822-09-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Freyr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 4
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Loder 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Loder 2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Loder 3
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: LaPorte
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.65
+    diameter:
+      value: 14500
+    density:
+      value: 8.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 36.5
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: UE31
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: UE32
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Gödestad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Wist
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Sjøvoll
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Blix
+        size:
+          value: medium
+        icon: rock11

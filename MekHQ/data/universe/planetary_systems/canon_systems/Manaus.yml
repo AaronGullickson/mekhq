@@ -1,0 +1,499 @@
+id: Manaus
+sucsId: 1580
+xcood: -152.611
+ycood: -361.226
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2670-03-10'
+    zenithCharge:
+      value: yes
+  - date: '2676-11-21'
+    nadirCharge:
+      value: yes
+  - date: '2788-01-13'
+    zenithCharge:
+      value: no
+  - date: '2801-10-19'
+    nadirCharge:
+      value: no
+  - date: '2812-10-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Manaus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12600
+    density:
+      value: 5.2795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 25
+    water:
+      value: 43
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Nova Jequitaí
+        capital:
+          value: New Rouvres-les-Bois
+    event:
+      - date: '2644-04-28'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 52989.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2650-01-01'
+        population:
+          value: 431491.0
+      - date: '2656-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2660-01-01'
+        population:
+          value: 4404630.0
+      - date: '2670-01-01'
+        population:
+          value: 17549311.0
+      - date: '2680-01-01'
+        population:
+          value: 39886261.0
+      - date: '2690-01-01'
+        population:
+          value: 64491598.0
+      - date: '2700-01-01'
+        population:
+          value: 85940287.0
+      - date: '2707-10-14'
+        hpg:
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 102147993.0
+      - date: '2720-01-01'
+        population:
+          value: 112306307.0
+      - date: '2730-01-01'
+        population:
+          value: 118858427.0
+      - date: '2740-01-01'
+        population:
+          value: 122643306.0
+      - date: '2750-01-01'
+        population:
+          value: 124358041.0
+      - date: '2760-01-01'
+        population:
+          value: 125285881.0
+      - date: '2770-01-01'
+        population:
+          value: 126035062.0
+      - date: '2780-01-01'
+        population:
+          value: 126189249.0
+      - date: '2790-01-01'
+        population:
+          value: 114681602.0
+      - date: '2800-01-01'
+        population:
+          value: 2385751.0
+      - date: '2810-01-01'
+        population:
+          value: 17273.0
+      - date: '2812-04-16'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Folque
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Psyche
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Greene
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Thelxinoe
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Iacri
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Manrique
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Cachopo
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Nvoa
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Gabe's Harvest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Gaona I
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Gaona II
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Gaona III
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Antro de Carujo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Duque
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Abdul-Mujib
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Igarapé Gran I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Igarapé Gran II
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Igarapé Gran III
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Igarapé Gran IV
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cardono
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 1
+  - name:
+      value: Itaí Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 85.5
+    temperature:
+      value: -236
+  - name:
+      value: Pvan's Wind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 18
+  - name:
+      value: Golias
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 675.7
+  - name:
+      value: Frank
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 153.8
+    sysPos:
+      value: 11
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1907.4
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Chiminigagua
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Patricio
+    type:
+      value: ICE_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 12
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 5389.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Guajeru
+        size:
+          value: medium
+        icon: rock14

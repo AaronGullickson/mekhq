@@ -1,0 +1,442 @@
+id: Maxwell
+sucsId: 1634
+xcood: -376.942
+ycood: -114.526
+spectralType:
+  source: canon
+  value: F9III
+primarySlot: 5
+event:
+  - date: '2520-01-13'
+    nadirCharge:
+      value: yes
+  - date: '2645-11-15'
+    zenithCharge:
+      value: yes
+  - date: '2791-03-20'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Nantosueta
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.7
+  - name:
+      value: Taliesin
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -69
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Fowler
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Crom Dubh
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 68
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Llyr
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -3
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Maxwell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 5
+    icon: green16
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12470
+    density:
+      value: 5.634526952754
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 42
+    water:
+      source: canon
+      value: 63
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      Maxwell is a world of technological gaps. On one hand the mountainous but fertile terrain has resulted in the planet being primarily rural and requires most farming to be done by hand and with farm animals. However, the planet is dotted with spaceports and warehouses for shipping agriculture off world and most of the homes are equipped with high tech communications and luxuries and most residents own hovercraft of some sort, even though standard cars and trucks are nearly useless due to the terrain.
+
+      Thanks in part to the lack of major industry and the rough, unforgiving terrain Maxwell has never been invaded. However, the planet has always been more than willing to send relief aid to war-torn neighbors.
+
+      Maxwell is home to the original Hero Training Institute - a large for-profit institute that will train anyone that can afford their services. The Institute on Maxwell offers training for aspiring MechWarriors, Aerospace Pilots, Armored Infantry, Dropship crews, and additional Officer Training courses.
+    landmass:
+      - name:
+          source: canon
+          value: Kenjac
+        capital:
+          source: canon
+          value: Romanici
+      - name:
+          source: canon
+          value: Oakley
+      - name:
+          source: canon
+          value: Tripp
+    satellite:
+      - name:
+          value: Portents
+        size:
+          value: medium
+        icon: rock2
+    event:
+      - date: '2497-06-15'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 52993.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2500-01-01'
+        population:
+          value: 125588.0
+      - date: '2510-01-01'
+        population:
+          value: 1421770.0
+      - date: '2520-01-01'
+        population:
+          value: 9162811.0
+      - date: '2530-01-01'
+        population:
+          value: 38033503.0
+      - date: '2540-01-01'
+        population:
+          value: 112536400.0
+      - date: '2550-01-01'
+        population:
+          value: 258397365.0
+      - date: '2560-01-01'
+        population:
+          value: 485967630.0
+      - date: '2570-01-01'
+        population:
+          value: 791237730.0
+      - date: '2580-01-01'
+        population:
+          value: 1147713595.0
+      - date: '2590-01-01'
+        population:
+          value: 1524116293.0
+      - date: '2600-01-01'
+        population:
+          value: 1892925008.0
+      - date: '2610-01-01'
+        population:
+          value: 2235425908.0
+      - date: '2620-01-01'
+        population:
+          value: 2527389814.0
+      - date: '2630-01-01'
+        population:
+          value: 2751132086.0
+      - date: '2640-01-01'
+        population:
+          value: 2939882628.0
+      - date: '2650-01-01'
+        population:
+          value: 3115112108.0
+      - date: '2656-05-26'
+        hpg:
+          source: canon
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 3257103698.0
+      - date: '2670-01-01'
+        population:
+          value: 3338957322.0
+      - date: '2680-01-01'
+        population:
+          value: 3395164626.0
+      - date: '2690-01-01'
+        population:
+          value: 3427314967.0
+      - date: '2700-01-01'
+        population:
+          value: 3447176956.0
+      - date: '2710-01-01'
+        population:
+          value: 3465915026.0
+      - date: '2720-01-01'
+        population:
+          value: 3491998005.0
+      - date: '2730-01-01'
+        population:
+          value: 3517977148.0
+      - date: '2732-01-01'
+        socioIndustrial:
+          value: B-C-B-D-B
+      - date: '2740-01-01'
+        population:
+          value: 3544870633.0
+      - date: '2750-01-01'
+        population:
+          value: 3578324974.0
+      - date: '2760-01-01'
+        population:
+          value: 3613771857.0
+      - date: '2770-01-01'
+        population:
+          value: 3658644709.0
+      - date: '2780-01-01'
+        population:
+          value: 3686527277.0
+      - date: '2790-01-01'
+        population:
+          value: 3695196668.0
+      - date: '2800-01-01'
+        population:
+          value: 3699788914.0
+      - date: '2810-01-01'
+        population:
+          value: 3704931739.0
+      - date: '2820-01-01'
+        population:
+          value: 3710809345.0
+      - date: '2830-01-01'
+        population:
+          value: 3714692458.0
+      - date: '2840-01-01'
+        population:
+          value: 3713296496.0
+      - date: '2850-01-01'
+        population:
+          value: 3715724592.0
+      - date: '2860-06-13'
+        population:
+          value: 3723079252.0
+        socioIndustrial:
+          value: C-C-B-D-C
+      - date: '2870-01-01'
+        population:
+          value: 3732094829.0
+      - date: '2880-01-01'
+        population:
+          value: 3733619885.0
+      - date: '2890-01-01'
+        population:
+          value: 3739909689.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: D-C-C-D-D
+      - date: '2900-01-01'
+        population:
+          value: 3753931811.0
+      - date: '2910-01-01'
+        population:
+          value: 3767082969.0
+      - date: '2920-01-01'
+        population:
+          value: 3775649749.0
+      - date: '2930-01-01'
+        population:
+          value: 3775341254.0
+      - date: '2940-01-01'
+        population:
+          value: 3773552479.0
+      - date: '2950-01-01'
+        population:
+          value: 3771394742.0
+      - date: '2960-01-01'
+        population:
+          value: 3770347144.0
+      - date: '2970-01-01'
+        population:
+          value: 3769115048.0
+      - date: '2980-01-01'
+        population:
+          value: 3764190688.0
+      - date: '2990-01-01'
+        population:
+          value: 3760931843.0
+      - date: '3000-01-01'
+        population:
+          value: 3760440187.0
+      - date: '3010-01-01'
+        population:
+          value: 3756263706.0
+      - date: '3020-01-01'
+        population:
+          value: 3754115855.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 3817000000.0
+      - date: '3030-08-01'
+        population:
+          value: 3554393643.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '3037-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '3040-01-01'
+        population:
+          value: 3145552976.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-D-C-D-B
+      - date: '3050-01-01'
+        population:
+          value: 2879849150.0
+      - date: '3060-01-01'
+        population:
+          value: 2595154527.0
+      - date: '3070-01-01'
+        population:
+          value: 2382291506.0
+      - date: '3079-12-09'
+        faction:
+          source: canon
+          value:
+            - DTA
+      - date: '3080-01-01'
+        population:
+          value: 2421198928.0
+      - date: '3090-01-01'
+        population:
+          value: 2460741783.0
+      - date: '3096-01-01'
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '3100-01-01'
+        population:
+          value: 2488457006.0
+      - date: '3110-01-01'
+        population:
+          value: 2502931994.0
+      - date: '3120-01-01'
+        population:
+          value: 2503933367.0
+      - date: '3130-01-01'
+        population:
+          value: 2506939891.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 2520513983.0
+      - date: '3145-01-01'
+        population:
+          value: 2525054994.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL

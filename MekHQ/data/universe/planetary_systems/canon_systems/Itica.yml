@@ -1,0 +1,476 @@
+id: Itica
+sucsId: 1219
+xcood: -64.064
+ycood: -373.084
+spectralType:
+  value: K1V
+primarySlot: 2
+event:
+  - date: '2697-04-03'
+    zenithCharge:
+      value: yes
+  - date: '2922-08-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Bin Zubair
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 126
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Itica
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green44
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 24
+    water:
+      value: 48
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: North Kingstown
+        capital:
+          value: Nova Chantown
+      - name:
+          value: Charleroi
+      - name:
+          value: New Monte Romano
+    event:
+      - date: '2675-04-06'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 50611.0
+        socioIndustrial:
+          value: C-F-A-C-F
+      - date: '2679-02-15'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 549502.0
+      - date: '2690-01-01'
+        population:
+          value: 10293366.0
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: C-D-A-C-D
+      - date: '2700-01-01'
+        population:
+          value: 46379129.0
+      - date: '2710-01-01'
+        population:
+          value: 100511547.0
+      - date: '2720-01-01'
+        population:
+          value: 149310851.0
+      - date: '2729-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2730-01-01'
+        population:
+          value: 182070901.0
+      - date: '2740-01-01'
+        population:
+          value: 200844467.0
+      - date: '2750-01-01'
+        population:
+          value: 211738888.0
+      - date: '2760-01-01'
+        population:
+          value: 217024125.0
+      - date: '2770-01-01'
+        population:
+          value: 218386246.0
+      - date: '2780-01-01'
+        population:
+          value: 217579075.0
+      - date: '2790-01-01'
+        population:
+          value: 180104491.0
+      - date: '2800-01-01'
+        population:
+          value: 59990568.0
+      - date: '2810-01-01'
+        population:
+          value: 19982113.0
+      - date: '2820-01-01'
+        population:
+          value: 6449984.0
+      - date: '2830-01-01'
+        population:
+          value: 2719105.0
+      - date: '2840-01-01'
+        population:
+          value: 956878.0
+      - date: '2850-01-01'
+        population:
+          value: 304056.0
+      - date: '2860-01-01'
+        population:
+          value: 104509.0
+      - date: '2864-09-03'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2870-01-01'
+        population:
+          value: 32949.0
+      - date: '2877-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2880-01-01'
+        population:
+          value: 10067.0
+      - date: '2890-01-01'
+        population:
+          value: 3406.0
+      - date: '2900-01-01'
+        population:
+          value: 1425.0
+      - date: '2906-01-01'
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2910-01-01'
+        population:
+          value: 601.0
+      - date: '2920-01-01'
+        population:
+          value: 272.0
+      - date: '2922-11-20'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ord's Delight
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ajomama
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Supay
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Apacatequil
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Baker
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: 6T.1
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: 6T.2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Krishna
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 6
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Cosini I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cosini II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cosini III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Amphoe Sam Roi Yot Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -193
+  - name:
+      value: Weir's Hole
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Sleipner
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: V31
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hrym
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Carter's Heights
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: C1
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: C2
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: C3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: C4
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: C5
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Jagganath
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Enkhbat I
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Enkhbat II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Enkhbat III
+        size:
+          value: medium
+        icon: oddmoon2

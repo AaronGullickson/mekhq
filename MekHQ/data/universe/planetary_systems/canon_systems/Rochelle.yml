@@ -1,0 +1,878 @@
+id: Rochelle
+sucsId: 2162
+xcood: -113.791
+ycood: -15.815
+spectralType:
+  source: canon
+  value: K7V
+primarySlot: 2
+event:
+  - date: '2398-04-02'
+    nadirCharge:
+      value: yes
+  - date: '2411-01-18'
+    zenithCharge:
+      value: yes
+  - date: '2850-09-24'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Saint-Cyr-en-Pail
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 1
+    icon: greenhouse1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.33
+    diameter:
+      value: 5500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 124
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Rochelle
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 2
+    icon: wet21
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.74
+    diameter:
+      value: 9933
+    density:
+      value: 5.251055623202
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 86
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: With vast mineral resources capable of sustaining a broad industrial base,
+      and further blessed by an abundant water supply and soil rich enough for planting,
+      Rochelle was an easy colony world to establish and settle in the early days
+      of mankind‘s race to the stars. After the fall of the Terran Alliance, this
+      world became a part of the Federation of Skye, thanks to a trading alliance
+      with the McQuiston family on Skye, which further boosted its economic and industrial
+      growth, until its subsequent conquest by the nearby Free Worlds League. In the
+      wars that followed the collapse of the original Star League, Rochelle and its
+      material wealth were hotly contested, and it was particularly ravaged during
+      the savagery of the First and Second Succession Wars. In fact, as the Second
+      War finally ground to a halt, House Marik‘s economic experts concluded that
+      the mining, refining, and manufacturing centers on Rochelle had become hopelessly
+      damaged by the widespread use of weapons of mass destruction. Indeed, so much
+      nuclear and chemical waste had been released in the past eight decades of warfare
+      that the League officially classified Rochelle as “unsalvageable” reconstruction
+      efforts were soon abandoned, and the planet virtually evacuated. Despite this,
+      the proud people who remained on Rochelle suffered through two centuries of
+      war and death, but continued to mine valuable ore for export to industries deeper
+      within the League. For a time, the world even became the headquarters of MediQuick,
+      an interstellar mobile medical services corporation that offered its services
+      to close to two dozen worlds on the Steiner-Marik border, until questionable
+      business practices led to that company‘s demise. Despite the best efforts of
+      the locals, the economy and infrastructure of this tortured and poisoned world
+      continued to erode, leaving it a mere border post for League military forces
+      to guard against their Lyran counterparts. During the Jihad, Lyran strike teams
+      assaulted Rochelle in retaliation for renegade Free Worlds attacks, laying waste
+      to the crumbling capital city of Arzenburg, on the northern continent of Caredon.
+      Not until the world was ceded to Devlin Stone‘s nascent Republic would Rochelle‘s
+      fortunes finally begin to turn for the better. Buoyed by an influx of new residents
+      and the funds from the “peace dividend” made possible by dismantling armies,
+      this world has finally begun to show signs of recovery from centuries of relentless
+      warfare. The capital city, New Arzenburg, has just completed an expansion to
+      its spaceport, opening up the planet to ore traffic as the mines on Caredon,
+      now under the control of Rochelle Interstellar Incorporated, have begun to produce
+      again. Rochelle‘s other continent, the southern landmass of Martinasia, however,
+      remains largely abandoned, thanks to the high radiation and acid rains, lasting
+      effects of the first two Succession Wars.
+    landmass:
+      - name:
+          source: canon
+          value: Caredon
+        capital:
+          source: canon
+          value: Arzenburg
+      - name:
+          source: canon
+          value: Martinasia
+    satellite:
+      - name:
+          value: Derika
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Nohea
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ululani and a dust ring
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2242-07-25'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 48024.0
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '2250-01-01'
+        population:
+          value: 145488.0
+      - date: '2260-01-01'
+        population:
+          value: 495654.0
+      - date: '2270-01-01'
+        population:
+          value: 1445022.0
+      - date: '2280-01-01'
+        population:
+          value: 3663119.0
+      - date: '2290-01-01'
+        population:
+          value: 8245912.0
+      - date: '2300-01-01'
+        population:
+          value: 16699299.0
+      - date: '2310-01-01'
+        population:
+          value: 30815606.0
+      - date: '2313-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2320-01-01'
+        population:
+          value: 52680005.0
+      - date: '2330-01-01'
+        population:
+          value: 84065708.0
+      - date: '2340-01-01'
+        population:
+          value: 125880814.0
+      - date: '2350-01-01'
+        population:
+          value: 178660819.0
+      - date: '2355-06-11'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2360-01-01'
+        population:
+          value: 242663130.0
+      - date: '2370-01-01'
+        population:
+          value: 318241952.0
+      - date: '2380-01-01'
+        population:
+          value: 402561336.0
+      - date: '2390-01-01'
+        population:
+          value: 492478756.0
+      - date: '2400-01-01'
+        population:
+          value: 588930398.0
+      - date: '2410-01-01'
+        population:
+          value: 688828822.0
+      - date: '2418-11-03'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2420-01-01'
+        population:
+          value: 791744302.0
+      - date: '2430-01-01'
+        population:
+          value: 886067748.0
+      - date: '2440-01-01'
+        population:
+          value: 974838515.0
+      - date: '2450-01-01'
+        population:
+          value: 1054685325.0
+      - date: '2460-01-01'
+        population:
+          value: 1129401221.0
+      - date: '2470-01-01'
+        population:
+          value: 1199020055.0
+      - date: '2471-01-01'
+        socioIndustrial:
+          value: B-B-B-B-D
+      - date: '2480-01-01'
+        population:
+          value: 1256783455.0
+      - date: '2490-01-01'
+        population:
+          value: 1308049952.0
+      - date: '2500-01-01'
+        population:
+          value: 1354731045.0
+      - date: '2510-01-01'
+        population:
+          value: 1403234841.0
+      - date: '2520-01-01'
+        population:
+          value: 1452648731.0
+      - date: '2530-01-01'
+        population:
+          value: 1495489213.0
+      - date: '2540-01-01'
+        population:
+          value: 1530688647.0
+      - date: '2550-01-01'
+        population:
+          value: 1549068258.0
+      - date: '2560-01-01'
+        population:
+          value: 1562162676.0
+      - date: '2570-01-01'
+        population:
+          value: 1577319332.0
+      - date: '2580-01-01'
+        population:
+          value: 1588404466.0
+      - date: '2590-01-01'
+        population:
+          value: 1596717551.0
+      - date: '2600-01-01'
+        population:
+          value: 1596510704.0
+      - date: '2610-01-01'
+        population:
+          value: 1596708784.0
+      - date: '2620-01-01'
+        population:
+          value: 1598872480.0
+      - date: '2630-01-01'
+        population:
+          value: 1605501779.0
+      - date: '2640-01-01'
+        population:
+          value: 1614282756.0
+      - date: '2650-01-01'
+        population:
+          value: 1619597522.0
+      - date: '2652-06-24'
+        hpg:
+          value: B
+      - date: '2659-01-01'
+        socioIndustrial:
+          value: A-A-A-A-C
+      - date: '2660-01-01'
+        population:
+          value: 1629702927.0
+      - date: '2670-01-01'
+        population:
+          value: 1643516862.0
+      - date: '2680-01-01'
+        population:
+          value: 1646045137.0
+      - date: '2690-01-01'
+        population:
+          value: 1641934626.0
+      - date: '2700-01-01'
+        population:
+          value: 1638194536.0
+      - date: '2710-01-01'
+        population:
+          value: 1636212295.0
+      - date: '2720-01-01'
+        population:
+          value: 1632130555.0
+      - date: '2730-01-01'
+        population:
+          value: 1635811699.0
+      - date: '2740-01-01'
+        population:
+          value: 1630970661.0
+      - date: '2750-01-01'
+        population:
+          value: 1625837815.0
+      - date: '2760-01-01'
+        population:
+          value: 1627927271.0
+      - date: '2770-01-01'
+        population:
+          value: 1638940139.0
+      - date: '2780-01-01'
+        population:
+          value: 1657430391.0
+      - date: '2790-01-01'
+        population:
+          value: 1660123432.0
+      - date: '2800-01-01'
+        population:
+          value: 1651568360.0
+      - date: '2810-01-01'
+        population:
+          value: 1639909829.0
+      - date: '2820-01-01'
+        population:
+          value: 1635112719.0
+      - date: '2821-07-30'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2830-01-01'
+        population:
+          value: 1633980909.0
+      - date: '2840-01-01'
+        population:
+          value: 1629982328.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: B-B-B-B-D
+      - date: '2850-01-01'
+        population:
+          value: 1620805421.0
+      - date: '2860-01-01'
+        population:
+          value: 1614773543.0
+      - date: '2870-01-01'
+        population:
+          value: 1610564590.0
+      - date: '2880-01-01'
+        population:
+          value: 1613312049.0
+      - date: '2890-01-01'
+        population:
+          value: 1617097461.0
+      - date: '2900-03-31'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 1619856064.0
+      - date: '2910-01-01'
+        population:
+          value: 1616666853.0
+      - date: '2920-06-19'
+        population:
+          value: 1606537739.0
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2930-01-01'
+        population:
+          value: 1593159192.0
+      - date: '2940-01-01'
+        population:
+          value: 1582924405.0
+      - date: '2950-01-01'
+        population:
+          value: 1577537577.0
+      - date: '2960-01-01'
+        population:
+          value: 1575186607.0
+      - date: '2970-01-01'
+        population:
+          value: 1573090489.0
+      - date: '2980-01-01'
+        population:
+          value: 1572252822.0
+      - date: '2990-01-01'
+        population:
+          value: 1575690091.0
+      - date: '3000-01-01'
+        population:
+          value: 1581660219.0
+      - date: '3007-06-02'
+        faction:
+          source: canon
+          value:
+            - LA
+            - FWL
+      - date: '3007-06-25'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3010-01-01'
+        population:
+          value: 1587399293.0
+      - date: '3020-01-01'
+        population:
+          value: 1586807546.0
+      - date: '3030-01-01'
+        population:
+          value: 1590137931.0
+      - date: '3040-01-01'
+        population:
+          value: 1601147823.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: B-B-B-A-C
+      - date: '3050-01-01'
+        population:
+          value: 1613524249.0
+      - date: '3060-01-01'
+        population:
+          value: 1630881655.0
+      - date: '3070-01-01'
+        population:
+          value: 1650900277.0
+      - date: '3072-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3079-09-01'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - WOB
+      - date: '3079-09-10'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 1677527128.0
+      - date: '3081-11-26'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1709362957.0
+      - date: '3100-01-01'
+        population:
+          value: 1741106380.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: B-B-A-A-C
+      - date: '3110-01-01'
+        population:
+          value: 1764241339.0
+      - date: '3120-01-01'
+        population:
+          value: 1776279062.0
+      - date: '3130-01-01'
+        population:
+          value: 1785539770.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3136-02-01'
+        faction:
+          source: canon
+          value:
+            - PC
+      - date: '3140-01-01'
+        population:
+          value: 1785182697.0
+      - date: '3145-09-17'
+        faction:
+          source: canon
+          value:
+            - CWE
+        population:
+          value: 1784825697.0
+      - date: '3151-11-15'
+        faction:
+          source: canon
+          value:
+            - FWL
+  - name:
+      value: Fauna's Frontier
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: barren19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -25
+    water:
+      value: 0
+  - name:
+      value: Portunus
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1900
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -87
+    water:
+      value: 0
+  - name:
+      value: Aestas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Mercejana
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Pineau
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Berkes
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Fascinus
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Beauvais
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Optimus Maximus
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Felicitas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 27
+    satellite:
+      - name:
+          value: Coudes
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Grèzes
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Noviant-aux-Prés
+    type:
+      value: ICE_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Wolff
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: Ramsin's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 112.3
+    temperature:
+      value: -235
+  - name:
+      value: Mors's Nest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 315.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Kannon
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Yamasachihiko
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Chatel-Chéhéry
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Voreppe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 888.2
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Harmony
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Alcides
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Mars
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Asterie
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Cynthia
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Erebos
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Clementia
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 184.56
+    sysPos:
+      value: 12
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2507.3
+    temperature:
+      value: -260
+    water:
+      value: 0
+    smallMoons:
+      value: 3

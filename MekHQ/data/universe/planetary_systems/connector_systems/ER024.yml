@@ -1,0 +1,221 @@
+id: ER 024
+sucsId: .na
+xcood: -119.0
+ycood: 1207.0
+spectralType:
+  value: M1V
+planet:
+  - name:
+      value: M55-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green4
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Chlorine
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 44
+    water:
+      value: 36
+    landmass:
+      - name:
+          value: GH-1
+      - name:
+          value: GH-2
+  - name:
+      value: M55-2
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: 97D-1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 97D-2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 97D-3
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 97D-4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 97D-5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: M55-3
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: 0VV1
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: 0VV2
+        size:
+          value: giant
+        icon: rock2
+  - name:
+      value: M55-4
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1300
+    density:
+      value: 4.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -119
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: M55-5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 45000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: M55-6
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 20
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: B9U-1
+        size:
+          value: medium
+        icon: rock5

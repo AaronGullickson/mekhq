@@ -1,0 +1,460 @@
+id: Farstar
+sucsId: 2900
+xcood: 412.982
+ycood: 443.519
+spectralType:
+  value: M2V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Farstar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: green10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.04
+    diameter:
+      value: 13800
+    density:
+      value: 5.2795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 19
+    water:
+      value: 46
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: VQ8-1
+        capital:
+          value: Andersontown
+      - name:
+          value: VQ8-2
+      - name:
+          value: VQ8-3
+      - name:
+          value: VQ8-4
+      - name:
+          value: VQ8-5
+    event:
+      - date: '2900-06-09'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50081.0
+        socioIndustrial:
+          value: D-F-C-C-F
+      - date: '2902-09-30'
+        hpg:
+          value: X
+      - date: '2910-01-01'
+        population:
+          value: 271742.0
+      - date: '2920-01-01'
+        population:
+          value: 832654.0
+      - date: '2929-01-01'
+        socioIndustrial:
+          value: D-F-C-D-F
+      - date: '2930-01-01'
+        population:
+          value: 1743519.0
+      - date: '2940-01-01'
+        population:
+          value: 2842626.0
+      - date: '2950-01-01'
+        population:
+          value: 3905368.0
+      - date: '2960-01-01'
+        population:
+          value: 4801114.0
+      - date: '2970-01-01'
+        population:
+          value: 5483651.0
+      - date: '2980-01-01'
+        population:
+          value: 5979520.0
+      - date: '2990-01-01'
+        population:
+          value: 6360260.0
+      - date: '3000-01-01'
+        population:
+          value: 6661651.0
+      - date: '3010-01-01'
+        population:
+          value: 6868856.0
+      - date: '3020-01-01'
+        population:
+          value: 7008376.0
+      - date: '3025-07-23'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3030-01-01'
+        population:
+          value: 7129475.0
+      - date: '3040-02-24'
+        population:
+          value: 7263606.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '3050-01-01'
+        population:
+          value: 7362525.0
+      - date: '3060-01-01'
+        population:
+          value: 7462814.0
+      - date: '3063-10-10'
+        faction:
+          source: canon
+          value:
+            - CSR
+      - date: '3070-01-01'
+        population:
+          value: 7544869.0
+      - date: '3075-06-28'
+        faction:
+          source: canon
+          value:
+            - OA
+      - date: '3080-01-01'
+        population:
+          value: 7597868.0
+      - date: '3083-11-19'
+        faction:
+          source: canon
+          value:
+            - RA
+      - date: '3090-01-01'
+        population:
+          value: 7635952.0
+      - date: '3100-01-01'
+        population:
+          value: 7672693.0
+      - date: '3110-07-05'
+        population:
+          value: 7706527.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '3120-11-06'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 7711153.0
+      - date: '3130-01-01'
+        population:
+          value: 7715781.0
+      - date: '3140-01-01'
+        population:
+          value: 7791767.0
+      - date: '3145-01-01'
+        population:
+          value: 7832390.0
+  - name:
+      value: Chattahoochee Hills
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+    water:
+      value: 0
+  - name:
+      value: Mictlantecuhtzi Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.4
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 0.7
+    temperature:
+      value: -88
+  - name:
+      value: Woodberry
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.64
+    sysPos:
+      value: 4
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Sunalp I
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Sunalp II
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: North Manheim
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 5
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 70000
+    density:
+      value: 0.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: White 1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: White 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: White 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Searsburg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 3.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Ganesh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 7
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8.0
+    smallMoons:
+      value: 9
+  - name:
+      value: Thataka
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.84
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 22.0
+    smallMoons:
+      value: 17
+  - name:
+      value: Ometecutli Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.52
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 61.1
+    temperature:
+      value: -243
+  - name:
+      value: Nova Gratiot
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.88
+    sysPos:
+      value: 10
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 171.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: New Ovada
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 61.6
+    sysPos:
+      value: 11
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 483.5
+    smallMoons:
+      value: 4
+  - name:
+      value: Brighus
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 123.04
+    sysPos:
+      value: 12
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1364.8

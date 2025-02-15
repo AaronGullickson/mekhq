@@ -1,0 +1,517 @@
+id: Jerangle
+sucsId: 1247
+xcood: -318.176
+ycood: 355.385
+spectralType:
+  value: G0V
+primarySlot: 3
+planet:
+  - name:
+      value: Henry
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1700
+    density:
+      value: 2.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+  - name:
+      value: Boessen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 2
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 29
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Jerangle
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 3
+    icon: dry9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 13200
+    density:
+      value: 6.8337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 38
+    water:
+      value: 100
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: East Hempfield Archipelago
+        capital:
+          value: Burianova Town
+      - name:
+          value: Shenchi Xian Archipelago
+      - name:
+          value: San Isidro De Maino Archipelago
+      - name:
+          value: Belessa Archipelago
+      - name:
+          value: Lennox and Addington Archipelago
+      - name:
+          value: New Saint-Hilaire-de-Clisson Archipelago
+    satellite:
+      - name:
+          value: Lorokan 1
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Lorokan 2
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2606-06-06'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 44981.0
+        socioIndustrial:
+          value: D-F-A-D-F
+      - date: '2609-01-01'
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '2610-01-01'
+        population:
+          value: 138404.0
+      - date: '2620-01-01'
+        population:
+          value: 1163702.0
+      - date: '2630-01-01'
+        population:
+          value: 4819318.0
+      - date: '2637-01-01'
+        socioIndustrial:
+          value: F-F-A-D-D
+      - date: '2640-01-01'
+        population:
+          value: 12511296.0
+      - date: '2650-01-01'
+        population:
+          value: 23689212.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: F-D-A-D-C
+      - date: '2660-01-01'
+        population:
+          value: 36434469.0
+      - date: '2670-01-01'
+        population:
+          value: 48527814.0
+      - date: '2677-06-20'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 58846004.0
+      - date: '2690-01-01'
+        population:
+          value: 67003254.0
+      - date: '2700-01-01'
+        population:
+          value: 73499692.0
+      - date: '2710-01-01'
+        population:
+          value: 78439448.0
+      - date: '2720-01-01'
+        population:
+          value: 82011469.0
+      - date: '2730-01-01'
+        population:
+          value: 84604946.0
+      - date: '2740-01-01'
+        population:
+          value: 86107893.0
+      - date: '2750-01-01'
+        population:
+          value: 86677755.0
+      - date: '2760-01-01'
+        population:
+          value: 87163747.0
+      - date: '2770-01-01'
+        population:
+          value: 88197489.0
+      - date: '2779-02-07'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2780-01-01'
+        population:
+          value: 88798437.0
+      - date: '2790-01-01'
+        population:
+          value: 88589427.0
+      - date: '2800-01-01'
+        population:
+          value: 87980938.0
+      - date: '2810-01-01'
+        population:
+          value: 87250138.0
+      - date: '2820-01-01'
+        population:
+          value: 86673675.0
+      - date: '2830-01-01'
+        population:
+          value: 85976376.0
+      - date: '2840-01-01'
+        population:
+          value: 85318390.0
+      - date: '2850-01-01'
+        population:
+          value: 84844036.0
+      - date: '2852-01-01'
+        socioIndustrial:
+          value: F-D-B-D-C
+      - date: '2860-01-01'
+        population:
+          value: 84516897.0
+      - date: '2870-01-01'
+        population:
+          value: 84257574.0
+      - date: '2880-01-01'
+        population:
+          value: 83689861.0
+      - date: '2890-01-01'
+        population:
+          value: 83136921.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: F-D-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 82598512.0
+      - date: '2910-01-01'
+        population:
+          value: 82312547.0
+      - date: '2920-01-01'
+        population:
+          value: 81876468.0
+      - date: '2930-01-01'
+        population:
+          value: 81174989.0
+      - date: '2940-01-01'
+        population:
+          value: 80564358.0
+      - date: '2950-01-01'
+        population:
+          value: 80317163.0
+      - date: '2960-01-01'
+        population:
+          value: 79881134.0
+      - date: '2970-01-01'
+        population:
+          value: 79447472.0
+      - date: '2980-01-01'
+        population:
+          value: 79433523.0
+      - date: '2990-01-01'
+        population:
+          value: 79608072.0
+      - date: '3000-01-01'
+        population:
+          value: 79677998.0
+      - date: '3010-01-01'
+        population:
+          value: 79601082.0
+      - date: '3020-01-01'
+        population:
+          value: 79409116.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: F-D-B-D-C
+      - date: '3030-01-01'
+        population:
+          value: 79738288.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: F-F-B-F-D
+      - date: '3040-01-01'
+        population:
+          value: 80773575.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: F-F-A-F-D
+      - date: '3050-01-01'
+        population:
+          value: 81961520.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 83067196.0
+      - date: '3070-01-01'
+        population:
+          value: 84162535.0
+      - date: '3080-01-01'
+        population:
+          value: 85468669.0
+      - date: '3090-01-01'
+        population:
+          value: 87090679.0
+      - date: '3095-01-01'
+        socioIndustrial:
+          value: D-F-A-D-D
+      - date: '3100-01-01'
+        population:
+          value: 88353858.0
+      - date: '3110-01-01'
+        population:
+          value: 90048631.0
+      - date: '3120-01-01'
+        population:
+          value: 91610864.0
+      - date: '3130-01-01'
+        population:
+          value: 93218842.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 94874016.0
+      - date: '3145-01-01'
+        population:
+          value: 95540464.0
+  - name:
+      value: Kleitsch's Choice
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 4
+    icon: barren4
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.22
+    diameter:
+      value: 4500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -71
+    water:
+      value: 0
+  - name:
+      value: D'Avenant
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 5
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Imeut
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Sivek's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 21
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Pals 1
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Pals 2
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Pals 3
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Sang's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205
+  - name:
+      value: Terry's Rift
+    type:
+      value: ICE_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: V6-1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: V6-2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: V6-3
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: V6-4
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: V6-5
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: V6-6
+        size:
+          value: medium
+        icon: rock11

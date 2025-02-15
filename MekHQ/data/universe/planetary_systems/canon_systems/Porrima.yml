@@ -1,0 +1,644 @@
+id: Porrima
+sucsId: 2051
+xcood: -113.987
+ycood: 139.279
+spectralType:
+  source: canon
+  value: K3V
+primarySlot: 2
+event:
+  - date: '2355-08-24'
+    nadirCharge:
+      value: yes
+  - date: '2369-03-31'
+    zenithCharge:
+      value: yes
+  - date: '2786-03-26'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: McDaniel
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 40000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: TZ1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: TZ2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: TZ3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      source: canon
+      value: Porrima
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green17
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.74
+    diameter:
+      value: 10617
+    density:
+      value: 4.880940234881
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 50
+    water:
+      source: canon
+      value: 71
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Porrima is a world rich in resources, including ample quantities of industrial
+      metals, and precious gems. Fertile soil, an abundant water supply and a warm
+      climate make Porriman a thriving agriculture world. Every sixty-two years the
+      planet goes through a harsh weather cycle known as “wet seasons”. The “wet seasons”
+      consist of weeks of heavy rainfall, deadly lightning, and hurricane-force winds.  These
+      powerful “wet seasons” are brought on by the gravitational pull from Porrima’s
+      inward neighbor, Chira. This results in a planetary “wobble”, throwing the weather
+      into a furor. Unprepared, Porriman’s first settlers were washed away. Colonists
+      have since taken precautions to prevent disasters during the “wet seasons”.
+      Colonies have moved to higher elevations, and cities are built with safeguards
+      to circumvent the effects of the destructive “wet seasons”. On the southern
+      temperate continent of Marsdentica lies Allison City, the planetary Capital.  Allison
+      City is built with high walls and a series of channels that prevents the overflow
+      of the Equanica and Giovanni rivers. The north polar supercontinent of Steinerheim
+      is the main source of the planet’s mining and agriculture. Settlements on this
+      continent are far enough inland that the storms have less effect on the population.
+    landmass:
+      - name:
+          source: canon
+          value: Marsdentica
+        capital:
+          source: canon
+          value: Allison City
+      - name:
+          source: canon
+          value: Steinerheim
+    event:
+      - date: '2268-07-14'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 46969.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2270-01-01'
+        population:
+          value: 64686.0
+      - date: '2280-01-01'
+        population:
+          value: 280264.0
+      - date: '2290-01-01'
+        population:
+          value: 1000307.0
+      - date: '2300-01-01'
+        population:
+          value: 2983399.0
+      - date: '2310-01-01'
+        population:
+          value: 7682011.0
+      - date: '2320-01-01'
+        population:
+          value: 17348055.0
+      - date: '2330-01-01'
+        population:
+          value: 35146327.0
+      - date: '2340-01-01'
+        population:
+          value: 64547140.0
+      - date: '2345-12-15'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 108372906.0
+      - date: '2360-01-01'
+        population:
+          value: 170495066.0
+      - date: '2370-01-01'
+        population:
+          value: 252760198.0
+      - date: '2380-01-01'
+        population:
+          value: 355342657.0
+      - date: '2390-01-01'
+        population:
+          value: 474735272.0
+      - date: '2400-01-01'
+        population:
+          value: 609708710.0
+      - date: '2410-01-01'
+        population:
+          value: 756270218.0
+      - date: '2420-01-01'
+        population:
+          value: 903704581.0
+      - date: '2430-01-01'
+        population:
+          value: 1051883798.0
+      - date: '2440-01-01'
+        population:
+          value: 1194630271.0
+      - date: '2450-01-01'
+        population:
+          value: 1328054828.0
+      - date: '2460-01-01'
+        population:
+          value: 1453841641.0
+      - date: '2470-01-01'
+        population:
+          value: 1579569866.0
+      - date: '2480-01-01'
+        population:
+          value: 1703133716.0
+      - date: '2490-01-01'
+        population:
+          value: 1819244037.0
+      - date: '2500-01-01'
+        population:
+          value: 1922134934.0
+      - date: '2510-01-01'
+        population:
+          value: 2011638230.0
+      - date: '2520-01-01'
+        population:
+          value: 2089704678.0
+      - date: '2530-01-01'
+        population:
+          value: 2158843689.0
+      - date: '2540-01-01'
+        population:
+          value: 2235777937.0
+      - date: '2550-01-01'
+        population:
+          value: 2312555162.0
+      - date: '2558-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2560-01-01'
+        population:
+          value: 2388943072.0
+      - date: '2570-01-01'
+        population:
+          value: 2459576316.0
+      - date: '2580-01-01'
+        population:
+          value: 2527430856.0
+      - date: '2590-01-01'
+        population:
+          value: 2586924089.0
+      - date: '2600-03-23'
+        population:
+          value: 2632441806.0
+        socioIndustrial:
+          value: B-C-C-D-C
+      - date: '2610-01-01'
+        population:
+          value: 2668748186.0
+      - date: '2618-01-01'
+        socioIndustrial:
+          value: A-B-C-C-B
+      - date: '2620-01-01'
+        population:
+          value: 2707980891.0
+      - date: '2630-01-01'
+        population:
+          value: 2743133101.0
+      - date: '2633-06-01'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 2790109167.0
+      - date: '2650-01-01'
+        population:
+          value: 2830624819.0
+      - date: '2660-01-01'
+        population:
+          value: 2851610456.0
+      - date: '2670-01-01'
+        population:
+          value: 2859236450.0
+      - date: '2680-01-01'
+        population:
+          value: 2871999168.0
+      - date: '2690-01-01'
+        population:
+          value: 2899476755.0
+      - date: '2700-01-01'
+        population:
+          value: 2914778394.0
+      - date: '2710-01-01'
+        population:
+          value: 2903921698.0
+      - date: '2720-01-01'
+        population:
+          value: 2892698608.0
+      - date: '2730-01-01'
+        population:
+          value: 2881249125.0
+      - date: '2740-01-01'
+        population:
+          value: 2855951046.0
+      - date: '2750-01-01'
+        population:
+          value: 2834789567.0
+      - date: '2760-01-01'
+        population:
+          value: 2807634866.0
+      - date: '2770-01-01'
+        population:
+          value: 2788085242.0
+      - date: '2780-01-01'
+        population:
+          value: 2778824365.0
+      - date: '2790-01-01'
+        population:
+          value: 2764992895.0
+      - date: '2800-01-01'
+        population:
+          value: 2705097063.0
+      - date: '2810-01-01'
+        population:
+          value: 2651937947.0
+      - date: '2820-01-01'
+        population:
+          value: 2612665890.0
+      - date: '2830-01-01'
+        population:
+          value: 2581384711.0
+      - date: '2840-01-01'
+        population:
+          value: 2581031404.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: B-C-D-D-B
+      - date: '2850-01-01'
+        population:
+          value: 2577500990.0
+      - date: '2860-01-01'
+        population:
+          value: 2575032574.0
+      - date: '2870-01-01'
+        population:
+          value: 2544201975.0
+      - date: '2880-01-01'
+        population:
+          value: 2498304832.0
+      - date: '2890-01-01'
+        population:
+          value: 2453235669.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: C-D-F-F-C
+      - date: '2900-01-01'
+        population:
+          value: 2400093184.0
+      - date: '2910-01-01'
+        population:
+          value: 2334641792.0
+      - date: '2920-01-01'
+        population:
+          value: 2281256322.0
+      - date: '2930-01-01'
+        population:
+          value: 2218134633.0
+      - date: '2940-01-01'
+        population:
+          value: 2164744922.0
+      - date: '2950-01-01'
+        population:
+          value: 2132687616.0
+      - date: '2960-01-01'
+        population:
+          value: 2119301701.0
+      - date: '2970-01-01'
+        population:
+          value: 2111194921.0
+      - date: '2980-01-01'
+        population:
+          value: 2120462350.0
+      - date: '2990-01-01'
+        population:
+          value: 2125402207.0
+      - date: '3000-01-01'
+        population:
+          value: 2107730087.0
+      - date: '3010-01-01'
+        population:
+          value: 2089346780.0
+      - date: '3020-01-01'
+        population:
+          value: 2065179097.0
+      - date: '3030-12-13'
+        population:
+          value: 2069627809.0
+        socioIndustrial:
+          value: C-D-F-D-C
+      - date: '3036-01-01'
+        socioIndustrial:
+          value: C-C-D-C-C
+      - date: '3040-01-01'
+        population:
+          value: 2094822426.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3045-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-C-B-B
+      - date: '3050-01-01'
+        population:
+          value: 2121808495.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 2152153112.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 2174000000.0
+      - date: '3070-01-01'
+        population:
+          value: 2180967943.0
+      - date: '3080-01-01'
+        population:
+          value: 2209505619.0
+      - date: '3090-01-01'
+        population:
+          value: 2229926864.0
+      - date: '3100-01-01'
+        population:
+          value: 2246938872.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: B-B-C-B-C
+      - date: '3110-01-01'
+        population:
+          value: 2256847186.0
+      - date: '3120-01-01'
+        population:
+          value: 2272700538.0
+      - date: '3130-01-01'
+        population:
+          value: 2293705859.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 2312591573.0
+      - date: '3145-01-01'
+        population:
+          value: 2323253999.0
+  - name:
+      value: Grodzinski
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: frozen29
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -15
+    water:
+      value: 18
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: G1
+  - name:
+      value: Hogarth's Garden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: N4-1
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: N4-2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: N4-3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Roscher
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Wrozumialski
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Rantamäki
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Taylor
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 18.5
+  - name:
+      value: New Partido de Luján
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 50.8
+    smallMoons:
+      value: 17

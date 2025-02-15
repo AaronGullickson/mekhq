@@ -1,0 +1,616 @@
+id: Hódmezovásárhely
+sucsId: 1120
+xcood: -193.279
+ycood: -142.506
+spectralType:
+  value: G2V
+primarySlot: 3
+event:
+  - date: '2903-11-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Huhtinen
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 6
+  - name:
+      value: Hess
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1800
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 76
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Vak
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Hódmezovásárhely
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green44
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 32
+    water:
+      value: 49
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Southern Kanniainen
+        capital:
+          value: Yum Cimil
+      - name:
+          value: Koskenkorva's Square
+      - name:
+          value: Northern Kanniainen
+    satellite:
+      - name:
+          value: Katajamaki
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2630-12-01'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 47081.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2632-03-03'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1870041.0
+      - date: '2650-01-01'
+        population:
+          value: 18077212.0
+      - date: '2660-01-01'
+        population:
+          value: 73502934.0
+      - date: '2670-01-01'
+        population:
+          value: 175489236.0
+      - date: '2680-01-01'
+        population:
+          value: 299096874.0
+      - date: '2690-01-01'
+        population:
+          value: 414862037.0
+      - date: '2700-01-01'
+        population:
+          value: 508691589.0
+      - date: '2710-01-01'
+        population:
+          value: 578926352.0
+      - date: '2720-01-01'
+        population:
+          value: 627525063.0
+      - date: '2724-01-01'
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2730-01-01'
+        population:
+          value: 663494739.0
+      - date: '2740-01-01'
+        population:
+          value: 688165928.0
+      - date: '2750-01-01'
+        population:
+          value: 700528674.0
+      - date: '2760-01-01'
+        population:
+          value: 708394917.0
+      - date: '2768-04-04'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 715195580.0
+      - date: '2780-09-04'
+        hpg:
+          value: B
+        population:
+          value: 719470897.0
+      - date: '2790-01-01'
+        population:
+          value: 550899742.0
+      - date: '2800-01-01'
+        population:
+          value: 205755869.0
+      - date: '2810-01-01'
+        population:
+          value: 66665181.0
+      - date: '2820-01-01'
+        population:
+          value: 14390185.0
+      - date: '2830-01-01'
+        population:
+          value: 3691433.0
+      - date: '2840-01-01'
+        population:
+          value: 1080555.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2850-01-01'
+        population:
+          value: 375889.0
+      - date: '2860-01-01'
+        population:
+          value: 130760.0
+      - date: '2870-01-01'
+        population:
+          value: 43235.0
+      - date: '2880-01-01'
+        population:
+          value: 13727.0
+      - date: '2890-01-01'
+        population:
+          value: 2993.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: F-F-C-D-F
+      - date: '2900-01-01'
+        population:
+          value: 659.0
+      - date: '2903-09-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Kivivuori
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: frozen49
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -15
+    water:
+      value: 42
+    landmass:
+      - name:
+          value: New Sátoraljaújhely
+  - name:
+      value: Stody Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -99
+  - name:
+      value: Pekkala's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Othinn Alpha
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Othinn Beta
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Othinn Gamma
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Sarasvuo's Land
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Fejér megye
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Harjanne
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Díaz 1
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Díaz 2
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Díaz 3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Díaz 4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Strandlund's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Oculate Being
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pihlajamaa
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: E.1
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Paakkarinen's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Njoerd
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Vak
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Jarvi
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Manninen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.6
+    sysPos:
+      value: 12
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5394.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Niflheim I
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Niflheim II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Niflheim III
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Niflheim IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pietilä
+    type:
+      value: GAS_GIANT
+    orbitalDist: 614.8
+    sysPos:
+      value: 13
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 15244.1
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Eger
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Laine
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Oliver
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Mosonmagyaróvári Járás Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1229.2
+    sysPos:
+      value: 14
+    icon: asteroid2
+    yearLength:
+      value: 43095.699999999997
+    temperature:
+      value: -265

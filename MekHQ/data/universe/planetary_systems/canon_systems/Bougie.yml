@@ -1,0 +1,467 @@
+id: Bougie
+sucsId: 375
+xcood: -505.773
+ycood: 215.463
+spectralType:
+  value: F1V
+primarySlot: 4
+event:
+  - date: '2713-12-29'
+    nadirCharge:
+      value: yes
+  - date: '2796-09-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: VE-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: greenhouse34
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.32
+    diameter:
+      value: 6500
+    density:
+      value: 3.5
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 346
+    water:
+      value: 0
+  - name:
+      value: VE-2
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.74
+    diameter:
+      value: 17500
+    density:
+      value: 7.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Wilaya de Tipaza
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Souk Ahras
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hirzenhain
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: VE-3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: barren15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 96
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Bougie
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green9
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12600
+    density:
+      value: 5.2795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 38
+    water:
+      value: 50
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Laghouat 1
+        capital:
+          value: VE-4 City
+      - name:
+          value: Laghouat 2
+      - name:
+          value: Laghouat 3
+      - name:
+          value: Laghouat 4
+      - name:
+          value: Laghouat 5
+      - name:
+          value: Laghouat 6
+    event:
+      - date: '2675-12-03'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 49727.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2680-01-01'
+        population:
+          value: 271032.0
+      - date: '2688-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2690-01-01'
+        population:
+          value: 2264913.0
+      - date: '2700-01-01'
+        population:
+          value: 6896184.0
+      - date: '2710-01-01'
+        population:
+          value: 12328551.0
+      - date: '2718-06-09'
+        hpg:
+          value: X
+      - date: '2720-01-01'
+        population:
+          value: 16787581.0
+      - date: '2730-01-01'
+        population:
+          value: 19687502.0
+      - date: '2740-01-01'
+        population:
+          value: 21526063.0
+      - date: '2750-01-01'
+        population:
+          value: 22697900.0
+      - date: '2760-01-01'
+        population:
+          value: 22449269.0
+      - date: '2770-01-01'
+        population:
+          value: 3418356.0
+      - date: '2779-01-02'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 510429.0
+      - date: '2790-01-01'
+        population:
+          value: 98676.0
+      - date: '2796-01-01'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: VE-5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 40000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Nabih
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Safwan
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Jalil
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Médéa Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -119
+  - name:
+      value: VE-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Ganesh
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Vishnu
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Meru
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Indrani
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Lopter
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Balarama
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: VE-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 8
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Tablets of Destiny
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: VE-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 100000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 489.1
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Ga A
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ga B
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ga C
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Ga D
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Ga E
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Ga F
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: VE-9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 492.16
+    sysPos:
+      value: 10
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 10918.4
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Zakariyya
+        size:
+          value: medium
+        icon: rock9

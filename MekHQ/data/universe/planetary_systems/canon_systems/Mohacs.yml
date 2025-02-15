@@ -1,0 +1,382 @@
+id: Mohács
+sucsId: 1737
+xcood: -267.779
+ycood: -180.673
+spectralType:
+  value: G0V
+primarySlot: 3
+event:
+  - date: '2922-08-31'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Panula's Wind
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Remes's Roost
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Metal 1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Metal 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Mohács
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green50
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 12000
+    density:
+      value: 4.6818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 35
+    water:
+      value: 41
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Meresmaa
+        capital:
+          value: Helenius
+    event:
+      - date: '2684-01-26'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 48250.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2685-11-10'
+        hpg:
+          value: A
+      - date: '2687-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2690-01-01'
+        population:
+          value: 833147.0
+      - date: '2699-01-01'
+        socioIndustrial:
+          value: A-B-B-B-B
+      - date: '2700-01-01'
+        population:
+          value: 12331475.0
+      - date: '2710-01-01'
+        population:
+          value: 45484168.0
+      - date: '2720-01-01'
+        population:
+          value: 85724998.0
+      - date: '2730-01-01'
+        population:
+          value: 116750037.0
+      - date: '2740-01-01'
+        population:
+          value: 135874615.0
+      - date: '2750-01-01'
+        population:
+          value: 146962961.0
+      - date: '2760-01-01'
+        population:
+          value: 153038563.0
+      - date: '2770-01-01'
+        population:
+          value: 156993516.0
+      - date: '2780-01-01'
+        population:
+          value: 160100236.0
+      - date: '2790-01-01'
+        population:
+          value: 137104893.0
+      - date: '2800-01-01'
+        population:
+          value: 82211641.0
+      - date: '2810-01-01'
+        population:
+          value: 38612391.0
+      - date: '2820-01-01'
+        population:
+          value: 18985034.0
+      - date: '2830-01-01'
+        population:
+          value: 11126180.0
+      - date: '2840-01-01'
+        population:
+          value: 5815037.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-C-C-B-C
+      - date: '2850-01-01'
+        population:
+          value: 2172148.0
+      - date: '2860-01-01'
+        population:
+          value: 952458.0
+      - date: '2870-01-01'
+        population:
+          value: 494011.0
+      - date: '2880-01-01'
+        population:
+          value: 332159.0
+      - date: '2890-01-01'
+        population:
+          value: 202235.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: C-D-D-C-D
+      - date: '2900-01-01'
+        population:
+          value: 103304.0
+      - date: '2910-01-01'
+        population:
+          value: 48891.0
+      - date: '2920-01-01'
+        population:
+          value: 22615.0
+      - date: '2922-11-04'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Huk
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: barren12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.46
+    diameter:
+      value: 5500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -21
+    water:
+      value: 0
+  - name:
+      value: Gajewski
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1300
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -92
+    water:
+      value: 0
+  - name:
+      value: Ikonen's Dawn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Coltus
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Apollon
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Naiads
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Heracles
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Hephaestus
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Arc-Miller
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Helenius
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Filppula
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Hassinen
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Kekkonen
+        size:
+          value: medium
+        icon: rock14

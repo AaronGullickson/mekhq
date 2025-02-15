@@ -1,0 +1,525 @@
+id: Kublenz
+sucsId: 1418
+xcood: 505.581
+ycood: -32.256
+spectralType:
+  value: F3V
+primarySlot: 3
+event:
+  - date: '2924-06-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Huporkorny
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: greenhouse13
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 323
+    water:
+      value: 0
+  - name:
+      value: Lengnischstorheit
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1000
+    density:
+      value: 6.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 130
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Kublenz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 3
+    icon: green14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 12900
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 20
+    water:
+      value: 42
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Anderson
+        capital:
+          value: Njord City
+      - name:
+          value: Tagwerker
+      - name:
+          value: Glotzsebenen
+      - name:
+          value: Hess
+      - name:
+          value: Mendelsohn
+    event:
+      - date: '2687-02-17'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 49353.0
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '2690-01-01'
+        population:
+          value: 220223.0
+      - date: '2700-01-01'
+        population:
+          value: 5125900.0
+      - date: '2702-01-26'
+        hpg:
+          value: B
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: B-C-C-C-A
+      - date: '2710-01-01'
+        population:
+          value: 22967293.0
+      - date: '2720-01-01'
+        population:
+          value: 46947311.0
+      - date: '2730-01-01'
+        population:
+          value: 65775731.0
+      - date: '2740-01-01'
+        population:
+          value: 77250303.0
+      - date: '2750-01-01'
+        population:
+          value: 83811322.0
+      - date: '2760-01-01'
+        population:
+          value: 87835723.0
+      - date: '2770-01-01'
+        population:
+          value: 90366963.0
+      - date: '2780-01-01'
+        population:
+          value: 91449148.0
+      - date: '2790-01-01'
+        population:
+          value: 78858687.0
+      - date: '2800-01-01'
+        population:
+          value: 46584882.0
+      - date: '2810-01-01'
+        population:
+          value: 23036113.0
+      - date: '2820-01-01'
+        population:
+          value: 13803308.0
+      - date: '2830-01-01'
+        population:
+          value: 9535471.0
+      - date: '2840-01-01'
+        population:
+          value: 6494154.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-D-D-D-B
+      - date: '2850-01-01'
+        population:
+          value: 4550510.0
+      - date: '2860-01-01'
+        population:
+          value: 2865885.0
+      - date: '2870-01-01'
+        population:
+          value: 1965751.0
+      - date: '2880-01-01'
+        population:
+          value: 1292001.0
+      - date: '2890-01-01'
+        population:
+          value: 671509.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: C-F-F-D-C
+      - date: '2900-01-01'
+        population:
+          value: 313691.0
+      - date: '2910-01-01'
+        population:
+          value: 146539.0
+      - date: '2920-01-01'
+        population:
+          value: 61966.0
+      - date: '2924-09-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Susano Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.2
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -72
+  - name:
+      value: Heldsrad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 5
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Wangen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 58.1
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Scharf I
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Scharf II
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Scharf III
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Scharf IV
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Scharf V
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Scharf VI
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Scharf VII
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Scharf VIII
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Susano Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 159.4
+    temperature:
+      value: -197
+  - name:
+      value: Bauer's Nest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Lihulõpe
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: OYA1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: OYA2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: OYA3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: OYA4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Graupnar
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Holtl
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Bin Labid
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Q-1
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Q-2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Ballard
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 10
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3510.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Charites Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Charites Beta
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Charites Gamma
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Charites Delta
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Maj
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 11
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 9911.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Belun 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Belun 2
+        size:
+          value: large
+        icon: rock14

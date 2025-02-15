@@ -1,0 +1,568 @@
+id: Gurgaldar
+sucsId: 3051
+xcood: -1381.808
+ycood: -296.583
+spectralType:
+  value: F4V
+primarySlot: 4
+planet:
+  - name:
+      value: Ragutis's Retreat
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: barren19
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 280
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+  - name:
+      value: Perkūnas's Fate
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Keliu Dievas's Wheel
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 11
+  - name:
+      source: canon
+      value: Gurgaldar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 33
+    water:
+      value: 41
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Pepim
+        capital:
+          value: Menulis City
+      - name:
+          value: Saint-Justin
+      - name:
+          value: South Miami
+      - name:
+          value: Steenokkerzeel
+      - name:
+          value: Hofstetten
+      - name:
+          value: Le Pertuis
+    event:
+      - date: '3095-03-15'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-F-F
+      - date: '3097-07-06'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 89302.0
+      - date: '3110-01-01'
+        population:
+          value: 151415.0
+      - date: '3120-01-01'
+        population:
+          value: 182915.0
+      - date: '3130-01-01'
+        population:
+          value: 215083.0
+      - date: '3140-01-01'
+        population:
+          value: 245433.0
+      - date: '3145-01-01'
+        population:
+          value: 263360.0
+  - name:
+      value: Leto
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 170000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: J1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: J2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: J3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: J4
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Fenris
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 52.4
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Moro 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Moro 2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Moro 3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Moro 4
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Menuo's Flats
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 70000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Alka
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 400.4
+    satellite:
+      - name:
+          value: McNeely
+        size:
+          value: giant
+        icon: rock3
+  - name:
+      value: Raugo Žemepatis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Vishnu I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Vishnu II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Vishnu III
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Vishnu IV
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Vishnu V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Vishnu VI
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Vishnu VII
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Perkonis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Cronus I
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Cronus II
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Freya
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.64
+    sysPos:
+      value: 11
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 8936.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Aonghus
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Cian
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Dilnot
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Nuada
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Wiese
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Gabjaujas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 12
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 25251.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Westerly
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Hampton Falls
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Fort Jones
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Laumas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.88
+    sysPos:
+      value: 13
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 71388.100000000006
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Kwatee
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Totem Poles
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Old Man
+        size:
+          value: medium
+        icon: oddmoon2

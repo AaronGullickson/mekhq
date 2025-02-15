@@ -1,0 +1,398 @@
+id: Halla
+sucsId: 1041
+xcood: 513.804
+ycood: 204.112
+spectralType:
+  value: M4V
+primarySlot: 1
+event:
+  - date: '2922-01-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Halla
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green16
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 28
+    water:
+      value: 71
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Glückstadt
+        capital:
+          value: Neu Fayette Prime
+      - name:
+          value: Notzingen
+      - name:
+          value: Cabrera
+      - name:
+          value: Au
+      - name:
+          value: Hipper
+      - name:
+          value: Hillsboro
+      - name:
+          value: Lebel-sur-Quévillon
+      - name:
+          value: Neu Bezirk Sissach
+    event:
+      - date: '2729-05-16'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 42595.0
+        socioIndustrial:
+          value: B-D-C-D-C
+      - date: '2730-04-19'
+        hpg:
+          value: X
+        population:
+          value: 48996.0
+      - date: '2734-01-01'
+        socioIndustrial:
+          value: C-F-C-D-C
+      - date: '2740-01-01'
+        population:
+          value: 171573.0
+      - date: '2750-01-01'
+        population:
+          value: 474624.0
+      - date: '2760-01-01'
+        population:
+          value: 1076489.0
+      - date: '2770-01-01'
+        population:
+          value: 2093708.0
+      - date: '2780-01-01'
+        population:
+          value: 3593340.0
+      - date: '2790-01-01'
+        population:
+          value: 5542565.0
+      - date: '2800-01-01'
+        population:
+          value: 7869267.0
+      - date: '2810-01-01'
+        population:
+          value: 10502127.0
+      - date: '2820-01-01'
+        population:
+          value: 13229542.0
+      - date: '2830-01-01'
+        population:
+          value: 14113072.0
+      - date: '2840-01-01'
+        population:
+          value: 7074554.0
+      - date: '2850-01-01'
+        population:
+          value: 4064625.0
+      - date: '2860-01-01'
+        population:
+          value: 1887006.0
+      - date: '2864-04-03'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 825290.0
+      - date: '2880-01-01'
+        population:
+          value: 351829.0
+      - date: '2890-01-01'
+        population:
+          value: 110347.0
+      - date: '2900-01-01'
+        population:
+          value: 31780.0
+      - date: '2910-01-01'
+        population:
+          value: 7918.0
+      - date: '2920-01-01'
+        population:
+          value: 2483.0
+      - date: '2922-06-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Haberlands
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -79
+    water:
+      value: 0
+  - name:
+      value: Tuckett
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: 9J1
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: 9J2
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: 9J3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 9J4
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: 9J5
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 9J6
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 9J7
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 9J8
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Hilkenbrook
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 4
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Büchen 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Büchen 2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Büchen 3
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Büchen 4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Büchen 5
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Büchen 6
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Büchen 7
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Freytag'shöhle
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 5
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Barong
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Donis
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Tosakanth
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Ramakian
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Neu Holzappel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.0
+    sysPos:
+      value: 6
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 5.2
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Heimdallr
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Loke
+        size:
+          value: medium
+        icon: oddmoon3

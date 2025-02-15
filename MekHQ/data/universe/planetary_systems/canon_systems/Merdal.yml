@@ -1,0 +1,526 @@
+id: Merdal
+sucsId: 1682
+xcood: 91.895
+ycood: -390.707
+spectralType:
+  value: F0V
+primarySlot: 3
+event:
+  - date: '2789-11-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Sarasvati
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 1
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Fleming
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Surabhi
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1700
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 94
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Merdal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 3
+    icon: green7
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 22
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Kinderhook
+        capital:
+          value: New Inagi-shi
+      - name:
+          value: Awsworth
+    satellite:
+      - name:
+          value: F31
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: F32
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: F33
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2692-08-29'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 53884.0
+        socioIndustrial:
+          value: B-D-B-D-F
+      - date: '2700-01-01'
+        population:
+          value: 2308177.0
+      - date: '2707-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2709-02-28'
+        hpg:
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 23817661.0
+      - date: '2720-01-01'
+        population:
+          value: 68680621.0
+      - date: '2730-01-01'
+        population:
+          value: 110509279.0
+      - date: '2734-01-01'
+        socioIndustrial:
+          value: C-C-B-D-D
+      - date: '2740-01-01'
+        population:
+          value: 136457263.0
+      - date: '2750-01-01'
+        population:
+          value: 149286545.0
+      - date: '2760-01-01'
+        population:
+          value: 155155778.0
+      - date: '2770-01-01'
+        population:
+          value: 31328008.0
+      - date: '2780-01-01'
+        population:
+          value: 2092780.0
+      - date: '2789-06-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Saptarishis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.48
+    sysPos:
+      value: 4
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 1
+  - name:
+      value: Rudrani
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 5
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 24.0
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: C1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: C2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: C3
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: C4
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: C5
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: C6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: C7
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: C8
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Bhutamata
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Bamapana Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Bamapana Beta
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Bamapana Gamma
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Bamapana Delta
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Hamadryads
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 175.6
+    smallMoons:
+      value: 17
+  - name:
+      value: Krishna
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.64
+    diameter:
+      value: 160000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1372.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Salazar
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: CharterGrand Haven
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.4
+    sysPos:
+      value: 9
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.69
+    diameter:
+      value: 70000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3867.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Aja
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Abgal
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Qingu
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Erishkigal
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Ansar
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Tyachiv
+    type:
+      value: GAS_GIANT
+    orbitalDist: 492.16
+    sysPos:
+      value: 10
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 10918.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Karni Mata
+    type:
+      value: GAS_GIANT
+    orbitalDist: 983.68
+    sysPos:
+      value: 11
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 30851.799999999999
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Rohini I
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Rohini II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Rohini III
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Rohini IV
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Rohini V
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Rohini VI
+        size:
+          value: medium
+        icon: rock1

@@ -1,0 +1,330 @@
+id: Landrum
+sucsId: 3056
+xcood: -1127.445
+ycood: -574.129
+spectralType:
+  value: F2V
+primarySlot: 4
+planet:
+  - name:
+      value: Tyler's Meridian
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 1
+  - name:
+      value: Jenkins
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.6
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: 8X7-1
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: 8X7-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 8X7-3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lawson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: barren6
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 1.04
+    diameter:
+      value: 12500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 89
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Landrum
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green27
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.84
+    diameter:
+      value: 12600
+    density:
+      value: 4.6818
+    dayLength:
+      value: 27
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 40
+    water:
+      value: 36
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: New Wells Bayou
+        capital:
+          value: Hiltunen
+      - name:
+          value: Sibley Butte
+      - name:
+          value: New Glisson
+    event:
+      - date: '3095-04-01'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '3099-12-02'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 84101.0
+      - date: '3110-01-01'
+        population:
+          value: 139704.0
+      - date: '3120-01-01'
+        population:
+          value: 156808.0
+      - date: '3130-01-01'
+        population:
+          value: 176536.0
+      - date: '3140-01-01'
+        population:
+          value: 200843.0
+      - date: '3145-01-01'
+        population:
+          value: 215513.0
+  - name:
+      value: Henderson's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8.7
+    smallMoons:
+      value: 4
+  - name:
+      value: Riley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 8
+    yearLength:
+      value: 21.8
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: XN1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: XN2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: XN3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: XN4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: McCormick's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 58.2
+    sysPos:
+      value: 7
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 1
+  - name:
+      value: Kezer's Redoubt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3510.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: J1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: J2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: J3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: J4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: J5
+        size:
+          value: medium
+        icon: oddmoon2

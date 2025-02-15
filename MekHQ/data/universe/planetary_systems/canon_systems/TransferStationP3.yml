@@ -1,0 +1,482 @@
+id: Transfer Station P3
+sucsId: 3038
+xcood: -112.41
+ycood: 885.647
+spectralType:
+  source: canon
+  value: K2V
+primarySlot: 6
+event:
+  - date: '3049-02-26'
+    zenithCharge:
+      value: yes
+  - date: '3072-05-07'
+    nadirCharge:
+      value: yes
+  - date: '3110-06-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: VBI-1
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: V1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: V2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: V3
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: V4
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: V5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: 7C1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 42
+  - name:
+      value: VBI-2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 23
+  - name:
+      value: 7C2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -65
+  - name:
+      value: VBI-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: KNG1
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: KNG2
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      source: canon
+      value: Transfer Station P3
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 50000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: 5JY1
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '3049-04-01'
+        faction:
+          source: canon
+          value:
+            - CW
+        hpg:
+          value: A
+        population:
+          value: 1252.0
+        socioIndustrial:
+          value: A-X-X-X-X
+      - date: '3072-06-22'
+        faction:
+          source: canon
+          value:
+            - CHH
+        hpg:
+          value: A
+        population:
+          value: 1728.0
+        socioIndustrial:
+          value: A-X-X-X-X
+      - date: '3110-10-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: VBI-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: FD2-1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: FD2-2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: FD2-3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: FD2-4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: FD2-5
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: VBI-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 21
+    yearLength:
+      value: 50.8
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: E-2
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: E-3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: E-4
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: E-5
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: VBI-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: 7QF1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 7QF2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 7QF3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 7QF4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 7QF5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 7QF6
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: VBI-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 397.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Y-1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Y-2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Y-3
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: VBI-9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: 22-1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 22-2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 22-3
+        size:
+          value: large
+        icon: rock14

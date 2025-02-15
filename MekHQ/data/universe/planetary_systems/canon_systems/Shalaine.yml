@@ -1,0 +1,361 @@
+id: Shalaine
+sucsId: 2290
+xcood: -529.321
+ycood: 129.21
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2881-03-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Shalaine
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green13
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 37
+    water:
+      value: 52
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Emirov
+        capital:
+          value: Gonzáles
+      - name:
+          value: Osborn
+      - name:
+          value: Uhre
+    event:
+      - date: '2738-01-13'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 55988.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2740-01-01'
+        population:
+          value: 75046.0
+      - date: '2741-09-06'
+        hpg:
+          value: X
+      - date: '2750-01-01'
+        population:
+          value: 271558.0
+      - date: '2760-01-01'
+        population:
+          value: 761160.0
+      - date: '2761-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2770-01-01'
+        population:
+          value: 1743215.0
+      - date: '2771-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2779-04-26'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 3392426.0
+      - date: '2790-01-01'
+        population:
+          value: 5761867.0
+      - date: '2800-01-01'
+        population:
+          value: 5594217.0
+      - date: '2810-01-01'
+        population:
+          value: 3349495.0
+      - date: '2820-01-01'
+        population:
+          value: 1972040.0
+      - date: '2830-01-01'
+        population:
+          value: 857802.0
+      - date: '2840-01-01'
+        population:
+          value: 437767.0
+      - date: '2850-01-01'
+        population:
+          value: 249214.0
+      - date: '2860-01-01'
+        population:
+          value: 140685.0
+      - date: '2870-01-01'
+        population:
+          value: 95558.0
+      - date: '2880-01-01'
+        population:
+          value: 54400.0
+      - date: '2881-12-29'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Reyes
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1000
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 8
+    water:
+      value: 0
+  - name:
+      value: Wyles's End
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Kreuzlingen Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.68
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -133
+  - name:
+      value: Pennell's Mistake
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: N6-1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: N6-2
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Viherva
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Agave
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Wenelin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Arcangeli
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Nitin's Meridian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Nanahuatl
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Ehecatl
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Centeocihuatl
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Berger's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 315.2
+    temperature:
+      value: -246

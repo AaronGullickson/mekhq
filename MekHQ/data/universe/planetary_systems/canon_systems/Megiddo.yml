@@ -1,0 +1,346 @@
+id: Megiddo
+sucsId: 1657
+xcood: -507.427
+ycood: 344.481
+spectralType:
+  value: K1V
+primarySlot: 2
+event:
+  - date: '2869-04-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Jerusalem
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 126
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Megiddo
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 12900
+    density:
+      value: 5.8284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 26
+    water:
+      value: 52
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Haifa
+        capital:
+          value: Haifa City
+      - name:
+          value: Nay Beersheba
+      - name:
+          value: Stahl
+      - name:
+          value: Jerusalem
+      - name:
+          value: Môle Saint-Nicolas
+    event:
+      - date: '2738-12-01'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52992.0
+        socioIndustrial:
+          value: D-D-B-F-D
+      - date: '2740-01-01'
+        population:
+          value: 69324.0
+      - date: '2745-06-19'
+        hpg:
+          value: X
+      - date: '2750-01-01'
+        population:
+          value: 226011.0
+      - date: '2760-01-01'
+        population:
+          value: 586639.0
+      - date: '2770-01-01'
+        population:
+          value: 1271246.0
+      - date: '2779-05-21'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2371341.0
+      - date: '2783-01-01'
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2790-01-01'
+        population:
+          value: 3928328.0
+      - date: '2800-01-01'
+        population:
+          value: 5925205.0
+      - date: '2810-01-01'
+        population:
+          value: 8247073.0
+      - date: '2820-01-01'
+        population:
+          value: 10764801.0
+      - date: '2830-01-01'
+        population:
+          value: 3163914.0
+      - date: '2840-01-01'
+        population:
+          value: 348319.0
+      - date: '2850-01-01'
+        population:
+          value: 47206.0
+      - date: '2860-01-01'
+        population:
+          value: 8950.0
+      - date: '2869-02-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Nefat Ashqelon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 3
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Ylijumala
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Stavely
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 4
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Vidal
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Elul
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Lipman
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Boesky
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Nadson
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Schnabel
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Ascheim
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Gaza
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 5
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.94
+    diameter:
+      value: 170000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Thebe I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Thebe II
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Thebe III
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Tel Aviv
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Huecuvus
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: Eldorado
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Anatina
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Tvastar
+        size:
+          value: medium
+        icon: rock6

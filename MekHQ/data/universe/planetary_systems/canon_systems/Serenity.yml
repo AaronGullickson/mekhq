@@ -1,0 +1,279 @@
+id: Serenity
+sucsId: 2282
+xcood: 390.616
+ycood: -396.529
+spectralType:
+  value: K5V
+primarySlot: 1
+event:
+  - date: '2761-08-12'
+    zenithCharge:
+      value: yes
+  - date: '2819-06-29'
+    zenithCharge:
+      value: no
+  - date: '2922-06-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Serenity
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.31
+    diameter:
+      value: 13500
+    density:
+      value: 6.8337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 37
+    water:
+      value: 44
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Carlton's Rock
+        capital:
+          value: Carlton's Rock City
+      - name:
+          value: Ellis
+      - name:
+          value: Hall's Redoubt
+      - name:
+          value: Torriti
+      - name:
+          value: Hawk
+    event:
+      - date: '2729-04-06'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48189.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2730-01-01'
+        population:
+          value: 54690.0
+      - date: '2731-06-06'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 170018.0
+      - date: '2750-01-01'
+        population:
+          value: 429389.0
+      - date: '2760-01-01'
+        population:
+          value: 903815.0
+      - date: '2770-01-01'
+        population:
+          value: 1648478.0
+      - date: '2780-01-01'
+        population:
+          value: 2700641.0
+      - date: '2789-11-22'
+        hpg:
+          value: D
+      - date: '2790-01-01'
+        population:
+          value: 2976522.0
+      - date: '2800-01-01'
+        population:
+          value: 1793156.0
+      - date: '2810-01-01'
+        population:
+          value: 1101114.0
+      - date: '2820-01-01'
+        population:
+          value: 719513.0
+      - date: '2830-01-01'
+        population:
+          value: 483842.0
+      - date: '2840-01-01'
+        population:
+          value: 358010.0
+      - date: '2850-01-01'
+        population:
+          value: 220895.0
+      - date: '2860-01-01'
+        population:
+          value: 148542.0
+      - date: '2870-01-01'
+        population:
+          value: 97064.0
+      - date: '2880-01-01'
+        population:
+          value: 59036.0
+      - date: '2890-01-01'
+        population:
+          value: 37846.0
+      - date: '2900-01-01'
+        population:
+          value: 27082.0
+      - date: '2910-01-01'
+        population:
+          value: 19379.0
+      - date: '2920-01-01'
+        population:
+          value: 11787.0
+      - date: '2922-09-27'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jamali's Wheel
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1400
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 11
+    water:
+      value: 0
+  - name:
+      value: La Feria
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -35
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Hilton
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Blair
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Boreads
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: North Yarmouth
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: frozen43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -166
+    water:
+      value: 38
+    landmass:
+      - name:
+          value: Perkins
+      - name:
+          value: Rutherford
+      - name:
+          value: New Cumberl

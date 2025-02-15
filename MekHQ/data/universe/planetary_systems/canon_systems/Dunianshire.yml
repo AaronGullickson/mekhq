@@ -1,0 +1,506 @@
+id: Dunianshire
+sucsId: 752
+xcood: -77.807
+ycood: -498.048
+spectralType:
+  source: canon
+  value: M0V
+primarySlot: 6
+event:
+  - date: '2737-06-15'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Crum
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.15
+    diameter:
+      value: 1700
+    density:
+      value: 6.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -171
+    water:
+      value: 0
+  - name:
+      value: Sumnanga
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.7
+  - name:
+      value: Maurin's Glory
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Takami Musubi I
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Takami Musubi II
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Agassiz
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Staradarozhski
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Dunianshire
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 6
+    icon: green14
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.96
+    diameter:
+      value: 11459
+    density:
+      value: 5.85899548581
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 53
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Dunianshire is a tropical world with abundant natural resources and significant industry. The primary military manufacturer on Dunianshire is Majesty Metals and Manufacturing, which has been in operation since the Star League and produces BattleMechs, DropShips, Small Craft, Combat Vehicles, aerospace fighters and conventional fighters for the Magistracy of Canopus. The massive factories are located in the city of Giggleswick on the Brittayne continent.
+
+      Manufacturing centers:
+      Majesty Metals and Manufacturing
+    landmass:
+      - name:
+          source: canon
+          value: Battery
+      - name:
+          source: canon
+          value: Brittayne
+        capital:
+          source: canon
+          value: Londinium
+      - name:
+          source: canon
+          value: Kongolia
+    satellite:
+      - name:
+          value: Caledon
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Eire
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Kommondor
+        size:
+          value: large
+        icon: rock8
+    event:
+      - date: '2715-07-13'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 48615.0
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2720-01-01'
+        population:
+          value: 96232.0
+      - date: '2721-11-10'
+        hpg:
+          source: canon
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 309509.0
+      - date: '2731-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2740-01-01'
+        population:
+          value: 806810.0
+      - date: '2750-01-01'
+        population:
+          value: 1754174.0
+      - date: '2760-01-01'
+        population:
+          value: 3293678.0
+      - date: '2770-01-01'
+        population:
+          value: 5517948.0
+      - date: '2780-01-01'
+        population:
+          value: 8407051.0
+      - date: '2790-01-01'
+        population:
+          value: 11829639.0
+      - date: '2800-01-01'
+        population:
+          value: 15625768.0
+      - date: '2810-01-01'
+        population:
+          value: 19554810.0
+      - date: '2820-01-01'
+        population:
+          value: 23583005.0
+      - date: '2830-01-01'
+        population:
+          value: 27381548.0
+      - date: '2840-01-01'
+        population:
+          value: 31044733.0
+      - date: '2850-01-01'
+        population:
+          value: 34522125.0
+      - date: '2860-01-01'
+        population:
+          value: 37585317.0
+      - date: '2870-01-01'
+        population:
+          value: 40557203.0
+      - date: '2880-01-01'
+        population:
+          value: 43332620.0
+      - date: '2890-01-01'
+        population:
+          value: 45717225.0
+      - date: '2900-01-01'
+        population:
+          value: 47898410.0
+      - date: '2910-01-01'
+        population:
+          value: 49791405.0
+      - date: '2920-01-01'
+        population:
+          value: 51459203.0
+      - date: '2930-01-01'
+        population:
+          value: 53033723.0
+      - date: '2940-01-01'
+        population:
+          value: 54005005.0
+      - date: '2946-01-01'
+        socioIndustrial:
+          value: C-B-B-C-D
+      - date: '2950-01-01'
+        population:
+          value: 54822569.0
+      - date: '2960-01-01'
+        population:
+          value: 55887813.0
+      - date: '2970-01-01'
+        population:
+          value: 56602429.0
+      - date: '2980-01-01'
+        population:
+          value: 56700244.0
+      - date: '2990-01-01'
+        population:
+          value: 56442325.0
+      - date: '3000-01-01'
+        population:
+          value: 56059464.0
+      - date: '3010-01-01'
+        population:
+          value: 55843543.0
+      - date: '3020-01-01'
+        population:
+          value: 55545381.0
+      - date: '3030-01-01'
+        population:
+          value: 55272821.0
+      - date: '3040-01-01'
+        population:
+          value: 55285004.0
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-A-B-B-C
+      - date: '3050-01-01'
+        population:
+          value: 55353895.0
+      - date: '3060-01-01'
+        population:
+          value: 55317368.0
+      - date: '3070-01-01'
+        population:
+          value: 55538359.0
+      - date: '3080-01-01'
+        population:
+          value: 56130197.0
+      - date: '3090-01-01'
+        population:
+          value: 57126833.0
+      - date: '3100-01-01'
+        population:
+          value: 58164427.0
+      - date: '3110-01-01'
+        population:
+          value: 59185344.0
+      - date: '3117-01-01'
+        socioIndustrial:
+          value: B-A-B-B-C
+      - date: '3120-01-01'
+        population:
+          value: 60067801.0
+      - date: '3130-01-01'
+        population:
+          value: 61073249.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 61650044.0
+      - date: '3145-01-01'
+        population:
+          value: 61921902.0
+  - name:
+      value: Herrera
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Lao Zi Alpha
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Lao Zi Beta
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Lao Zi Gamma
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Lao Zi Delta
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Gunther
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Weles I
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Weles II
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Weles III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Adams
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 55000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 3

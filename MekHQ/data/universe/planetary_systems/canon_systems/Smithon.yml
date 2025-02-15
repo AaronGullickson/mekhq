@@ -1,0 +1,288 @@
+id: Smithon
+sucsId: 2361
+xcood: 126.499
+ycood: -432.67
+spectralType:
+  source: canon
+  value: M0V
+primarySlot: 5
+event:
+  - date: '2838-02-13'
+    nadirCharge:
+      source: canon
+      value: no
+    zenithCharge:
+      source: canon
+      value: no
+planet:
+  - name:
+      value: Okuninushi Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.04
+    sysPos:
+      source: canon
+      value: 1
+    icon: asteroid2
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -140
+  - name:
+      value: Ríos's Home
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      source: canon
+      value: 2
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -7
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: San José Chiapa
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Meira
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      source: canon
+      value: 3
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1400
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -51
+    water:
+      value: 0
+  - name:
+      value: Oostermeer's Frontier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      source: canon
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.94
+    diameter:
+      value: 170000
+    density:
+      value: 0.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Abe
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Suljic
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: McGinnity
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Richard
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tanneron
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Mohamad
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Smithon
+    type:
+      source: canon
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      source: canon
+      value: 5
+    icon: dry7
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      source: canon
+      value: BREATHABLE
+    composition:
+      source: canon
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.71
+    diameter:
+      value: 11400
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      source: canon
+      value: 23
+    water:
+      source: canon
+      value: 45
+    lifeForm:
+      source: canon
+      value: INSECT
+    landmass:
+      - name:
+          value: Southern Rondeau's Hole Archipelago
+        capital:
+          value: New Wipperdorf
+      - name:
+          value: Northern Rondeau's Hole Archipelago
+      - name:
+          value: New Gorod Buinsk Archipelago
+    event:
+      - date: '2737-07-14'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 56675.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2739-02-03'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 93849.0
+      - date: '2750-01-01'
+        population:
+          value: 402748.0
+      - date: '2760-01-01'
+        population:
+          value: 1291154.0
+      - date: '2770-01-01'
+        population:
+          value: 3252080.0
+      - date: '2780-01-01'
+        population:
+          value: 6829695.0
+      - date: '2790-01-01'
+        population:
+          value: 12375066.0
+        hpg:
+          source: canon
+          value: X
+      - date: '2800-01-01'
+        population:
+          value: 19855545.0
+      - date: '2810-01-01'
+        population:
+          value: 28942777.0
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2910-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3025-03-01'
+        faction:
+          source: assumption
+          value:
+            - ARC
+            - ARD
+      - date: '3025-05-01'
+        faction:
+          source: assumption
+          value:
+            - ARC
+            - ARD
+            - TC
+      - date: '3025-08-15'
+        faction:
+          source: assumption
+          value:
+            - ARC
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 3200000.0
+        socioIndustrial:
+          source: canon
+          value: D-C-C-C-D
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN

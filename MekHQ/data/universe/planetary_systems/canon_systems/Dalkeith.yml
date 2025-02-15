@@ -1,0 +1,673 @@
+id: Dalkeith
+sucsId: 651
+xcood: -26.4
+ycood: 157.711
+spectralType:
+  source: canon
+  value: F9V
+primarySlot: 5
+event:
+  - date: '2359-06-20'
+    zenithCharge:
+      value: yes
+  - date: '2386-05-13'
+    nadirCharge:
+      value: yes
+  - date: '2799-04-15'
+    nadirCharge:
+      value: no
+  - date: '2812-04-19'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Clarks Grove
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.01
+    diameter:
+      value: 1000
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Perth and Kinross
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1600
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 104
+    water:
+      value: 0
+  - name:
+      value: Gangleri
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 3
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -85
+    water:
+      value: 0
+  - name:
+      value: Aberford
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Chimera
+        size:
+          value: large
+        icon: rock11
+  - name:
+      source: canon
+      value: Dalkeith
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 5
+    icon: green28
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 11538
+    density:
+      value: 6.112247095136
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.6
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 70
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: |-
+      Dalkeith was a beautiful planet in the centuries during the Star League, unfortunately after its collapse the planet was turned into a nuclear wasteland during the early Succession wars and even after three centuries, the atmosphere is still tainted, requiring filtered breathing devices to go outside. Only Dunnbar is still hospitable out of the planet’s three continents and the planet’s population shrank 90% between 2775 and the 31st century.
+
+      During the First Succession War, the Draconis Combine used over a dozen 100-megaton nuclear weapons across the heavily inhabited continent of Rockmeir, destroying the Star League Castle Brian and the planet’s capital of Newhaven, along with most of the population. The continent of Devarick met a similar fate when the Combine turned more nuclear and chemical weapons against the defending Lyran forces there. The planet would likely have been abandoned after the First Succession War if not for the rich deposits of rare metals in the Alveria mountain range on Dunnbar.
+    landmass:
+      - name:
+          source: canon
+          value: Dunnbar
+      - name:
+          source: canon
+          value: Rockmeir
+        capital:
+          source: canon
+          value: Newhaven [destroyed 2810]
+      - name:
+          source: canon
+          value: Devarick
+    satellite:
+      - name:
+          value: Dal-Mar
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Dal-Ra
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Dal-Rue
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dal-Tal
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2145-09-17'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 49754.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2150-01-01'
+        population:
+          value: 87887.0
+      - date: '2160-01-01'
+        population:
+          value: 250958.0
+      - date: '2170-01-01'
+        population:
+          value: 636569.0
+      - date: '2180-01-01'
+        population:
+          value: 1458117.0
+      - date: '2190-01-01'
+        population:
+          value: 3056687.0
+      - date: '2200-01-01'
+        population:
+          value: 5921423.0
+      - date: '2210-01-01'
+        population:
+          value: 10661233.0
+      - date: '2220-01-01'
+        population:
+          value: 17899199.0
+      - date: '2230-01-01'
+        population:
+          value: 28377842.0
+      - date: '2235-08-26'
+        faction:
+          source: canon
+          value:
+            - TamP
+      - date: '2240-01-01'
+        population:
+          value: 42630633.0
+      - date: '2250-01-01'
+        population:
+          value: 61518327.0
+      - date: '2260-01-01'
+        population:
+          value: 85314573.0
+      - date: '2270-01-01'
+        population:
+          value: 113577990.0
+      - date: '2280-01-01'
+        population:
+          value: 146636020.0
+      - date: '2290-01-01'
+        population:
+          value: 185133316.0
+      - date: '2300-01-01'
+        population:
+          value: 227557315.0
+      - date: '2310-01-01'
+        population:
+          value: 273451486.0
+      - date: '2320-01-01'
+        population:
+          value: 322442011.0
+      - date: '2330-01-01'
+        population:
+          value: 371743116.0
+      - date: '2340-01-01'
+        population:
+          value: 420279912.0
+      - date: '2341-07-27'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 467507643.0
+      - date: '2360-01-01'
+        population:
+          value: 511031785.0
+      - date: '2368-01-01'
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2370-01-01'
+        population:
+          value: 552106594.0
+      - date: '2380-01-01'
+        population:
+          value: 590850100.0
+      - date: '2390-01-01'
+        population:
+          value: 627898105.0
+      - date: '2400-01-01'
+        population:
+          value: 662717834.0
+      - date: '2410-01-01'
+        population:
+          value: 692792593.0
+      - date: '2420-01-01'
+        population:
+          value: 719733228.0
+      - date: '2430-01-01'
+        population:
+          value: 748202069.0
+      - date: '2440-01-01'
+        population:
+          value: 777051514.0
+      - date: '2450-01-01'
+        population:
+          value: 802805946.0
+      - date: '2460-01-01'
+        population:
+          value: 819557469.0
+      - date: '2470-01-01'
+        population:
+          value: 833205810.0
+      - date: '2480-01-01'
+        population:
+          value: 841708844.0
+      - date: '2481-01-01'
+        socioIndustrial:
+          value: B-C-C-C-D
+      - date: '2490-01-01'
+        population:
+          value: 851973982.0
+      - date: '2500-01-01'
+        population:
+          value: 863453631.0
+      - date: '2510-01-01'
+        population:
+          value: 874846088.0
+      - date: '2520-01-01'
+        population:
+          value: 888301590.0
+      - date: '2530-01-01'
+        population:
+          value: 897969682.0
+      - date: '2540-01-01'
+        population:
+          value: 903888491.0
+      - date: '2550-01-01'
+        population:
+          value: 908489203.0
+      - date: '2560-01-01'
+        population:
+          value: 908424468.0
+      - date: '2570-01-01'
+        population:
+          value: 909796112.0
+      - date: '2580-01-01'
+        population:
+          value: 913445119.0
+      - date: '2590-01-01'
+        population:
+          value: 916554286.0
+      - date: '2600-01-01'
+        population:
+          value: 921409390.0
+      - date: '2610-01-01'
+        population:
+          value: 921269495.0
+      - date: '2620-09-01'
+        population:
+          value: 922268808.0
+        socioIndustrial:
+          value: A-B-B-B-C
+      - date: '2630-01-01'
+        population:
+          value: 927061438.0
+      - date: '2640-01-01'
+        population:
+          value: 934449804.0
+      - date: '2643-01-11'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 937953778.0
+      - date: '2660-01-01'
+        population:
+          value: 940952149.0
+      - date: '2670-01-01'
+        population:
+          value: 942345511.0
+      - date: '2680-01-01'
+        population:
+          value: 940653303.0
+      - date: '2690-01-01'
+        population:
+          value: 938170009.0
+      - date: '2700-01-01'
+        population:
+          value: 936986724.0
+      - date: '2710-01-01'
+        population:
+          value: 940689265.0
+      - date: '2720-01-01'
+        population:
+          value: 947648958.0
+      - date: '2730-01-01'
+        population:
+          value: 951844985.0
+      - date: '2740-01-01'
+        population:
+          value: 960528978.0
+      - date: '2750-01-01'
+        population:
+          value: 970338736.0
+      - date: '2760-01-01'
+        population:
+          value: 981124059.0
+      - date: '2770-01-01'
+        population:
+          value: 991934642.0
+      - date: '2780-01-01'
+        population:
+          value: 1000375592.0
+      - date: '2790-01-01'
+        population:
+          value: 995194906.0
+      - date: '2800-01-01'
+        population:
+          value: 974208092.0
+      - date: '2810-01-01'
+        population:
+          value: 946321267.0
+      - date: '2820-01-01'
+        population:
+          value: 913437968.0
+      - date: '2830-01-01'
+        population:
+          value: 868172606.0
+      - date: '2840-01-01'
+        population:
+          value: 832137269.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2850-01-01'
+        population:
+          value: 809453963.0
+      - date: '2860-01-01'
+        population:
+          value: 775855868.0
+      - date: '2870-01-01'
+        population:
+          value: 746794108.0
+      - date: '2880-01-01'
+        population:
+          value: 721857803.0
+      - date: '2890-01-01'
+        population:
+          value: 700702015.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: B-D-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 686407644.0
+      - date: '2910-01-01'
+        population:
+          value: 686246895.0
+      - date: '2920-01-01'
+        population:
+          value: 680325574.0
+      - date: '2930-01-01'
+        population:
+          value: 673035127.0
+      - date: '2940-01-01'
+        population:
+          value: 674297395.0
+      - date: '2950-01-01'
+        population:
+          value: 676987581.0
+      - date: '2960-01-01'
+        population:
+          value: 682080610.0
+      - date: '2970-01-01'
+        population:
+          value: 673823767.0
+      - date: '2980-01-01'
+        population:
+          value: 662866405.0
+      - date: '2990-01-01'
+        population:
+          value: 654382195.0
+      - date: '3000-01-01'
+        population:
+          value: 645552821.0
+      - date: '3010-01-01'
+        population:
+          value: 638635003.0
+      - date: '3020-01-01'
+        population:
+          value: 630018100.0
+      - date: '3030-01-01'
+        population:
+          value: 625427296.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: B-D-C-C-D
+      - date: '3037-01-01'
+        socioIndustrial:
+          value: B-C-C-C-D
+      - date: '3040-01-01'
+        population:
+          value: 631270901.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3041-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-C-B-D
+      - date: '3050-01-01'
+        population:
+          value: 635387526.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 639083482.0
+      - date: '3064-02-01'
+        faction:
+          source: canon
+          value:
+            - LA
+            - FC
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3070-01-01'
+        population:
+          value: 642672389.0
+      - date: '3080-01-01'
+        population:
+          value: 647704834.0
+      - date: '3090-01-01'
+        population:
+          value: 650951468.0
+      - date: '3100-01-01'
+        population:
+          value: 654083546.0
+      - date: '3110-01-01'
+        population:
+          value: 654083546.0
+      - date: '3116-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '3120-01-01'
+        population:
+          value: 653821965.0
+      - date: '3130-01-01'
+        population:
+          value: 658151462.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-11-19'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 666096857.0
+      - date: '3145-01-01'
+        population:
+          value: 668365440.0
+  - name:
+      value: Herstmonceux
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 10
+  - name:
+      value: Walmsgate
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -173
+    water:
+      value: 0
+  - name:
+      value: Ordino
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 100.1
+    satellite:
+      - name:
+          value: XO1
+        size:
+          value: medium
+        icon: rock10

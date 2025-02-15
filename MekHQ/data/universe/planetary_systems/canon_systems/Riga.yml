@@ -1,0 +1,427 @@
+id: Riga
+sucsId: 3003
+xcood: -863.429
+ycood: 860.108
+spectralType:
+  value: F0V
+primarySlot: 4
+planet:
+  - name:
+      value: Palonen's Ship
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: barren24
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 340
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Líf I
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Líf II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Líf III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Dagdha's Folly
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: BID1
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Ostahov's Madness
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: barren2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 104
+    water:
+      value: 0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Ing A
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Ing B
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Riga
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 11700
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 36
+    water:
+      value: 53
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: New Solbiate Arno A
+        capital:
+          value: Karsumaatmaja
+      - name:
+          value: New Solbiate Arno B
+      - name:
+          value: New Solbiate Arno C
+      - name:
+          value: New Solbiate Arno D
+      - name:
+          value: New Solbiate Arno E
+      - name:
+          value: New Solbiate Arno F
+    event:
+      - date: '3025-05-29'
+        faction:
+          source: canon
+          value:
+            - HL
+        hpg:
+          value: X
+        population:
+          value: 50351.0
+        socioIndustrial:
+          value: C-F-A-D-F
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: D-F-A-D-F
+      - date: '3030-01-01'
+        population:
+          value: 66455.0
+      - date: '3038-01-01'
+        socioIndustrial:
+          value: D-F-A-D-D
+      - date: '3040-01-01'
+        population:
+          value: 85299.0
+      - date: '3045-01-01'
+        socioIndustrial:
+          value: F-F-A-D-D
+      - date: '3050-01-01'
+        population:
+          value: 91981.0
+      - date: '3060-01-01'
+        population:
+          value: 93974.0
+      - date: '3070-01-01'
+        population:
+          value: 95027.0
+      - date: '3080-01-01'
+        population:
+          value: 96078.0
+      - date: '3090-01-01'
+        population:
+          value: 96656.0
+      - date: '3100-01-01'
+        population:
+          value: 97043.0
+      - date: '3110-01-01'
+        population:
+          value: 97940.0
+      - date: '3116-01-01'
+        socioIndustrial:
+          value: D-D-A-D-D
+      - date: '3120-01-01'
+        population:
+          value: 99580.0
+      - date: '3130-01-01'
+        population:
+          value: 100923.0
+      - date: '3140-01-01'
+        population:
+          value: 102838.0
+      - date: '3140-05-15'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3145-01-01'
+        population:
+          value: 103830.0
+  - name:
+      value: Ishigenov
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Loki Laufeyjarson
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Loki
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Hermod
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Ragnarøkr
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Goðheimar
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Aine
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1200
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -112
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Abandinus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: barren10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 64.0
+    temperature:
+      value: -154
+    water:
+      value: 0
+  - name:
+      value: Carme
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Rhea Silvia
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Jupiter
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Diana
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hopps
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 9
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 489.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Watcham
+        size:
+          value: large
+        icon: rock10

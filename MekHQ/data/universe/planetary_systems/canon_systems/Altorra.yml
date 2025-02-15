@@ -1,0 +1,512 @@
+id: Altorra
+sucsId: 108
+xcood: -2.852
+ycood: -263.495
+spectralType:
+  source: canon
+  value: G3V
+primarySlot: 4
+planet:
+  - name:
+      value: Akuma
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock17
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 180
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Jo
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1800
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 70
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: R-1
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Takami Musubi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: frozen25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -34
+    water:
+      value: 46
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Lesser Axomamma
+        capital:
+          value: Lesser Axomamma City
+      - name:
+          value: Greater Axomamma
+  - name:
+      source: canon
+      value: Altorra
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 4
+    icon: wet17
+    pressure:
+      source: canon
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.83
+    diameter:
+      value: 11932
+    density:
+      value: 4.883666212779
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      source: canon
+      value: 39
+    water:
+      source: canon
+      value: 76
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Altorra is an unremarkable planet with a thin atmosphere and relatively
+      low gravity. Despite this, the planet’s small population is mostly self sufficient
+      and the planet is home to a Duchy RTC training facility for infantry, vehicle
+      crews and aerospace pilots.
+    landmass:
+      - name:
+          source: canon
+          value: Costello
+        capital:
+          source: canon
+          value: Tara
+    satellite:
+      - name:
+          value: Delilah
+        size:
+          value: large
+        icon: rock11
+    event:
+      - date: '2196-02-10'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 44544.0
+        socioIndustrial:
+          value: D-F-C-F-C
+      - date: '2200-01-01'
+        population:
+          value: 73157.0
+      - date: '2210-01-01'
+        population:
+          value: 226021.0
+      - date: '2220-01-01'
+        population:
+          value: 608981.0
+      - date: '2230-01-01'
+        population:
+          value: 1447853.0
+      - date: '2240-01-01'
+        population:
+          value: 3103013.0
+      - date: '2250-10-13'
+        faction:
+          source: canon
+          value:
+            - SIS
+        population:
+          value: 6061168.0
+      - date: '2260-01-01'
+        population:
+          value: 10897341.0
+      - date: '2270-01-01'
+        population:
+          value: 18263670.0
+      - date: '2280-01-01'
+        population:
+          value: 28708256.0
+      - date: '2290-01-01'
+        population:
+          value: 42588244.0
+      - date: '2300-01-01'
+        population:
+          value: 60437985.0
+      - date: '2310-01-01'
+        population:
+          value: 82517874.0
+      - date: '2320-01-01'
+        population:
+          value: 108697333.0
+      - date: '2330-01-01'
+        population:
+          value: 138940368.0
+      - date: '2340-01-01'
+        population:
+          value: 172477325.0
+      - date: '2350-01-01'
+        population:
+          value: 207922006.0
+      - date: '2360-01-01'
+        population:
+          value: 245781495.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-06-26'
+        population:
+          value: 285099032.0
+        socioIndustrial:
+          value: D-D-C-F-C
+      - date: '2380-01-01'
+        population:
+          value: 324454558.0
+      - date: '2390-01-01'
+        population:
+          value: 364702148.0
+      - date: '2400-01-01'
+        population:
+          value: 406303141.0
+      - date: '2410-01-01'
+        population:
+          value: 446586624.0
+      - date: '2420-01-01'
+        population:
+          value: 486636630.0
+      - date: '2430-01-01'
+        population:
+          value: 525323539.0
+      - date: '2440-01-01'
+        population:
+          value: 564213519.0
+      - date: '2450-01-01'
+        population:
+          value: 599531470.0
+      - date: '2455-01-01'
+        socioIndustrial:
+          value: D-C-B-F-C
+      - date: '2460-01-01'
+        population:
+          value: 629306966.0
+      - date: '2470-01-01'
+        population:
+          value: 657469888.0
+      - date: '2480-01-01'
+        population:
+          value: 685501676.0
+      - date: '2490-01-01'
+        population:
+          value: 712413206.0
+      - date: '2500-01-01'
+        population:
+          value: 738804242.0
+      - date: '2510-01-01'
+        population:
+          value: 763968336.0
+      - date: '2520-01-01'
+        population:
+          value: 788817048.0
+      - date: '2530-01-01'
+        population:
+          value: 809490975.0
+      - date: '2540-01-01'
+        population:
+          value: 827530787.0
+      - date: '2550-01-01'
+        population:
+          value: 844821893.0
+      - date: '2560-01-01'
+        population:
+          value: 859439986.0
+      - date: '2570-01-01'
+        population:
+          value: 865337885.0
+      - date: '2580-01-01'
+        population:
+          value: 867509152.0
+      - date: '2590-01-01'
+        population:
+          value: 870754440.0
+      - date: '2600-01-01'
+        population:
+          value: 870322145.0
+      - date: '2610-01-01'
+        population:
+          value: 872236631.0
+      - date: '2620-01-01'
+        population:
+          value: 876784652.0
+      - date: '2630-01-01'
+        population:
+          value: 880210956.0
+      - date: '2640-01-01'
+        population:
+          value: 877823817.0
+      - date: '2650-01-01'
+        population:
+          value: 878827566.0
+      - date: '2660-01-01'
+        population:
+          value: 885059954.0
+      - date: '2670-01-01'
+        population:
+          value: 892925760.0
+      - date: '2677-01-01'
+        socioIndustrial:
+          value: C-B-A-D-B
+      - date: '2680-01-01'
+        population:
+          value: 901971951.0
+      - date: '2690-01-01'
+        population:
+          value: 911908613.0
+      - date: '2691-07-01'
+        hpg:
+          source: canon
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 920218913.0
+      - date: '2710-01-01'
+        population:
+          value: 929859237.0
+      - date: '2720-01-01'
+        population:
+          value: 939206030.0
+      - date: '2730-01-01'
+        population:
+          value: 943544107.0
+      - date: '2740-01-01'
+        population:
+          value: 947930606.0
+      - date: '2750-01-01'
+        population:
+          value: 955438089.0
+      - date: '2760-01-01'
+        population:
+          value: 964227413.0
+      - date: '2770-01-01'
+        population:
+          value: 975128042.0
+      - date: '2780-01-01'
+        population:
+          value: 985657344.0
+      - date: '2790-01-01'
+        population:
+          value: 986879455.0
+      - date: '2800-01-01'
+        population:
+          value: 985053529.0
+      - date: '2810-01-01'
+        population:
+          value: 983702864.0
+      - date: '2820-01-01'
+        population:
+          value: 982726237.0
+      - date: '2830-01-01'
+        population:
+          value: 981849755.0
+      - date: '2840-01-01'
+        population:
+          value: 980577768.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: C-C-B-F-C
+      - date: '2850-01-01'
+        population:
+          value: 979604244.0
+      - date: '2860-01-01'
+        population:
+          value: 978928297.0
+      - date: '2870-01-01'
+        population:
+          value: 979142571.0
+      - date: '2880-01-01'
+        population:
+          value: 979431091.0
+      - date: '2890-01-01'
+        population:
+          value: 979101361.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-C-C-F-C
+      - date: '2900-01-01'
+        population:
+          value: 979018945.0
+      - date: '2910-01-01'
+        population:
+          value: 978639925.0
+      - date: '2920-01-01'
+        population:
+          value: 977446145.0
+      - date: '2930-01-01'
+        population:
+          value: 975958021.0
+      - date: '2940-01-01'
+        population:
+          value: 974669053.0
+      - date: '2950-01-01'
+        population:
+          value: 972841152.0
+      - date: '2960-01-01'
+        population:
+          value: 970746979.0
+      - date: '2970-01-01'
+        population:
+          value: 969685259.0
+      - date: '2980-01-01'
+        population:
+          value: 968208951.0
+      - date: '2990-01-01'
+        population:
+          value: 967027896.0
+      - date: '3000-01-01'
+        population:
+          value: 966043428.0
+      - date: '3010-01-01'
+        population:
+          value: 965254950.0
+      - date: '3020-01-01'
+        population:
+          value: 963639365.0
+      - date: '3030-01-01'
+        population:
+          value: 967383708.0
+      - date: '3030-11-01'
+        faction:
+          source: canon
+          value:
+            - DA
+            - CC
+      - date: '3030-11-15'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3040-01-01'
+        population:
+          value: 976031850.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-C-D-C
+      - date: '3050-01-01'
+        population:
+          value: 984461921.0
+      - date: '3060-01-01'
+        population:
+          value: 993262738.0
+      - date: '3070-01-01'
+        population:
+          value: 1002944266.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 1011000000.0
+      - date: '3080-01-01'
+        population:
+          value: 1012213928.0
+      - date: '3090-01-01'
+        population:
+          value: 1024023976.0
+      - date: '3100-01-01'
+        population:
+          value: 1034729397.0
+      - date: '3110-01-01'
+        population:
+          value: 1050787560.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '3120-01-01'
+        population:
+          value: 1067308373.0
+      - date: '3130-01-01'
+        population:
+          value: 1079977211.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1092796427.0
+      - date: '3145-01-01'
+        population:
+          value: 1099153062.0

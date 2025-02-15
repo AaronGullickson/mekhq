@@ -1,0 +1,500 @@
+id: Ordino
+sucsId: 1945
+xcood: 42.016
+ycood: -362.735
+spectralType:
+  value: F4V
+primarySlot: 4
+event:
+  - date: '2922-05-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: López
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 1
+  - name:
+      value: Campo de Arredondo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Honir
+        size:
+          value: giant
+        icon: rock6
+  - name:
+      value: Canillo
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 68
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Ordino
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.65
+    diameter:
+      value: 11400
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 30
+    water:
+      value: 40
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Acosta's Stand
+        capital:
+          value: Ciudad Padilla
+    event:
+      - date: '2723-01-03'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52843.0
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2724-03-28'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 152399.0
+      - date: '2740-01-01'
+        population:
+          value: 538370.0
+      - date: '2750-01-01'
+        population:
+          value: 1506780.0
+      - date: '2760-01-01'
+        population:
+          value: 3476644.0
+      - date: '2770-01-01'
+        population:
+          value: 6835674.0
+      - date: '2780-01-01'
+        population:
+          value: 11807593.0
+      - date: '2790-01-01'
+        population:
+          value: 13526475.0
+      - date: '2800-01-01'
+        population:
+          value: 8500018.0
+      - date: '2810-01-01'
+        population:
+          value: 4919255.0
+      - date: '2820-01-01'
+        population:
+          value: 3127825.0
+      - date: '2830-01-01'
+        population:
+          value: 1706798.0
+      - date: '2839-01-01'
+        socioIndustrial:
+          value: C-D-B-C-C
+      - date: '2840-01-01'
+        population:
+          value: 904382.0
+      - date: '2850-01-01'
+        population:
+          value: 606291.0
+      - date: '2860-01-01'
+        population:
+          value: 355033.0
+      - date: '2870-01-01'
+        population:
+          value: 199516.0
+      - date: '2880-01-01'
+        population:
+          value: 95660.0
+      - date: '2890-01-01'
+        population:
+          value: 39594.0
+      - date: '2900-01-01'
+        population:
+          value: 16877.0
+      - date: '2910-01-01'
+        population:
+          value: 8140.0
+      - date: '2920-01-01'
+        population:
+          value: 3812.0
+      - date: '2922-07-29'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Disparate de Peruansky
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: 0Z1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 0Z2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 0Z3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Montero's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 8
+  - name:
+      value: Sánchez's Frontier
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 14.0
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 52.4
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Encamp
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Dithyrambos
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: La Massana
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Port Martínez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 8
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 143.7
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Egeria A
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Egeria B
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Franco's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 110000
+    density:
+      value: 1.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 400.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+  - name:
+      value: Muñóz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 10
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Damballah
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Baron Saturday
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Guédé
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Damballah Wedo
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Ogoun
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Veles
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Aganju
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Schlefenberg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 11
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 3165.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: David
+        size:
+          value: medium
+        icon: oddmoon2

@@ -1,0 +1,470 @@
+id: ER 003
+sucsId: .na
+xcood: -90.0
+ycood: 580.0
+spectralType:
+  value: M0V
+planet:
+  - name:
+      value: LC1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1700
+    density:
+      value: 4.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 95
+    water:
+      value: 0
+  - name:
+      value: LC2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: 4BR1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 4BR2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 4BR3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: 4BR4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 4BR5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 4BR6
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: LC3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: 2E-1
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: 2E-2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 2E-3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 2E-4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 2E-5
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: 2E-6
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: LC4
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 40000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: P41
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: LC5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 9
+  - name:
+      value: SP1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -171
+  - name:
+      value: LC6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: U-1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: U-2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: U-3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: U-4
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: U-5
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: U-6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: U-7
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: U-8
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: LC7
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 8
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: QX.1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: QX.2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: QX.3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: LC8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: H1
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: H2
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: H3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: H4
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: H5
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: H6
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: H7
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: H8
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: H9
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: H10
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: H11
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: LC9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: X6-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: X6-2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: X6-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: X6-4
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: X6-5
+        size:
+          value: medium
+        icon: rock3

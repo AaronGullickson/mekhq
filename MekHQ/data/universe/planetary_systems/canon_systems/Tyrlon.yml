@@ -1,0 +1,560 @@
+id: Tyrlon
+sucsId: 2611
+xcood: 115.752
+ycood: -446.465
+spectralType:
+  source: canon
+  value: G1V
+primarySlot: 6
+event:
+  - date: '2722-05-24'
+    nadirCharge:
+      value: yes
+  - date: '2801-06-19'
+    nadirCharge:
+      source: canon
+      value: no
+    zenithCharge:
+      source: canon
+      value: no
+planet:
+  - name:
+      value: Cornet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.24
+    sysPos:
+      source: canon
+      value: 1
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: G.1
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: G.2
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Fields's Rest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      source: canon
+      value: 2
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 45000
+    density:
+      value: 2.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Lemures
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Jupiter
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Britannia
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Z-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Venus
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Sandvold
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      source: canon
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: K1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: K2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: K3
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Anderson's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      source: canon
+      value: 4
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+  - name:
+      source: canon
+      value: Tyrlon V
+    type:
+      source: canon
+      value: TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      source: canon
+      value: 5
+    icon: green22
+    pressure:
+      source: canon
+      value: THIN
+    atmosphere:
+      source: canon
+      value: BREATHABLE
+    composition:
+      source: canon
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.77
+    diameter:
+      value: 10200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 35
+    water:
+      source: canon
+      value: 50
+    lifeForm:
+      source: canon
+      value: REPTILE
+    landmass:
+      - name:
+          value: Koivula
+        capital:
+          value: New Bellingen
+      - name:
+          value: Merklein's Rift
+      - name:
+          value: Glorioso Prime
+      - name:
+          value: Sellek
+    event:
+      - date: '2715-07-28'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52067.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+        hpg:
+          value: X
+      - date: '2910-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3025-05-01'
+        faction:
+          source: assumption
+          value:
+            - ARC
+            - ARD
+            - TC
+      - date: '3025-08-15'
+        faction:
+          source: assumption
+          value:
+            - ARC
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 91011000.0
+        socioIndustrial:
+          source: canon
+          value: D-C-B-D-A
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      source: canon
+      value: Tyrlon
+    type:
+      source: canon
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.5
+    sysPos:
+      source: canon
+      value: 6
+    icon: green22
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      source: canon
+      value: TAINTEDPOISON
+    composition:
+      source: canon
+      value: Nitrogen and Heavy Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.91
+    diameter:
+      value: 10200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 31
+    water:
+      source: canon
+      value: 93
+    lifeForm:
+      source: canon
+      value: FISH
+    ring:
+      source: canon
+      value: yes
+    landmass:
+      - name:
+          value: Koivula
+        capital:
+          value: Langi
+    event:
+      - date: '2715-07-28'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52067.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2716-03-28'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 104068.0
+      - date: '2729-01-01'
+        socioIndustrial:
+          value: D-F-D-D-F
+      - date: '2730-01-01'
+        population:
+          value: 340771.0
+      - date: '2740-01-01'
+        population:
+          value: 894067.0
+      - date: '2750-01-01'
+        population:
+          value: 1970789.0
+      - date: '2760-01-01'
+        population:
+          value: 3748262.0
+      - date: '2770-01-01'
+        population:
+          value: 6273923.0
+      - date: '2780-01-01'
+        population:
+          value: 9515364.0
+      - date: '2787-10-26'
+        hpg:
+          value: C
+      - date: '2790-01-01'
+        population:
+          value: 13348972.0
+      - date: '2800-01-01'
+        population:
+          value: 17518810.0
+      - date: '2810-01-01'
+        population:
+          value: 21801207.0
+      - date: '2814-02-28'
+        faction:
+          source: canon
+          value:
+            - IND
+        hpg:
+          value: X
+      - date: '2910-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          source: canon
+          value: 233513000.0
+        socioIndustrial:
+          source: canon
+          value: C-C-B-C-A
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Far Tyrlon Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 25.48
+    sysPos:
+      source: canon
+      value: 7
+    icon: asteroid1
+    yearLength:
+      value: 128.6
+    temperature:
+      value: -203
+  - name:
+      value: Tyrlon VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      source: canon
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 358.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Tyrlon IX
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      source: canon
+      value: 9
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Tyrlon IX II
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Tyrlon IX IV
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Tyrlon IX XI
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Tyrlon X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      source: canon
+      value: 10
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Tyrlon X V
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tyrlon X VII
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Tyrlon X XV
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tyrlon X XVII
+        size:
+          value: medium
+        icon: rock12

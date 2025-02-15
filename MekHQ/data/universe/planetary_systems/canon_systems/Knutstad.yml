@@ -1,0 +1,311 @@
+id: Knutstad
+sucsId: 1380
+xcood: 349.391
+ycood: 481.245
+spectralType:
+  value: K1V
+primarySlot: 2
+event:
+  - date: '2949-07-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Austin's Dawn
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 126
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Knutstad
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 32
+    water:
+      value: 44
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Ursin's Valg
+        capital:
+          value: Ny Kristiansund
+      - name:
+          value: Lopter
+      - name:
+          value: Kristiansen
+      - name:
+          value: Friberg
+    event:
+      - date: '2707-11-17'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 44591.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 66941.0
+      - date: '2711-10-16'
+        hpg:
+          value: X
+      - date: '2720-01-01'
+        population:
+          value: 220038.0
+      - date: '2730-01-01'
+        population:
+          value: 581297.0
+      - date: '2740-01-01'
+        population:
+          value: 1296297.0
+      - date: '2750-01-01'
+        population:
+          value: 2506773.0
+      - date: '2760-01-01'
+        population:
+          value: 4281309.0
+      - date: '2770-01-01'
+        population:
+          value: 6652675.0
+      - date: '2780-01-01'
+        population:
+          value: 9606935.0
+      - date: '2790-01-01'
+        population:
+          value: 12879884.0
+      - date: '2800-01-01'
+        population:
+          value: 16280269.0
+      - date: '2810-01-01'
+        population:
+          value: 19802239.0
+      - date: '2820-01-01'
+        population:
+          value: 13359749.0
+      - date: '2830-01-01'
+        population:
+          value: 5402971.0
+      - date: '2840-01-01'
+        population:
+          value: 2252940.0
+      - date: '2850-01-01'
+        population:
+          value: 1178034.0
+      - date: '2860-01-01'
+        population:
+          value: 735539.0
+      - date: '2870-01-01'
+        population:
+          value: 432004.0
+      - date: '2880-01-01'
+        population:
+          value: 237218.0
+      - date: '2890-01-01'
+        population:
+          value: 118840.0
+      - date: '2900-01-01'
+        population:
+          value: 50781.0
+      - date: '2910-01-01'
+        population:
+          value: 21567.0
+      - date: '2920-01-01'
+        population:
+          value: 8669.0
+      - date: '2930-01-01'
+        population:
+          value: 3659.0
+      - date: '2940-01-01'
+        population:
+          value: 1526.0
+      - date: '2949-10-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Fanebust's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 2
+  - name:
+      value: Turøy's Redoubt
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -73
+    water:
+      value: 0
+  - name:
+      value: Welle's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Aryaman Alpha
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Aryaman Beta
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Stien
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Olin 1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Olin 2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Olin 3
+        size:
+          value: medium
+        icon: oddmoon2

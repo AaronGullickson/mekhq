@@ -1,0 +1,447 @@
+id: Refuel Base Gamma
+sucsId: 3058
+xcood: -1098.46
+ycood: -238.28
+spectralType:
+  value: K8V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Refuel Base Gamma
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green47
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 32
+    water:
+      value: 39
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: New Oppenheim
+        capital:
+          value: Demeter
+    event:
+      - date: '3095-06-04'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3096-05-14'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 88413.0
+      - date: '3110-01-01'
+        population:
+          value: 171318.0
+      - date: '3120-01-01'
+        population:
+          value: 194323.0
+      - date: '3130-01-01'
+        population:
+          value: 212624.0
+      - date: '3140-01-01'
+        population:
+          value: 229872.0
+      - date: '3145-01-01'
+        population:
+          value: 238298.0
+  - name:
+      value: Creel
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1100
+    density:
+      value: 6.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -5
+    water:
+      value: 0
+  - name:
+      value: Old Pipestone
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      value: Inzersdorf-Getzersdorf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Amantani I
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Amantani II
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Amantani III
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Coober Pedy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 17
+  - name:
+      value: Kviinge
+    type:
+      value: ICE_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 40000
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Wils
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Soo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 21
+  - name:
+      value: Scott's Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: asteroid3
+    yearLength:
+      value: 112.3
+    temperature:
+      value: -237
+  - name:
+      value: Scott's Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 315.2
+    temperature:
+      value: -248
+  - name:
+      value: Gangleri
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 10
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 888.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Mikula Selianinovich
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Jarilo
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Eshu
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Czernobog
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Maying
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Peron
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Muspelheim
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.56
+    sysPos:
+      value: 11
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2507.3
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: F7O-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: F7O-2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: F7O-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: F7O-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: F7O-5
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: F7O-6
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Bluff
+    type:
+      value: GAS_GIANT
+    orbitalDist: 368.88
+    sysPos:
+      value: 12
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7084.8
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Anderson
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Walsh
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Curry
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Sadhyas
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Ouma
+        size:
+          value: large
+        icon: rock17

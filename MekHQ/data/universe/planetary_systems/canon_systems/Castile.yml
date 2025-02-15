@@ -1,0 +1,540 @@
+id: Castile
+sucsId: 2974
+xcood: -657.867
+ycood: 1108.36
+spectralType:
+  source: canon
+  value: G2V
+primarySlot: 4
+event:
+  - date: '2432-03-22'
+    zenithCharge:
+      value: yes
+  - date: '2814-01-18'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: KGX-1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 188
+    water:
+      value: 0
+  - name:
+      value: KGX-2
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Wall
+        size:
+          value: giant
+        icon: rock8
+  - name:
+      value: KGX-3
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: KS3-1
+        size:
+          value: large
+        icon: rock12
+  - name:
+      source: canon
+      value: Castile
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 4
+    icon: green55
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.11
+    diameter:
+      value: 11969
+    density:
+      value: 6.491795686283
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.4
+    temperature:
+      source: canon
+      value: 28
+    water:
+      source: canon
+      value: 70
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Castile is a fertile planet with abundant natural resources located in the deep Periphery. While industry is scarce in the deep Periphery, Castile is home to the King Dumount Defense Facility, located in the Domount Valley of the Iberia continent, the KDDF produces multiple unit types, including combat vehicles, conventional fighters and primitive BattleMechs. Castile is also home to the Royals Refit and Repair Station, located in the town of Real in the Détente Mountains of Barthelona, the facility is capable of repairing or refiting ‘Mechs and Aerospace fighters, though most of the refits are to downgrade units to the reduced tech available this far into the deep Periphery.
+
+      Manufacturing centers:
+      King Dumount Defense Facility
+      Royals Refit and Repair Station
+    landmass:
+      - name:
+          source: canon
+          value: Barthelona
+      - name:
+          source: canon
+          value: Iberia
+        capital:
+          source: canon
+          value: Padre
+      - name:
+          source: canon
+          value: Marianas
+    event:
+      - date: '2392-06-26'
+        faction:
+          source: canon
+          value:
+            - NC
+        population:
+          value: 51609.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2395-01-01'
+        socioIndustrial:
+          value: D-D-B-C-B
+      - date: '2400-01-01'
+        population:
+          value: 72403.0
+      - date: '2410-01-01'
+        population:
+          value: 103813.0
+      - date: '2420-01-01'
+        population:
+          value: 140827.0
+      - date: '2430-01-01'
+        population:
+          value: 182775.0
+      - date: '2440-01-01'
+        population:
+          value: 228726.0
+      - date: '2450-01-01'
+        population:
+          value: 277509.0
+      - date: '2460-01-01'
+        population:
+          value: 326390.0
+      - date: '2470-01-01'
+        population:
+          value: 373807.0
+      - date: '2480-01-01'
+        population:
+          value: 418655.0
+      - date: '2490-01-01'
+        population:
+          value: 462909.0
+      - date: '2500-01-01'
+        population:
+          value: 504131.0
+      - date: '2510-01-01'
+        population:
+          value: 540786.0
+      - date: '2520-01-01'
+        population:
+          value: 576405.0
+      - date: '2530-01-01'
+        population:
+          value: 607307.0
+      - date: '2540-01-01'
+        population:
+          value: 633898.0
+      - date: '2550-01-01'
+        population:
+          value: 657966.0
+      - date: '2560-01-01'
+        population:
+          value: 679149.0
+      - date: '2570-01-01'
+        population:
+          value: 703600.0
+      - date: '2571-03-11'
+        faction:
+          source: canon
+          value:
+            - NC
+      - date: '2580-01-01'
+        population:
+          value: 727047.0
+      - date: '2590-01-01'
+        population:
+          value: 745315.0
+      - date: '2600-01-01'
+        population:
+          value: 762794.0
+      - date: '2610-01-01'
+        population:
+          value: 773856.0
+      - date: '2620-01-01'
+        population:
+          value: 783666.0
+      - date: '2630-01-01'
+        population:
+          value: 795131.0
+      - date: '2640-01-01'
+        population:
+          value: 808870.0
+      - date: '2649-01-01'
+        socioIndustrial:
+          value: C-D-A-B-A
+      - date: '2650-01-01'
+        population:
+          value: 821072.0
+      - date: '2660-01-01'
+        population:
+          value: 833495.0
+      - date: '2670-01-01'
+        population:
+          value: 846459.0
+      - date: '2680-01-01'
+        population:
+          value: 860108.0
+      - date: '2690-01-01'
+        population:
+          value: 864837.0
+      - date: '2700-01-01'
+        population:
+          value: 862485.0
+      - date: '2710-01-01'
+        population:
+          value: 858835.0
+      - date: '2720-01-01'
+        population:
+          value: 854483.0
+      - date: '2730-01-01'
+        population:
+          value: 852217.0
+      - date: '2732-03-01'
+        hpg:
+          source: canon
+          value: C
+      - date: '2740-01-01'
+        population:
+          value: 851558.0
+      - date: '2750-01-01'
+        population:
+          value: 851519.0
+      - date: '2760-01-01'
+        population:
+          value: 846868.0
+      - date: '2770-01-01'
+        population:
+          value: 844438.0
+      - date: '2780-01-01'
+        population:
+          value: 844573.0
+      - date: '2790-01-01'
+        population:
+          value: 840677.0
+      - date: '2800-01-01'
+        population:
+          value: 835012.0
+      - date: '2810-01-01'
+        population:
+          value: 828404.0
+      - date: '2820-01-01'
+        population:
+          value: 822605.0
+      - date: '2830-01-01'
+        population:
+          value: 817493.0
+      - date: '2840-01-01'
+        population:
+          value: 814985.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-D-B-C-B
+      - date: '2850-01-01'
+        population:
+          value: 815057.0
+      - date: '2860-01-01'
+        population:
+          value: 815558.0
+      - date: '2870-01-01'
+        population:
+          value: 817242.0
+      - date: '2880-01-01'
+        population:
+          value: 818068.0
+      - date: '2890-01-01'
+        population:
+          value: 820081.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 819937.0
+      - date: '2910-01-01'
+        population:
+          value: 815916.0
+      - date: '2920-01-01'
+        population:
+          value: 812663.0
+      - date: '2930-01-01'
+        population:
+          value: 809956.0
+      - date: '2940-01-01'
+        population:
+          value: 805347.0
+      - date: '2950-01-01'
+        population:
+          value: 798762.0
+      - date: '2960-01-01'
+        population:
+          value: 793485.0
+      - date: '2970-01-01'
+        population:
+          value: 786480.0
+      - date: '2980-01-01'
+        population:
+          value: 782210.0
+      - date: '2990-01-01'
+        population:
+          value: 776530.0
+      - date: '3000-01-01'
+        population:
+          value: 769269.0
+      - date: '3010-01-01'
+        population:
+          value: 762779.0
+      - date: '3020-01-01'
+        population:
+          value: 758738.0
+      - date: '3030-01-01'
+        population:
+          value: 760613.0
+      - date: '3040-01-01'
+        population:
+          value: 769872.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-D-B-C-B
+      - date: '3050-01-01'
+        population:
+          value: 780726.0
+      - date: '3060-01-01'
+        population:
+          value: 791971.0
+      - date: '3070-01-01'
+        population:
+          value: 801772.0
+      - date: '3080-01-01'
+        population:
+          value: 810641.0
+      - date: '3080-02-15'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3090-01-01'
+        population:
+          value: 820755.0
+      - date: '3100-01-01'
+        population:
+          value: 830996.0
+      - date: '3110-01-01'
+        population:
+          value: 842038.0
+      - date: '3120-01-01'
+        population:
+          value: 854934.0
+      - date: '3130-01-01'
+        population:
+          value: 863181.0
+      - date: '3133-01-01'
+        socioIndustrial:
+          value: B-C-B-B-B
+      - date: '3140-01-01'
+        population:
+          value: 872729.0
+      - date: '3145-01-01'
+        population:
+          value: 876051.0
+  - name:
+      value: KGX-5
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.8
+    satellite:
+      - name:
+          value: Oberbüren
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Saint John
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pactolus
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: KGX-6
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 19.6
+    sysPos:
+      value: 6
+    icon: rock7
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -207
+    water:
+      value: 0
+  - name:
+      value: Moore's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -240
+  - name:
+      value: KGX-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 8
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 8

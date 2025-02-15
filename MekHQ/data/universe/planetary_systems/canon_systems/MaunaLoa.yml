@@ -1,0 +1,418 @@
+id: Mauna Loa
+sucsId: 3080
+xcood: 1026.489
+ycood: -119.159
+spectralType:
+  source: canon
+  value: M6IV
+primarySlot: 6
+event:
+  - date: '2808-12-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: BNY1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 1.04
+    diameter:
+      value: 12500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 86
+    water:
+      value: 0
+  - name:
+      value: BNY2
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: BNY3
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Richardson
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Txamsem
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: BNY4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Stercutus
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Rocky Hill
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: BNY5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Imhetep
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Shai
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Geb
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: J3-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bilfrost
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Yahshua
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Setesh
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      source: canon
+      value: Mauna Loa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 6
+    icon: green15
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.78
+    diameter:
+      value: 10491
+    density:
+      value: 5.226497942119
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.5
+    temperature:
+      source: canon
+      value: 347
+    water:
+      source: canon
+      value: 68
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: New Timberhill
+        capital:
+          value: Roberts
+    event:
+      - date: '2720-06-08'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 53620.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2730-08-04'
+        hpg:
+          value: X
+        population:
+          value: 95380.0
+      - date: '2740-01-01'
+        population:
+          value: 153497.0
+      - date: '2750-01-01'
+        population:
+          value: 225976.0
+      - date: '2760-01-01'
+        population:
+          value: 310781.0
+      - date: '2762-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2770-01-01'
+        population:
+          value: 404020.0
+      - date: '2780-01-01'
+        population:
+          value: 501583.0
+      - date: '2790-01-01'
+        population:
+          value: 277376.0
+      - date: '2800-01-01'
+        population:
+          value: 35464.0
+      - date: '2808-10-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3095-07-13'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 722.0
+        socioIndustrial:
+          value: B-X-X-X-X
+  - name:
+      value: BNY7
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: frozen31
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -200
+    water:
+      value: 40
+    landmass:
+      - name:
+          value: Knox
+  - name:
+      value: BNY8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 7.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Olympus I
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Olympus II
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Olympus III
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Olympus IV
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: BNY9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 21.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19

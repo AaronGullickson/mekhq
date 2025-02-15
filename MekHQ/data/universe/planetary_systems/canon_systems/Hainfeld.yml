@@ -1,0 +1,510 @@
+id: Hainfeld
+sucsId: 1034
+xcood: -13.447
+ycood: 268.525
+spectralType:
+  value: G2V
+primarySlot: 3
+event:
+  - date: '2562-09-06'
+    nadirCharge:
+      value: yes
+  - date: '2565-12-07'
+    zenithCharge:
+      value: yes
+  - date: '2789-03-06'
+    nadirCharge:
+      value: no
+  - date: '2791-10-21'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Schroder's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Hohenau an der March 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Hohenau an der March 2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Bar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.1
+    diameter:
+      value: 14500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 76
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Hainfeld
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green27
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 12300
+    density:
+      value: 5.2795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 32
+    water:
+      value: 26
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Politischer Bezirk Mödling
+        capital:
+          value: Neu Kramsach
+      - name:
+          value: Axams
+      - name:
+          value: Mariazell
+    event:
+      - date: '2551-03-02'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 54130.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2560-01-01'
+        population:
+          value: 551567.0
+      - date: '2570-01-01'
+        population:
+          value: 3693814.0
+      - date: '2580-01-01'
+        population:
+          value: 14649066.0
+      - date: '2583-01-01'
+        socioIndustrial:
+          value: B-C-A-D-C
+      - date: '2590-01-01'
+        population:
+          value: 39828114.0
+      - date: '2600-01-01'
+        population:
+          value: 81854779.0
+      - date: '2604-01-01'
+        socioIndustrial:
+          value: B-C-B-D-C
+      - date: '2610-01-01'
+        population:
+          value: 138221531.0
+      - date: '2620-01-01'
+        population:
+          value: 201170321.0
+      - date: '2630-01-01'
+        population:
+          value: 263707249.0
+      - date: '2635-01-01'
+        socioIndustrial:
+          value: A-B-B-C-B
+      - date: '2640-01-01'
+        population:
+          value: 319646981.0
+      - date: '2650-01-01'
+        population:
+          value: 367035842.0
+      - date: '2660-01-01'
+        population:
+          value: 404880163.0
+      - date: '2665-12-19'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 432621400.0
+      - date: '2680-01-01'
+        population:
+          value: 453727336.0
+      - date: '2690-01-01'
+        population:
+          value: 468677013.0
+      - date: '2700-01-01'
+        population:
+          value: 481420667.0
+      - date: '2710-01-01'
+        population:
+          value: 491787564.0
+      - date: '2720-01-01'
+        population:
+          value: 501626926.0
+      - date: '2730-01-01'
+        population:
+          value: 511929624.0
+      - date: '2740-01-01'
+        population:
+          value: 518952044.0
+      - date: '2750-01-01'
+        population:
+          value: 526357769.0
+      - date: '2760-01-01'
+        population:
+          value: 534063250.0
+      - date: '2770-01-01'
+        population:
+          value: 539401130.0
+      - date: '2780-01-01'
+        population:
+          value: 538152776.0
+      - date: '2790-01-01'
+        population:
+          value: 533510146.0
+      - date: '2800-01-01'
+        population:
+          value: 522270929.0
+      - date: '2810-01-01'
+        population:
+          value: 512839579.0
+      - date: '2820-01-01'
+        population:
+          value: 506254422.0
+      - date: '2830-01-01'
+        population:
+          value: 502689730.0
+      - date: '2840-01-01'
+        population:
+          value: 495819833.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-C-C-D-C
+      - date: '2850-01-01'
+        population:
+          value: 487001967.0
+      - date: '2860-01-01'
+        population:
+          value: 479677016.0
+      - date: '2870-01-01'
+        population:
+          value: 475105278.0
+      - date: '2880-01-01'
+        population:
+          value: 471496815.0
+      - date: '2890-01-01'
+        population:
+          value: 473033648.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-D-D-F-C
+      - date: '2900-11-06'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 472067055.0
+      - date: '2910-01-01'
+        population:
+          value: 469790224.0
+      - date: '2920-01-01'
+        population:
+          value: 468307468.0
+      - date: '2930-01-01'
+        population:
+          value: 465529082.0
+      - date: '2940-01-01'
+        population:
+          value: 466265479.0
+      - date: '2950-01-01'
+        population:
+          value: 467915758.0
+      - date: '2960-01-01'
+        population:
+          value: 468917447.0
+      - date: '2970-01-01'
+        population:
+          value: 466525662.0
+      - date: '2980-01-01'
+        population:
+          value: 464664221.0
+      - date: '2990-01-01'
+        population:
+          value: 462810207.0
+      - date: '3000-01-01'
+        population:
+          value: 461606921.0
+      - date: '3010-01-01'
+        population:
+          value: 456824981.0
+      - date: '3020-01-01'
+        population:
+          value: 450833316.0
+      - date: '3025-03-26'
+        faction:
+          source: canon
+          value:
+            - DC
+        socioIndustrial:
+          value: B-C-C-D-C
+      - date: '3030-03-20'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 450211478.0
+      - date: '3034-03-13'
+        faction:
+          source: canon
+          value:
+            - FRR
+      - date: '3040-12-09'
+        population:
+          value: 454918109.0
+        socioIndustrial:
+          value: A-B-B-C-C
+      - date: '3050-01-01'
+        population:
+          value: 460916742.0
+      - date: '3051-12-09'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3060-01-01'
+        population:
+          value: 466527712.0
+      - date: '3070-01-01'
+        population:
+          value: 472112556.0
+      - date: '3080-01-01'
+        population:
+          value: 475048747.0
+      - date: '3090-01-01'
+        population:
+          value: 475333862.0
+      - date: '3100-01-01'
+        population:
+          value: 475143766.0
+      - date: '3104-01-01'
+        socioIndustrial:
+          value: A-B-B-C-B
+      - date: '3110-01-01'
+        population:
+          value: 474479030.0
+      - date: '3120-01-01'
+        population:
+          value: 473625736.0
+      - date: '3130-01-01'
+        population:
+          value: 472679431.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 472584905.0
+      - date: '3145-06-09'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 472301439.0
+  - name:
+      value: Moosbach
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 19
+  - name:
+      value: Accuser
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Yäcklel I
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Yäcklel II
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: Yäcklel III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Yäcklel IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Yäcklel V
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Schlaiten
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 150000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: VWK.1
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: VWK.2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: VWK.3
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: VWK.4
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: VWK.5
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: VWK.6
+        size:
+          value: large
+        icon: rock3

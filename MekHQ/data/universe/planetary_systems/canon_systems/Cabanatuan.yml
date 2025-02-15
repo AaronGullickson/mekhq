@@ -1,0 +1,379 @@
+id: Cabanatuan
+sucsId: 426
+xcood: 292.485
+ycood: 448.092
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2651-12-31'
+    zenithCharge:
+      value: yes
+  - date: '2797-06-13'
+    zenithCharge:
+      value: no
+  - date: '2820-07-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: MacLaughlin's Rest
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 190
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Cabanatuan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 43
+    water:
+      value: 34
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Tulic
+        capital:
+          value: Manansala
+      - name:
+          value: Bagong Gladsaxe
+      - name:
+          value: Mapaco
+      - name:
+          value: Nuñez
+    event:
+      - date: '2612-09-18'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 53455.0
+        socioIndustrial:
+          value: C-D-B-F-C
+      - date: '2620-01-01'
+        population:
+          value: 373231.0
+      - date: '2623-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2630-01-01'
+        population:
+          value: 1982150.0
+      - date: '2633-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2636-08-28'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 5943483.0
+      - date: '2650-01-01'
+        population:
+          value: 12287334.0
+      - date: '2660-01-01'
+        population:
+          value: 19737288.0
+      - date: '2670-01-01'
+        population:
+          value: 26852021.0
+      - date: '2680-01-01'
+        population:
+          value: 32864272.0
+      - date: '2690-01-01'
+        population:
+          value: 37676024.0
+      - date: '2700-01-01'
+        population:
+          value: 40973693.0
+      - date: '2710-01-01'
+        population:
+          value: 43229706.0
+      - date: '2720-01-01'
+        population:
+          value: 44772437.0
+      - date: '2730-01-01'
+        population:
+          value: 46002926.0
+      - date: '2740-01-01'
+        population:
+          value: 47024660.0
+      - date: '2750-01-01'
+        population:
+          value: 47452780.0
+      - date: '2760-01-01'
+        population:
+          value: 47593734.0
+      - date: '2769-07-21'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 47841572.0
+      - date: '2780-09-15'
+        hpg:
+          value: B
+        population:
+          value: 48105240.0
+      - date: '2790-01-01'
+        population:
+          value: 35077245.0
+      - date: '2800-01-01'
+        population:
+          value: 2432641.0
+      - date: '2810-01-01'
+        population:
+          value: 270621.0
+      - date: '2820-01-04'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Hvass's Dawn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: badwater45
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 20
+    water:
+      value: 73
+    landmass:
+      - name:
+          value: Tambilagao
+      - name:
+          value: New Calunasan Norte
+      - name:
+          value: Bagong Mambusao
+      - name:
+          value: New Matatag
+      - name:
+          value: Handong
+      - name:
+          value: Niedererbach
+      - name:
+          value: Palikpikan
+      - name:
+          value: Binlod
+      - name:
+          value: New Alianza
+  - name:
+      value: Damocles
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1300
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -53
+    water:
+      value: 0
+  - name:
+      value: Deligiannis's Rock
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.5
+    satellite:
+      - name:
+          value: Divina
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Abella's Choice
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: frozen20
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 7
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -137
+    water:
+      value: 100
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: 6K1 Archipelago
+        capital:
+          value: 6K1 Archipelago City
+      - name:
+          value: 6K2 Archipelago
+      - name:
+          value: 6K3 Archipelago
+      - name:
+          value: 6K4 Archipelago
+      - name:
+          value: 6K5 Archipelago
+      - name:
+          value: 6K6 Archipelago
+      - name:
+          value: 6K7 Archipelago
+      - name:
+          value: 6K8 Archipelago
+  - name:
+      value: Salindayao
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ereshkegal
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Absu
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Mammetu
+        size:
+          value: large
+        icon: rock2

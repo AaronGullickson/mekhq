@@ -1,0 +1,330 @@
+id: Anatolia (Pillory 3130+)
+sucsId: 125
+xcood: -432.787
+ycood: 276.444
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2916-08-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Anatolia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green3
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 32
+    water:
+      value: 49
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: New Kürtün Bucağı
+        capital:
+          value: Seti
+      - name:
+          value: Yeni Azov
+      - name:
+          value: Bulucan Bucağı
+    event:
+      - date: '2722-05-06'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 49310.0
+        socioIndustrial:
+          value: B-D-A-D-F
+      - date: '2723-08-11'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 145495.0
+      - date: '2740-01-01'
+        population:
+          value: 445501.0
+      - date: '2750-01-01'
+        population:
+          value: 1100147.0
+      - date: '2755-01-01'
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2759-01-01'
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2760-01-01'
+        population:
+          value: 2294393.0
+      - date: '2770-01-01'
+        population:
+          value: 4151320.0
+      - date: '2779-11-29'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 6690444.0
+      - date: '2790-01-01'
+        population:
+          value: 9857270.0
+      - date: '2800-01-01'
+        population:
+          value: 13525162.0
+      - date: '2810-01-01'
+        population:
+          value: 17488941.0
+      - date: '2820-01-01'
+        population:
+          value: 8394423.0
+      - date: '2830-01-01'
+        population:
+          value: 2986141.0
+      - date: '2840-01-01'
+        population:
+          value: 1070545.0
+      - date: '2850-01-01'
+        population:
+          value: 424595.0
+      - date: '2860-01-01'
+        population:
+          value: 179203.0
+      - date: '2870-01-01'
+        population:
+          value: 89041.0
+      - date: '2880-01-01'
+        population:
+          value: 38767.0
+      - date: '2890-01-01'
+        population:
+          value: 16748.0
+      - date: '2900-01-01'
+        population:
+          value: 7349.0
+      - date: '2910-01-01'
+        population:
+          value: 3150.0
+      - date: '2916-05-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3095-05-17'
+        faction:
+          source: canon
+          value:
+            - RT
+        hpg:
+          value: X
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3100-01-01'
+        population:
+          value: 84101.0
+      - date: '3110-01-01'
+        population:
+          value: 153703.0
+      - date: '3120-01-01'
+        population:
+          value: 173040.0
+      - date: '3130-01-01'
+        population:
+          value: 209039.0
+      - date: '3140-01-01'
+        population:
+          value: 256345.0
+      - date: '3145-01-01'
+        population:
+          value: 284725.0
+      - date: '2108-12-05'
+        name:
+          value: Anatolia
+      - date: '3130-01-01'
+        name:
+          value: Pillory
+        message: Anatolia renamed to Pillory
+  - name:
+      value: Ellis
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+    water:
+      value: 0
+  - name:
+      value: Kirsch's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Kadışehri 1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Kadışehri 2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Kadışehri 3
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Kadışehri 4
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Kadışehri 5
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: ZO-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -146
+  - name:
+      value: Rustu's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 5
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Yalçin's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 18

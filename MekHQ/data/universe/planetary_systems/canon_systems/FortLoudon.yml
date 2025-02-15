@@ -1,0 +1,689 @@
+id: Fort Loudon
+sucsId: 895
+xcood: -32.326
+ycood: 209.081
+spectralType:
+  source: canon
+  value: G6III
+primarySlot: 3
+event:
+  - date: '2462-05-10'
+    nadirCharge:
+      value: yes
+  - date: '2512-06-26'
+    zenithCharge:
+      value: yes
+  - date: '2786-05-09'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Burnett's Choice
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 376
+    water:
+      value: 0
+  - name:
+      value: Thomas's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 217
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Fort Loudon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: wet18
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13984
+    density:
+      value: 5.03952630679
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.0
+    temperature:
+      source: canon
+      value: 45
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Fort Loudon was not colonized until 2460 by the Lyran Commonwealth and was
+      briefly known as simply LC/T-2395, until 2465 after the heroic actions of Captain
+      Calvin Loudon on Nox that year. The jungle covered mountains of the Brunei continent
+      are full of massive deposits of rare metals and the Tunisonda continent has
+      exceptionally arable land which supports more than sufficient agriculture to
+      feed the planet’s population, the final continent is Anderssen, which is home
+      to the planetary capital of Palos. Anderssen’s Dover Mountains are home to gold
+      and platinum mining. The planet is home to a Castle Brian named Fortress Loudon
+      that survived the Succession Wars.
+    landmass:
+      - name:
+          source: canon
+          value: Anderssen
+        capital:
+          source: canon
+          value: Palos
+      - name:
+          source: canon
+          value: Brunei
+      - name:
+          source: canon
+          value: Tunisonda
+    satellite:
+      - name:
+          value: Précis
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2460-03-28'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 47748.0
+        socioIndustrial:
+          value: C-F-A-F-C
+      - date: '2470-01-01'
+        population:
+          value: 326022.0
+      - date: '2480-01-01'
+        population:
+          value: 1502390.0
+      - date: '2483-01-01'
+        socioIndustrial:
+          value: C-F-A-D-C
+      - date: '2490-01-01'
+        population:
+          value: 5074263.0
+      - date: '2500-07-19'
+        population:
+          value: 13322321.0
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2510-01-01'
+        population:
+          value: 28696057.0
+      - date: '2516-01-01'
+        socioIndustrial:
+          value: B-C-A-B-B
+      - date: '2520-01-01'
+        population:
+          value: 52629507.0
+      - date: '2530-01-01'
+        population:
+          value: 84955698.0
+      - date: '2540-01-01'
+        population:
+          value: 123641609.0
+      - date: '2550-01-01'
+        population:
+          value: 165641093.0
+      - date: '2560-01-01'
+        population:
+          value: 209225259.0
+      - date: '2570-01-01'
+        population:
+          value: 252645919.0
+      - date: '2580-01-01'
+        population:
+          value: 292933586.0
+      - date: '2590-01-01'
+        population:
+          value: 329037190.0
+      - date: '2600-01-01'
+        population:
+          value: 362521579.0
+      - date: '2610-01-01'
+        population:
+          value: 393067709.0
+      - date: '2620-01-01'
+        population:
+          value: 418764928.0
+      - date: '2630-01-01'
+        population:
+          value: 440750331.0
+      - date: '2639-11-09'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 460465173.0
+      - date: '2650-01-01'
+        population:
+          value: 477521343.0
+      - date: '2660-01-01'
+        population:
+          value: 490095071.0
+      - date: '2670-01-01'
+        population:
+          value: 497046498.0
+      - date: '2680-01-01'
+        population:
+          value: 501835938.0
+      - date: '2690-01-01'
+        population:
+          value: 507233565.0
+      - date: '2700-01-01'
+        population:
+          value: 511739701.0
+      - date: '2701-01-01'
+        socioIndustrial:
+          value: A-B-A-A-A
+      - date: '2710-01-01'
+        population:
+          value: 514354575.0
+      - date: '2720-01-01'
+        population:
+          value: 518771521.0
+      - date: '2730-01-01'
+        population:
+          value: 521331978.0
+      - date: '2740-01-01'
+        population:
+          value: 526650098.0
+      - date: '2750-12-23'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 533741954.0
+      - date: '2760-01-01'
+        population:
+          value: 537793596.0
+      - date: '2770-01-01'
+        population:
+          value: 538264455.0
+      - date: '2780-01-01'
+        population:
+          value: 538204409.0
+      - date: '2790-01-01'
+        population:
+          value: 533424033.0
+      - date: '2800-01-01'
+        population:
+          value: 531354184.0
+      - date: '2810-01-01'
+        population:
+          value: 531475717.0
+      - date: '2820-01-01'
+        population:
+          value: 533790137.0
+      - date: '2830-01-01'
+        population:
+          value: 531354184.0
+      - date: '2840-01-01'
+        population:
+          value: 529655634.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-C-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 532509873.0
+      - date: '2860-01-01'
+        population:
+          value: 536114635.0
+      - date: '2870-01-01'
+        population:
+          value: 538079957.0
+      - date: '2880-01-01'
+        population:
+          value: 539126963.0
+      - date: '2890-03-26'
+        population:
+          value: 536850788.0
+        socioIndustrial:
+          value: C-C-C-B-C
+      - date: '2900-01-01'
+        population:
+          value: 532205501.0
+      - date: '2910-01-01'
+        population:
+          value: 526696227.0
+      - date: '2920-01-01'
+        population:
+          value: 519637170.0
+      - date: '2930-01-01'
+        population:
+          value: 510041443.0
+      - date: '2940-01-01'
+        population:
+          value: 498737368.0
+      - date: '2950-01-01'
+        population:
+          value: 484848037.0
+      - date: '2960-01-01'
+        population:
+          value: 472478722.0
+      - date: '2970-01-01'
+        population:
+          value: 460424969.0
+      - date: '2980-01-01'
+        population:
+          value: 454409971.0
+      - date: '2990-01-01'
+        population:
+          value: 453423780.0
+      - date: '3000-01-01'
+        population:
+          value: 452284549.0
+      - date: '3010-01-01'
+        population:
+          value: 448524838.0
+      - date: '3020-01-01'
+        population:
+          value: 444034106.0
+      - date: '3030-01-01'
+        population:
+          value: 442866651.0
+      - date: '3037-01-01'
+        socioIndustrial:
+          value: C-C-B-B-C
+      - date: '3040-01-01'
+        population:
+          value: 446557741.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-A-B-B
+      - date: '3050-01-01'
+        population:
+          value: 448571779.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 451271300.0
+      - date: '3062-12-07'
+        faction:
+          source: canon
+          value:
+            - LA
+            - FC
+      - date: '3063-02-03'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3070-01-01'
+        population:
+          value: 454532179.0
+      - date: '3070-01-18'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3080-01-01'
+        population:
+          value: 459743494.0
+      - date: '3090-01-01'
+        population:
+          value: 466038716.0
+      - date: '3091-01-01'
+        socioIndustrial:
+          value: B-B-A-B-A
+      - date: '3100-01-01'
+        population:
+          value: 473744767.0
+      - date: '3110-01-01'
+        population:
+          value: 482156481.0
+      - date: '3120-01-01'
+        population:
+          value: 490815705.0
+      - date: '3130-01-01'
+        population:
+          value: 499930311.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-04-17'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 508908742.0
+      - date: '3145-01-01'
+        population:
+          value: 513098950.0
+  - name:
+      value: Peters's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 4
+    icon: barren22
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 126
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Päivyt I
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Päivyt II
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Crawford's World
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -41
+    water:
+      value: 0
+  - name:
+      value: Yasar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Bay Lake
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Yellowstone
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Albany
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Simon's Folly
+    type:
+      value: ICE_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: O'Quinn 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: O'Quinn 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: O'Quinn 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: New Pownal
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: frozen18
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 206.4
+    temperature:
+      value: -209
+    water:
+      value: 100
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Vinita 1 Archipelago
+      - name:
+          value: Vinita 2 Archipelago
+      - name:
+          value: Vinita 3 Archipelago
+      - name:
+          value: Vinita 4 Archipelago
+      - name:
+          value: Vinita 5 Archipelago
+      - name:
+          value: Vinita 6 Archipelago
+      - name:
+          value: Vinita 7 Archipelago
+      - name:
+          value: Vinita 8 Archipelago
+      - name:
+          value: Vinita 9 Archipelago
+      - name:
+          value: Vinita 10 Archipelago
+      - name:
+          value: Vinita 11 Archipelago
+  - name:
+      value: Roy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 579.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Frigga
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Baldur
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Fricco
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Auðhumla
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Finn Maccool Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -242

@@ -1,0 +1,612 @@
+id: Hanover
+sucsId: 1050
+xcood: 167.233
+ycood: 364.203
+spectralType:
+  source: canon
+  value: A4V
+primarySlot: 4
+planet:
+  - name:
+      value: Adkins
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 1
+    icon: greenhouse1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 1.02
+    diameter:
+      value: 13500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 468
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: 20P1
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Bridges
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.47
+    sysPos:
+      value: 2
+    icon: barren8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 255
+    water:
+      value: 0
+    smallMoons:
+      value: 8
+  - name:
+      value: Eros
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.1
+    sysPos:
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.4
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Hanover
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.36
+    sysPos:
+      value: 4
+    icon: green48
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.93
+    diameter:
+      value: 12027
+    density:
+      value: 5.427413773079
+    dayLength:
+      value: 20
+    yearLength:
+      value: 6.3
+    temperature:
+      source: canon
+      value: 20
+    water:
+      source: canon
+      value: 29
+    lifeForm:
+      source: canon
+      value: FISH
+    desc: Hanover is a quiet world with a boreal climate. The planet is moderately
+      advanced and industrialized world. The planet is mostly self-sufficient and
+      supports modest agriculture. Home to People’s Protection, a company that produces
+      security systems and small arms. Also home to Saxe-Heidelberg Heavy Industries.
+    landmass:
+      - name:
+          source: canon
+          value: Niedersachsen
+        capital:
+          source: canon
+          value: Wexler
+      - name:
+          source: canon
+          value: Sylvania
+    event:
+      - date: '2743-10-07'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 52266.0
+        socioIndustrial:
+          value: C-F-B-D-C
+      - date: '2744-01-22'
+        hpg:
+          source: canon
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 168248.0
+      - date: '2760-01-01'
+        population:
+          value: 665300.0
+      - date: '2766-02-17'
+        hpg:
+          source: canon
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 2001879.0
+      - date: '2780-10-22'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 4840882.0
+      - date: '2790-01-01'
+        population:
+          value: 9807876.0
+      - date: '2800-01-01'
+        population:
+          value: 17167751.0
+      - date: '2810-01-01'
+        population:
+          value: 26767632.0
+      - date: '2820-01-01'
+        population:
+          value: 38121773.0
+      - date: '2828-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2830-01-01'
+        population:
+          value: 50606208.0
+      - date: '2840-01-01'
+        population:
+          value: 63587462.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2850-01-01'
+        population:
+          value: 75460808.0
+      - date: '2860-01-01'
+        population:
+          value: 86151892.0
+      - date: '2870-01-01'
+        population:
+          value: 96185729.0
+      - date: '2880-01-01'
+        population:
+          value: 104940527.0
+      - date: '2890-01-01'
+        population:
+          value: 112227836.0
+      - date: '2900-01-01'
+        population:
+          value: 118797852.0
+      - date: '2910-01-01'
+        population:
+          value: 124691636.0
+      - date: '2920-01-01'
+        population:
+          value: 129019293.0
+      - date: '2930-01-01'
+        population:
+          value: 132405128.0
+      - date: '2940-01-01'
+        population:
+          value: 135322679.0
+      - date: '2950-01-01'
+        population:
+          value: 137709832.0
+      - date: '2960-01-01'
+        population:
+          value: 139474583.0
+      - date: '2970-01-01'
+        population:
+          value: 140896393.0
+      - date: '2980-01-01'
+        population:
+          value: 142705541.0
+      - date: '2990-01-01'
+        population:
+          value: 144119377.0
+      - date: '3000-01-01'
+        population:
+          value: 144660028.0
+      - date: '3010-01-01'
+        population:
+          value: 144679933.0
+      - date: '3020-01-01'
+        population:
+          value: 144792217.0
+      - date: '3030-01-01'
+        population:
+          value: 144648834.0
+      - date: '3040-01-01'
+        population:
+          value: 144359582.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-B-B-B-C
+      - date: '3050-01-01'
+        population:
+          value: 143626863.0
+      - date: '3050-07-01'
+        faction:
+          source: canon
+          value:
+            - CSJ
+            - DC
+      - date: '3050-07-10'
+        faction:
+          source: canon
+          value:
+            - CSJ
+      - date: '3059-06-29'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3060-01-01'
+        population:
+          value: 142813857.0
+      - date: '3070-01-01'
+        population:
+          value: 142511175.0
+      - date: '3080-01-01'
+        population:
+          value: 143110981.0
+      - date: '3090-01-01'
+        population:
+          value: 143082362.0
+      - date: '3100-01-01'
+        population:
+          value: 142996538.0
+      - date: '3104-01-01'
+        socioIndustrial:
+          value: B-B-B-A-B
+      - date: '3110-01-01'
+        population:
+          value: 143598386.0
+      - date: '3120-01-01'
+        population:
+          value: 144001025.0
+      - date: '3130-01-01'
+        population:
+          value: 143885871.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 143943436.0
+      - date: '3145-01-01'
+        population:
+          value: 144116272.0
+  - name:
+      value: Mitchell's Redoubt
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 5.88
+    sysPos:
+      value: 5
+    icon: frozen35
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 14.3
+    temperature:
+      value: -9
+    water:
+      value: 50
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Franks
+      - name:
+          value: Langlands
+      - name:
+          value: Simpson
+      - name:
+          value: LeMoine
+  - name:
+      value: Hope
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 10.92
+    sysPos:
+      value: 6
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.8
+    diameter:
+      value: 13500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 36.1
+    temperature:
+      value: -89
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Z1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Z2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Z3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ares's End
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.0
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 96.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Ono 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ono 2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ono 3
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Ono 4
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Ono 5
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ono 6
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Meliai
+    type:
+      value: GAS_GIANT
+    orbitalDist: 41.16
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 9
+    yearLength:
+      value: 264.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Shakyamuni
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Hudson's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 81.48
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 735.5
+    temperature:
+      value: -206
+  - name:
+      value: Lignite
+    type:
+      value: GAS_GIANT
+    orbitalDist: 162.12
+    sysPos:
+      value: 10
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2064.2
+    smallMoons:
+      value: 15
+  - name:
+      value: Hurt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 645.96
+    sysPos:
+      value: 11
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 16417.599999999999
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Loam
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Barnum
+        size:
+          value: giant
+        icon: rock13
+  - name:
+      value: Phema
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1291.08
+    sysPos:
+      value: 12
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 8
+    yearLength:
+      value: 46390.599999999999
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Roe I
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Roe II
+        size:
+          value: large
+        icon: rock6

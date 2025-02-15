@@ -1,0 +1,543 @@
+id: Tsamma
+sucsId: 2592
+xcood: 447.964
+ycood: -44.769
+spectralType:
+  source: canon
+  value: K2VII
+primarySlot: 4
+event:
+  - date: '2365-02-25'
+    zenithCharge:
+      value: yes
+  - date: '2447-11-09'
+    nadirCharge:
+      value: yes
+  - date: '2796-04-24'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Natero Kop
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 7
+  - name:
+      value: Badimo
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: greenhouse4
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 225
+    water:
+      value: 0
+  - name:
+      value: Tsui //goab
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 99
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Tsamma
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: wet6
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13076
+    density:
+      value: 5.370392914176
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.5
+    temperature:
+      source: canon
+      value: 65
+    water:
+      source: canon
+      value: 75
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Tsamma is a breadbasket world with a hot, humid climate and ample water.
+      After the planet was settled, it was discovered that the oceans had very low
+      salt content and as a result could be easily desalinated and as a result Tsamma
+      is the largest source of portable water within 50 light years. The continents
+      of Tsamma experience average rainfall of 70 cm per year and the unstable atmosphere
+      results in extremely violent hurricanes and storms. However, the planet is well
+      equipped to deal with these issues and the southern coast of the Arcadia continent
+      is a popular tourist destination for entertainment stars from around the Inner
+      Sphere.
+    landmass:
+      - name:
+          source: canon
+          value: Arcadia
+        capital:
+          source: canon
+          value: Phe-Phen
+      - name:
+          source: canon
+          value: Bleacher
+      - name:
+          source: canon
+          value: Shade
+    satellite:
+      - name:
+          value: Testor’s Eye
+        size:
+          value: giant
+        icon: rock5
+    event:
+      - date: '2350-11-05'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 47747.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2360-01-01'
+        population:
+          value: 174559.0
+      - date: '2370-01-01'
+        population:
+          value: 522018.0
+      - date: '2380-01-01'
+        population:
+          value: 1317852.0
+      - date: '2390-01-01'
+        population:
+          value: 2876806.0
+      - date: '2400-01-01'
+        population:
+          value: 5557921.0
+      - date: '2410-01-01'
+        population:
+          value: 9642403.0
+      - date: '2420-05-06'
+        population:
+          value: 15420464.0
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2430-01-01'
+        population:
+          value: 22875763.0
+      - date: '2440-01-01'
+        population:
+          value: 31845292.0
+      - date: '2450-01-01'
+        population:
+          value: 42145337.0
+      - date: '2460-01-01'
+        population:
+          value: 53137111.0
+      - date: '2470-01-01'
+        population:
+          value: 64636093.0
+      - date: '2480-01-01'
+        population:
+          value: 76537243.0
+      - date: '2490-01-01'
+        population:
+          value: 88336174.0
+      - date: '2500-01-01'
+        population:
+          value: 99682534.0
+      - date: '2510-01-01'
+        population:
+          value: 110074733.0
+      - date: '2520-01-01'
+        population:
+          value: 119746346.0
+      - date: '2530-01-01'
+        population:
+          value: 128728001.0
+      - date: '2540-01-01'
+        population:
+          value: 137196601.0
+      - date: '2550-01-01'
+        population:
+          value: 145106566.0
+      - date: '2560-01-01'
+        population:
+          value: 152039579.0
+      - date: '2570-01-01'
+        population:
+          value: 157571605.0
+      - date: '2580-01-01'
+        population:
+          value: 161925822.0
+      - date: '2590-01-01'
+        population:
+          value: 166035893.0
+      - date: '2600-01-01'
+        population:
+          value: 169089161.0
+      - date: '2610-01-01'
+        population:
+          value: 170551438.0
+      - date: '2620-01-01'
+        population:
+          value: 171634916.0
+      - date: '2630-01-01'
+        population:
+          value: 172134159.0
+      - date: '2640-01-01'
+        population:
+          value: 172902891.0
+      - date: '2647-11-15'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 173722245.0
+      - date: '2660-01-01'
+        population:
+          value: 174221450.0
+      - date: '2670-01-01'
+        population:
+          value: 175276801.0
+      - date: '2673-01-01'
+        socioIndustrial:
+          value: B-B-C-B-B
+      - date: '2680-01-01'
+        population:
+          value: 177535007.0
+      - date: '2690-01-01'
+        population:
+          value: 179305946.0
+      - date: '2700-01-01'
+        population:
+          value: 180635378.0
+      - date: '2710-01-01'
+        population:
+          value: 182444171.0
+      - date: '2720-01-01'
+        population:
+          value: 183695975.0
+      - date: '2730-01-01'
+        population:
+          value: 185022292.0
+      - date: '2740-01-01'
+        population:
+          value: 185619015.0
+      - date: '2750-01-01'
+        population:
+          value: 187129417.0
+      - date: '2760-01-01'
+        population:
+          value: 190002689.0
+      - date: '2770-01-01'
+        population:
+          value: 191378135.0
+      - date: '2780-01-01'
+        population:
+          value: 191535778.0
+      - date: '2790-01-01'
+        population:
+          value: 189840181.0
+      - date: '2800-01-01'
+        population:
+          value: 187729588.0
+      - date: '2810-01-01'
+        population:
+          value: 186014561.0
+      - date: '2820-01-01'
+        population:
+          value: 183394831.0
+      - date: '2830-01-01'
+        population:
+          value: 178206053.0
+      - date: '2840-01-01'
+        population:
+          value: 172471985.0
+      - date: '2850-03-02'
+        population:
+          value: 169617899.0
+        socioIndustrial:
+          value: C-C-D-B-C
+      - date: '2860-01-01'
+        population:
+          value: 167145397.0
+      - date: '2870-01-01'
+        population:
+          value: 166366275.0
+      - date: '2880-01-01'
+        population:
+          value: 164846415.0
+      - date: '2890-01-01'
+        population:
+          value: 163340440.0
+      - date: '2900-01-01'
+        population:
+          value: 160476715.0
+      - date: '2901-01-01'
+        socioIndustrial:
+          value: D-C-D-C-C
+      - date: '2910-01-01'
+        population:
+          value: 157584291.0
+      - date: '2920-01-01'
+        population:
+          value: 155910340.0
+      - date: '2930-01-01'
+        population:
+          value: 154950710.0
+      - date: '2940-01-01'
+        population:
+          value: 151170895.0
+      - date: '2950-01-01'
+        population:
+          value: 147704939.0
+      - date: '2960-01-01'
+        population:
+          value: 144535347.0
+      - date: '2970-01-01'
+        population:
+          value: 140516342.0
+      - date: '2980-01-01'
+        population:
+          value: 136951450.0
+      - date: '2990-01-01'
+        population:
+          value: 134820075.0
+      - date: '3000-01-01'
+        population:
+          value: 134191633.0
+      - date: '3010-01-01'
+        population:
+          value: 133232224.0
+      - date: '3020-01-01'
+        population:
+          value: 130503796.0
+      - date: '3030-01-01'
+        population:
+          value: 130315967.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: C-C-D-C-B
+      - date: '3040-01-01'
+        population:
+          value: 131244502.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-C-C-A
+      - date: '3050-01-01'
+        population:
+          value: 132073953.0
+      - date: '3060-01-01'
+        population:
+          value: 133228009.0
+      - date: '3064-03-01'
+        faction:
+          source: canon
+          value:
+            - FC
+            - LA
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 134580430.0
+      - date: '3080-01-01'
+        population:
+          value: 135444507.0
+      - date: '3090-01-01'
+        population:
+          value: 135960175.0
+      - date: '3096-01-01'
+        socioIndustrial:
+          value: B-B-C-C-B
+      - date: '3100-01-01'
+        population:
+          value: 136286871.0
+      - date: '3110-01-01'
+        population:
+          value: 136423226.0
+      - date: '3120-01-01'
+        population:
+          value: 137079632.0
+      - date: '3130-01-01'
+        population:
+          value: 137601526.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 138401933.0
+      - date: '3145-11-20'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 138762247.0
+      - date: '3152-06-01'
+        faction:
+          source: sucs
+          value:
+            - FS
+  - name:
+      value: Shango
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -50
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: EDumbe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Oshanla
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Olokun Su
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Orishala
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Egungun Oya
+        size:
+          value: medium
+        icon: rock12

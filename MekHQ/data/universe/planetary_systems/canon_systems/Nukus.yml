@@ -1,0 +1,335 @@
+id: Nukus
+sucsId: 1907
+xcood: -2.093
+ycood: -320.6
+spectralType:
+  value: F5V
+primarySlot: 2
+event:
+  - date: '2746-10-17'
+    nadirCharge:
+      value: yes
+  - date: '2786-04-27'
+    nadirCharge:
+      value: no
+  - date: '2845-12-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Chortoq Tumani
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 1
+    icon: greenhouse26
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 1.31
+    diameter:
+      value: 14500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 162
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Nukus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: green23
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 10500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 37
+    water:
+      value: 20
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Yazîcîzâde
+        capital:
+          value: Bota
+    event:
+      - date: '2709-09-08'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 46401.0
+        socioIndustrial:
+          value: D-D-D-F-D
+      - date: '2710-04-21'
+        hpg:
+          value: B
+        population:
+          value: 54516.0
+      - date: '2720-01-01'
+        population:
+          value: 230980.0
+      - date: '2730-01-01'
+        population:
+          value: 749117.0
+      - date: '2740-01-01'
+        population:
+          value: 1956026.0
+      - date: '2750-01-01'
+        population:
+          value: 4245941.0
+      - date: '2760-01-01'
+        population:
+          value: 7995186.0
+      - date: '2770-01-01'
+        population:
+          value: 13374890.0
+      - date: '2780-01-01'
+        population:
+          value: 20483848.0
+      - date: '2786-01-01'
+        socioIndustrial:
+          value: D-D-D-D-D
+      - date: '2790-01-01'
+        population:
+          value: 29177863.0
+      - date: '2800-01-01'
+        population:
+          value: 38931130.0
+      - date: '2804-01-01'
+        socioIndustrial:
+          value: D-C-D-C-D
+      - date: '2810-01-01'
+        population:
+          value: 49392179.0
+      - date: '2820-01-01'
+        population:
+          value: 10016822.0
+      - date: '2830-01-01'
+        population:
+          value: 685334.0
+      - date: '2840-01-01'
+        population:
+          value: 23981.0
+      - date: '2845-01-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Saglam
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.6
+    temperature:
+      value: -16
+    water:
+      value: 0
+  - name:
+      value: Shirin Shahri
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1400
+    density:
+      value: 3.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 7.9
+    temperature:
+      value: -78
+    water:
+      value: 0
+  - name:
+      value: Zangiota Tumani
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Yemayah I
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Yemayah II
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Yemayah III
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Yemayah IV
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Yemayah V
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Yemayah VI
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Yemayah VII
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Yemayah VIII
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Yemayah IX
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Douma
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Avsar
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Dopfer
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Karabekir
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cevik
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Curran
+        size:
+          value: medium
+        icon: oddmoon3

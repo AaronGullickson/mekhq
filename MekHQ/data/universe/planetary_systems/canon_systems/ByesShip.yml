@@ -1,0 +1,465 @@
+id: Bye's Ship
+sucsId: 424
+xcood: -250.981
+ycood: -493.657
+spectralType:
+  value: G9V
+primarySlot: 3
+event:
+  - date: '2921-05-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Hagel
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 2
+  - name:
+      value: Medentsov
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 48
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Bye's Ship
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 10800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 33
+    water:
+      value: 54
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Nova Veale
+        capital:
+          value: Wilson
+      - name:
+          value: San Pedro de Ceque
+      - name:
+          value: Westford
+    satellite:
+      - name:
+          value: 5H31
+        size:
+          value: medium
+        icon: rock6
+    event:
+      - date: '2707-08-14'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 58952.0
+        socioIndustrial:
+          value: C-D-B-C-C
+      - date: '2710-01-01'
+        population:
+          value: 87249.0
+      - date: '2720-01-01'
+        population:
+          value: 274369.0
+      - date: '2722-06-26'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 697714.0
+      - date: '2740-01-01'
+        population:
+          value: 1488945.0
+      - date: '2750-01-01'
+        population:
+          value: 2778164.0
+      - date: '2760-01-01'
+        population:
+          value: 4614813.0
+      - date: '2770-01-01'
+        population:
+          value: 7027212.0
+      - date: '2780-01-01'
+        population:
+          value: 9978996.0
+      - date: '2790-01-01'
+        population:
+          value: 9949659.0
+      - date: '2800-01-01'
+        population:
+          value: 4609389.0
+      - date: '2801-02-27'
+        hpg:
+          value: D
+      - date: '2810-01-01'
+        population:
+          value: 2111014.0
+      - date: '2820-01-01'
+        population:
+          value: 1059837.0
+      - date: '2830-01-01'
+        population:
+          value: 643104.0
+      - date: '2840-01-01'
+        population:
+          value: 418070.0
+      - date: '2850-01-01'
+        population:
+          value: 243688.0
+      - date: '2860-01-01'
+        population:
+          value: 148720.0
+      - date: '2870-01-01'
+        population:
+          value: 81381.0
+      - date: '2880-01-01'
+        population:
+          value: 56031.0
+      - date: '2890-01-01'
+        population:
+          value: 35803.0
+      - date: '2900-01-01'
+        population:
+          value: 18182.0
+      - date: '2910-01-01'
+        population:
+          value: 8472.0
+      - date: '2920-01-01'
+        population:
+          value: 3727.0
+      - date: '2921-03-14'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Montgomery
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Absecon A
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Absecon B
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Absecon C
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Sekkingstad
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Streeter Alpha
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Streeter Beta
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Streeter Gamma
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Streeter Delta
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Kaltenbach's Garden
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 40000
+    density:
+      value: 2.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 8
+  - name:
+      value: Osorio's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 62.1
+    temperature:
+      value: -212
+  - name:
+      value: Stanley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Brenneman
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: FAS1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: FAS2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Budzinski's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 10
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: B-1
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Wrighton's Plains
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.08
+    sysPos:
+      value: 11
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3860.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 22

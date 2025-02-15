@@ -1,0 +1,362 @@
+id: New Troy
+sucsId: 1855
+xcood: -51.105
+ycood: -259.908
+spectralType:
+  value: M4V
+primarySlot: 1
+event:
+  - date: '2921-04-29'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: New Troy
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green29
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 12300
+    density:
+      value: 5.2795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 26
+    water:
+      value: 48
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New Argyle
+        capital:
+          value: New Marston
+      - name:
+          value: Forestville
+      - name:
+          value: Horton
+      - name:
+          value: Colombier
+      - name:
+          value: Ar Raqqah
+    event:
+      - date: '2698-11-03'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52872.0
+        socioIndustrial:
+          value: C-F-A-F-F
+      - date: '2699-09-02'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 222394.0
+      - date: '2710-01-01'
+        population:
+          value: 18584672.0
+      - date: '2720-01-01'
+        population:
+          value: 122154992.0
+      - date: '2727-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2730-01-01'
+        population:
+          value: 271139606.0
+      - date: '2740-01-01'
+        population:
+          value: 380219147.0
+      - date: '2750-01-01'
+        population:
+          value: 439003474.0
+      - date: '2760-01-01'
+        population:
+          value: 463346384.0
+      - date: '2770-01-01'
+        population:
+          value: 470904695.0
+      - date: '2780-01-01'
+        population:
+          value: 471296104.0
+      - date: '2790-01-01'
+        population:
+          value: 397770740.0
+      - date: '2800-01-01'
+        population:
+          value: 241148205.0
+      - date: '2810-01-01'
+        population:
+          value: 140125071.0
+      - date: '2820-01-01'
+        population:
+          value: 78706780.0
+      - date: '2830-01-01'
+        population:
+          value: 37948852.0
+      - date: '2840-01-01'
+        population:
+          value: 18768812.0
+      - date: '2850-01-01'
+        population:
+          value: 8747577.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2860-01-01'
+        population:
+          value: 2953598.0
+      - date: '2870-01-01'
+        population:
+          value: 1085560.0
+      - date: '2880-01-01'
+        population:
+          value: 480841.0
+      - date: '2890-01-01'
+        population:
+          value: 211186.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: F-F-C-F-F
+      - date: '2900-01-01'
+        population:
+          value: 120651.0
+      - date: '2910-01-01'
+        population:
+          value: 61731.0
+      - date: '2920-01-01'
+        population:
+          value: 28771.0
+      - date: '2921-07-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bondye's Station
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 8
+  - name:
+      value: Finn Maccool
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: frozen12
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -107
+    water:
+      value: 56
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Saint-Fabien-de-Panet
+      - name:
+          value: Saint-Gabriel-de-Rimouski
+      - name:
+          value: Nova Pointe-Claire
+      - name:
+          value: New Scribner
+      - name:
+          value: New Tarbutt and Tarbutt Additional
+  - name:
+      value: Baron Samedi
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 4
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -145
+    water:
+      value: 0
+  - name:
+      value: Bon Dieu's Refuge
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 5
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Voodoo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 6
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 45000
+    density:
+      value: 2.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: ZG4.1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: ZG4.2
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Ellegua
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.0
+    sysPos:
+      value: 7
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 5.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Parker 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Parker 2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Parker 3
+        size:
+          value: large
+        icon: rock10

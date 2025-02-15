@@ -1,0 +1,519 @@
+id: Midway
+sucsId: 1701
+xcood: 247.633
+ycood: 203.129
+spectralType:
+  source: canon
+  value: G2V
+primarySlot: 3
+event:
+  - date: '2433-10-02'
+    zenithCharge:
+      value: yes
+  - date: '2440-07-01'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Sterquilinius
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 188
+    water:
+      value: 0
+  - name:
+      value: Morta
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: barren7
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 85
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Midway
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: wet3
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 14293
+    density:
+      value: 4.886777774252
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.4
+    temperature:
+      source: canon
+      value: 29
+    water:
+      source: canon
+      value: 85
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Midway is a comfortable temperate planet that is almost entirely covered
+      in water. The planet has abundant sources of materials which are used in the
+      heavy industry on planet and in orbit. The planet is home to the orbital Midway
+      Shipyards, one of the Combine's rare jumpship production and maintenance facilities.
+    landmass:
+      - name:
+          source: canon
+          value: Brook
+        capital:
+          source: canon
+          value: Saginaw
+      - name:
+          source: canon
+          value: Kahn
+      - name:
+          source: canon
+          value: Kure
+    satellite:
+      - name:
+          value: Oscuro Corazon
+        size:
+          value: medium
+        icon: rock10
+    event:
+      - date: '2424-09-18'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 61358.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2430-01-01'
+        population:
+          value: 176332.0
+      - date: '2440-01-01'
+        population:
+          value: 783130.0
+      - date: '2450-01-01'
+        population:
+          value: 2628675.0
+      - date: '2460-01-01'
+        population:
+          value: 7069281.0
+      - date: '2470-01-01'
+        population:
+          value: 15912693.0
+      - date: '2480-01-01'
+        population:
+          value: 30825130.0
+      - date: '2490-01-01'
+        population:
+          value: 52641347.0
+      - date: '2500-01-01'
+        population:
+          value: 81018316.0
+      - date: '2510-01-01'
+        population:
+          value: 114917903.0
+      - date: '2520-01-01'
+        population:
+          value: 152264970.0
+      - date: '2530-01-01'
+        population:
+          value: 190748391.0
+      - date: '2540-01-01'
+        population:
+          value: 229749169.0
+      - date: '2541-01-01'
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2550-01-01'
+        population:
+          value: 265184473.0
+      - date: '2560-01-01'
+        population:
+          value: 296917901.0
+      - date: '2570-01-01'
+        population:
+          value: 325132472.0
+      - date: '2578-01-01'
+        socioIndustrial:
+          value: B-C-A-B-C
+      - date: '2580-01-01'
+        population:
+          value: 349501975.0
+      - date: '2590-01-01'
+        population:
+          value: 369600586.0
+      - date: '2600-01-01'
+        population:
+          value: 386159076.0
+      - date: '2610-01-01'
+        population:
+          value: 401627865.0
+      - date: '2620-01-01'
+        population:
+          value: 413208541.0
+      - date: '2630-01-01'
+        population:
+          value: 421101119.0
+      - date: '2632-01-01'
+        socioIndustrial:
+          value: A-B-A-A-B
+      - date: '2635-12-01'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 426811681.0
+      - date: '2650-01-01'
+        population:
+          value: 431463249.0
+      - date: '2660-01-01'
+        population:
+          value: 434771503.0
+      - date: '2670-01-01'
+        population:
+          value: 436039035.0
+      - date: '2680-01-01'
+        population:
+          value: 433141168.0
+      - date: '2690-01-01'
+        population:
+          value: 431497506.0
+      - date: '2700-01-01'
+        population:
+          value: 430302242.0
+      - date: '2710-01-01'
+        population:
+          value: 431400236.0
+      - date: '2720-01-01'
+        population:
+          value: 431102627.0
+      - date: '2730-01-01'
+        population:
+          value: 428380544.0
+      - date: '2740-01-01'
+        population:
+          value: 425894443.0
+      - date: '2750-01-01'
+        population:
+          value: 424543053.0
+      - date: '2760-01-01'
+        population:
+          value: 422750426.0
+      - date: '2770-01-01'
+        population:
+          value: 419214238.0
+      - date: '2780-01-01'
+        population:
+          value: 418335063.0
+      - date: '2790-01-01'
+        population:
+          value: 416156903.0
+      - date: '2800-01-01'
+        population:
+          value: 413794077.0
+      - date: '2810-01-01'
+        population:
+          value: 411189177.0
+      - date: '2820-01-01'
+        population:
+          value: 402679608.0
+      - date: '2830-01-01'
+        population:
+          value: 393001222.0
+      - date: '2840-01-01'
+        population:
+          value: 384390226.0
+      - date: '2850-01-01'
+        population:
+          value: 376435262.0
+      - date: '2860-01-01'
+        population:
+          value: 367958611.0
+      - date: '2870-01-01'
+        population:
+          value: 359561150.0
+      - date: '2873-01-01'
+        socioIndustrial:
+          value: B-C-B-B-B
+      - date: '2880-01-01'
+        population:
+          value: 350265799.0
+      - date: '2890-01-01'
+        population:
+          value: 342272119.0
+      - date: '2900-01-01'
+        population:
+          value: 333734528.0
+      - date: '2901-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2910-01-01'
+        population:
+          value: 327030958.0
+      - date: '2920-01-01'
+        population:
+          value: 323863923.0
+      - date: '2930-01-01'
+        population:
+          value: 321425590.0
+      - date: '2940-01-01'
+        population:
+          value: 318510621.0
+      - date: '2950-01-01'
+        population:
+          value: 317786018.0
+      - date: '2960-01-01'
+        population:
+          value: 316276263.0
+      - date: '2970-01-01'
+        population:
+          value: 315949006.0
+      - date: '2980-01-01'
+        population:
+          value: 318082247.0
+      - date: '2990-01-01'
+        population:
+          value: 318345794.0
+      - date: '3000-01-01'
+        population:
+          value: 318213993.0
+      - date: '3010-01-01'
+        population:
+          value: 316112592.0
+      - date: '3020-01-01'
+        population:
+          value: 314513092.0
+      - date: '3030-01-01'
+        population:
+          value: 315852819.0
+      - date: '3035-01-01'
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '3040-01-01'
+        population:
+          value: 320145745.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-B-A-B-B
+      - date: '3050-01-01'
+        population:
+          value: 323751532.0
+      - date: '3060-01-01'
+        population:
+          value: 327725492.0
+      - date: '3070-01-01'
+        population:
+          value: 332113356.0
+      - date: '3080-01-01'
+        population:
+          value: 337604923.0
+      - date: '3090-01-01'
+        population:
+          value: 341885657.0
+      - date: '3100-01-01'
+        population:
+          value: 346497757.0
+      - date: '3110-01-01'
+        population:
+          value: 350330272.0
+      - date: '3119-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '3120-01-01'
+        population:
+          value: 353285441.0
+      - date: '3130-01-01'
+        population:
+          value: 354772360.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 355980639.0
+      - date: '3145-01-01'
+        population:
+          value: 356621981.0
+  - name:
+      value: Cupid Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -99
+  - name:
+      value: Larvae
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+  - name:
+      value: Manidoog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 170000
+    density:
+      value: 1.6
+    dayLength:
+      value: 19
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 1MO-1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 1MO-2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 1MO-3
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: 1MO-4
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 1MO-5
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: 1MO-6
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: 1MO-7
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: 1MO-8
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: 1MO-9
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Cupid Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.8
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -226

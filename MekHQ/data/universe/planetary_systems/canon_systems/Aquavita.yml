@@ -1,0 +1,422 @@
+id: Aquavita
+sucsId: 161
+xcood: -296.538
+ycood: 59.907
+spectralType:
+  value: G9V
+primarySlot: 3
+event:
+  - date: '2656-08-25'
+    nadirCharge:
+      value: yes
+  - date: '2795-08-05'
+    nadirCharge:
+      value: no
+  - date: '2858-04-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Ut
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: greenhouse40
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 329
+    water:
+      value: 0
+  - name:
+      value: Roman
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: barren17
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor and Carbon Dioxide
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 57
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Aquavita
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green23
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.67
+    diameter:
+      value: 11700
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 24
+    water:
+      value: 41
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: New Elgin
+        capital:
+          value: Pullman
+      - name:
+          value: Krødsherad
+      - name:
+          value: Nova How
+      - name:
+          value: Nova Minton
+    event:
+      - date: '2628-09-13'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 46204.0
+        socioIndustrial:
+          value: C-F-C-D-D
+      - date: '2630-01-01'
+        population:
+          value: 108016.0
+      - date: '2640-01-01'
+        population:
+          value: 2706464.0
+      - date: '2650-01-01'
+        population:
+          value: 20063778.0
+      - date: '2651-11-02'
+        hpg:
+          value: B
+      - date: '2655-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2660-01-06'
+        population:
+          value: 69970171.0
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2670-01-01'
+        population:
+          value: 152501051.0
+      - date: '2680-01-01'
+        population:
+          value: 247710197.0
+      - date: '2690-01-01'
+        population:
+          value: 334451049.0
+      - date: '2700-01-01'
+        population:
+          value: 404970040.0
+      - date: '2710-01-01'
+        population:
+          value: 456459624.0
+      - date: '2720-01-01'
+        population:
+          value: 492571539.0
+      - date: '2730-01-01'
+        population:
+          value: 515982427.0
+      - date: '2740-01-01'
+        population:
+          value: 533791088.0
+      - date: '2750-01-01'
+        population:
+          value: 545754777.0
+      - date: '2760-01-01'
+        population:
+          value: 553410623.0
+      - date: '2770-01-01'
+        population:
+          value: 559831969.0
+      - date: '2780-01-01'
+        population:
+          value: 563909581.0
+      - date: '2790-01-01'
+        population:
+          value: 559949138.0
+      - date: '2800-01-01'
+        population:
+          value: 555218935.0
+      - date: '2810-01-01'
+        population:
+          value: 559174116.0
+      - date: '2820-01-01'
+        population:
+          value: 554738514.0
+      - date: '2830-01-01'
+        population:
+          value: 457897652.0
+      - date: '2840-01-01'
+        population:
+          value: 14179580.0
+      - date: '2850-01-01'
+        population:
+          value: 316685.0
+      - date: '2858-01-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Harper
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Pruszkowski
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 29
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -112
+    water:
+      value: 0
+  - name:
+      value: Ulin's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: barren10
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -141
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Trommald I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Trommald II
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Rey's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: XC81
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: XC82
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: XC83
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Mojica
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 150000
+    density:
+      value: 0.8
+    dayLength:
+      value: 8
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: G8S-1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: G8S-2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: G8S-3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: G8S-4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: C-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 485.4
+    temperature:
+      value: -243

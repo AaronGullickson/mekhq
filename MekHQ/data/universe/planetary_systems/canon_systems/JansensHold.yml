@@ -1,0 +1,551 @@
+id: Jansen's Hold
+sucsId: 1233
+xcood: 183.985
+ycood: -378.279
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 3
+planet:
+  - name:
+      value: Olivia
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1100
+    density:
+      value: 2.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 186
+    water:
+      value: 0
+  - name:
+      value: East Keating
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.1
+    satellite:
+      - name:
+          value: Balaji
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Jansen's Hold
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green42
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.06
+    diameter:
+      value: 12656
+    density:
+      value: 5.861334424717
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 26
+    water:
+      source: canon
+      value: 45
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Jansen’s Hold is a cool-temperate planet with sufficient arable land to feeds its population, abundant resources and modest industry. The planet is home to a Taurus Territorial Industries BattleMech factory, located on the tundra of Glacia in the town of Masaaraq.
+
+      Manufacturing centers:
+      Taurus Territorial Industries
+    landmass:
+      - name:
+          source: canon
+          value: Glacia
+        capital:
+          source: canon
+          value: Theo
+      - name:
+          source: canon
+          value: Massak
+      - name:
+          source: canon
+          value: Puttaaq
+    satellite:
+      - name:
+          value: Dak
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Rogue
+        size:
+          value: large
+        icon: rock5
+    event:
+      - date: '2673-10-24'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48529.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2680-01-01'
+        population:
+          value: 861202.0
+      - date: '2683-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2685-01-01'
+        socioIndustrial:
+          value: C-C-B-D-C
+      - date: '2690-01-01'
+        population:
+          value: 9384802.0
+      - date: '2694-04-26'
+        hpg:
+          source: canon
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 32794601.0
+      - date: '2701-01-01'
+        socioIndustrial:
+          value: C-B-B-D-B
+      - date: '2710-01-01'
+        population:
+          value: 63072612.0
+      - date: '2717-01-01'
+        socioIndustrial:
+          value: B-A-A-C-A
+      - date: '2720-01-01'
+        population:
+          value: 88542191.0
+      - date: '2730-01-01'
+        population:
+          value: 105378588.0
+      - date: '2740-01-01'
+        population:
+          value: 115473907.0
+      - date: '2750-01-01'
+        population:
+          value: 121831555.0
+      - date: '2760-01-01'
+        population:
+          value: 125983944.0
+      - date: '2770-01-01'
+        population:
+          value: 127299493.0
+      - date: '2776-09-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-04-26'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 127601625.0
+      - date: '2790-01-01'
+        population:
+          value: 127504951.0
+      - date: '2800-01-01'
+        population:
+          value: 127593578.0
+      - date: '2810-01-01'
+        population:
+          value: 127708885.0
+      - date: '2820-01-01'
+        population:
+          value: 127784335.0
+      - date: '2830-01-01'
+        population:
+          value: 127726634.0
+      - date: '2840-01-01'
+        population:
+          value: 127748824.0
+      - date: '2850-01-01'
+        population:
+          value: 127784335.0
+      - date: '2852-01-01'
+        socioIndustrial:
+          value: B-B-B-C-B
+      - date: '2860-01-01'
+        population:
+          value: 127540394.0
+      - date: '2870-01-01'
+        population:
+          value: 127403106.0
+      - date: '2880-01-01'
+        population:
+          value: 127411958.0
+      - date: '2890-01-01'
+        population:
+          value: 127460660.0
+      - date: '2900-01-01'
+        population:
+          value: 127151057.0
+      - date: '2905-01-01'
+        socioIndustrial:
+          value: B-B-C-C-C
+      - date: '2910-01-01'
+        population:
+          value: 126498941.0
+      - date: '2920-01-01'
+        population:
+          value: 125561927.0
+      - date: '2930-01-01'
+        population:
+          value: 124489045.0
+      - date: '2940-01-01'
+        population:
+          value: 123463930.0
+      - date: '2950-01-01'
+        population:
+          value: 122549397.0
+      - date: '2960-01-01'
+        population:
+          value: 121781179.0
+      - date: '2970-01-01'
+        population:
+          value: 121005165.0
+      - date: '2980-01-01'
+        population:
+          value: 120723825.0
+      - date: '2990-01-01'
+        population:
+          value: 120367841.0
+      - date: '3000-01-01'
+        population:
+          value: 119962884.0
+      - date: '3010-01-01'
+        population:
+          value: 119783802.0
+      - date: '3020-01-01'
+        population:
+          value: 119929546.0
+      - date: '3030-01-01'
+        population:
+          value: 120586165.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '3040-01-01'
+        population:
+          value: 121688507.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-B-C-C
+      - date: '3050-01-01'
+        population:
+          value: 123022167.0
+      - date: '3060-01-01'
+        population:
+          value: 124121951.0
+      - date: '3070-01-01'
+        population:
+          value: 124943865.0
+      - date: '3080-01-01'
+        population:
+          value: 125344326.0
+      - date: '3090-01-01'
+        population:
+          value: 125746070.0
+      - date: '3091-01-01'
+        socioIndustrial:
+          value: C-B-B-C-C
+      - date: '3100-01-01'
+        population:
+          value: 125821540.0
+      - date: '3110-01-01'
+        population:
+          value: 126452224.0
+      - date: '3120-01-01'
+        population:
+          value: 127238663.0
+      - date: '3130-01-01'
+        population:
+          value: 128183721.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 128826245.0
+      - date: '3145-01-01'
+        population:
+          value: 129316716.0
+  - name:
+      value: Acadia
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.0
+  - name:
+      value: Pe Ell
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: QR1
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Aiomun Kondi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Dempsey
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Tuatha Dé Danann
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Dian Cecht
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Medb
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Morrison
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Yabuth
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Morrigan
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Inoue's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 80000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Raleigh
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Dimos Georgios Karaiskakis
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Poplar Bluff
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: South Hero
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ville-Savoye
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Kuortane
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Hayneville
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Okeanides
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Dryades
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Center Harbor
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Aeolos
+        size:
+          value: medium
+        icon: rock7

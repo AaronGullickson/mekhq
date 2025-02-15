@@ -1,0 +1,471 @@
+id: Kaufermann
+sucsId: 1306
+xcood: 405.802
+ycood: -100.734
+spectralType:
+  value: G0V
+primarySlot: 4
+event:
+  - date: '2743-10-15'
+    zenithCharge:
+      value: yes
+  - date: '2799-06-05'
+    zenithCharge:
+      value: no
+  - date: '2809-10-18'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Martinton
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.1
+    satellite:
+      - name:
+          value: Nantosvelta 1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Nantosvelta 2
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Pul-e Khumrī
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: barren1
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 98
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Yunomae Machi
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 29
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Kaufermann
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: dry16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 11100
+    density:
+      value: 5.8284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 22
+    water:
+      value: 100
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Saraste's Rock Archipelago
+        capital:
+          value: New Breitenau
+      - name:
+          value: Amies Archipelago
+      - name:
+          value: Gordon's Choice Archipelago
+      - name:
+          value: Hassan Archipelago
+      - name:
+          value: Poulter Archipelago
+      - name:
+          value: Hiraki's End Archipelago
+      - name:
+          value: Karavalis Archipelago
+      - name:
+          value: Horní Vilémovice Archipelago
+      - name:
+          value: Corleone Archipelago
+    satellite:
+      - name:
+          value: Cencio
+        size:
+          value: large
+        icon: rock10
+    event:
+      - date: '2738-11-17'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 54344.0
+        socioIndustrial:
+          value: B-D-A-D-C
+      - date: '2739-09-14'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 76122.0
+      - date: '2750-01-01'
+        population:
+          value: 332425.0
+      - date: '2760-01-01'
+        population:
+          value: 826099.0
+      - date: '2770-01-01'
+        population:
+          value: 304733.0
+      - date: '2780-01-01'
+        population:
+          value: 83919.0
+      - date: '2790-01-01'
+        population:
+          value: 17673.0
+      - date: '2800-01-01'
+        population:
+          value: 4481.0
+      - date: '2809-04-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Songling Qu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: frozen59
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -71
+    water:
+      value: 47
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Wintour
+      - name:
+          value: Lane
+      - name:
+          value: Morales's Wind
+      - name:
+          value: Raddle
+  - name:
+      value: Taylor's Harvest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Shakopee
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Telfer
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Cyclopes Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -178
+  - name:
+      value: Three Fates Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: asteroid3
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205
+  - name:
+      value: Laslett's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Coxheath
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Tsu
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Zacazonapan
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Taylor
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Imlay
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Kittery
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Swati
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 782.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: Hill
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 169.4
+    sysPos:
+      value: 11
+    icon: frozen33
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2204.8
+    temperature:
+      value: -246
+    water:
+      value: 100
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    landmass:
+      - name:
+          value: Old Reşadiye Bucağı Archipelago
+      - name:
+          value: Mockingbird Valley Archipelago
+      - name:
+          value: Azeglio Archipelago
+      - name:
+          value: Gushegu Archipelago
+      - name:
+          value: New Kozarës Archipelago
+      - name:
+          value: Lighthorne Archipelago
+      - name:
+          value: Nova Korkut Bucağı Archipelago
+      - name:
+          value: Shahrestān-e Mamasanī Archipelago
+      - name:
+          value: New Cernache do Bonjardim Archipelago
+      - name:
+          value: Phalawang Archipelago
+      - name:
+          value: Vechigen Archipelago
+      - name:
+          value: New Soro Archipelago
+      - name:
+          value: Rowl Archipelago
+      - name:
+          value: Kwaga Archipelago
+    satellite:
+      - name:
+          value: Cwm Cadnant
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Monbetsu Gun
+        size:
+          value: medium
+        icon: rock6

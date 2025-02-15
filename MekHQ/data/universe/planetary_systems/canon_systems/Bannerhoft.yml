@@ -1,0 +1,397 @@
+id: Bannerhoft
+sucsId: 254
+xcood: 550.561
+ycood: 285.392
+spectralType:
+  value: G8V
+primarySlot: 3
+event:
+  - date: '2789-04-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Epunamun
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 167
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Landkreis Starnberg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: barren13
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen
+    gravity:
+      value: 0.45
+    diameter:
+      value: 7500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 77
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Bannerhoft
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green26
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 37
+    water:
+      value: 51
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Ellison
+        capital:
+          value: Mama Oullo City
+      - name:
+          value: Racha-Lechkhumi and Kvemo Svaneti
+      - name:
+          value: Dustin's Rock
+      - name:
+          value: Atlantic Beach
+    event:
+      - date: '2625-03-04'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 51114.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2630-01-01'
+        population:
+          value: 202526.0
+      - date: '2638-06-12'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1469586.0
+      - date: '2650-01-01'
+        population:
+          value: 5207643.0
+      - date: '2660-01-01'
+        population:
+          value: 11725378.0
+      - date: '2667-01-01'
+        socioIndustrial:
+          value: B-C-B-C-A
+      - date: '2670-01-01'
+        population:
+          value: 19803194.0
+      - date: '2680-01-01'
+        population:
+          value: 27658198.0
+      - date: '2690-01-01'
+        population:
+          value: 34145892.0
+      - date: '2700-01-01'
+        population:
+          value: 39014751.0
+      - date: '2710-01-01'
+        population:
+          value: 42479763.0
+      - date: '2720-01-01'
+        population:
+          value: 44692617.0
+      - date: '2730-01-01'
+        population:
+          value: 45945491.0
+      - date: '2740-01-01'
+        population:
+          value: 46735512.0
+      - date: '2750-01-01'
+        population:
+          value: 46979396.0
+      - date: '2760-01-01'
+        population:
+          value: 26896638.0
+      - date: '2770-01-01'
+        population:
+          value: 4197903.0
+      - date: '2780-01-01'
+        population:
+          value: 539620.0
+      - date: '2789-06-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Yupan
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 2
+  - name:
+      value: Cocamama
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -107
+    water:
+      value: 0
+  - name:
+      value: Rappahannock
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 35000
+    density:
+      value: 2.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: J-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: J-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: J-3
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: J-4
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: West Virginia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: frozen2
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 26
+    yearLength:
+      value: 62.1
+    temperature:
+      value: -203
+    water:
+      value: 45
+    landmass:
+      - name:
+          value: New Västra Frölunda
+      - name:
+          value: Evening Sha
+      - name:
+          value: East Millinocket
+      - name:
+          value: Dolbeau-Mistassini
+      - name:
+          value: Old Bni Drar
+      - name:
+          value: Víznar Prime
+  - name:
+      value: Sequim
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1200
+    density:
+      value: 3.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 172.9
+    temperature:
+      value: -229
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Curití
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 22
+  - name:
+      value: Huecuve Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 123.2
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 1367.5
+    temperature:
+      value: -251

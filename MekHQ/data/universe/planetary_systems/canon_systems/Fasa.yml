@@ -1,0 +1,312 @@
+id: Fasa
+sucsId: 2855
+xcood: -144.615
+ycood: 1625.624
+spectralType:
+  value: G6V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Fasa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 1
+    icon: green48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 29
+    water:
+      value: 45
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Hosseinzadeh
+        capital:
+          value: Hosseinzadeh City
+      - name:
+          value: Nyle
+      - name:
+          value: Yamashita Port
+    event:
+      - date: '2821-06-18'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 51624.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2822-10-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          source: canon
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Turure
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 2
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 6
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: F1
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Shichifukujin
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 3
+    icon: barren18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 28
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -100
+    water:
+      value: 0
+  - name:
+      value: Izanagi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.68
+    sysPos:
+      value: 4
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10.2
+    satellite:
+      - name:
+          value: FJG1
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Asadīyeh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 5
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 45000
+    density:
+      value: 2.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Þunor 1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Þunor 2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Þunor 3
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Þunor 4
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Toyo Mike Nu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Salehi
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Sadeghi
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Mahmoodi
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Eskandari
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Karami
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Kazemi
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Luckenwal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Matlalcueitl
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Ashrafi
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Gholami
+        size:
+          value: medium
+        icon: rock3

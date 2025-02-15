@@ -1,0 +1,389 @@
+id: Kazlam
+sucsId: 3055
+xcood: -1420.702
+ycood: 804.13
+spectralType:
+  value: K9V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Kazlam
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green52
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 10800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 25
+    water:
+      value: 37
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Dimos Dio-Olympos
+        capital:
+          value: Sirens City
+      - name:
+          value: Rocky Hill
+      - name:
+          value: Ramla
+      - name:
+          value: Marinette
+      - name:
+          value: Old Loipersbach im Burgenl
+    satellite:
+      - name:
+          value: Tiamat I
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Tiamat II
+        size:
+          value: medium
+        icon: rock1
+    event:
+      - date: '3095-02-11'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '3099-02-07'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 72387.0
+      - date: '3110-01-01'
+        population:
+          value: 100386.0
+      - date: '3120-01-01'
+        population:
+          value: 118750.0
+      - date: '3130-01-01'
+        population:
+          value: 139424.0
+      - date: '3140-01-01'
+        population:
+          value: 161019.0
+      - date: '3145-01-01'
+        population:
+          value: 172263.0
+  - name:
+      value: Camara
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 15
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Pandemos
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 2000
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -32
+    water:
+      value: 0
+  - name:
+      value: Daphnaie
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Nykanen
+        size:
+          value: giant
+        icon: rock16
+  - name:
+      value: Pegasus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: frozen13
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -125
+    water:
+      value: 35
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: New Saint-Aimé-du-Lac-des-Îles
+      - name:
+          value: Lincoln
+  - name:
+      value: Nephelai
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1900
+    density:
+      value: 3.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -167
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Godin's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -197
+  - name:
+      value: Harmony
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 17
+  - name:
+      value: Cerynitis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 6
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Q.1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Q.2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Q.3
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Coeus
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: AP1
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Aesculapius
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 11
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 170000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 675.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: M1
+        size:
+          value: medium
+        icon: rock9

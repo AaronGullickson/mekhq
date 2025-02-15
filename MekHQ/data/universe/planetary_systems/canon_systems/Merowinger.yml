@@ -1,0 +1,488 @@
+id: Merowinger
+sucsId: 1687
+xcood: 576.426
+ycood: -193.947
+spectralType:
+  value: F0V
+primarySlot: 4
+event:
+  - date: '2853-02-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Cananis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 323
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Winkler
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Ehlerssernte
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: greenhouse5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor and Methane
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 348
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Eulalia
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Pontian Pope
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Bauer
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: barren17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.67
+    diameter:
+      value: 13500
+    density:
+      value: 3.5
+    dayLength:
+      value: 28
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 114
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Merowinger
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 29
+    water:
+      value: 40
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Nueva Esparta
+        capital:
+          value: Price Town
+      - name:
+          value: Katzenbach
+      - name:
+          value: Nova Nishitama-gun
+      - name:
+          value: Burow
+      - name:
+          value: McKinley
+      - name:
+          value: Altmann's Patch
+    event:
+      - date: '2738-07-03'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 56044.0
+        socioIndustrial:
+          value: C-D-D-C-D
+      - date: '2739-07-27'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 72899.0
+      - date: '2748-01-01'
+        socioIndustrial:
+          value: D-D-D-D-D
+      - date: '2750-01-01'
+        population:
+          value: 230465.0
+      - date: '2760-01-01'
+        population:
+          value: 580862.0
+      - date: '2770-01-01'
+        population:
+          value: 1220424.0
+      - date: '2780-01-01'
+        population:
+          value: 2216258.0
+      - date: '2781-12-30'
+        hpg:
+          value: C
+      - date: '2790-01-01'
+        population:
+          value: 3592868.0
+      - date: '2800-01-01'
+        population:
+          value: 5288916.0
+      - date: '2810-01-01'
+        population:
+          value: 7195083.0
+      - date: '2820-01-01'
+        population:
+          value: 9180872.0
+      - date: '2830-01-01'
+        population:
+          value: 5022966.0
+      - date: '2840-01-01'
+        population:
+          value: 588622.0
+      - date: '2850-01-01'
+        population:
+          value: 74829.0
+      - date: '2853-12-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Morrigan Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 9.6
+    temperature:
+      value: -53
+  - name:
+      value: Herman's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 24.0
+    smallMoons:
+      value: 14
+  - name:
+      value: Thuysgrenze
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 64.0
+    smallMoons:
+      value: 10
+  - name:
+      value: Grill
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 175.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Frigga 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Frigga 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Frigga 3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Frigga 4
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Frigga 5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Frigga 6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kolf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 9
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 489.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Brehmer
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Korner's Garden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 10
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1372.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Fissler
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Morrigan Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 246.4
+    sysPos:
+      value: 11
+    icon: asteroid2
+    yearLength:
+      value: 3867.8
+    temperature:
+      value: -244
+  - name:
+      value: Morrigan Belt 3
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 492.16
+    sysPos:
+      value: 12
+    icon: asteroid1
+    yearLength:
+      value: 10918.4
+    temperature:
+      value: -252
+  - name:
+      value: Rangosch's Den
+    type:
+      value: GAS_GIANT
+    orbitalDist: 983.68
+    sysPos:
+      value: 13
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 30851.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: 0SK1
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: 0SK2
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: 0SK3
+        size:
+          value: medium
+        icon: rock10

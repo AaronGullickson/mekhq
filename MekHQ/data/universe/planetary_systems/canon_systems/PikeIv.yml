@@ -1,0 +1,831 @@
+id: Pike IV
+sucsId: 2027
+xcood: 20.153
+ycood: 39.24
+spectralType:
+  source: canon
+  value: K9IV
+primarySlot: 4
+event:
+  - date: '2419-12-08'
+    zenithCharge:
+      value: yes
+  - date: '2469-11-03'
+    nadirCharge:
+      value: yes
+  - date: '2802-02-24'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Pike I
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1900
+    density:
+      value: 5.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 266
+    water:
+      value: 0
+  - name:
+      value: Pike II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: greenhouse8
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Argon
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 28
+    water:
+      value: 64
+    landmass:
+      - name:
+          value: Safety Harbor
+      - name:
+          value: Esperance
+  - name:
+      value: Pike III
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1000
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 68
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Pike IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 4
+    icon: green46
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.97
+    diameter:
+      value: 10792
+    density:
+      value: 6.303610217274
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 38
+    water:
+      source: canon
+      value: 37
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: High atmospheric pressure and scarce surface water made colonizing Pike
+      IV a difficult prospect, but not one the early settlers were unwilling to tackle.
+      The majority of this mineral-rich world‘s first cities were founded in the highlands
+      of Erubis and Blight, Pike IV‘s two northern continents, where the air pressure
+      was more manageable. Unfortunately, the colonists soon learned that Pike‘s frequent
+      windstorms could do heavy damage at the higher altitudes unless they took precautions
+      against the unpredictable weather. Paramus, a trading post and home to Pike‘s
+      largest spaceport, became the first of the planet‘s major cities to be surrounded
+      by a large, heavy wall to counteract the high winds. Meanwhile, the supercontinent
+      of Karasia, just south of Blight and stretching all the way to the planet‘s
+      southern pole, boasted fewer high-altitude regions and claimed the majority
+      of the planet‘s landmass, as well as its wealth of metal ores and gemstones.
+      Smaller, sparser settlements grew on Karasia as the result of stubborn efforts
+      to access the bulk of Pike IV‘s wealth. Many of these were made up of low-slung
+      buildings, sealed against the weather and attached to air-thinning units to
+      make life in the oppressive environment bearable. However, no walls were required
+      around the cities because the windstorms across Karasia were milder. An odd
+      dual society arose from the division between the highlanders of Eribus and Blight
+      and the lowlanders of Karasia. Symbiotic but fraught with political conflict,
+      the populations of the highlands and lowlands often argued over the needs of
+      their respective cities and towns. Matters came to a head during the rule of
+      the Star League and the Terran Hegemony, when SLDF mediators were called in
+      to settle a small brushfire war between highlanders and lowlanders. After the
+      Star League‘s collapse and the ascendance of the Draconis Combine, raiders enjoyed
+      mixed success trying to use the sociopolitical situation on Pike IV to their
+      advantage. Depending on the political climate at any given time, resistance
+      to invaders ranged from determined and coordinated to bickering and ineffective.
+      During one invasion in 3012, attacking ‘Mech forces struck Paramus, meeting
+      resistance from both highlander and lowlander militias. Unfortunately for the
+      defenders, recent political infighting between the two factions tainted their
+      command structure, leading to poor coordination that allowed the attackers to
+      overwhelm the city briefly, at a cost of millions of C-bills in damage. The
+      resettlement directives put in place by Devlin Stone during the creation of
+      the Republic have muted the chronic infighting, but experts believe that as
+      the conflicting needs of the highlanders and lowlanders become clear to Pike‘s
+      new inhabitants, the old rivalries may return. Unsurprisingly, Pike IV has two
+      capital cities that govern the planet. The lowlander capital, Rolfshire, is
+      located on the west coast of Karasia, while the highlander capital of Stratopolis
+      is located on Erubis, on a plateau three hundred kilometers northwest of Paramus.
+    landmass:
+      - name:
+          source: canon
+          value: Blight
+      - name:
+          source: canon
+          value: Erubis
+        capital:
+          source: canon
+          value: Stratopolis
+      - name:
+          source: canon
+          value: Karasia
+        capital:
+          source: canon
+          value: Rolfshire
+    satellite:
+      - name:
+          value: None
+        size:
+          value: medium
+        icon: rock1
+    event:
+      - date: '2242-12-25'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 49289.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2250-01-01'
+        population:
+          value: 188820.0
+      - date: '2260-01-01'
+        population:
+          value: 820575.0
+      - date: '2270-01-01'
+        population:
+          value: 2900770.0
+      - date: '2280-01-01'
+        population:
+          value: 8554208.0
+      - date: '2290-01-01'
+        population:
+          value: 21757811.0
+      - date: '2300-01-01'
+        population:
+          value: 48789075.0
+      - date: '2310-01-01'
+        population:
+          value: 97950248.0
+      - date: '2320-04-06'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 178397470.0
+      - date: '2330-01-01'
+        population:
+          value: 298997251.0
+      - date: '2340-01-01'
+        population:
+          value: 466827709.0
+      - date: '2350-01-01'
+        population:
+          value: 687359278.0
+      - date: '2360-01-01'
+        population:
+          value: 960095623.0
+      - date: '2370-01-01'
+        population:
+          value: 1280524124.0
+      - date: '2380-01-01'
+        population:
+          value: 1656993782.0
+      - date: '2390-01-01'
+        population:
+          value: 2062958332.0
+      - date: '2400-01-01'
+        population:
+          value: 2500232179.0
+      - date: '2410-01-01'
+        population:
+          value: 2935245498.0
+      - date: '2420-01-01'
+        population:
+          value: 3336970933.0
+      - date: '2430-01-01'
+        population:
+          value: 3730040677.0
+      - date: '2431-01-01'
+        socioIndustrial:
+          value: C-C-B-C-F
+      - date: '2440-01-01'
+        population:
+          value: 4096205522.0
+      - date: '2450-01-01'
+        population:
+          value: 4442574691.0
+      - date: '2460-01-01'
+        population:
+          value: 4740175533.0
+      - date: '2470-01-01'
+        population:
+          value: 5006068249.0
+      - date: '2480-01-01'
+        population:
+          value: 5242528279.0
+      - date: '2490-01-01'
+        population:
+          value: 5456322381.0
+      - date: '2500-01-01'
+        population:
+          value: 5663460122.0
+      - date: '2510-01-01'
+        population:
+          value: 5817714207.0
+      - date: '2520-01-01'
+        population:
+          value: 5942848791.0
+      - date: '2530-01-01'
+        population:
+          value: 6066400166.0
+      - date: '2537-01-01'
+        socioIndustrial:
+          value: B-B-B-B-F
+      - date: '2540-01-01'
+        population:
+          value: 6154786239.0
+      - date: '2550-01-01'
+        population:
+          value: 6263213392.0
+      - date: '2560-01-01'
+        population:
+          value: 6391672201.0
+      - date: '2570-01-01'
+        population:
+          value: 6539871880.0
+      - date: '2580-01-01'
+        population:
+          value: 6693828266.0
+      - date: '2590-01-01'
+        population:
+          value: 6824257754.0
+      - date: '2600-01-01'
+        population:
+          value: 6948002002.0
+      - date: '2610-01-01'
+        population:
+          value: 7064680171.0
+      - date: '2616-01-01'
+        socioIndustrial:
+          value: A-A-B-A-D
+      - date: '2620-01-01'
+        population:
+          value: 7172294558.0
+      - date: '2630-11-29'
+        hpg:
+          value: B
+        population:
+          value: 7291899372.0
+      - date: '2640-01-01'
+        population:
+          value: 7390961361.0
+      - date: '2650-01-01'
+        population:
+          value: 7460505198.0
+      - date: '2660-01-01'
+        population:
+          value: 7503429961.0
+      - date: '2670-01-01'
+        population:
+          value: 7551570790.0
+      - date: '2680-01-01'
+        population:
+          value: 7640658030.0
+      - date: '2690-01-01'
+        population:
+          value: 7716870774.0
+      - date: '2700-01-01'
+        population:
+          value: 7774014325.0
+      - date: '2710-01-01'
+        population:
+          value: 7876351144.0
+      - date: '2720-01-01'
+        population:
+          value: 7966811761.0
+      - date: '2730-01-01'
+        population:
+          value: 8054904440.0
+      - date: '2740-01-01'
+        population:
+          value: 8140777751.0
+      - date: '2750-01-01'
+        population:
+          value: 8170454503.0
+      - date: '2760-01-01'
+        population:
+          value: 8194149373.0
+      - date: '2767-10-04'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 8200900634.0
+      - date: '2779-07-14'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 8145953134.0
+      - date: '2790-05-07'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 8092792944.0
+      - date: '2800-01-01'
+        population:
+          value: 8021670360.0
+      - date: '2810-01-01'
+        population:
+          value: 7910836712.0
+      - date: '2820-01-01'
+        population:
+          value: 7808378417.0
+      - date: '2821-03-03'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2830-01-01'
+        population:
+          value: 7707247124.0
+      - date: '2840-01-01'
+        population:
+          value: 7594095782.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '2850-01-01'
+        population:
+          value: 7491797132.0
+      - date: '2860-01-01'
+        population:
+          value: 7418146458.0
+      - date: '2870-01-01'
+        population:
+          value: 7352952927.0
+      - date: '2880-01-01'
+        population:
+          value: 7312658545.0
+      - date: '2890-01-01'
+        population:
+          value: 7295579044.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '2900-01-01'
+        population:
+          value: 7272159846.0
+      - date: '2910-01-01'
+        population:
+          value: 7239922435.0
+      - date: '2920-01-01'
+        population:
+          value: 7224279667.0
+      - date: '2930-01-01'
+        population:
+          value: 7231462683.0
+      - date: '2940-01-01'
+        population:
+          value: 7220901893.0
+      - date: '2950-01-01'
+        population:
+          value: 7190152573.0
+      - date: '2960-01-01'
+        population:
+          value: 7158278699.0
+      - date: '2970-01-01'
+        population:
+          value: 7101593483.0
+      - date: '2980-01-01'
+        population:
+          value: 7062676558.0
+      - date: '2990-01-01'
+        population:
+          value: 7067219626.0
+      - date: '3000-01-01'
+        population:
+          value: 7081694292.0
+      - date: '3010-01-01'
+        population:
+          value: 7091222353.0
+      - date: '3020-01-01'
+        population:
+          value: 7111979780.0
+      - date: '3030-01-01'
+        population:
+          value: 7152171314.0
+      - date: '3040-01-01'
+        population:
+          value: 7236343164.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: A-A-C-A-D
+      - date: '3050-01-01'
+        population:
+          value: 7333229393.0
+      - date: '3060-01-01'
+        population:
+          value: 7440335865.0
+      - date: '3070-01-01'
+        population:
+          value: 7536937941.0
+      - date: '3072-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3076-09-06'
+        faction:
+          source: canon
+          value:
+            - CGB
+            - CSR
+            - Stone
+            - WOB
+      - date: '3076-09-10'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 7612685427.0
+      - date: '3081-09-09'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 7726191041.0
+      - date: '3100-01-01'
+        population:
+          value: 7850804345.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: A-A-C-A-D
+      - date: '3110-01-01'
+        population:
+          value: 7950350303.0
+      - date: '3120-01-01'
+        population:
+          value: 8096371440.0
+      - date: '3130-01-01'
+        population:
+          value: 8222020575.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 8346280503.0
+      - date: '3145-10-07'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 8403228615.0
+  - name:
+      value: Pike V
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Riley
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bell
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Pike VI
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: frozen12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -115
+    water:
+      value: 42
+    landmass:
+      - name:
+          value: Benjamin
+      - name:
+          value: Kelly's Mistake
+  - name:
+      value: Pike VII
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -165
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Pike VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Yinlugen Bud
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Burke
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Pike IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: University Park
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Millinocket
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Þonar
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hedley
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Mecanhelas
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Pike X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 675.7
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Tsuki Yomi I
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Tsuki Yomi II
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Tsuki Yomi III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Tsuki Yomi IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pike XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 153.8
+    sysPos:
+      value: 11
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1907.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 17

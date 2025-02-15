@@ -1,0 +1,347 @@
+id: Sentarus
+sucsId: 2281
+xcood: -220.452
+ycood: 523.32
+spectralType:
+  value: K2V
+primarySlot: 2
+event:
+  - date: '2861-07-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Montale
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1800
+    density:
+      value: 1.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 143
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Sentarus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 31
+    water:
+      value: 51
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: New Collins 1
+        capital:
+          value: Jonesport City
+      - name:
+          value: New Collins 2
+      - name:
+          value: New Collins 3
+    satellite:
+      - name:
+          value: Wendigo I
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Wendigo II
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2735-06-24'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 44904.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2736-07-10'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 87066.0
+      - date: '2750-01-01'
+        population:
+          value: 269187.0
+      - date: '2760-01-01'
+        population:
+          value: 674175.0
+      - date: '2770-01-01'
+        population:
+          value: 1417188.0
+      - date: '2779-08-29'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2570232.0
+      - date: '2790-01-01'
+        population:
+          value: 2374489.0
+      - date: '2800-01-01'
+        population:
+          value: 1025350.0
+      - date: '2810-01-01'
+        population:
+          value: 424380.0
+      - date: '2820-01-01'
+        population:
+          value: 202891.0
+      - date: '2830-01-01'
+        population:
+          value: 79807.0
+      - date: '2840-01-01'
+        population:
+          value: 37833.0
+      - date: '2850-01-01'
+        population:
+          value: 22360.0
+      - date: '2860-01-01'
+        population:
+          value: 13556.0
+      - date: '2861-06-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: 951 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -10
+  - name:
+      value: Nazareth
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Robinson
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Numazu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Rudolph
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Old Kume-gun
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Cape Peterson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Maan Emo
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Antero Vipunen
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Tuoni
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Pääpiru
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Peko
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Owensboro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 50.8
+    smallMoons:
+      value: 20

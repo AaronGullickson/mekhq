@@ -1,0 +1,661 @@
+id: Skepptana
+sucsId: 2351
+xcood: 529.901
+ycood: -191.038
+spectralType:
+  value: G1V
+primarySlot: 4
+event:
+  - date: '2693-09-25'
+    nadirCharge:
+      value: yes
+  - date: '2758-10-05'
+    zenithCharge:
+      value: yes
+  - date: '2785-06-05'
+    zenithCharge:
+      value: no
+  - date: '2815-09-17'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Iuppiter
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 221
+    water:
+      value: 0
+  - name:
+      value: Kimmel
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: barren23
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide and
+        Argon
+    gravity:
+      value: 0.31
+    diameter:
+      value: 4500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 110
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Z1
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Arc-Herrera
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: badwater35
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 48
+    water:
+      value: 40
+    landmass:
+      - name:
+          value: Terlano
+      - name:
+          value: New Ukromnovskoye
+      - name:
+          value: Undués de Lerda
+      - name:
+          value: New Elbistan
+  - name:
+      source: canon
+      value: Skepptana
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.31
+    diameter:
+      value: 13500
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 28
+    water:
+      value: 72
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Gade
+        capital:
+          value: New Creto
+      - name:
+          value: New Zájezdec
+      - name:
+          value: Old Oisterwijk
+      - name:
+          value: Old Orekhovo-Borisovo Yuzhnoye
+      - name:
+          value: Attica
+      - name:
+          value: New Towol-dong
+    event:
+      - date: '2646-12-09'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 53575.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2650-01-01'
+        population:
+          value: 192589.0
+      - date: '2656-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2660-01-01'
+        population:
+          value: 1830627.0
+      - date: '2670-01-01'
+        population:
+          value: 7023149.0
+      - date: '2671-05-04'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 15639970.0
+      - date: '2690-01-01'
+        population:
+          value: 25292049.0
+      - date: '2700-01-01'
+        population:
+          value: 33448403.0
+      - date: '2710-01-01'
+        population:
+          value: 39491439.0
+      - date: '2720-01-01'
+        population:
+          value: 43384820.0
+      - date: '2730-01-01'
+        population:
+          value: 45629820.0
+      - date: '2740-01-01'
+        population:
+          value: 46962970.0
+      - date: '2750-01-01'
+        population:
+          value: 47777889.0
+      - date: '2760-01-01'
+        population:
+          value: 47916326.0
+      - date: '2770-01-01'
+        population:
+          value: 47653268.0
+      - date: '2780-01-01'
+        population:
+          value: 47424723.0
+      - date: '2790-01-01'
+        population:
+          value: 47195772.0
+      - date: '2800-01-01'
+        population:
+          value: 46863509.0
+      - date: '2810-01-01'
+        population:
+          value: 46501082.0
+      - date: '2820-01-01'
+        population:
+          value: 45980535.0
+      - date: '2830-01-01'
+        population:
+          value: 45455228.0
+      - date: '2840-01-01'
+        population:
+          value: 44685436.0
+      - date: '2850-01-01'
+        population:
+          value: 44226399.0
+      - date: '2851-01-01'
+        socioIndustrial:
+          value: D-D-B-F-D
+      - date: '2860-01-01'
+        population:
+          value: 43751692.0
+      - date: '2870-01-01'
+        population:
+          value: 43231705.0
+      - date: '2880-01-01'
+        population:
+          value: 42469883.0
+      - date: '2890-01-01'
+        population:
+          value: 41809034.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: F-F-C-F-D
+      - date: '2900-01-01'
+        population:
+          value: 41110565.0
+      - date: '2910-01-01'
+        population:
+          value: 40348513.0
+      - date: '2920-01-01'
+        population:
+          value: 39757697.0
+      - date: '2930-01-01'
+        population:
+          value: 39551426.0
+      - date: '2940-01-01'
+        population:
+          value: 39575999.0
+      - date: '2950-01-01'
+        population:
+          value: 39739181.0
+      - date: '2960-01-01'
+        population:
+          value: 39875164.0
+      - date: '2970-01-01'
+        population:
+          value: 40039579.0
+      - date: '2980-01-01'
+        population:
+          value: 40167234.0
+      - date: '2990-01-01'
+        population:
+          value: 40089347.0
+      - date: '3000-01-01'
+        population:
+          value: 39853499.0
+      - date: '3010-01-01'
+        population:
+          value: 39480864.0
+      - date: '3020-01-01'
+        population:
+          value: 39184657.0
+      - date: '3030-09-18'
+        population:
+          value: 39350094.0
+        socioIndustrial:
+          value: D-F-C-F-D
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: C-F-C-F-D
+      - date: '3040-01-01'
+        population:
+          value: 39638400.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: B-D-B-D-C
+      - date: '3050-01-01'
+        population:
+          value: 39904869.0
+      - date: '3060-01-01'
+        population:
+          value: 40128963.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 40422977.0
+      - date: '3072-02-20'
+        faction:
+          source: canon
+          value:
+            - FVC
+      - date: '3080-01-01'
+        population:
+          value: 40829234.0
+      - date: '3090-01-01'
+        population:
+          value: 41487756.0
+      - date: '3100-07-25'
+        population:
+          value: 42190638.0
+        socioIndustrial:
+          value: B-D-B-D-C
+      - date: '3110-01-01'
+        population:
+          value: 42589100.0
+      - date: '3120-01-01'
+        population:
+          value: 42794019.0
+      - date: '3130-01-01'
+        population:
+          value: 43267352.0
+      - date: '3140-01-01'
+        population:
+          value: 43658516.0
+      - date: '3145-01-01'
+        population:
+          value: 43921254.0
+  - name:
+      value: Van Putten's Grove
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Oa Rove
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Hernández
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Papa Tu Anuku
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Funk
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Qasavara
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Carnossi
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Salacia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: A1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: A2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: A3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: A4
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: A5
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Serra's Retreat
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: WY1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: WY2
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: WY3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Aurora
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Sterculius
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Johnson
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Thalna
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 5Q-1
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Schuck
+    type:
+      value: ICE_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 55000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: X-1
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Craft
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Banica
+        size:
+          value: medium
+        icon: rock13

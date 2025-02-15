@@ -1,0 +1,505 @@
+id: Novgorod
+sucsId: 3002
+xcood: -760.155
+ycood: 940.824
+spectralType:
+  value: K7V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Novgorod
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green26
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 13200
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 33
+    water:
+      value: 57
+    lifeForm:
+      value: AMPHIBIAN
+    desc: No description available.
+    landmass:
+      - name:
+          value: Nilov
+        capital:
+          value: Omsk
+      - name:
+          value: Maevsky's Rift
+      - name:
+          value: Goleizovsky's Stand
+      - name:
+          value: Cape Dammer
+      - name:
+          value: Vaschenko
+      - name:
+          value: Severo-Vostochnyy Administrativnyy Okrug
+    event:
+      - date: '2891-11-17'
+        faction:
+          source: canon
+          value:
+            - HL
+        hpg:
+          value: X
+        population:
+          value: 40566.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2900-01-01'
+        population:
+          value: 41150.0
+      - date: '2910-01-01'
+        population:
+          value: 41877.0
+      - date: '2920-01-01'
+        population:
+          value: 42762.0
+      - date: '2930-01-01'
+        population:
+          value: 43341.0
+      - date: '2940-01-01'
+        population:
+          value: 43775.0
+      - date: '2950-01-01'
+        population:
+          value: 44397.0
+      - date: '2960-01-01'
+        population:
+          value: 45091.0
+      - date: '2970-01-01'
+        population:
+          value: 45585.0
+      - date: '2980-01-01'
+        population:
+          value: 45843.0
+      - date: '2990-01-01'
+        population:
+          value: 46319.0
+      - date: '3000-01-01'
+        population:
+          value: 46716.0
+      - date: '3010-01-01'
+        population:
+          value: 47197.0
+      - date: '3018-01-01'
+        socioIndustrial:
+          value: D-F-A-D-C
+      - date: '3020-01-01'
+        population:
+          value: 47519.0
+      - date: '3025-11-09'
+        faction:
+          source: canon
+          value:
+            - HL
+      - date: '3030-01-01'
+        population:
+          value: 48019.0
+      - date: '3040-01-01'
+        population:
+          value: 48470.0
+      - date: '3045-01-01'
+        socioIndustrial:
+          value: D-F-A-D-B
+      - date: '3050-01-01'
+        population:
+          value: 48553.0
+      - date: '3060-01-01'
+        population:
+          value: 48228.0
+      - date: '3070-01-01'
+        population:
+          value: 47962.0
+      - date: '3080-01-01'
+        population:
+          value: 48560.0
+      - date: '3090-01-01'
+        population:
+          value: 49235.0
+      - date: '3100-01-01'
+        population:
+          value: 49820.0
+      - date: '3110-01-01'
+        population:
+          value: 49889.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: C-D-A-C-B
+      - date: '3120-01-01'
+        population:
+          value: 49869.0
+      - date: '3130-01-01'
+        population:
+          value: 50200.0
+      - date: '3140-01-01'
+        population:
+          value: 50724.0
+      - date: '3140-01-15'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3145-01-01'
+        population:
+          value: 50979.0
+  - name:
+      value: Urakchiev's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Dalman
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Sahapov's Harvest
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: barren14
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -10
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Long
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 4
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Yahnyuk
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 45000
+    density:
+      value: 2.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: H1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: H2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: H3
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: H4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Laletin
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 3
+  - name:
+      value: O11
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.76
+    sysPos:
+      value: 7
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 40.3
+    temperature:
+      value: -220
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Kaleda
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Anapel
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Czernobog
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Dziewona
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: O12
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 80000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Weles A
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Weles B
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Weles C
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Weles D
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Basgil
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Karlsson I
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: Karlsson II
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: O13
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 6
+    yearLength:
+      value: 888.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Uchaikin I
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Uchaikin II
+        size:
+          value: medium
+        icon: rock2

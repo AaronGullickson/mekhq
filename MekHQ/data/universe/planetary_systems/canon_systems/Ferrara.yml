@@ -1,0 +1,497 @@
+id: Ferrara
+sucsId: 863
+xcood: 272.891
+ycood: -169.215
+spectralType:
+  value: M3V
+primarySlot: 1
+event:
+  - date: '2644-01-05'
+    nadirCharge:
+      value: yes
+  - date: '2652-03-05'
+    zenithCharge:
+      value: yes
+  - date: '2796-07-30'
+    zenithCharge:
+      value: no
+  - date: '2801-01-24'
+    nadirCharge:
+      value: no
+  - date: '2924-02-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ferrara
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green44
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 12000
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 25
+    water:
+      value: 46
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 8
+    landmass:
+      - name:
+          value: Raffadali
+        capital:
+          value: Salatown
+      - name:
+          value: Nuova Sardegna
+    event:
+      - date: '2630-06-20'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 46408.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2634-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2640-01-01'
+        population:
+          value: 1227684.0
+      - date: '2650-01-01'
+        population:
+          value: 9378477.0
+      - date: '2658-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2660-01-01'
+        population:
+          value: 32995663.0
+      - date: '2662-01-15'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 71905172.0
+      - date: '2680-01-01'
+        population:
+          value: 116511587.0
+      - date: '2690-01-01'
+        population:
+          value: 157677462.0
+      - date: '2700-01-01'
+        population:
+          value: 191040428.0
+      - date: '2710-01-01'
+        population:
+          value: 215531870.0
+      - date: '2720-01-01'
+        population:
+          value: 232452170.0
+      - date: '2730-01-01'
+        population:
+          value: 245002759.0
+      - date: '2740-01-01'
+        population:
+          value: 254472597.0
+      - date: '2750-01-01'
+        population:
+          value: 261141117.0
+      - date: '2760-01-01'
+        population:
+          value: 266572136.0
+      - date: '2770-01-01'
+        population:
+          value: 270861636.0
+      - date: '2780-01-01'
+        population:
+          value: 273821948.0
+      - date: '2790-01-01'
+        population:
+          value: 221182516.0
+      - date: '2800-01-01'
+        population:
+          value: 95644213.0
+      - date: '2810-01-01'
+        population:
+          value: 37317608.0
+      - date: '2820-01-01'
+        population:
+          value: 18753550.0
+      - date: '2830-01-01'
+        population:
+          value: 11127168.0
+      - date: '2840-01-01'
+        population:
+          value: 6868469.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-C-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 3825449.0
+      - date: '2860-01-01'
+        population:
+          value: 1516377.0
+      - date: '2870-01-01'
+        population:
+          value: 698544.0
+      - date: '2880-01-01'
+        population:
+          value: 356643.0
+      - date: '2890-01-01'
+        population:
+          value: 214983.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: D-D-C-C-B
+      - date: '2900-01-01'
+        population:
+          value: 107186.0
+      - date: '2910-01-01'
+        population:
+          value: 64102.0
+      - date: '2920-01-01'
+        population:
+          value: 39883.0
+      - date: '2924-10-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: God L Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: asteroid2
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+  - name:
+      value: Ridotta di Finocciaro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 14
+  - name:
+      value: Bin Ahmad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 4
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Raggio
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 5
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Machiavelli
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Auster
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Savoldelli
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.0
+    sysPos:
+      value: 7
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.2
+    smallMoons:
+      value: 12
+  - name:
+      value: Cilento's Patch
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.88
+    sysPos:
+      value: 8
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 14.3
+    smallMoons:
+      value: 18
+  - name:
+      value: Tuili
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.64
+    sysPos:
+      value: 9
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 39.7
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Fabulinus
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Fons
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Günther
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 23.16
+    sysPos:
+      value: 10
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 111.5
+    smallMoons:
+      value: 8
+  - name:
+      value: Savona
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.2
+    sysPos:
+      value: 11
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 100000
+    density:
+      value: 0.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 314.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Zasekin A
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Zasekin B
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Capestrano
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.28
+    sysPos:
+      value: 12
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 886.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10

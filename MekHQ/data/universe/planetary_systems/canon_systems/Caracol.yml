@@ -1,0 +1,426 @@
+id: Caracol
+sucsId: 470
+xcood: 273.349
+ycood: 398.823
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2680-09-17'
+    nadirCharge:
+      value: yes
+  - date: '2805-12-10'
+    nadirCharge:
+      value: no
+  - date: '2831-11-24'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Caracol
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green40
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 10500
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 26
+    water:
+      value: 71
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Eldorado
+        capital:
+          value: Colinas
+      - name:
+          value: Nova Mandaguari
+      - name:
+          value: Milagres do Maranhão
+      - name:
+          value: Içara
+      - name:
+          value: Barra do Rio Azul
+      - name:
+          value: Nova Birigui
+      - name:
+          value: Nova Medas
+      - name:
+          value: New Alvinlândia
+    event:
+      - date: '2670-08-26'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 48567.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2677-04-08'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 1993762.0
+      - date: '2689-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2690-01-01'
+        population:
+          value: 14268510.0
+      - date: '2700-01-01'
+        population:
+          value: 40457136.0
+      - date: '2710-06-16'
+        population:
+          value: 70596394.0
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2720-01-01'
+        population:
+          value: 95320839.0
+      - date: '2729-01-01'
+        socioIndustrial:
+          value: B-B-C-B-A
+      - date: '2730-01-01'
+        population:
+          value: 112115191.0
+      - date: '2740-01-01'
+        population:
+          value: 122058336.0
+      - date: '2750-01-01'
+        population:
+          value: 126778335.0
+      - date: '2760-01-01'
+        population:
+          value: 129659466.0
+      - date: '2770-01-01'
+        population:
+          value: 131753989.0
+      - date: '2780-01-01'
+        population:
+          value: 133061865.0
+      - date: '2790-01-01'
+        population:
+          value: 131246954.0
+      - date: '2800-01-01'
+        population:
+          value: 123378521.0
+      - date: '2810-01-01'
+        population:
+          value: 106063081.0
+      - date: '2820-01-01'
+        population:
+          value: 7941990.0
+      - date: '2830-01-01'
+        population:
+          value: 112312.0
+      - date: '2831-05-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: O'Sullivan
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 2000
+    density:
+      value: 3.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: LU1
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Npoles's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Gorgulho A
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Gorgulho B
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Gorgulho C
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Gorgulho D
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Gorgulho E
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Gorgulho F
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Gorgulho G
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Dimos Lesbos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Ivorá I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ivorá II
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Inrouville's Plains
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Hiller
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Guadalajara
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Siilasvuo
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Cecere
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 90000
+    density:
+      value: 0.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 14
+  - name:
+      value: Lagoa Santa
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Morrito 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Morrito 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Curva's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 7.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Hoso No Kami
+        size:
+          value: large
+        icon: rock8

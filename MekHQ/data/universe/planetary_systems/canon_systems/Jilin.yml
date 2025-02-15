@@ -1,0 +1,555 @@
+id: Jilin
+sucsId: 1253
+xcood: -6.215
+ycood: -114.935
+spectralType:
+  value: G9V
+primarySlot: 2
+event:
+  - date: '2800-02-11'
+    zenithCharge:
+      value: yes
+  - date: '2859-11-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Jarovit
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 152
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Jilin
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green48
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13800
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 40
+    water:
+      value: 31
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Niu's Gulf
+        capital:
+          value: Xin Lungring
+      - name:
+          value: She
+    event:
+      - date: '2746-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 51870.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2748-10-18'
+        hpg:
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 115877.0
+      - date: '2760-01-01'
+        population:
+          value: 640440.0
+      - date: '2770-01-01'
+        population:
+          value: 2483063.0
+      - date: '2780-01-01'
+        population:
+          value: 7215527.0
+      - date: '2790-01-01'
+        population:
+          value: 16737155.0
+      - date: '2800-01-01'
+        population:
+          value: 32619284.0
+      - date: '2810-01-01'
+        population:
+          value: 55115275.0
+      - date: '2820-01-01'
+        population:
+          value: 83390236.0
+      - date: '2830-01-01'
+        population:
+          value: 104039743.0
+      - date: '2840-01-01'
+        population:
+          value: 8023844.0
+      - date: '2850-01-01'
+        population:
+          value: 488693.0
+      - date: '2859-08-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Belun
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: CX1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: CX2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: CX3
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Li Ne Zha's Rest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Rosewarne
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Zha
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: SX11
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Dazbog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: L1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: L2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: L3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: L4
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: L5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Que's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Dugnai
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.55
+    diameter:
+      value: 30000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 5
+  - name:
+      value: Koschei
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Cao Guojiu I
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Cao Guojiu II
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Fitt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 10
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Ako Mainyu I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Ako Mainyu II
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Ako Mainyu III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ako Mainyu IV
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Ako Mainyu V
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bogatyr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 11
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: J1F1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: J1F2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: J1F3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: J1F4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: J1F5
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: J1F6
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Chuang
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 246.08
+    sysPos:
+      value: 12
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3860.2
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: P01
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: P02
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: P03
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: P04
+        size:
+          value: medium
+        icon: rock9

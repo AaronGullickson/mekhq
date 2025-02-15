@@ -1,0 +1,646 @@
+id: Seginus
+sucsId: 2272
+xcood: -82.36
+ycood: 62.765
+spectralType:
+  source: canon
+  value: A7V
+primarySlot: 3
+event:
+  - date: '2397-03-07'
+    nadirCharge:
+      value: yes
+  - date: '2427-04-08'
+    zenithCharge:
+      value: yes
+  - date: '2788-09-22'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Dvorovoi
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.72
+    sysPos:
+      value: 1
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Kheper
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.26
+    sysPos:
+      value: 2
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.9
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Farley A
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Farley B
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      source: canon
+      value: Seginus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.88
+    sysPos:
+      value: 3
+    icon: green23
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.02
+    diameter:
+      value: 10879
+    density:
+      value: 6.573261650033
+    dayLength:
+      value: 25
+    yearLength:
+      value: 5.1
+    temperature:
+      source: canon
+      value: 52
+    water:
+      source: canon
+      value: 72
+    lifeForm:
+      source: canon
+      value: FISH
+    desc: |-
+      Seginus is a hot and steamy world with a single gigantic supercontinent, Teremun, that seems almost completely covered in rocky mountains, thick jungles, and swirling storms. Thunderstorms, hurricanes, and tornadoes constantly churn the water and pound the land on this world, varying in intensity between seasons, but seemingly never coming to an end. Settled in spite of its harsh climate and lack of mineral or metallurgical wealth, Seginus eventually came under the sway of the Federation of Skye, and later the Lyran Commonwealth, its people benefiting from the mercantile alliances that became the foundations of House Steiner.
+
+      For a short time the planet‘s greatest export, the Segine tempest swimmer, became a delicacy throughout the Federation, but like all fads, its fame and the economic boost to Seginus ran their course all too quickly. Nevertheless, the introduction to the interstellar community under House Steiner opened up this world to trade with its neighbors, though this was sorely hindered by the planet‘s sheer distance from a safe jump point. In addition, secondary stations were built in the system to serve as waypoints for incoming and outgoing traffic, breaking up the monotony of a month-long journey. Unfortunately, these marvels of spacecraft engineering, with sophisticated equipment to maintain their unusual synchronous orbits between the jump points and the planet, no longer exist. All four stations were lost to the centuries of declining technology brought on by the Succession Wars—an ironic twist of fate, considering that Seginus‘s lack of military value and long in-system transit times made it a poor target for actual raids or invasions. Despite this, Seginus maintains a subsistence-level trade in its limited common metals and the frozen, freeze-dried, and prepackaged products of its marine ranching industries.
+
+      The capital city, Gambootas, is home not only to the planet‘s sole interstellar spaceport, but also to the corporate headquarters of Segine AquaCulture, the planet‘s largest marine ranching and food processing industry.
+    landmass:
+      - name:
+          source: canon
+          value: Teremun
+        capital:
+          source: canon
+          value: Gambootas
+    satellite:
+      - name:
+          value: Minisc
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Ophra
+        size:
+          value: giant
+        icon: rock7
+    event:
+      - date: '2247-11-15'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50953.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2250-07-23'
+        population:
+          value: 78092.0
+        socioIndustrial:
+          value: C-D-B-C-C
+      - date: '2260-01-01'
+        population:
+          value: 286649.0
+      - date: '2270-01-01'
+        population:
+          value: 886534.0
+      - date: '2280-01-01'
+        population:
+          value: 2367247.0
+      - date: '2290-01-01'
+        population:
+          value: 5575696.0
+      - date: '2299-10-02'
+        faction:
+          source: canon
+          value:
+            - FoS
+      - date: '2300-01-01'
+        population:
+          value: 11605375.0
+      - date: '2310-01-01'
+        population:
+          value: 21974184.0
+      - date: '2320-01-01'
+        population:
+          value: 38430543.0
+      - date: '2330-01-01'
+        population:
+          value: 62312519.0
+      - date: '2340-01-01'
+        population:
+          value: 95475406.0
+      - date: '2341-03-16'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 138540965.0
+      - date: '2360-01-01'
+        population:
+          value: 192085594.0
+      - date: '2370-01-01'
+        population:
+          value: 255473482.0
+      - date: '2380-01-01'
+        population:
+          value: 326682521.0
+      - date: '2390-01-01'
+        population:
+          value: 401865393.0
+      - date: '2400-01-01'
+        population:
+          value: 480794672.0
+      - date: '2410-01-01'
+        population:
+          value: 561913971.0
+      - date: '2420-01-01'
+        population:
+          value: 645586548.0
+      - date: '2430-01-01'
+        population:
+          value: 727473244.0
+      - date: '2440-01-01'
+        population:
+          value: 803961099.0
+      - date: '2450-01-01'
+        population:
+          value: 875958432.0
+      - date: '2460-01-01'
+        population:
+          value: 946953344.0
+      - date: '2470-01-01'
+        population:
+          value: 1013819603.0
+      - date: '2480-01-01'
+        population:
+          value: 1065653036.0
+      - date: '2490-01-01'
+        population:
+          value: 1109201223.0
+      - date: '2500-01-01'
+        population:
+          value: 1147386181.0
+      - date: '2510-01-01'
+        population:
+          value: 1181752684.0
+      - date: '2520-01-01'
+        population:
+          value: 1212317138.0
+      - date: '2530-01-01'
+        population:
+          value: 1238805934.0
+      - date: '2540-01-01'
+        population:
+          value: 1263154548.0
+      - date: '2544-01-01'
+        socioIndustrial:
+          value: B-D-B-B-C
+      - date: '2550-01-01'
+        population:
+          value: 1282512706.0
+      - date: '2560-01-01'
+        population:
+          value: 1301873789.0
+      - date: '2570-01-01'
+        population:
+          value: 1318817265.0
+      - date: '2580-01-01'
+        population:
+          value: 1327818112.0
+      - date: '2590-01-01'
+        population:
+          value: 1331479661.0
+      - date: '2600-01-01'
+        population:
+          value: 1346677628.0
+      - date: '2605-01-01'
+        socioIndustrial:
+          value: A-C-A-A-B
+      - date: '2610-01-01'
+        population:
+          value: 1367518610.0
+      - date: '2620-01-01'
+        population:
+          value: 1378983430.0
+      - date: '2630-01-01'
+        population:
+          value: 1386310930.0
+      - date: '2640-01-01'
+        population:
+          value: 1394638461.0
+      - date: '2650-01-01'
+        population:
+          value: 1405276070.0
+      - date: '2660-01-01'
+        population:
+          value: 1412761385.0
+      - date: '2670-10-31'
+        hpg:
+          value: B
+        population:
+          value: 1418305856.0
+      - date: '2680-01-01'
+        population:
+          value: 1414622942.0
+      - date: '2690-01-01'
+        population:
+          value: 1411727621.0
+      - date: '2700-01-01'
+        population:
+          value: 1411391231.0
+      - date: '2710-01-01'
+        population:
+          value: 1411989212.0
+      - date: '2720-01-01'
+        population:
+          value: 1412172949.0
+      - date: '2730-01-01'
+        population:
+          value: 1415106783.0
+      - date: '2740-01-01'
+        population:
+          value: 1428549009.0
+      - date: '2750-01-01'
+        population:
+          value: 1435799118.0
+      - date: '2760-01-01'
+        population:
+          value: 1440250833.0
+      - date: '2770-01-01'
+        population:
+          value: 1437877963.0
+      - date: '2780-01-01'
+        population:
+          value: 1429598969.0
+      - date: '2790-01-01'
+        population:
+          value: 1420215946.0
+      - date: '2800-01-01'
+        population:
+          value: 1423461734.0
+      - date: '2810-01-01'
+        population:
+          value: 1427090789.0
+      - date: '2820-01-01'
+        population:
+          value: 1434502621.0
+      - date: '2830-01-01'
+        population:
+          value: 1438917650.0
+      - date: '2840-01-01'
+        population:
+          value: 1434250744.0
+      - date: '2850-01-01'
+        population:
+          value: 1430352289.0
+      - date: '2860-01-01'
+        population:
+          value: 1436645369.0
+      - date: '2870-01-01'
+        population:
+          value: 1434250744.0
+      - date: '2873-01-01'
+        socioIndustrial:
+          value: B-D-B-B-C
+      - date: '2880-01-01'
+        population:
+          value: 1415733993.0
+      - date: '2890-01-01'
+        population:
+          value: 1393413151.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: C-F-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 1367836577.0
+      - date: '2910-01-01'
+        population:
+          value: 1339903036.0
+      - date: '2920-01-01'
+        population:
+          value: 1310467235.0
+      - date: '2930-01-01'
+        population:
+          value: 1280665710.0
+      - date: '2940-01-01'
+        population:
+          value: 1246606796.0
+      - date: '2950-01-01'
+        population:
+          value: 1216013366.0
+      - date: '2960-01-01'
+        population:
+          value: 1190552960.0
+      - date: '2970-01-01'
+        population:
+          value: 1170240154.0
+      - date: '2980-01-01'
+        population:
+          value: 1148759997.0
+      - date: '2990-01-01'
+        population:
+          value: 1122340215.0
+      - date: '3000-01-01'
+        population:
+          value: 1102319829.0
+      - date: '3010-01-01'
+        population:
+          value: 1083512426.0
+      - date: '3020-01-01'
+        population:
+          value: 1064464998.0
+      - date: '3030-01-01'
+        population:
+          value: 1064021396.0
+      - date: '3036-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '3040-01-01'
+        population:
+          value: 1074607523.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: A-B-B-A-B
+      - date: '3050-01-01'
+        population:
+          value: 1088559758.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 1099939853.0
+      - date: '3070-01-01'
+        population:
+          value: 1109107347.0
+      - date: '3080-01-01'
+        population:
+          value: 1120926415.0
+      - date: '3081-02-05'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1134912437.0
+      - date: '3094-01-01'
+        socioIndustrial:
+          value: B-B-B-A-B
+      - date: '3100-01-01'
+        population:
+          value: 1152986462.0
+      - date: '3103-01-01'
+        socioIndustrial:
+          value: B-B-A-A-B
+      - date: '3110-01-01'
+        population:
+          value: 1169007969.0
+      - date: '3120-01-01'
+        population:
+          value: 1188100127.0
+      - date: '3130-01-01'
+        population:
+          value: 1209679562.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 1225017953.0
+      - date: '3145-07-25'
+        faction:
+          source: canon
+          value:
+            - CJF
+        population:
+          value: 1231158381.0
+      - date: '3152-06-01'
+        faction:
+          source: sucs
+          value:
+            - IND
+  - name:
+      value: Mokoš
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.8
+    sysPos:
+      value: 4
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 2000
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.8
+    temperature:
+      value: 113
+    water:
+      value: 0
+  - name:
+      value: Cerberus's Nest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.04
+    sysPos:
+      value: 5
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.4
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Formosa 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Formosa 2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Formosa 3
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Dazbog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.36
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 28.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Haar I
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Haar II
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Belobog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 18.0
+    sysPos:
+      value: 7
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 9
+    yearLength:
+      value: 76.4
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: UO1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: UO2
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: UO3
+        size:
+          value: medium
+        icon: rock9

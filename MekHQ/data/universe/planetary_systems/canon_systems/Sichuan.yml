@@ -1,0 +1,520 @@
+id: Sichuan
+sucsId: 2328
+xcood: 35.534
+ycood: -108.342
+spectralType:
+  value: G7V
+primarySlot: 3
+event:
+  - date: '2673-09-09'
+    zenithCharge:
+      value: yes
+  - date: '2803-03-21'
+    zenithCharge:
+      value: no
+  - date: '2915-02-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Wan's End
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.78
+    diameter:
+      value: 11500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+  - name:
+      value: Sorensen's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: greenhouse35
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 81
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Sichuan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green14
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 9900
+    density:
+      value: 5.8284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 25
+    water:
+      value: 51
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Xin Diwopu
+        capital:
+          value: Liao
+      - name:
+          value: New Shanyin Xian
+      - name:
+          value: Huaiji Xian
+      - name:
+          value: Cong Port
+    event:
+      - date: '2671-09-16'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 46897.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2672-03-04'
+        hpg:
+          value: B
+      - date: '2676-01-01'
+        socioIndustrial:
+          value: B-D-B-D-C
+      - date: '2680-01-01'
+        population:
+          value: 2628058.0
+      - date: '2690-01-01'
+        population:
+          value: 29555088.0
+      - date: '2696-01-01'
+        socioIndustrial:
+          value: A-C-A-C-B
+      - date: '2700-01-01'
+        population:
+          value: 104408216.0
+      - date: '2710-01-01'
+        population:
+          value: 201994700.0
+      - date: '2720-01-01'
+        population:
+          value: 287105424.0
+      - date: '2730-01-01'
+        population:
+          value: 346299631.0
+      - date: '2740-01-01'
+        population:
+          value: 382184379.0
+      - date: '2750-01-01'
+        population:
+          value: 404646628.0
+      - date: '2760-01-01'
+        population:
+          value: 417324886.0
+      - date: '2770-01-01'
+        population:
+          value: 423311673.0
+      - date: '2780-01-01'
+        population:
+          value: 427990257.0
+      - date: '2790-01-01'
+        population:
+          value: 327888924.0
+      - date: '2800-01-01'
+        population:
+          value: 121217366.0
+      - date: '2810-01-01'
+        population:
+          value: 53915820.0
+      - date: '2820-01-01'
+        population:
+          value: 21959536.0
+      - date: '2830-01-01'
+        population:
+          value: 8118228.0
+      - date: '2840-01-01'
+        population:
+          value: 3335744.0
+      - date: '2850-01-01'
+        population:
+          value: 1800867.0
+      - date: '2860-01-01'
+        population:
+          value: 851931.0
+      - date: '2870-04-30'
+        population:
+          value: 468104.0
+        socioIndustrial:
+          value: B-D-B-D-C
+      - date: '2880-01-01'
+        population:
+          value: 254950.0
+      - date: '2890-01-01'
+        population:
+          value: 130556.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: C-F-C-F-C
+      - date: '2900-01-01'
+        population:
+          value: 53175.0
+      - date: '2910-01-01'
+        population:
+          value: 24499.0
+      - date: '2915-12-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bowman's Redoubt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Ida
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Dharani
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Jinhaihu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Xia
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: King
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Si-ma
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Tofi
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Remus
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Mac Óg 1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Mac Óg 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Mac Óg 3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Mac Óg 4
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Sun Hou Zi Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 74.1
+    temperature:
+      value: -213
+  - name:
+      value: Panmao Xiang
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Laverna I
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: Laverna II
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Laverna III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Laverna IV
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Laverna V
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Laverna VI
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Laverna VII
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Berlevåg
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Panshi
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Shenfan
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Karjaw
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Da Yu Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -252
+  - name:
+      value: Gong's Frontier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 11
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4606.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 14

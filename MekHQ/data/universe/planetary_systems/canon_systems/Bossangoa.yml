@@ -1,0 +1,370 @@
+id: Bossangoa
+sucsId: 372
+xcood: 731.853
+ycood: 277.423
+spectralType:
+  value: F6V
+primarySlot: 4
+event:
+  - date: '2806-09-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Þonar
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Ségard
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Dickson
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Thunor
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.01
+    diameter:
+      value: 900
+    density:
+      value: 1.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 113
+    water:
+      value: 0
+  - name:
+      value: Pertch's Home
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.9
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: U1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: U2
+        size:
+          value: large
+        icon: rock4
+  - name:
+      source: canon
+      value: Bossangoa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: green25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.2
+    temperature:
+      value: 24
+    water:
+      value: 60
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Mongoumba
+        capital:
+          value: Mana
+      - name:
+          value: Préfecture de la Sangha-Mbaéré
+      - name:
+          value: Koui
+      - name:
+          value: Bangassou
+    event:
+      - date: '2646-08-05'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 46418.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2649-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '2650-01-01'
+        population:
+          value: 132298.0
+      - date: '2660-01-01'
+        population:
+          value: 852076.0
+      - date: '2670-01-01'
+        population:
+          value: 2638551.0
+      - date: '2671-01-01'
+        socioIndustrial:
+          value: F-F-B-C-D
+      - date: '2680-01-01'
+        population:
+          value: 5210260.0
+      - date: '2690-01-01'
+        population:
+          value: 7831394.0
+      - date: '2692-11-22'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 10092567.0
+      - date: '2710-01-01'
+        population:
+          value: 11821288.0
+      - date: '2720-01-01'
+        population:
+          value: 13070961.0
+      - date: '2730-01-01'
+        population:
+          value: 13936236.0
+      - date: '2740-01-01'
+        population:
+          value: 14561143.0
+      - date: '2750-01-01'
+        population:
+          value: 14989394.0
+      - date: '2760-01-01'
+        population:
+          value: 15320995.0
+      - date: '2770-01-01'
+        population:
+          value: 15488950.0
+      - date: '2780-01-01'
+        population:
+          value: 6284241.0
+      - date: '2790-01-01'
+        population:
+          value: 1814242.0
+      - date: '2800-01-01'
+        population:
+          value: 621147.0
+      - date: '2806-07-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Eostre
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: frozen48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.99
+    diameter:
+      value: 14500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -75
+    water:
+      value: 32
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Bria
+      - name:
+          value: Hirosaki
+      - name:
+          value: Sainte-Marie-la-Blanche
+      - name:
+          value: Jayshan
+    satellite:
+      - name:
+          value: Lopti
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Rheda
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 13.0
+    sysPos:
+      value: 6
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1000
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 46.9
+    temperature:
+      value: -171
+    water:
+      value: 0
+  - name:
+      value: Ēostre
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 25.48
+    sysPos:
+      value: 7
+    icon: barren9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 128.6
+    temperature:
+      value: -196
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Régnier
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Woden
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 100.36
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1005.4
+    smallMoons:
+      value: 1

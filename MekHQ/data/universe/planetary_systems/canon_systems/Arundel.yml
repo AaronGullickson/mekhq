@@ -1,0 +1,404 @@
+id: Arundel
+sucsId: 185
+xcood: 595.209
+ycood: -121.347
+spectralType:
+  value: M7V
+primarySlot: 1
+event:
+  - date: '2720-11-17'
+    nadirCharge:
+      value: yes
+  - date: '2928-12-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Arundel
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green52
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 36
+    water:
+      value: 35
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Appleton
+        capital:
+          value: Nomós Kykládon
+      - name:
+          value: Easthampton
+    satellite:
+      - name:
+          value: LO1
+        size:
+          value: large
+        icon: rock15
+    event:
+      - date: '2718-09-27'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 58740.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2720-01-01'
+        population:
+          value: 77020.0
+      - date: '2726-02-06'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 255137.0
+      - date: '2740-01-01'
+        population:
+          value: 675316.0
+      - date: '2750-01-01'
+        population:
+          value: 1490004.0
+      - date: '2760-01-01'
+        population:
+          value: 2828923.0
+      - date: '2767-11-17'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 4740228.0
+      - date: '2780-07-18'
+        hpg:
+          value: B
+        population:
+          value: 7196061.0
+      - date: '2790-01-01'
+        population:
+          value: 7670982.0
+      - date: '2800-01-01'
+        population:
+          value: 4885683.0
+      - date: '2810-01-01'
+        population:
+          value: 3699818.0
+      - date: '2820-01-01'
+        population:
+          value: 2876249.0
+      - date: '2830-01-01'
+        population:
+          value: 2166723.0
+      - date: '2840-01-01'
+        population:
+          value: 1524627.0
+      - date: '2850-01-01'
+        population:
+          value: 1136538.0
+      - date: '2860-01-01'
+        population:
+          value: 842803.0
+      - date: '2870-01-01'
+        population:
+          value: 669091.0
+      - date: '2880-01-01'
+        population:
+          value: 525639.0
+      - date: '2890-01-01'
+        population:
+          value: 415115.0
+      - date: '2900-01-01'
+        population:
+          value: 329555.0
+      - date: '2910-01-01'
+        population:
+          value: 233113.0
+      - date: '2920-01-01'
+        population:
+          value: 186039.0
+      - date: '2928-05-20'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Satuba
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 2
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: CO1
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Jones
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 3
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 1
+  - name:
+      value: Dorey's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 4
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 6
+  - name:
+      value: Madison
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Empanda 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Empanda 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Millon's Gulf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Morta I
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Morta II
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Morta III
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Morta IV
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Morta V
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: New Beaconsfield
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.72
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 21.5
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Ossipee
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Simmons
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.76
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 170.6
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Pegasus
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Melidae
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Calais
+        size:
+          value: medium
+        icon: oddmoon3

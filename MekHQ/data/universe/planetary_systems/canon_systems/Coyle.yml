@@ -1,0 +1,422 @@
+id: Coyle
+sucsId: 615
+xcood: 636.799
+ycood: 170.182
+spectralType:
+  value: G2V
+primarySlot: 1
+event:
+  - date: '2911-02-22'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Coyle
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 1
+    icon: dry26
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 36
+    water:
+      value: 18
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Soriano's Harbour
+        capital:
+          value: New Argilliers
+    event:
+      - date: '2706-04-13'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 50842.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2710-01-01'
+        population:
+          value: 79418.0
+      - date: '2720-01-01'
+        population:
+          value: 210062.0
+      - date: '2728-07-27'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 465644.0
+      - date: '2740-01-01'
+        population:
+          value: 893019.0
+      - date: '2750-01-01'
+        population:
+          value: 1517701.0
+      - date: '2760-01-01'
+        population:
+          value: 2343426.0
+      - date: '2770-01-01'
+        population:
+          value: 3340566.0
+      - date: '2780-01-01'
+        population:
+          value: 4461952.0
+      - date: '2790-01-01'
+        population:
+          value: 4424958.0
+      - date: '2800-01-01'
+        population:
+          value: 2629939.0
+      - date: '2805-01-05'
+        hpg:
+          value: D
+      - date: '2810-01-01'
+        population:
+          value: 1383876.0
+      - date: '2820-01-01'
+        population:
+          value: 736303.0
+      - date: '2830-01-01'
+        population:
+          value: 447413.0
+      - date: '2840-08-20'
+        population:
+          value: 268877.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2850-01-01'
+        population:
+          value: 135355.0
+      - date: '2860-01-01'
+        population:
+          value: 61677.0
+      - date: '2870-01-01'
+        population:
+          value: 27795.0
+      - date: '2880-01-01'
+        population:
+          value: 12595.0
+      - date: '2890-01-01'
+        population:
+          value: 5739.0
+      - date: '2900-01-01'
+        population:
+          value: 2644.0
+      - date: '2910-01-01'
+        population:
+          value: 1495.0
+      - date: '2911-05-04'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Beisigl
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 2
+    icon: badwater14
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 26
+    water:
+      value: 28
+    landmass:
+      - name:
+          value: López
+      - name:
+          value: Parker's End
+  - name:
+      value: Etheridge
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Vehine Hae
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Latmikaik
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Hi'aka
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Sheridan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Beliticaurus I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Beliticaurus II
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Beliticaurus III
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Beliticaurus IV
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Carroll
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 4
+  - name:
+      value: New Islip
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 140000
+    density:
+      value: 0.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 3Z-1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 3Z-2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 3Z-3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Peabody
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: 2NJ1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 2NJ2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: 2NJ3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 2NJ4
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 2NJ5
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: 2NJ6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 2NJ7
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 2NJ8
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 2NJ9
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Aoife Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -226

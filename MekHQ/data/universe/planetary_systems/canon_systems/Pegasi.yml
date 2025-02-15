@@ -1,0 +1,360 @@
+id: Pegasi
+sucsId: 3138
+xcood: 677.614
+ycood: -134.353
+spectralType:
+  value: M5V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Pegasi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green34
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 28
+    water:
+      value: 49
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Old Alfshög
+        capital:
+          value: Poskitt City
+      - name:
+          value: Santiago
+      - name:
+          value: Ladysmith
+    satellite:
+      - name:
+          value: Old Man Coyote
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '3130-04-23'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 179832.0
+      - date: '3145-01-01'
+        population:
+          value: 191813.0
+  - name:
+      value: Coleraine
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: frozen53
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Argon and Nitric Acid
+    gravity:
+      value: 1.02
+    diameter:
+      value: 13500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -54
+    water:
+      value: 93
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Barrett Archipelago
+      - name:
+          value: Abedi Archipelago
+      - name:
+          value: Nabeel Archipelago
+      - name:
+          value: Spencer Archipelago
+      - name:
+          value: Henson's Gulf Archipelago
+      - name:
+          value: Lehrer Archipelago
+      - name:
+          value: Fabiszak Archipelago
+      - name:
+          value: Birdal's Harvest Archipelago
+      - name:
+          value: Huang's Choice Archipelago
+  - name:
+      value: Crispim's Planet
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -99
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Pakoštane
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -136
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Nova Banī Dahmān
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 90000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Grand Bois
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Bloch's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Dharmapalas
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: St Marys
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Ollivier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 7.8
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Volturnus
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Aroonoona
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 21.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Nicholson I
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Nicholson II
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Nicholson III
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Nicholson IV
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Nicholson V
+        size:
+          value: medium
+        icon: oddmoon3

@@ -1,0 +1,271 @@
+id: Fronc
+sucsId: 2902
+xcood: -1.121
+ycood: -517.354
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 5
+planet:
+  - name:
+      value: Burlingame
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren4
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 198
+    water:
+      value: 0
+    smallMoons:
+      value: 7
+  - name:
+      value: Caza de Batroun
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+  - name:
+      value: Shahrestān-e Āshtīān
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 3
+    icon: frozen21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Chlorine
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -95
+    water:
+      value: 70
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Cornaro
+        capital:
+          value: Cornaro City
+      - name:
+          value: Le
+      - name:
+          value: Asad's Redoubt
+      - name:
+          value: Parker
+  - name:
+      value: Piprā Pashchim
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: frozen33
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.21
+    diameter:
+      value: 14500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -31
+    water:
+      value: 51
+    landmass:
+      - name:
+          value: New Tharaka - Nithi A
+      - name:
+          value: New Tharaka - Nithi B
+  - name:
+      source: canon
+      value: Fronc
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 5
+    icon: green19
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12472
+    density:
+      value: 5.627965909997
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 35
+    water:
+      source: canon
+      value: 41
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Not settled until the 3060s, Fronc was briefly part of the “New Colony Region” before gaining independence as the capital of the Fronc Reaches in 3066. Fronc has the highest population of all the Reaches planets, though the planet does not stand out in any way. While the climate near the oceans and rivers is relatively comfortable and temperate, and manages to support enough agriculture to feed the planet’s population, the rest of Fronc’s land is dominated by desolate badlands and barren deserts. The planet has modest natural resources and a small industrial base.
+
+      Fronc is home to Colonial Tractors, a factory located in the town of Ayms on the continent of Paradisa. The factory produces the infamous Hetzer Wheeled Assault Gun combat vehicle. Fronc is also home to the Marshalry Academy, located in Marshaltown in the badlands of Paradisa. The Marshalry trains MechWarriors and Officers for the small Fronc Reaches military and also offers programs that cover, Law, Criminal Justice, Adjudication and military tactics. The planetary militia’s primary HQ is located in the hilly town of Xaing’s Nobb on the continent of Gopher. The capital city was renamed Freedom’s Ring in 3066 when the Fronc Reachers were granted independence, prior to 3066 the capital was named Paradiso.
+
+      Manufacturing centers:
+      Colonial Tractors
+    landmass:
+      - name:
+          source: canon
+          value: Agra Primo
+      - name:
+          source: canon
+          value: Paradisa
+        capital:
+          source: canon
+          value: Paradiso [until 3066]
+      - name:
+          source: canon
+          value: Gopher
+    satellite:
+      - name:
+          value: Orleans
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Oswaltt
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Stafford
+        size:
+          value: medium
+        icon: rock2
+    event:
+      - date: '3057-01-09'
+        faction:
+          source: canon
+          value:
+            - NCR
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 50570.0
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '3060-01-01'
+        population:
+          value: 2963151.0
+      - date: '3066-04-09'
+        faction:
+          source: canon
+          value:
+            - FR
+      - date: '3070-01-01'
+        population:
+          value: 6130664.0
+      - date: '3080-01-01'
+        population:
+          value: 6208399.0
+      - date: '3090-01-01'
+        population:
+          value: 6314844.0
+      - date: '3100-01-01'
+        population:
+          value: 6408999.0
+      - date: '3110-01-01'
+        population:
+          value: 6509763.0
+      - date: '3120-01-01'
+        population:
+          value: 6612112.0
+      - date: '3130-01-01'
+        population:
+          value: 6737595.0
+      - date: '3140-01-01'
+        population:
+          value: 6840789.0
+      - date: '3145-01-01'
+        population:
+          value: 6898493.0
+  - name:
+      value: Engelgard's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 10.2
+    temperature:
+      value: -146

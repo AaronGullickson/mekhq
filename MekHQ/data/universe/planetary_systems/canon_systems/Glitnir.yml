@@ -1,0 +1,335 @@
+id: Glitnir
+sucsId: 970
+xcood: 603.107
+ycood: 234.854
+spectralType:
+  value: F9V
+primarySlot: 4
+event:
+  - date: '2925-05-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Merkushev
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Simmons's Planet
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1200
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 104
+    water:
+      value: 0
+  - name:
+      value: Gordon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: barren15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 59
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Fugazzi I
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Fugazzi II
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      source: canon
+      value: Glitnir
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: green32
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 10800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 26
+    water:
+      value: 46
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Lower Jebebo A
+        capital:
+          value: Buşayrā
+      - name:
+          value: Lower Jebebo B
+      - name:
+          value: Lower Jebebo C
+    satellite:
+      - name:
+          value: ZYJ1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: ZYJ2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: ZYJ3
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2647-04-14'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 48370.0
+        socioIndustrial:
+          value: C-D-B-F-D
+      - date: '2650-01-01'
+        population:
+          value: 117697.0
+      - date: '2651-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2658-01-01'
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2660-01-01'
+        population:
+          value: 1008466.0
+      - date: '2665-01-01'
+        socioIndustrial:
+          value: D-C-B-C-C
+      - date: '2670-07-28'
+        hpg:
+          value: X
+        population:
+          value: 3661828.0
+      - date: '2680-01-01'
+        population:
+          value: 7932087.0
+      - date: '2690-01-01'
+        population:
+          value: 12663744.0
+      - date: '2700-01-01'
+        population:
+          value: 16776336.0
+      - date: '2710-01-01'
+        population:
+          value: 19875183.0
+      - date: '2720-01-01'
+        population:
+          value: 21850021.0
+      - date: '2730-01-01'
+        population:
+          value: 23064930.0
+      - date: '2740-01-01'
+        population:
+          value: 23168362.0
+      - date: '2750-01-01'
+        population:
+          value: 13960584.0
+      - date: '2760-01-01'
+        population:
+          value: 7692208.0
+      - date: '2770-01-01'
+        population:
+          value: 4238366.0
+      - date: '2780-01-01'
+        population:
+          value: 2272428.0
+      - date: '2790-01-01'
+        population:
+          value: 1158900.0
+      - date: '2800-01-01'
+        population:
+          value: 572493.0
+      - date: '2810-01-01'
+        population:
+          value: 330124.0
+      - date: '2820-01-01'
+        population:
+          value: 241176.0
+      - date: '2830-01-01'
+        population:
+          value: 184396.0
+      - date: '2840-01-01'
+        population:
+          value: 144886.0
+      - date: '2850-01-01'
+        population:
+          value: 104413.0
+      - date: '2854-01-01'
+        socioIndustrial:
+          value: D-C-B-C-D
+      - date: '2860-01-01'
+        population:
+          value: 79469.0
+      - date: '2864-12-11'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 58855.0
+      - date: '2880-01-01'
+        population:
+          value: 42997.0
+      - date: '2890-01-01'
+        population:
+          value: 27280.0
+      - date: '2900-01-01'
+        population:
+          value: 15588.0
+      - date: '2910-01-01'
+        population:
+          value: 9030.0
+      - date: '2920-01-01'
+        population:
+          value: 5626.0
+      - date: '2925-06-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: F-D-C-D-D
+  - name:
+      value: Olmpio
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: rock15
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -85
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Canlas
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Bailey
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Hudson
+        size:
+          value: medium
+        icon: oddmoon3

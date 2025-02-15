@@ -1,0 +1,565 @@
+id: Khi
+sucsId: 1341
+xcood: 134.044
+ycood: -205.925
+spectralType:
+  value: G3V
+primarySlot: 3
+event:
+  - date: '2851-02-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dera Allahyar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 205
+    water:
+      value: 0
+  - name:
+      value: Oued Guellat
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Enkil
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Mahavairocana
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      source: canon
+      value: Khi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 27
+    water:
+      value: 45
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Koike
+        capital:
+          value: Afridi's World City
+      - name:
+          value: Suhrawardi
+      - name:
+          value: Loki
+    event:
+      - date: '2598-11-10'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 50908.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2600-01-01'
+        population:
+          value: 105834.0
+      - date: '2610-01-01'
+        population:
+          value: 1902608.0
+      - date: '2620-01-01'
+        population:
+          value: 13099868.0
+      - date: '2630-01-01'
+        population:
+          value: 47621018.0
+      - date: '2635-07-24'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 112597115.0
+      - date: '2650-01-01'
+        population:
+          value: 199768601.0
+      - date: '2659-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2660-01-01'
+        population:
+          value: 292177246.0
+      - date: '2670-01-01'
+        population:
+          value: 377247673.0
+      - date: '2680-01-01'
+        population:
+          value: 448393108.0
+      - date: '2690-01-01'
+        population:
+          value: 503256738.0
+      - date: '2700-01-01'
+        population:
+          value: 545674429.0
+      - date: '2710-01-01'
+        population:
+          value: 577421588.0
+      - date: '2720-01-01'
+        population:
+          value: 599967011.0
+      - date: '2730-01-01'
+        population:
+          value: 615252779.0
+      - date: '2740-01-01'
+        population:
+          value: 627702385.0
+      - date: '2750-01-01'
+        population:
+          value: 635065822.0
+      - date: '2760-01-01'
+        population:
+          value: 638505819.0
+      - date: '2770-01-01'
+        population:
+          value: 643046502.0
+      - date: '2776-08-20'
+        hpg:
+          value: X
+      - date: '2780-02-21'
+        hpg:
+          value: B
+        population:
+          value: 647263428.0
+      - date: '2790-01-01'
+        population:
+          value: 649252022.0
+      - date: '2800-01-01'
+        population:
+          value: 652384739.0
+      - date: '2810-01-01'
+        population:
+          value: 653550716.0
+      - date: '2820-01-01'
+        population:
+          value: 653347788.0
+      - date: '2830-01-01'
+        population:
+          value: 85948570.0
+      - date: '2840-04-08'
+        population:
+          value: 3984224.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2850-01-01'
+        population:
+          value: 362084.0
+      - date: '2851-03-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jam
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 4
+  - name:
+      value: Gibbs
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Enkidu A
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Enkidu B
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Enkidu C
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Enkidu D
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Enkidu E
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Enkidu F
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hunza-Nagar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: 2V11
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Hakro
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 6
+  - name:
+      value: Chatha
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+  - name:
+      value: Bin Kadir's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      value: Kalat
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Mugoma 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Mugoma 2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Mugoma 3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Mugoma 4
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Mugoma 5
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Khānewāl
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.6
+    sysPos:
+      value: 11
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 5394.9
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Orisanla
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Moshanyana
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Pishin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1229.2
+    sysPos:
+      value: 12
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 43095.699999999997
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: 1X1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 1X2
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: 1X3
+        size:
+          value: medium
+        icon: rock3

@@ -1,0 +1,481 @@
+id: Nouveau Toulouse
+sucsId: 1898
+xcood: 284.343
+ycood: 60.729
+spectralType:
+  value: G1V
+primarySlot: 3
+event:
+  - date: '2804-02-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Perros-Guirec
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 208
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: S1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: S2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Schröcken
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: barren20
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 110
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Nouveau Toulouse
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 10500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 35
+    water:
+      value: 27
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 5
+    landmass:
+      - capital:
+          value: Ottonville Prime
+    event:
+      - date: '2727-06-26'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 50700.0
+        socioIndustrial:
+          value: C-C-C-D-F
+      - date: '2729-06-30'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 84692.0
+      - date: '2740-01-01'
+        population:
+          value: 375207.0
+      - date: '2750-01-01'
+        population:
+          value: 1246356.0
+      - date: '2760-01-01'
+        population:
+          value: 857271.0
+      - date: '2770-01-01'
+        population:
+          value: 393445.0
+      - date: '2780-01-01'
+        population:
+          value: 192679.0
+      - date: '2786-01-01'
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2790-01-01'
+        population:
+          value: 98532.0
+      - date: '2800-01-01'
+        population:
+          value: 42841.0
+      - date: '2804-11-04'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jarnages
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -32
+    water:
+      value: 0
+  - name:
+      value: Basse-Kotto
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: barren23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -86
+    water:
+      value: 0
+  - name:
+      value: La Chapelle-Blanche
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: 9Q7-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 9Q7-2
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Gréning
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 24
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Iupiter I
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Iupiter II
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Iupiter III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Iupiter IV
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Damloup
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Hasnon 1
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Hasnon 2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Hasnon 3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Hasnon 4
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Hasnon 5
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Shahrestān-e Ābādeh
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 100000
+    density:
+      value: 0.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Dissangis A
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Dissangis B
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Havdhem
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 10
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 100000
+    density:
+      value: 0.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Diana 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Diana 2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Diana 3
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Nāḩiyat Maḑāyā
+    type:
+      value: GAS_GIANT
+    orbitalDist: 614.8
+    sysPos:
+      value: 11
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 15244.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Hübsch
+        size:
+          value: large
+        icon: rock7

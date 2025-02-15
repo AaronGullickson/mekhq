@@ -1,0 +1,222 @@
+id: DPR 0714
+sucsId: .na
+xcood: 234.0
+ycood: 799.0
+spectralType:
+  value: M1V
+planet:
+  - name:
+      value: C-1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 2000
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 36
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: X6J.1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: asteroid2
+    yearLength:
+      value: 0.7
+    temperature:
+      value: -40
+  - name:
+      value: C-2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: MZ-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: MZ-2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: MZ-3
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: C-3
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 1
+  - name:
+      value: C-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 21
+  - name:
+      value: C-5
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: TN1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: TN2
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: C-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: P1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: P2
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: P3
+        size:
+          value: medium
+        icon: rock8

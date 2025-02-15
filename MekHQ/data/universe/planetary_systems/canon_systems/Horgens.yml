@@ -1,0 +1,456 @@
+id: Horgens
+sucsId: 3112
+xcood: 216.121
+ycood: -1190.306
+spectralType:
+  value: M0V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Horgens
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green48
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.16
+    diameter:
+      value: 12900
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 20
+    water:
+      value: 62
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Harstad
+        capital:
+          value: Asker City
+      - name:
+          value: Ølen
+      - name:
+          value: Ny Upton
+    event:
+      - date: '3095-10-16'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-D
+      - date: '3097-10-27'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 81616.0
+      - date: '3110-01-01'
+        population:
+          value: 136118.0
+      - date: '3120-01-01'
+        population:
+          value: 169444.0
+      - date: '3130-01-01'
+        population:
+          value: 205927.0
+      - date: '3140-01-01'
+        population:
+          value: 250266.0
+      - date: '3145-01-01'
+        population:
+          value: 274657.0
+  - name:
+      value: Gildeskål
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Forssell 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Forssell 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Stor-Elvdal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Ullr
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Loke
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Røst
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Finnmark Fylke
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Torres del Paine
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Chen 1
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Chen 2
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Chen 3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Chen 4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Chen 5
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Lyngseidet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Nine Worlds I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Nine Worlds II
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Jondal Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -199
+  - name:
+      value: Segalstad bru
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Nereus A
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Nereus B
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Grorud
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 140000
+    density:
+      value: 0.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: New Porsgrunn
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.24
+    diameter:
+      value: 14500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 675.7
+  - name:
+      value: Berre
+    type:
+      value: ICE_GIANT
+    orbitalDist: 153.8
+    sysPos:
+      value: 11
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1907.4
+    smallMoons:
+      value: 6
+  - name:
+      value: Sigdal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 12
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5389.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Angrboda
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Bjørkelangen
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Judaberg
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Skedsmo
+        size:
+          value: large
+        icon: rock11

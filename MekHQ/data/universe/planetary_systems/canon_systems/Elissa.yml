@@ -1,0 +1,719 @@
+id: Elissa
+sucsId: 790
+xcood: -39.048
+ycood: 483.083
+spectralType:
+  source: canon
+  value: F1V
+primarySlot: 9
+planet:
+  - name:
+      value: Berrien
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 281
+    water:
+      value: 0
+  - name:
+      value: Matts
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 1
+  - name:
+      value: Crosby Garrett
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: barren2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 29
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 96
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Maryadi
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Shenkarow
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 62.08
+    sysPos:
+      value: 4
+    icon: frozen2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 489.1
+    temperature:
+      value: -215
+    water:
+      value: 32
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Burton
+      - name:
+          value: Woodings
+    satellite:
+      - name:
+          value: Babay
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Renenutet
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Tipton
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Babalu Aye I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Babalu Aye II
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: New Kinnelon
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1300
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -119
+    water:
+      value: 0
+  - name:
+      value: Gherla
+    type:
+      value: ICE_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 40000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 64.0
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Ringsaker I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Ringsaker II
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Ponti sul Mincio
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 31.36
+    sysPos:
+      value: 8
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 175.6
+    temperature:
+      value: -194
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Elissa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 9
+    icon: green12
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.99
+    diameter:
+      value: 12860
+    density:
+      value: 5.43143418222
+    dayLength:
+      value: 27
+    yearLength:
+      value: 4.3
+    temperature:
+      source: canon
+      value: 19
+    water:
+      source: canon
+      value: 49
+    lifeForm:
+      source: canon
+      value: PLANT
+    desc: |-
+      3055: Elissa was a primary holding of the Elysian Fields, a fief of the Oberon Confederation controlled by the Inheritors. Publicly the planet was reported as a backwater world that was being left largely undeveloped as a ‘nature preserve’ and the Elysian Fields agreed to provide the bandit Kingdom water in exchange for protection. However, the reality was that Elissa and the Elyssian Fields suffered under the regime. Elissa was heavily mined by the Confederation and the planet’s inhabitants were forced into poverty on the whims of the various pirates serving under Hendrik Grimm. The planet’s capture by the Clans in 3049, was actually a relief for much of the population.
+
+      The planet was the site of the final battle between the Kell Hounds, the Thirty-First Wolf Solahma and the ‘Red Corsair’ in 3055.
+    landmass:
+      - name:
+          value: Rambrouch
+        capital:
+          value: Rambrouch City
+      - name:
+          value: Pürksi
+      - name:
+          value: Tala Hamza
+      - name:
+          value: Ortíz
+    satellite:
+      - name:
+          value: Miranda
+        size:
+          value: medium
+        icon: rock5
+    event:
+      - date: '2622-01-11'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 51421.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2630-01-01'
+        population:
+          value: 207480.0
+      - date: '2640-01-01'
+        population:
+          value: 685355.0
+      - date: '2649-01-09'
+        hpg:
+          source: canon
+          value: C
+      - date: '2650-01-01'
+        population:
+          value: 1495843.0
+      - date: '2660-01-01'
+        population:
+          value: 2495421.0
+      - date: '2670-01-01'
+        population:
+          value: 3485754.0
+      - date: '2680-01-01'
+        population:
+          value: 4345492.0
+      - date: '2690-01-01'
+        population:
+          value: 5022240.0
+      - date: '2700-01-01'
+        population:
+          value: 5512462.0
+      - date: '2710-05-07'
+        population:
+          value: 5842935.0
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '2720-01-01'
+        population:
+          value: 6062367.0
+      - date: '2726-01-01'
+        socioIndustrial:
+          value: C-D-C-C-A
+      - date: '2730-01-01'
+        population:
+          value: 6219409.0
+      - date: '2740-01-01'
+        population:
+          value: 6331008.0
+      - date: '2750-01-01'
+        population:
+          value: 6422934.0
+      - date: '2760-01-01'
+        population:
+          value: 6493734.0
+      - date: '2770-01-01'
+        population:
+          value: 6554407.0
+      - date: '2779-12-20'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 6615982.0
+      - date: '2790-01-01'
+        population:
+          value: 6576354.0
+      - date: '2800-01-01'
+        population:
+          value: 6420546.0
+      - date: '2810-01-01'
+        population:
+          value: 6171829.0
+      - date: '2820-01-01'
+        population:
+          value: 5870036.0
+      - date: '2830-01-01'
+        population:
+          value: 5610450.0
+      - date: '2840-01-01'
+        population:
+          value: 5284022.0
+      - date: '2850-01-01'
+        population:
+          value: 4964398.0
+      - date: '2860-01-01'
+        population:
+          value: 4683210.0
+      - date: '2861-01-01'
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '2870-01-01'
+        population:
+          value: 4385565.0
+      - date: '2880-01-01'
+        population:
+          value: 4090088.0
+      - date: '2890-01-01'
+        population:
+          value: 3848971.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: D-D-D-D-C
+      - date: '2900-01-17'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 3630961.0
+      - date: '2910-01-01'
+        population:
+          value: 3478912.0
+      - date: '2920-01-01'
+        population:
+          value: 3432774.0
+      - date: '2930-01-01'
+        population:
+          value: 3392789.0
+      - date: '2940-01-01'
+        population:
+          value: 3383558.0
+      - date: '2950-01-01'
+        population:
+          value: 3322350.0
+      - date: '2960-01-01'
+        population:
+          value: 3283652.0
+      - date: '2970-01-01'
+        population:
+          value: 3266696.0
+      - date: '2980-01-01'
+        population:
+          value: 3284546.0
+      - date: '2990-01-01'
+        population:
+          value: 3299796.0
+      - date: '3000-01-01'
+        population:
+          value: 3293508.0
+      - date: '3010-01-01'
+        population:
+          value: 3341414.0
+      - date: '3020-01-01'
+        population:
+          value: 3387247.0
+      - date: '3025-12-08'
+        faction:
+          source: canon
+          value:
+            - EF
+      - date: '3030-01-01'
+        population:
+          value: 3410725.0
+      - date: '3040-01-01'
+        population:
+          value: 3454318.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: D-D-C-D-B
+      - date: '3049-09-03'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3050-01-01'
+        population:
+          value: 3499517.0
+      - date: '3060-01-01'
+        population:
+          value: 3539286.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 3567000.0
+      - date: '3070-01-01'
+        population:
+          value: 3579148.0
+      - date: '3071-01-25'
+        faction:
+          source: canon
+          value:
+            - CHH
+      - date: '3080-01-01'
+        population:
+          value: 3629609.0
+      - date: '3090-01-01'
+        population:
+          value: 3672692.0
+      - date: '3100-01-01'
+        population:
+          value: 3686675.0
+      - date: '3100-02-07'
+        faction:
+          source: canon
+          value:
+            - TB
+      - date: '3110-01-01'
+        population:
+          value: 3697012.0
+      - date: '3120-01-01'
+        population:
+          value: 3714800.0
+      - date: '3127-01-01'
+        socioIndustrial:
+          value: D-F-D-D-B
+      - date: '3130-01-01'
+        population:
+          value: 3736409.0
+      - date: '3140-01-01'
+        population:
+          value: 3740895.0
+      - date: '3145-01-01'
+        population:
+          value: 3740147.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FCo
+  - name:
+      value: SVE1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 123.52
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 1372.8
+    temperature:
+      value: -233
+  - name:
+      value: Suchcripa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.4
+    sysPos:
+      value: 11
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 7
+    yearLength:
+      value: 3867.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Uks Akka
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Maan Emo
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Erlik
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Rinnekangas
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Helebrant
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Enquist
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Maa Emoinen
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Crawford
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Sirone
+    type:
+      value: GAS_GIANT
+    orbitalDist: 492.16
+    sysPos:
+      value: 12
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10918.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Rasmussen Alpha
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Rasmussen Beta
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Santa Maria del Cedro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 983.68
+    sysPos:
+      value: 13
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.2
+    diameter:
+      value: 150000
+    density:
+      value: 1.5
+    dayLength:
+      value: 8
+    yearLength:
+      value: 30851.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Brusque
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Ishkamish
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Sun Wu K'ung
+        size:
+          value: medium
+        icon: oddmoon3

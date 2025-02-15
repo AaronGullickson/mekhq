@@ -1,0 +1,379 @@
+id: Kiruna
+sucsId: 1365
+xcood: 125.322
+ycood: 411.36
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2702-05-23'
+    zenithCharge:
+      value: yes
+  - date: '2793-01-02'
+    zenithCharge:
+      value: no
+  - date: '2921-10-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Kiruna
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green35
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 12300
+    density:
+      value: 4.6818
+    dayLength:
+      value: 29
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 36
+    water:
+      value: 41
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Eastern Porritt
+        capital:
+          value: New Djura
+      - name:
+          value: Western Porritt
+      - name:
+          value: Broomhead
+    event:
+      - date: '2689-11-11'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 53775.0
+        socioIndustrial:
+          value: C-C-B-D-D
+      - date: '2690-01-01'
+        population:
+          value: 96958.0
+      - date: '2700-01-01'
+        population:
+          value: 5128926.0
+      - date: '2701-05-28'
+        hpg:
+          value: B
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: D-C-B-D-D
+      - date: '2710-08-05'
+        population:
+          value: 32558209.0
+        socioIndustrial:
+          value: D-C-B-C-C
+      - date: '2720-01-01'
+        population:
+          value: 76721569.0
+      - date: '2730-01-01'
+        population:
+          value: 113683384.0
+      - date: '2740-01-01'
+        population:
+          value: 135707802.0
+      - date: '2750-01-01'
+        population:
+          value: 147071910.0
+      - date: '2760-01-01'
+        population:
+          value: 151976020.0
+      - date: '2770-01-01'
+        population:
+          value: 154063566.0
+      - date: '2780-01-01'
+        population:
+          value: 154308262.0
+      - date: '2790-01-01'
+        population:
+          value: 129860260.0
+      - date: '2800-01-01'
+        population:
+          value: 61323254.0
+      - date: '2810-01-01'
+        population:
+          value: 30088405.0
+      - date: '2820-01-01'
+        population:
+          value: 15695431.0
+      - date: '2830-01-01'
+        population:
+          value: 9325508.0
+      - date: '2840-01-01'
+        population:
+          value: 4977618.0
+      - date: '2850-01-01'
+        population:
+          value: 2314837.0
+      - date: '2851-01-01'
+        socioIndustrial:
+          value: F-D-B-D-D
+      - date: '2860-01-01'
+        population:
+          value: 1245072.0
+      - date: '2870-01-01'
+        population:
+          value: 592473.0
+      - date: '2880-01-01'
+        population:
+          value: 279781.0
+      - date: '2890-01-01'
+        population:
+          value: 170095.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: F-D-C-D-D
+      - date: '2900-01-01'
+        population:
+          value: 92900.0
+      - date: '2910-01-01'
+        population:
+          value: 51129.0
+      - date: '2920-01-01'
+        population:
+          value: 33815.0
+      - date: '2921-05-30'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Mamitu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -26
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Phyoe
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Isaksen
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Masson
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Utu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Baldur I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Baldur II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Baldur III
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Anshur
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 4
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Muggerud
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Hauge
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Furseth
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Evanger
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Ruuttu
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Magni
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bjørgum
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Rådene
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Eke I
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Eke II
+        size:
+          value: medium
+        icon: oddmoon1

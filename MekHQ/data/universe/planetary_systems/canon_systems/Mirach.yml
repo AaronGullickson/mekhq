@@ -1,0 +1,813 @@
+id: Mirach
+sucsId: 1719
+xcood: 108.822
+ycood: -26.926
+spectralType:
+  source: canon
+  value: M1V
+primarySlot: 7
+event:
+  - date: '2481-01-02'
+    zenithCharge:
+      value: yes
+  - date: '2562-02-10'
+    nadirCharge:
+      value: yes
+  - date: '2821-12-20'
+    zenithCharge:
+      value: no
+  - date: '2840-08-10'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Enemay
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 1
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 11.2
+    satellite:
+      - name:
+          value: M-1
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: El Hamima
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: South Omo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: East Si 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: East Si 2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: East Si 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: East Si 4
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Kolfe Keranyo
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Baker
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: New Liben
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Baso Liben
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ada'a Chukala
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Mirach
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 7
+    icon: green9
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.8
+    diameter:
+      value: 9635
+    density:
+      value: 5.821378363819
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: MICROBE
+    desc: |-
+      Mirach‘s sky is dominated by its huge, swollen, dying red sun. The geological record on Mirach shows that it was long a frozen, uninhabitable planet, until its parent star entered the current phase of its life cycle. As a result, the thick glaciers that once covered Mirach‘s ores and minerals have melted, and no erosion or life-forms have had a chance to cover its riches with soil.
+
+      Mirach‘s readily accessible riches granted it considerable power in its early history. Mirach‘s government laid claim to nearby planets like Mira, Mesartim, and Almach. However, Mirach‘s wealth attracted more-powerful states, including the Federated Suns, the Tikonov Union, and the Marlette Association, which fought several battles over the planet, dashing Mirach‘s hopes of empire. After the Tikonov Union joined the Capellan Confederation, the Terran Hegemony and House Liao jointly administered Mirach, with the world falling wholly into House Liao‘s hands at the end of the First Star League. Mirach remained under House Liao until the Third Succession War, when House Davion conquered the world.
+
+      These episodic invasions kept Mirach from realizing its true potential, and the Blakist Holy War again set Mirach back several decades. Only under The Republic of the Sphere has Mirach‘s economy substantially raised its population‘s standard of living. Mirach‘s capital of Cingulum lies on the continent of Musasalah. Mirach‘s other major landmass is Ventrale.
+    landmass:
+      - name:
+          source: canon
+          value: Musasalah
+        capital:
+          source: canon
+          value: Cingulum
+      - name:
+          source: canon
+          value: Ventrale
+    satellite:
+      - name:
+          value: Arit
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Batn
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Kalb
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kuton
+        size:
+          value: medium
+        icon: rock15
+    event:
+      - date: '2174-06-07'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 59554.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2180-01-01'
+        population:
+          value: 124733.0
+      - date: '2190-01-01'
+        population:
+          value: 381255.0
+      - date: '2200-01-01'
+        population:
+          value: 1019703.0
+      - date: '2210-01-01'
+        population:
+          value: 2429984.0
+      - date: '2213-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2220-01-01'
+        population:
+          value: 5221105.0
+      - date: '2230-01-01'
+        population:
+          value: 10209122.0
+      - date: '2240-01-01'
+        population:
+          value: 18506198.0
+      - date: '2243-04-04'
+        faction:
+          source: canon
+          value:
+            - TGU
+      - date: '2250-01-01'
+        population:
+          value: 31244833.0
+      - date: '2260-01-01'
+        population:
+          value: 49556487.0
+      - date: '2270-01-01'
+        population:
+          value: 74642534.0
+      - date: '2280-01-01'
+        population:
+          value: 106636582.0
+      - date: '2290-01-01'
+        population:
+          value: 146656720.0
+      - date: '2300-01-01'
+        population:
+          value: 194316371.0
+      - date: '2302-04-20'
+        faction:
+          source: canon
+          value:
+            - Mara
+      - date: '2306-04-28'
+        faction:
+          source: canon
+          value:
+            - TGU
+      - date: '2310-01-01'
+        population:
+          value: 248438690.0
+      - date: '2320-01-01'
+        population:
+          value: 309047865.0
+      - date: '2330-01-01'
+        population:
+          value: 375932583.0
+      - date: '2340-01-01'
+        population:
+          value: 443526761.0
+      - date: '2344-12-03'
+        faction:
+          source: canon
+          value:
+            - FS
+            - TGU
+      - date: '2346-10-07'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2350-01-01'
+        population:
+          value: 510508991.0
+      - date: '2360-01-01'
+        population:
+          value: 578659842.0
+      - date: '2370-01-01'
+        population:
+          value: 647783557.0
+      - date: '2380-01-01'
+        population:
+          value: 713633072.0
+      - date: '2390-01-01'
+        population:
+          value: 778346622.0
+      - date: '2400-01-01'
+        population:
+          value: 842855996.0
+      - date: '2410-01-01'
+        population:
+          value: 901539854.0
+      - date: '2420-01-01'
+        population:
+          value: 957964978.0
+      - date: '2430-01-01'
+        population:
+          value: 1009995638.0
+      - date: '2440-01-01'
+        population:
+          value: 1050733121.0
+      - date: '2450-01-01'
+        population:
+          value: 1092697534.0
+      - date: '2460-01-01'
+        population:
+          value: 1132363688.0
+      - date: '2470-01-01'
+        population:
+          value: 1168895576.0
+      - date: '2471-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2480-01-01'
+        population:
+          value: 1207115633.0
+      - date: '2490-01-01'
+        population:
+          value: 1238246663.0
+      - date: '2500-01-01'
+        population:
+          value: 1268276322.0
+      - date: '2510-01-01'
+        population:
+          value: 1296261077.0
+      - date: '2520-01-01'
+        population:
+          value: 1324576639.0
+      - date: '2530-01-01'
+        population:
+          value: 1356039673.0
+      - date: '2540-01-01'
+        population:
+          value: 1382592869.0
+      - date: '2550-01-01'
+        population:
+          value: 1409013881.0
+      - date: '2560-01-01'
+        population:
+          value: 1427253002.0
+      - date: '2570-01-01'
+        population:
+          value: 1444144653.0
+      - date: '2580-01-01'
+        population:
+          value: 1454902208.0
+      - date: '2590-01-01'
+        population:
+          value: 1453464609.0
+      - date: '2600-01-01'
+        population:
+          value: 1447546077.0
+      - date: '2610-01-01'
+        population:
+          value: 1447158778.0
+      - date: '2620-01-01'
+        population:
+          value: 1441723902.0
+      - date: '2629-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2630-01-01'
+        population:
+          value: 1434280506.0
+      - date: '2640-01-01'
+        population:
+          value: 1429815485.0
+      - date: '2650-01-01'
+        population:
+          value: 1430965267.0
+      - date: '2660-01-01'
+        population:
+          value: 1436674168.0
+      - date: '2664-12-03'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 1443310878.0
+      - date: '2680-01-01'
+        population:
+          value: 1445448241.0
+      - date: '2690-01-01'
+        population:
+          value: 1436211478.0
+      - date: '2700-01-01'
+        population:
+          value: 1424386927.0
+      - date: '2710-01-01'
+        population:
+          value: 1413752932.0
+      - date: '2720-01-01'
+        population:
+          value: 1409668035.0
+      - date: '2730-01-01'
+        population:
+          value: 1405065850.0
+      - date: '2740-01-01'
+        population:
+          value: 1405310519.0
+      - date: '2750-01-01'
+        population:
+          value: 1401152132.0
+      - date: '2760-01-01'
+        population:
+          value: 1390425714.0
+      - date: '2767-04-19'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 1385717251.0
+      - date: '2779-02-25'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2780-01-01'
+        population:
+          value: 1381999178.0
+      - date: '2790-01-01'
+        population:
+          value: 1377000735.0
+      - date: '2800-01-01'
+        population:
+          value: 1372212065.0
+      - date: '2810-01-01'
+        population:
+          value: 1365512545.0
+      - date: '2820-01-01'
+        population:
+          value: 1360938333.0
+      - date: '2821-09-11'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2822-03-10'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2830-01-01'
+        population:
+          value: 1353425805.0
+      - date: '2840-01-01'
+        population:
+          value: 1346213665.0
+      - date: '2850-01-01'
+        population:
+          value: 1345235788.0
+      - date: '2857-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2860-01-01'
+        population:
+          value: 1345293290.0
+      - date: '2862-04-07'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2864-08-21'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2870-01-01'
+        population:
+          value: 1344488478.0
+      - date: '2880-01-01'
+        population:
+          value: 1346012280.0
+      - date: '2890-01-01'
+        population:
+          value: 1346587748.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2900-01-01'
+        population:
+          value: 1347077089.0
+      - date: '2910-01-01'
+        population:
+          value: 1345322043.0
+      - date: '2920-01-01'
+        population:
+          value: 1343827743.0
+      - date: '2930-01-01'
+        population:
+          value: 1341216712.0
+      - date: '2940-01-01'
+        population:
+          value: 1339984693.0
+      - date: '2950-01-01'
+        population:
+          value: 1337895718.0
+      - date: '2960-01-01'
+        population:
+          value: 1334697044.0
+      - date: '2970-01-01'
+        population:
+          value: 1329884944.0
+      - date: '2980-01-01'
+        population:
+          value: 1322967887.0
+      - date: '2990-01-01'
+        population:
+          value: 1317691062.0
+      - date: '3000-01-01'
+        population:
+          value: 1311594064.0
+      - date: '3010-01-01'
+        population:
+          value: 1306446367.0
+      - date: '3020-01-01'
+        population:
+          value: 1299317946.0
+      - date: '3030-01-01'
+        population:
+          value: 1302784410.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: B-B-B-C-C
+      - date: '3040-01-01'
+        population:
+          value: 1316140812.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: A-A-A-B-B
+      - date: '3050-01-01'
+        population:
+          value: 1330964447.0
+      - date: '3060-01-01'
+        population:
+          value: 1348919400.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3069-10-06'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 1363839423.0
+      - date: '3076-12-02'
+        faction:
+          source: canon
+          value:
+            - FS
+            - WOB
+      - date: '3077-02-02'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3079-05-26'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 1369579595.0
+      - date: '3081-01-05'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1375619022.0
+      - date: '3100-01-01'
+        population:
+          value: 1375619022.0
+      - date: '3110-01-01'
+        population:
+          value: 1374793898.0
+      - date: '3120-01-01'
+        population:
+          value: 1370949859.0
+      - date: '3123-01-01'
+        socioIndustrial:
+          value: A-A-A-B-B
+      - date: '3130-01-01'
+        population:
+          value: 1376444641.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-05-14'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3140-01-01'
+        population:
+          value: 1379476153.0
+      - date: '3145-01-01'
+        population:
+          value: 1379752075.0
+  - name:
+      value: Bore
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: frozen56
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.8
+    diameter:
+      value: 13500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 30.7
+    temperature:
+      value: -227
+    water:
+      value: 81
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Eastern Nova Holtville
+        capital:
+          value: Eastern Nova Holtville City
+      - name:
+          value: Western Nova Holtville
+      - name:
+          value: Bahir Dar
+  - name:
+      value: Hertford
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Bin Eisa
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Bin Mus'ad
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Tao Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 239.8
+    temperature:
+      value: -251

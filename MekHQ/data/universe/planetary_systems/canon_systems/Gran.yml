@@ -1,0 +1,485 @@
+id: Gran
+sucsId: 991
+xcood: -296.27
+ycood: -171.177
+spectralType:
+  value: F3V
+primarySlot: 3
+event:
+  - date: '2701-04-28'
+    nadirCharge:
+      value: yes
+  - date: '2758-09-09'
+    zenithCharge:
+      value: yes
+  - date: '2792-02-03'
+    nadirCharge:
+      value: no
+  - date: '2795-01-21'
+    zenithCharge:
+      value: no
+  - date: '2837-03-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Hávamál
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: barren8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 289
+    water:
+      value: 0
+  - name:
+      value: Ull
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: greenhouse38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 297
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: QXY1
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: QXY2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: QXY3
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      source: canon
+      value: Gran
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: dry12
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 39
+    water:
+      value: 16
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Honningsvåg
+        capital:
+          value: Ljosland
+    event:
+      - date: '2699-04-16'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 52136.0
+        socioIndustrial:
+          value: C-F-A-F-B
+      - date: '2700-01-01'
+        population:
+          value: 100324.0
+      - date: '2702-01-01'
+        socioIndustrial:
+          value: C-D-A-F-B
+      - date: '2710-01-01'
+        population:
+          value: 6839417.0
+      - date: '2711-05-20'
+        hpg:
+          value: B
+      - date: '2720-01-23'
+        population:
+          value: 41338999.0
+        socioIndustrial:
+          value: C-C-A-D-B
+      - date: '2730-01-01'
+        population:
+          value: 88786131.0
+      - date: '2740-01-01'
+        population:
+          value: 122944738.0
+      - date: '2744-01-01'
+        socioIndustrial:
+          value: B-B-A-C-A
+      - date: '2750-01-01'
+        population:
+          value: 141119670.0
+      - date: '2760-01-01'
+        population:
+          value: 148476624.0
+      - date: '2770-01-01'
+        population:
+          value: 151952103.0
+      - date: '2780-01-01'
+        population:
+          value: 153863164.0
+      - date: '2790-01-01'
+        population:
+          value: 154567470.0
+      - date: '2800-01-01'
+        population:
+          value: 154524959.0
+      - date: '2810-01-01'
+        population:
+          value: 131888749.0
+      - date: '2820-01-01'
+        population:
+          value: 10074122.0
+      - date: '2830-01-01'
+        population:
+          value: 405782.0
+      - date: '2837-02-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Audumla
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: barren3
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Chlorine
+    gravity:
+      value: 0.5
+    diameter:
+      value: 5500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 0
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Jimmu Teno I
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Jimmu Teno II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Jimmu Teno III
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Soo
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 900
+    density:
+      value: 2.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -72
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Ragnarøkr's Square
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Asgard Alpha
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Asgard Beta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Asgard Gamma
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Schefferville
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 58.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Askim I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Askim II
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Askim III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Askim IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Brynhild's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: C-1
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: C-2
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: C-3
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: C-4
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: C-5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Æsgard
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Nidavellir
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 10
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 17

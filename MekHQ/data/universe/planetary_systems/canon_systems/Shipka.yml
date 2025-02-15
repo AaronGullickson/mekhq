@@ -1,0 +1,715 @@
+id: Shipka
+sucsId: 2315
+xcood: 80.12
+ycood: -110.657
+spectralType:
+  source: canon
+  value: K9III
+primarySlot: 5
+planet:
+  - name:
+      value: Sinulescu
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.7
+    satellite:
+      - name:
+          value: Epaizi
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Făleşti
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Ionescu
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 2
+  - name:
+      value: Deukalion
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: frozen33
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -64
+    water:
+      value: 76
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Raionul Cahul
+      - name:
+          value: Drochia
+  - name:
+      value: Nymphai
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1800
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -3
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Shipka
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 5
+    icon: green16
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 14701
+    density:
+      value: 4.780914437338
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 48
+    water:
+      source: canon
+      value: 68
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      3135 - Shipka was accidentally discovered by the exploration ship Mighty Munchkin that was enroute to Highspire but ended up in a system that had never been explored. Shipka‘s location made it a perfect way-station trading port. The planet's population grew rapidly with farmers, traders, crafters, and merchants looking to turn a fast profit. Cambridge, the largest of the planet‘s three continents, produces agricultural products and minerals in addition to having the largest DropPort on the planet. The capital, Shipka Commune, is located on the southwestern coast of Cambridge. While Cambridge is located in northern hemisphere, the other two continents, Hillsborough and Foxborough, are in the southern hemisphere. Hillsborough produces petroleum and precious metals. Foxborough produces timber and agricultural produce, as well as coal and shale.
+
+      During the Fourth Succession War, Shipka fell to the Federated Suns, and Shipka continued to serve as it had while a Capellan world. When the Sarna March collapsed, the people of Shipka did not hesitate to return to the Capellan Confederation.
+
+      During the Jihad, Shipka was overlooked by the Word of Blake forces. When Devlin Stone demanded the world for The Republic of the Sphere, the citizens went on strike for months before the situation was finally resolved.
+    landmass:
+      - name:
+          source: canon
+          value: Cambridge
+        capital:
+          source: canon
+          value: Shipka Commune
+      - name:
+          source: canon
+          value: Foxborough
+      - name:
+          source: canon
+          value: Hillsborough
+    satellite:
+      - name:
+          value: Leoness
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2599-07-07'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 46443.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2600-01-01'
+        population:
+          value: 68368.0
+      - date: '2604-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2610-01-01'
+        population:
+          value: 1545776.0
+      - date: '2620-01-01'
+        population:
+          value: 12411438.0
+      - date: '2630-01-01'
+        population:
+          value: 50067713.0
+      - date: '2632-01-01'
+        socioIndustrial:
+          value: B-B-A-B-A
+      - date: '2634-08-06'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 126904490.0
+      - date: '2650-01-01'
+        population:
+          value: 236811562.0
+      - date: '2660-01-01'
+        population:
+          value: 360591391.0
+      - date: '2670-01-01'
+        population:
+          value: 478290138.0
+      - date: '2680-01-01'
+        population:
+          value: 573785471.0
+      - date: '2690-01-01'
+        population:
+          value: 646809662.0
+      - date: '2700-01-01'
+        population:
+          value: 696226416.0
+      - date: '2710-01-01'
+        population:
+          value: 729121429.0
+      - date: '2720-01-01'
+        population:
+          value: 755486369.0
+      - date: '2730-01-01'
+        population:
+          value: 775765419.0
+      - date: '2740-01-01'
+        population:
+          value: 793706799.0
+      - date: '2750-01-01'
+        population:
+          value: 809346183.0
+      - date: '2760-01-01'
+        population:
+          value: 819726463.0
+      - date: '2768-04-23'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 828763492.0
+      - date: '2780-12-29'
+        hpg:
+          value: B
+        population:
+          value: 835735258.0
+      - date: '2790-01-01'
+        population:
+          value: 834724646.0
+      - date: '2800-01-01'
+        population:
+          value: 835057236.0
+      - date: '2810-01-01'
+        population:
+          value: 831406025.0
+      - date: '2820-01-01'
+        population:
+          value: 805809019.0
+      - date: '2830-01-01'
+        population:
+          value: 778670153.0
+      - date: '2840-01-01'
+        population:
+          value: 759219910.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2850-01-01'
+        population:
+          value: 734088640.0
+      - date: '2860-01-01'
+        population:
+          value: 715324423.0
+      - date: '2870-01-01'
+        population:
+          value: 704577532.0
+      - date: '2880-01-01'
+        population:
+          value: 704016400.0
+      - date: '2890-01-01'
+        population:
+          value: 700519436.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 700379920.0
+      - date: '2910-01-01'
+        population:
+          value: 707389907.0
+      - date: '2920-01-01'
+        population:
+          value: 710213509.0
+      - date: '2930-01-01'
+        population:
+          value: 698290501.0
+      - date: '2940-01-01'
+        population:
+          value: 677196338.0
+      - date: '2950-01-01'
+        population:
+          value: 645071353.0
+      - date: '2960-01-01'
+        population:
+          value: 612271224.0
+      - date: '2970-01-01'
+        population:
+          value: 580791740.0
+      - date: '2980-01-01'
+        population:
+          value: 554563942.0
+      - date: '2990-01-01'
+        population:
+          value: 540388599.0
+      - date: '3000-01-01'
+        population:
+          value: 517529281.0
+      - date: '3010-01-01'
+        population:
+          value: 502796128.0
+      - date: '3020-01-01'
+        population:
+          value: 496427353.0
+      - date: '3030-04-11'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 493037601.0
+      - date: '3040-01-01'
+        population:
+          value: 497445220.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: B-B-B-C-B
+      - date: '3050-01-01'
+        population:
+          value: 501992631.0
+      - date: '3057-11-01'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3060-01-01'
+        population:
+          value: 507240596.0
+      - date: '3062-12-25'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3070-01-01'
+        population:
+          value: 513158847.0
+      - date: '3080-01-01'
+        population:
+          value: 519457730.0
+      - date: '3085-12-10'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 528469683.0
+      - date: '3093-01-01'
+        socioIndustrial:
+          value: A-A-B-C-B
+      - date: '3100-01-01'
+        population:
+          value: 539253319.0
+      - date: '3110-01-01'
+        population:
+          value: 548608702.0
+      - date: '3120-01-01'
+        population:
+          value: 556009533.0
+      - date: '3130-01-01'
+        population:
+          value: 565768758.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-06-24'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3140-01-01'
+        population:
+          value: 575584151.0
+      - date: '3145-01-01'
+        population:
+          value: 581020151.0
+  - name:
+      value: Dima's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -123
+  - name:
+      value: Deimos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Dies Pater I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Dies Pater II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Dies Pater III
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Dies Pater IV
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Dies Pater V
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Bălţi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Asgaard
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Jotnar
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Fenrir
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Thanatos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Gaea
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Courtney
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 675.7
+    satellite:
+      - name:
+          value: Sabau
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Arundel
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Raionul Soroca
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.4
+    sysPos:
+      value: 11
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5389.6
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Birtea
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Kang
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Daha
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Szabo
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Niculescu
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Postelnicu
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Marton
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Amphion
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 614.6
+    sysPos:
+      value: 12
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 15236.6
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: D1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: D2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: D3
+        size:
+          value: medium
+        icon: rock2

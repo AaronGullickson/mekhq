@@ -1,0 +1,547 @@
+id: Kaesong
+sucsId: 1273
+xcood: 59.693
+ycood: 296.706
+spectralType:
+  value: F4V
+primarySlot: 4
+event:
+  - date: '2706-10-21'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Kŭmsŏng i-dong
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.37
+    diameter:
+      value: 7500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 295
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Cizin I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cizin II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cizin III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brockham
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 134
+    water:
+      value: 0
+  - name:
+      value: Hamhŭng-si
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: F1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: F2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Kaesong
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 29
+    water:
+      value: 41
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Lesser Saeroun Kinmaŭr il-tong
+        capital:
+          value: Saeroun Taehŭng-dong City
+      - name:
+          value: Greater Saeroun Kinmaŭr il-tong
+    event:
+      - date: '2704-02-19'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 47367.0
+        socioIndustrial:
+          value: C-C-C-D-F
+      - date: '2710-01-01'
+        population:
+          value: 174576.0
+      - date: '2715-08-30'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 1103183.0
+      - date: '2730-01-01'
+        population:
+          value: 4890313.0
+      - date: '2740-01-01'
+        population:
+          value: 16287618.0
+      - date: '2750-01-01'
+        population:
+          value: 42947597.0
+      - date: '2760-01-01'
+        population:
+          value: 93807301.0
+      - date: '2770-01-01'
+        population:
+          value: 176396311.0
+      - date: '2780-01-01'
+        population:
+          value: 292674601.0
+      - date: '2790-01-01'
+        population:
+          value: 441238719.0
+      - date: '2800-01-01'
+        population:
+          value: 618844437.0
+      - date: '2810-01-01'
+        population:
+          value: 814879657.0
+      - date: '2820-01-01'
+        population:
+          value: 1022729084.0
+      - date: '2830-01-01'
+        population:
+          value: 1230734414.0
+      - date: '2840-01-01'
+        population:
+          value: 1426956870.0
+      - date: '2850-01-01'
+        population:
+          value: 1614119840.0
+      - date: '2860-01-01'
+        population:
+          value: 1794673102.0
+      - date: '2870-01-01'
+        population:
+          value: 1957196614.0
+      - date: '2880-01-01'
+        population:
+          value: 2102899232.0
+      - date: '2890-01-01'
+        population:
+          value: 2230068453.0
+      - date: '2900-01-01'
+        population:
+          value: 2346497839.0
+      - date: '2908-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2910-01-01'
+        population:
+          value: 2460649497.0
+      - date: '2920-01-01'
+        population:
+          value: 2555941393.0
+      - date: '2930-01-01'
+        population:
+          value: 2635073620.0
+      - date: '2940-01-01'
+        population:
+          value: 2707618278.0
+      - date: '2950-01-01'
+        population:
+          value: 2770097812.0
+      - date: '2960-01-01'
+        population:
+          value: 2831447649.0
+      - date: '2970-01-01'
+        population:
+          value: 2878593190.0
+      - date: '2980-01-01'
+        population:
+          value: 2903279484.0
+      - date: '2990-01-01'
+        population:
+          value: 2896038908.0
+      - date: '3000-01-01'
+        population:
+          value: 2882575580.0
+      - date: '3010-01-01'
+        population:
+          value: 2871640030.0
+      - date: '3020-01-01'
+        population:
+          value: 2870024450.0
+      - date: '3030-01-01'
+        population:
+          value: 2861485988.0
+      - date: '3040-05-31'
+        population:
+          value: 2840165570.0
+        socioIndustrial:
+          value: B-B-C-B-C
+      - date: '3050-01-01'
+        population:
+          value: 2815048551.0
+      - date: '3051-12-01'
+        faction:
+          source: canon
+          value:
+            - CGB
+      - date: '3056-01-01'
+        socioIndustrial:
+          value: B-B-C-C-C
+      - date: '3060-01-01'
+        population:
+          value: 2803782876.0
+      - date: '3070-01-01'
+        population:
+          value: 2812803801.0
+      - date: '3080-01-01'
+        population:
+          value: 2844484283.0
+      - date: '3090-01-01'
+        population:
+          value: 2889206161.0
+      - date: '3100-01-01'
+        population:
+          value: 2937567270.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: B-B-B-C-C
+      - date: '3103-03-13'
+        faction:
+          source: canon
+          value:
+            - RD
+      - date: '3110-01-01'
+        population:
+          value: 2990922235.0
+      - date: '3120-01-01'
+        population:
+          value: 3048293055.0
+      - date: '3130-01-01'
+        population:
+          value: 3099936972.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 3146786520.0
+      - date: '3145-01-01'
+        population:
+          value: 3177141140.0
+  - name:
+      value: Chung
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: frozen1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 28
+    yearLength:
+      value: 7.9
+    temperature:
+      value: -58
+    water:
+      value: 70
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Yugyŏng il-tong
+      - name:
+          value: Acadia
+  - name:
+      value: Sinyang-gun
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -124
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Munsu i-dong
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 7
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 52.4
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Thorshaug A
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Thorshaug B
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Thorshaug C
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Thorshaug D
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Thorshaug E
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Thorshaug F
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Thorshaug G
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Songhwa-gun
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 21
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Chon 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Chon 2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Chon 3
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Chon 4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Chon 5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hyŏngjesan-guyŏk
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 9
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 400.4
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Tai Shan Wang Alpha
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Tai Shan Wang Beta
+        size:
+          value: large
+        icon: rock11

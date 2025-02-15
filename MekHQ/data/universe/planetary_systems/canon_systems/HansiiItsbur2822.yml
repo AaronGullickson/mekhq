@@ -1,0 +1,478 @@
+id: Hansii (Itsbur 2822+)
+sucsId: 1052
+xcood: 64.184
+ycood: -362.85
+spectralType:
+  value: F2V
+primarySlot: 4
+event:
+  - date: '2830-05-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Kesokoja
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.3
+    satellite:
+      - name:
+          value: Thorshaug I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Thorshaug II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Thorshaug III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Tri
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1800
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 149
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Lipnik
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: barren14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 99
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Hansii
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green40
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 23
+    water:
+      value: 53
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Franco's End
+        capital:
+          value: Pray
+      - name:
+          value: Winston
+    event:
+      - date: '2624-09-02'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 48032.0
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2630-01-01'
+        population:
+          value: 369741.0
+      - date: '2640-01-01'
+        population:
+          value: 3952748.0
+      - date: '2650-01-01'
+        population:
+          value: 17596756.0
+      - date: '2656-11-02'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 45118849.0
+      - date: '2670-01-01'
+        population:
+          value: 81930711.0
+      - date: '2680-01-01'
+        population:
+          value: 119681944.0
+      - date: '2690-01-01'
+        population:
+          value: 152993154.0
+      - date: '2700-01-01'
+        population:
+          value: 179741403.0
+      - date: '2710-01-01'
+        population:
+          value: 198929814.0
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: B-D-A-D-B
+      - date: '2720-01-01'
+        population:
+          value: 211605328.0
+      - date: '2730-01-01'
+        population:
+          value: 219892873.0
+      - date: '2740-01-01'
+        population:
+          value: 225870330.0
+      - date: '2747-01-01'
+        socioIndustrial:
+          value: A-C-A-C-B
+      - date: '2750-01-01'
+        population:
+          value: 228957856.0
+      - date: '2760-01-01'
+        population:
+          value: 231302674.0
+      - date: '2770-01-01'
+        population:
+          value: 234906095.0
+      - date: '2780-01-01'
+        population:
+          value: 237986489.0
+      - date: '2790-01-01'
+        population:
+          value: 236960814.0
+      - date: '2800-01-01'
+        population:
+          value: 236265742.0
+      - date: '2810-01-01'
+        population:
+          value: 5767542.0
+      - date: '2820-01-01'
+        population:
+          value: 31943.0
+      - date: '2830-07-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '2108-12-05'
+        name:
+          value: Hansii
+      - date: '2822-01-01'
+        name:
+          value: Itsbur
+        message: Hansii renamed to Itsbur
+  - name:
+      value: Wakonda
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 5
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 9
+    yearLength:
+      value: 21.8
+    smallMoons:
+      value: 20
+  - name:
+      value: Djous Pater Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 58.1
+    temperature:
+      value: -161
+  - name:
+      value: Samburu
+    type:
+      value: ICE_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 159.4
+    smallMoons:
+      value: 8
+  - name:
+      value: Manibozho
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: WC1
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Huanipaca
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1246.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: 7P1
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: 7P2
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: 7P3
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: 7P4
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: North Freedom
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 10
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3510.9
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Cuchulainn
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Grigno
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 11
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 9911.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Ikelos I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ikelos II
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Ikelos III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ikelos IV
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Ikelos V
+        size:
+          value: medium
+        icon: oddmoon1

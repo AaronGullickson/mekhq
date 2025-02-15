@@ -1,0 +1,528 @@
+id: Shaun (Burl 2822+)
+sucsId: 2297
+xcood: 53.27
+ycood: -328.061
+spectralType:
+  value: G6V
+primarySlot: 3
+event:
+  - date: '2649-10-04'
+    nadirCharge:
+      value: yes
+  - date: '2863-03-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: U-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren3
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 173
+    water:
+      value: 0
+  - name:
+      value: U-2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Kikimora
+        size:
+          value: large
+        icon: rock9
+  - name:
+      source: canon
+      value: Shaun
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: wet18
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.11
+    diameter:
+      value: 11400
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 32
+    water:
+      value: 83
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Suitani
+        capital:
+          value: Dionysos
+      - name:
+          value: Nottage
+      - name:
+          value: Fort Brault
+      - name:
+          value: Hayes
+      - name:
+          value: Mullins
+      - name:
+          value: Bryant
+    event:
+      - date: '2623-10-27'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 52649.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2630-11-23'
+        hpg:
+          value: B
+        population:
+          value: 566044.0
+      - date: '2639-01-01'
+        socioIndustrial:
+          value: C-C-B-C-A
+      - date: '2640-01-01'
+        population:
+          value: 5698173.0
+      - date: '2650-01-01'
+        population:
+          value: 24582093.0
+      - date: '2660-01-01'
+        population:
+          value: 62171254.0
+      - date: '2670-01-01'
+        population:
+          value: 111799581.0
+      - date: '2680-01-01'
+        population:
+          value: 161677419.0
+      - date: '2690-01-01'
+        population:
+          value: 202898884.0
+      - date: '2700-01-01'
+        population:
+          value: 232842950.0
+      - date: '2710-01-01'
+        population:
+          value: 252692560.0
+      - date: '2720-01-01'
+        population:
+          value: 265159499.0
+      - date: '2730-01-01'
+        population:
+          value: 273496910.0
+      - date: '2740-01-01'
+        population:
+          value: 280354726.0
+      - date: '2750-01-01'
+        population:
+          value: 283693159.0
+      - date: '2760-01-01'
+        population:
+          value: 284635168.0
+      - date: '2770-01-01'
+        population:
+          value: 285496247.0
+      - date: '2780-01-01'
+        population:
+          value: 287332030.0
+      - date: '2790-01-01'
+        population:
+          value: 288108060.0
+      - date: '2800-01-01'
+        population:
+          value: 287981349.0
+      - date: '2810-01-01'
+        population:
+          value: 288615462.0
+      - date: '2820-01-01'
+        population:
+          value: 289250970.0
+      - date: '2830-01-01'
+        population:
+          value: 289833231.0
+      - date: '2840-01-01'
+        population:
+          value: 290745361.0
+      - date: '2849-01-01'
+        socioIndustrial:
+          value: C-D-C-C-B
+      - date: '2850-01-01'
+        population:
+          value: 158881952.0
+      - date: '2860-01-01'
+        population:
+          value: 131688.0
+      - date: '2863-04-10'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '2108-12-05'
+        name:
+          value: Shaun
+      - date: '2822-01-01'
+        name:
+          value: Burl
+        message: Shaun renamed to Burl
+  - name:
+      value: U-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: B2O-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: B2O-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: B2O-3
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: B2O-4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: U-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Triton
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Stanton
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Pandora
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Minos
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Uranus
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: U-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: 9Z1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 9Z2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 9Z3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: U-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: QUD1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: QUD2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: QUD3
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: QUD4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: QUD5
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: U-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 160000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Tangatamanu
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Tumatauenga
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: U-9
+    type:
+      value: ICE_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Taliesin I
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Taliesin II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Taliesin III
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Taliesin IV
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Buurman's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -251

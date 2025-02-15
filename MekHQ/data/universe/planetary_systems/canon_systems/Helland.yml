@@ -1,0 +1,567 @@
+id: Helland
+sucsId: 1087
+xcood: 489.948
+ycood: 243.17
+spectralType:
+  value: F8V
+primarySlot: 3
+event:
+  - date: '2925-01-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Tuatha De Danann
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 9
+  - name:
+      value: Argetlámh
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1700
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 103
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Helland
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 3
+    icon: green25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 36
+    water:
+      value: 28
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Southern Luton
+        capital:
+          value: New Marina
+      - name:
+          value: Northern Luton
+    event:
+      - date: '2686-10-24'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 48862.0
+        socioIndustrial:
+          value: D-F-B-D-F
+      - date: '2690-01-01'
+        population:
+          value: 287913.0
+      - date: '2700-01-01'
+        population:
+          value: 4329143.0
+      - date: '2710-01-01'
+        population:
+          value: 16059024.0
+      - date: '2720-06-21'
+        population:
+          value: 30390799.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2721-01-01'
+        socioIndustrial:
+          value: D-D-B-F-F
+      - date: '2728-04-23'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 41690138.0
+      - date: '2740-01-01'
+        population:
+          value: 48848924.0
+      - date: '2750-01-01'
+        population:
+          value: 48527633.0
+      - date: '2760-01-01'
+        population:
+          value: 33565064.0
+      - date: '2770-01-01'
+        population:
+          value: 23580375.0
+      - date: '2780-01-01'
+        population:
+          value: 16825919.0
+      - date: '2790-01-01'
+        population:
+          value: 11049119.0
+      - date: '2800-01-01'
+        population:
+          value: 8049623.0
+      - date: '2810-01-01'
+        population:
+          value: 6049969.0
+      - date: '2820-01-01'
+        population:
+          value: 4407589.0
+      - date: '2830-01-01'
+        population:
+          value: 3096452.0
+      - date: '2840-01-01'
+        population:
+          value: 2043940.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: F-D-C-F-F
+      - date: '2850-01-01'
+        population:
+          value: 1489073.0
+      - date: '2860-01-01'
+        population:
+          value: 1040697.0
+      - date: '2864-04-29'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 770082.0
+      - date: '2880-01-01'
+        population:
+          value: 563949.0
+      - date: '2890-01-01'
+        population:
+          value: 370330.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: F-F-C-F-F
+      - date: '2900-01-01'
+        population:
+          value: 227312.0
+      - date: '2910-01-01'
+        population:
+          value: 118783.0
+      - date: '2920-01-01'
+        population:
+          value: 55658.0
+      - date: '2925-01-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: 4651 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.92
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -24
+  - name:
+      value: Loder
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.36
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 6.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: RR1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: RR2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: RR3
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Belenus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.24
+    sysPos:
+      value: 6
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 15.6
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Kupferzell 1
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Kupferzell 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Kupferzell 3
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Kupferzell 4
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Kupferzell 5
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kupferzell 6
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Castaneda
+    type:
+      value: GAS_GIANT
+    orbitalDist: 12.0
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 41.6
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Harle
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lugh
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.52
+    sysPos:
+      value: 8
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 114.1
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Honeybourne
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: 4652 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.56
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 317.7
+    temperature:
+      value: -223
+  - name:
+      value: Smith
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.64
+    sysPos:
+      value: 10
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 9
+    yearLength:
+      value: 891.7
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Cakebread I
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Cakebread II
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Fomorii
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.8
+    sysPos:
+      value: 11
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2512.2
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Madocks
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Tarr
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Perth and Kinross
+    type:
+      value: GAS_GIANT
+    orbitalDist: 369.12
+    sysPos:
+      value: 12
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7091.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Yemayah A
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Yemayah B
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Holbrook
+    type:
+      value: GAS_GIANT
+    orbitalDist: 737.76
+    sysPos:
+      value: 13
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 20038.799999999999
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Cenn Cruach
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Finn Maccool
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ana
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Finn Mccool
+        size:
+          value: medium
+        icon: oddmoon2

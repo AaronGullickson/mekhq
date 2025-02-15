@@ -1,0 +1,771 @@
+id: Hamal
+sucsId: 1045
+xcood: 64.875
+ycood: -43.47
+spectralType:
+  source: canon
+  value: K2III
+primarySlot: 6
+event:
+  - date: '2400-02-08'
+    zenithCharge:
+      value: yes
+  - date: '2788-08-09'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Nova Dhuusamarreeb
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Hargeysa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: greenhouse17
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 225
+    water:
+      value: 0
+  - name:
+      value: Kokyangwuti
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1200
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 99
+    water:
+      value: 0
+  - name:
+      value: Afmadow
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 7.0
+  - name:
+      value: Jalalaqsi
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: 4Q1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 4Q2
+        size:
+          value: large
+        icon: rock13
+  - name:
+      source: canon
+      value: Hamal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 6
+    icon: green38
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.8
+    diameter:
+      value: 11040
+    density:
+      value: 5.07496
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.5
+    temperature:
+      source: canon
+      value: 10
+    water:
+      source: canon
+      value: 40
+    lifeForm:
+      source: canon
+      value: PLANT
+    desc: |-
+      3135 - Hamal is a cold desert world dominated by arid, frozen tundra and windstorms the locals call ―sand blizzards. Settlers from the highlands of Terra‘s South American continent established their only major city, Califa Hamal, on the planet‘s equator, where temperatures can reach above freezing. Hamal‘s surface is a single landmass with small, landlocked seas containing mostly crushed ice.
+
+      Hamal served as one of three provincial capitals in the early days of the Tikonov Union. However, by the time the Tikonov Union joined the Capellan Confederation, Hamal‘s importance was supplanted by more habitable worlds with greater resources and larger populations. The Terran Hegemony agreed to incorporate the increasingly backwards planet. Aside from a small bureaucracy at Califa, most of Hamal‘s population carries out a nomadic, tribal existence to this day, and follows the growth of Hamal‘s meager vegetation as the seasons change.
+
+      After the fall of the First Star League, the Capellan Confederation claimed Hamal. House Liao lost Hamal to the Federated Suns during the Fourth Succession War, but not before Hamal‘s expert desert fighters earned the respect of House Davion.
+
+      During their Holy War, the Blakists found ready converts among the technologically poor tribes on Hamal, with some still loyal to Blakist theology to this day.
+    landmass:
+      - capital:
+          source: canon
+          value: Califa Hamal
+    satellite:
+      - name:
+          value: Arietis
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Natih
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ras
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2243-10-23'
+        faction:
+          source: canon
+          value:
+            - TGU
+        population:
+          value: 45218.0
+        socioIndustrial:
+          value: D-C-A-C-F
+      - date: '2250-01-01'
+        population:
+          value: 123101.0
+      - date: '2260-01-01'
+        population:
+          value: 439436.0
+      - date: '2270-01-01'
+        population:
+          value: 1319597.0
+      - date: '2280-01-01'
+        population:
+          value: 3430760.0
+      - date: '2290-01-01'
+        population:
+          value: 7806281.0
+      - date: '2300-01-01'
+        population:
+          value: 15883524.0
+      - date: '2310-01-01'
+        population:
+          value: 29359443.0
+      - date: '2320-01-01'
+        population:
+          value: 49822619.0
+      - date: '2330-01-01'
+        population:
+          value: 78385517.0
+      - date: '2340-01-01'
+        population:
+          value: 116140618.0
+      - date: '2350-01-01'
+        population:
+          value: 164075012.0
+      - date: '2360-01-01'
+        population:
+          value: 222569565.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 290907324.0
+      - date: '2380-01-01'
+        population:
+          value: 365997732.0
+      - date: '2390-01-01'
+        population:
+          value: 446653467.0
+      - date: '2400-03-16'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 532570685.0
+      - date: '2410-01-01'
+        population:
+          value: 620000738.0
+      - date: '2420-01-01'
+        population:
+          value: 705721533.0
+      - date: '2430-01-01'
+        population:
+          value: 786371402.0
+      - date: '2440-01-01'
+        population:
+          value: 862992231.0
+      - date: '2450-01-01'
+        population:
+          value: 928252605.0
+      - date: '2460-01-01'
+        population:
+          value: 987733639.0
+      - date: '2470-01-01'
+        population:
+          value: 1048162323.0
+      - date: '2480-01-01'
+        population:
+          value: 1108883307.0
+      - date: '2490-01-01'
+        population:
+          value: 1162874220.0
+      - date: '2491-01-01'
+        socioIndustrial:
+          value: D-C-A-C-D
+      - date: '2500-01-01'
+        population:
+          value: 1212890361.0
+      - date: '2510-01-01'
+        population:
+          value: 1264281927.0
+      - date: '2512-01-01'
+        socioIndustrial:
+          value: D-C-A-D-D
+      - date: '2520-01-01'
+        population:
+          value: 1315339365.0
+      - date: '2530-01-01'
+        population:
+          value: 1360956324.0
+      - date: '2540-01-01'
+        population:
+          value: 1400053865.0
+      - date: '2550-01-01'
+        population:
+          value: 1433501611.0
+      - date: '2560-01-01'
+        population:
+          value: 1455588554.0
+      - date: '2570-01-01'
+        population:
+          value: 1475389949.0
+      - date: '2571-11-29'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2580-01-01'
+        population:
+          value: 1492945494.0
+      - date: '2590-01-01'
+        population:
+          value: 1511573749.0
+      - date: '2600-01-01'
+        population:
+          value: 1531953491.0
+      - date: '2610-01-01'
+        population:
+          value: 1552270606.0
+      - date: '2617-01-01'
+        socioIndustrial:
+          value: C-B-A-D-C
+      - date: '2620-01-01'
+        population:
+          value: 1570260111.0
+      - date: '2630-01-01'
+        population:
+          value: 1591781365.0
+      - date: '2631-02-18'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1606534466.0
+      - date: '2650-01-01'
+        population:
+          value: 1611595410.0
+      - date: '2660-01-01'
+        population:
+          value: 1617985187.0
+      - date: '2670-01-01'
+        population:
+          value: 1622600480.0
+      - date: '2680-01-01'
+        population:
+          value: 1631074137.0
+      - date: '2690-01-01'
+        population:
+          value: 1630794365.0
+      - date: '2700-01-01'
+        population:
+          value: 1623796532.0
+      - date: '2710-01-01'
+        population:
+          value: 1610238669.0
+      - date: '2720-01-01'
+        population:
+          value: 1595125007.0
+      - date: '2730-01-01'
+        population:
+          value: 1580765636.0
+      - date: '2740-01-01'
+        population:
+          value: 1568442019.0
+      - date: '2750-01-01'
+        population:
+          value: 1559082329.0
+      - date: '2760-01-01'
+        population:
+          value: 1547397767.0
+      - date: '2767-04-13'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-04-29'
+        hpg:
+          value: X
+        population:
+          value: 1523172451.0
+      - date: '2779-10-29'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-05-10'
+        hpg:
+          value: B
+        population:
+          value: 1471299868.0
+      - date: '2790-09-01'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 1401910057.0
+      - date: '2800-01-01'
+        population:
+          value: 1332622839.0
+      - date: '2810-01-01'
+        population:
+          value: 1269773350.0
+      - date: '2820-01-01'
+        population:
+          value: 1223619735.0
+      - date: '2830-01-01'
+        population:
+          value: 1181246756.0
+      - date: '2840-01-01'
+        population:
+          value: 1149180670.0
+      - date: '2850-01-01'
+        population:
+          value: 1112024417.0
+      - date: '2856-01-01'
+        socioIndustrial:
+          value: D-C-B-F-C
+      - date: '2860-01-01'
+        population:
+          value: 1085055181.0
+      - date: '2870-01-01'
+        population:
+          value: 1050596137.0
+      - date: '2880-01-01'
+        population:
+          value: 998079043.0
+      - date: '2890-01-01'
+        population:
+          value: 971562142.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: D-C-C-F-C
+      - date: '2900-01-01'
+        population:
+          value: 953647166.0
+      - date: '2910-01-01'
+        population:
+          value: 931625038.0
+      - date: '2920-01-01'
+        population:
+          value: 905796987.0
+      - date: '2930-01-01'
+        population:
+          value: 881208252.0
+      - date: '2940-01-01'
+        population:
+          value: 859836857.0
+      - date: '2950-01-01'
+        population:
+          value: 854575490.0
+      - date: '2960-01-01'
+        population:
+          value: 857456757.0
+      - date: '2970-01-01'
+        population:
+          value: 862394297.0
+      - date: '2980-01-01'
+        population:
+          value: 866330485.0
+      - date: '2990-01-01'
+        population:
+          value: 868735217.0
+      - date: '3000-01-01'
+        population:
+          value: 862394297.0
+      - date: '3010-01-01'
+        population:
+          value: 871491657.0
+      - date: '3020-01-01'
+        population:
+          value: 877551898.0
+      - date: '3030-02-26'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 886942310.0
+      - date: '3039-01-01'
+        socioIndustrial:
+          value: D-C-C-F-D
+      - date: '3040-01-01'
+        population:
+          value: 894692372.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3045-01-01'
+        socioIndustrial:
+          value: D-C-B-F-D
+      - date: '3048-01-01'
+        socioIndustrial:
+          value: C-C-A-D-D
+      - date: '3050-01-01'
+        population:
+          value: 900797012.0
+      - date: '3060-01-01'
+        population:
+          value: 909031676.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 919361990.0
+      - date: '3075-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3077-05-21'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 931764351.0
+      - date: '3081-08-16'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 946981862.0
+      - date: '3100-01-01'
+        population:
+          value: 961293660.0
+      - date: '3110-01-01'
+        population:
+          value: 976407422.0
+      - date: '3120-01-01'
+        population:
+          value: 988985767.0
+      - date: '3123-01-01'
+        socioIndustrial:
+          value: C-B-A-D-D
+      - date: '3130-01-01'
+        population:
+          value: 1006747323.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-03-19'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 1023189451.0
+      - date: '3145-11-19'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 1031201535.0
+  - name:
+      value: O'Halloran
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: barren19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 18.5
+    temperature:
+      value: -141
+    water:
+      value: 0
+  - name:
+      value: New Caynabo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Marishi
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Bodhisattvas
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Philyre
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Sumitra
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Gosden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: H4H1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: H4H2
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: TPB-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 397.3
+    temperature:
+      value: -231
+  - name:
+      value: Ceel Afweyn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 90000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Justice
+        size:
+          value: large
+        icon: rock12

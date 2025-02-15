@@ -1,0 +1,431 @@
+id: Rest Stop
+sucsId: 3083
+xcood: 801.738
+ycood: 326.975
+spectralType:
+  value: F6V
+primarySlot: 3
+event:
+  - date: '2788-01-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Pimlott
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: greenhouse13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 449
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Cobley
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Déléage
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: High River
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Jasper's Plains
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1100
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 50
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Rest Stop
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      source: canon
+      value: VACUUM
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.0
+    diameter:
+      value: 0
+    density:
+      value: 0.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.2
+    temperature:
+      source: canon
+      value: 0
+    water:
+      source: canon
+      value: 0
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Ashling
+        capital:
+          value: Hernández's End City
+      - name:
+          value: Furber
+      - name:
+          value: Pallister
+      - name:
+          value: Weller
+      - name:
+          value: Hobson
+      - name:
+          value: Nemeshaev
+      - name:
+          value: Herdman
+      - name:
+          value: Shotton
+      - name:
+          value: Port Hasted
+    event:
+      - date: '2749-01-10'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 58238.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2750-01-01'
+        population:
+          value: 64288.0
+      - date: '2753-10-30'
+        hpg:
+          value: X
+      - date: '2760-01-01'
+        population:
+          value: 154175.0
+      - date: '2770-01-01'
+        population:
+          value: 129882.0
+      - date: '2780-01-01'
+        population:
+          value: 50520.0
+      - date: '2788-10-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3025-05-05'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 508.0
+        socioIndustrial:
+          value: B-X-X-X-X
+  - name:
+      value: Peppercorn
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 4
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1200
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -80
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Jewel's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: HH-1
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Bohlen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 6
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 4
+    yearLength:
+      value: 128.6
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Howey
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Charles
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Portsmouth
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Hannaford
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Paddock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 358.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: 0PX-1
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: 0PX-2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: 0PX-3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 0PX-4
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 0PX-5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 0PX-6
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 0PX-7
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: 0PX-8
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Hewitt's Rock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 100.36
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1005.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Rhiannon I
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: Rhiannon II
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Rhiannon III
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Rhiannon IV
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Rhiannon V
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Rhiannon VI
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Rhiannon VII
+        size:
+          value: large
+        icon: rock13

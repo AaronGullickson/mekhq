@@ -1,0 +1,367 @@
+id: Lande
+sucsId: 1451
+xcood: -502.78
+ycood: 73.445
+spectralType:
+  value: G2V
+primarySlot: 3
+event:
+  - date: '2873-03-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: EJW1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: BN1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: BN2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: BN3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: BN4
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: BN5
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: EJW2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse12
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon and Argon
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 117
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Lande
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green8
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.84
+    diameter:
+      value: 12600
+    density:
+      value: 4.6818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 31
+    water:
+      value: 35
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Cambiasca
+        capital:
+          value: Shahrestān-e Hendījān
+      - name:
+          value: New Neyshābūr
+      - name:
+          value: Hamadān
+      - name:
+          value: Bushehr
+      - name:
+          value: Shahrestān-e Sāvojbolāgh
+    event:
+      - date: '2721-07-15'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52067.0
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '2728-09-26'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 169151.0
+      - date: '2740-01-01'
+        population:
+          value: 496966.0
+      - date: '2750-01-01'
+        population:
+          value: 1188127.0
+      - date: '2760-01-01'
+        population:
+          value: 2402363.0
+      - date: '2770-01-01'
+        population:
+          value: 4268197.0
+      - date: '2779-12-19'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 6766344.0
+      - date: '2790-01-01'
+        population:
+          value: 9825607.0
+      - date: '2800-01-01'
+        population:
+          value: 6182468.0
+      - date: '2810-01-01'
+        population:
+          value: 2309189.0
+      - date: '2820-01-01'
+        population:
+          value: 635153.0
+      - date: '2830-01-01'
+        population:
+          value: 149920.0
+      - date: '2840-01-01'
+        population:
+          value: 35727.0
+      - date: '2850-01-01'
+        population:
+          value: 8194.0
+      - date: '2860-01-01'
+        population:
+          value: 1916.0
+      - date: '2870-01-01'
+        population:
+          value: 439.0
+      - date: '2873-02-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: EJW4
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -43
+    water:
+      value: 0
+  - name:
+      value: EJW5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Gilbert
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Rad
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: EJW6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: EJW7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Mamaragan
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: EJW8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17

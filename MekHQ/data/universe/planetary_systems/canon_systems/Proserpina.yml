@@ -1,0 +1,618 @@
+id: Proserpina
+sucsId: 2076
+xcood: 158.215
+ycood: 34.295
+spectralType:
+  source: canon
+  value: K2V
+primarySlot: 4
+event:
+  - date: '2357-07-23'
+    nadirCharge:
+      value: yes
+  - date: '2436-11-15'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Ingoldmells
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 154
+    water:
+      value: 0
+  - name:
+      value: Berose's Hold
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: frozen5
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.74
+    diameter:
+      value: 12500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -40
+    water:
+      value: 59
+    landmass:
+      - name:
+          value: Titz
+      - name:
+          value: Tuulasmaa's Rock
+      - name:
+          value: Nielsen's Mistake
+      - name:
+          value: Nash
+      - name:
+          value: Saltik
+  - name:
+      value: Ping
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      source: canon
+      value: Proserpina
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 4
+    icon: green5
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12924
+    density:
+      value: 5.458796744223
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 67
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Proserpina was one of the Core Worlds and home to several major manufacturing firms, including Guided Technologies and Bulldog Enterprises. Their factories, and many others, exploited the petrochemical and mineral resources of the planet directly and refined metals from the metal ores extracted from Proserpina before shipping the refined materials to nearby planets. After the fall of the Star League the world faced nearly constant raids by the Federated Suns. During one of these raids the defending DCMS forces used a nerve gas to destroy the invaders. As a result the planet's surface is mostly poisonous after the Succession Wars; In fact two of its five continents (Amerigo and Greater Harpago) are completely uninhabitable. In 3066, despite the passage of so many years, both the air and water on planet surface are still contaminated. However, the rich minerals of the planet and well developed industry keep the planet and its inhabitants prosperous, even if they do need to wear environmental suits and breathing masks to leave their homes.
+
+      The location of Proserpina on the Federated Suns border requires the DCMS to keep a strong garrison on the world. To further fortify their position, the DCMS has establishing an extensive network of refit and supply facilities for defending troops. Proserpina is also known for the University of Proserpina, a military academy that has consistently turned out high-quality graduates for the DCMS.
+    landmass:
+      - name:
+          source: canon
+          value: Bragadin
+        capital:
+          source: canon
+          value: Conqueror’s Pride
+      - name:
+          source: canon
+          value: Greater Harpago
+      - name:
+          source: canon
+          value: Lesser Harpago
+      - name:
+          source: canon
+          value: Amerigo
+      - name:
+          source: canon
+          value: Darwin
+    satellite:
+      - name:
+          value: Taikata
+        size:
+          value: medium
+        icon: rock7
+    event:
+      - date: '2168-09-25'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 58503.0
+        socioIndustrial:
+          value: F-D-B-D-B
+      - date: '2170-01-01'
+        population:
+          value: 75884.0
+      - date: '2180-01-01'
+        population:
+          value: 254099.0
+      - date: '2190-01-01'
+        population:
+          value: 736524.0
+      - date: '2200-01-01'
+        population:
+          value: 1877125.0
+      - date: '2206-01-01'
+        socioIndustrial:
+          value: D-D-B-D-B
+      - date: '2210-01-01'
+        population:
+          value: 4271429.0
+      - date: '2220-01-01'
+        population:
+          value: 8788375.0
+      - date: '2230-01-01'
+        population:
+          value: 16645056.0
+      - date: '2240-01-01'
+        population:
+          value: 29341550.0
+      - date: '2242-04-22'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2250-01-01'
+        population:
+          value: 48440832.0
+      - date: '2260-01-01'
+        population:
+          value: 75379628.0
+      - date: '2270-01-01'
+        population:
+          value: 111506638.0
+      - date: '2280-01-01'
+        population:
+          value: 157571223.0
+      - date: '2290-01-01'
+        population:
+          value: 213342745.0
+      - date: '2300-01-01'
+        population:
+          value: 277301766.0
+      - date: '2310-01-01'
+        population:
+          value: 348729607.0
+      - date: '2320-01-01'
+        population:
+          value: 427511890.0
+      - date: '2330-01-01'
+        population:
+          value: 510320931.0
+      - date: '2340-01-01'
+        population:
+          value: 601102492.0
+      - date: '2345-01-09'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2350-01-01'
+        population:
+          value: 699046219.0
+      - date: '2360-01-01'
+        population:
+          value: 803641699.0
+      - date: '2370-01-01'
+        population:
+          value: 910388498.0
+      - date: '2380-01-01'
+        population:
+          value: 1015192770.0
+      - date: '2390-01-01'
+        population:
+          value: 1110536149.0
+      - date: '2400-01-01'
+        population:
+          value: 1199116790.0
+      - date: '2410-01-01'
+        population:
+          value: 1294236648.0
+      - date: '2420-01-01'
+        population:
+          value: 1381712917.0
+      - date: '2430-01-01'
+        population:
+          value: 1462200519.0
+      - date: '2440-01-01'
+        population:
+          value: 1539741473.0
+      - date: '2450-01-01'
+        population:
+          value: 1614265728.0
+      - date: '2460-01-01'
+        population:
+          value: 1676642606.0
+      - date: '2470-01-01'
+        population:
+          value: 1741821769.0
+      - date: '2480-01-01'
+        population:
+          value: 1813040119.0
+      - date: '2490-01-01'
+        population:
+          value: 1865752705.0
+      - date: '2500-01-01'
+        population:
+          value: 1924196029.0
+      - date: '2510-01-01'
+        population:
+          value: 1981566668.0
+      - date: '2520-01-01'
+        population:
+          value: 2034222950.0
+      - date: '2530-01-01'
+        population:
+          value: 2082275057.0
+      - date: '2540-01-01'
+        population:
+          value: 2129680023.0
+      - date: '2550-01-01'
+        population:
+          value: 2173329007.0
+      - date: '2559-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2560-01-01'
+        population:
+          value: 2212040365.0
+      - date: '2570-01-01'
+        population:
+          value: 2251743004.0
+      - date: '2580-01-01'
+        population:
+          value: 2275444688.0
+      - date: '2590-01-01'
+        population:
+          value: 2274723494.0
+      - date: '2600-01-01'
+        population:
+          value: 2267932920.0
+      - date: '2607-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2610-01-01'
+        population:
+          value: 2259420113.0
+      - date: '2620-01-01'
+        population:
+          value: 2247608057.0
+      - date: '2630-04-14'
+        population:
+          value: 2232279692.0
+        socioIndustrial:
+          value: A-A-A-A-B
+      - date: '2632-06-26'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 2224759228.0
+      - date: '2650-01-01'
+        population:
+          value: 2210910886.0
+      - date: '2660-01-01'
+        population:
+          value: 2204158473.0
+      - date: '2670-01-01'
+        population:
+          value: 2189165996.0
+      - date: '2680-01-01'
+        population:
+          value: 2177923476.0
+      - date: '2690-01-01'
+        population:
+          value: 2170890075.0
+      - date: '2700-01-01'
+        population:
+          value: 2171569309.0
+      - date: '2710-01-01'
+        population:
+          value: 2155321372.0
+      - date: '2720-01-01'
+        population:
+          value: 2135354183.0
+      - date: '2730-01-01'
+        population:
+          value: 2119438360.0
+      - date: '2740-01-01'
+        population:
+          value: 2108371716.0
+      - date: '2750-01-01'
+        population:
+          value: 2094981927.0
+      - date: '2760-01-01'
+        population:
+          value: 2073947713.0
+      - date: '2770-01-01'
+        population:
+          value: 2059486877.0
+      - date: '2780-01-01'
+        population:
+          value: 2045344392.0
+      - date: '2790-01-01'
+        population:
+          value: 2033339437.0
+      - date: '2800-01-01'
+        population:
+          value: 2026566675.0
+      - date: '2810-01-01'
+        population:
+          value: 2028881130.0
+      - date: '2820-01-01'
+        population:
+          value: 2023455231.0
+      - date: '2830-01-01'
+        population:
+          value: 2011145440.0
+      - date: '2840-01-01'
+        population:
+          value: 1992077540.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2850-01-01'
+        population:
+          value: 1972151216.0
+      - date: '2860-01-01'
+        population:
+          value: 1957315904.0
+      - date: '2870-01-01'
+        population:
+          value: 1949512182.0
+      - date: '2880-01-01'
+        population:
+          value: 1947630243.0
+      - date: '2890-01-01'
+        population:
+          value: 1948570985.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 1953624546.0
+      - date: '2910-01-01'
+        population:
+          value: 1960497771.0
+      - date: '2920-01-01'
+        population:
+          value: 1964029666.0
+      - date: '2930-01-01'
+        population:
+          value: 1962909108.0
+      - date: '2940-01-01'
+        population:
+          value: 1957401832.0
+      - date: '2950-01-01'
+        population:
+          value: 1947031825.0
+      - date: '2960-01-01'
+        population:
+          value: 1930350572.0
+      - date: '2970-01-01'
+        population:
+          value: 1918354523.0
+      - date: '2980-01-01'
+        population:
+          value: 1905930932.0
+      - date: '2990-01-01'
+        population:
+          value: 1888357913.0
+      - date: '3000-01-01'
+        population:
+          value: 1869961560.0
+      - date: '3010-01-01'
+        population:
+          value: 1853208258.0
+      - date: '3020-01-01'
+        population:
+          value: 1848495598.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 1872000000.0
+      - date: '3030-01-01'
+        population:
+          value: 1724707209.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: B-C-C-B-C
+      - date: '3040-02-27'
+        population:
+          value: 1477809994.0
+        socioIndustrial:
+          source: canon
+          value: A-B-B-A-B
+      - date: '3050-01-01'
+        population:
+          value: 1286836061.0
+      - date: '3060-01-01'
+        population:
+          value: 1138752253.0
+      - date: '3070-01-01'
+        population:
+          value: 1068612369.0
+      - date: '3080-01-01'
+        population:
+          value: 1082595020.0
+      - date: '3081-07-01'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1094131563.0
+      - date: '3096-01-01'
+        socioIndustrial:
+          value: A-B-B-A-B
+      - date: '3100-01-01'
+        population:
+          value: 1116681070.0
+      - date: '3110-01-01'
+        population:
+          value: 1137190737.0
+      - date: '3120-01-01'
+        population:
+          value: 1154377174.0
+      - date: '3130-01-01'
+        population:
+          value: 1170652113.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3134-12-26'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3140-01-01'
+        population:
+          value: 1192868553.0
+      - date: '3145-01-01'
+        population:
+          value: 1202930851.0
+  - name:
+      value: Taylor
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Rudra 1
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Rudra 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Woden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 90000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Turner's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 13.72
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 50.8
+    temperature:
+      value: -214

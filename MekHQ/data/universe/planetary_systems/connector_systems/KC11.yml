@@ -1,0 +1,341 @@
+id: KC 11
+sucsId: .na
+xcood: 128.0
+ycood: 1736.0
+spectralType:
+  value: M3V
+planet:
+  - name:
+      value: 9M5-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green5
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 27
+    water:
+      value: 38
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Q1
+      - name:
+          value: Q2
+      - name:
+          value: Q3
+      - name:
+          value: Q4
+      - name:
+          value: Q5
+      - name:
+          value: Q6
+  - name:
+      value: 9M5-2
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+    water:
+      value: 0
+  - name:
+      value: 9M5-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 90000
+    density:
+      value: 0.7
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: W.1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: W.2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: 9M5-4
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 4
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: ZI-1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: 9M5-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: J1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: J2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: J3
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: 9M5-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      value: XI1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.88
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 14.3
+    temperature:
+      value: -231
+  - name:
+      value: 9M5-7
+    type:
+      value: ICE_GIANT
+    orbitalDist: 11.64
+    sysPos:
+      value: 8
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 39.7
+    smallMoons:
+      value: 7
+  - name:
+      value: 9M5-8
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 46.2
+    sysPos:
+      value: 9
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 314.0
+    satellite:
+      - name:
+          value: 2Q1
+        size:
+          value: giant
+        icon: rock11
+  - name:
+      value: 9M5-9
+    type:
+      value: ICE_GIANT
+    orbitalDist: 92.28
+    sysPos:
+      value: 10
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 886.5
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: GF-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: GF-2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: GF-3
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: XI2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 184.44
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 2504.9
+    temperature:
+      value: -266

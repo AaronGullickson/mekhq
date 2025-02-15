@@ -1,0 +1,623 @@
+id: Ardoz
+sucsId: 168
+xcood: 46.26
+ycood: 245.78
+spectralType:
+  value: F7V
+primarySlot: 3
+planet:
+  - name:
+      value: Robinson
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.65
+    diameter:
+      value: 35000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: T-1
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Sellier
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: greenhouse9
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.54
+    diameter:
+      value: 6500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 140
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Ardoz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: green30
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 12000
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 38
+    water:
+      value: 30
+    lifeForm:
+      value: INSECT
+    landmass:
+      - name:
+          value: Trancas
+        capital:
+          value: Nymphs
+      - name:
+          value: Scottsburg
+      - name:
+          value: New Sona
+      - name:
+          value: Nova Ivanska
+      - name:
+          value: Marsaglia
+    satellite:
+      - name:
+          value: Shorrock
+        size:
+          value: large
+        icon: rock5
+    event:
+      - date: '2277-11-27'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 60892.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2280-01-01'
+        population:
+          value: 89227.0
+      - date: '2290-01-01'
+        population:
+          value: 283411.0
+      - date: '2300-01-01'
+        population:
+          value: 765753.0
+      - date: '2310-01-01'
+        population:
+          value: 1821374.0
+      - date: '2313-01-01'
+        socioIndustrial:
+          value: D-D-A-C-D
+      - date: '2320-01-01'
+        population:
+          value: 3863274.0
+      - date: '2324-12-26'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2330-01-01'
+        population:
+          value: 7432268.0
+      - date: '2340-01-01'
+        population:
+          value: 13093106.0
+      - date: '2350-01-01'
+        population:
+          value: 21283211.0
+      - date: '2360-01-01'
+        population:
+          value: 32541713.0
+      - date: '2370-01-01'
+        population:
+          value: 46996397.0
+      - date: '2380-01-01'
+        population:
+          value: 64193949.0
+      - date: '2390-01-01'
+        population:
+          value: 83389603.0
+      - date: '2400-01-01'
+        population:
+          value: 104489609.0
+      - date: '2410-01-01'
+        population:
+          value: 127457674.0
+      - date: '2420-01-01'
+        population:
+          value: 151186757.0
+      - date: '2430-01-01'
+        population:
+          value: 175282012.0
+      - date: '2440-01-01'
+        population:
+          value: 198309991.0
+      - date: '2450-01-01'
+        population:
+          value: 220785013.0
+      - date: '2460-01-01'
+        population:
+          value: 241739250.0
+      - date: '2470-01-01'
+        population:
+          value: 261570764.0
+      - date: '2480-01-01'
+        population:
+          value: 278413035.0
+      - date: '2490-01-01'
+        population:
+          value: 293359738.0
+      - date: '2500-01-01'
+        population:
+          value: 305366780.0
+      - date: '2510-01-01'
+        population:
+          value: 315889783.0
+      - date: '2520-01-01'
+        population:
+          value: 325326056.0
+      - date: '2530-01-01'
+        population:
+          value: 333376048.0
+      - date: '2540-01-01'
+        population:
+          value: 340515296.0
+      - date: '2550-01-01'
+        population:
+          value: 348915932.0
+      - date: '2560-01-01'
+        population:
+          value: 356428386.0
+      - date: '2570-01-01'
+        population:
+          value: 359761478.0
+      - date: '2580-01-01'
+        population:
+          value: 363712651.0
+      - date: '2590-01-01'
+        population:
+          value: 367107752.0
+      - date: '2600-01-01'
+        population:
+          value: 369377873.0
+      - date: '2610-01-01'
+        population:
+          value: 372978881.0
+      - date: '2620-01-01'
+        population:
+          value: 374873142.0
+      - date: '2630-01-01'
+        population:
+          value: 375558445.0
+      - date: '2635-02-28'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 377198105.0
+      - date: '2650-01-01'
+        population:
+          value: 376682716.0
+      - date: '2660-01-01'
+        population:
+          value: 375417413.0
+      - date: '2670-06-10'
+        population:
+          value: 373151826.0
+        socioIndustrial:
+          value: C-D-A-B-C
+      - date: '2680-01-01'
+        population:
+          value: 370235007.0
+      - date: '2690-01-01'
+        population:
+          value: 366345727.0
+      - date: '2700-01-01'
+        population:
+          value: 363207442.0
+      - date: '2710-01-01'
+        population:
+          value: 360462680.0
+      - date: '2720-01-01'
+        population:
+          value: 359988702.0
+      - date: '2730-01-01'
+        population:
+          value: 360925627.0
+      - date: '2740-01-01'
+        population:
+          value: 362355291.0
+      - date: '2750-01-01'
+        population:
+          value: 362116549.0
+      - date: '2760-01-01'
+        population:
+          value: 359647259.0
+      - date: '2770-01-01'
+        population:
+          value: 356567316.0
+      - date: '2780-01-01'
+        population:
+          value: 353889866.0
+      - date: '2790-01-01'
+        population:
+          value: 351242805.0
+      - date: '2800-01-01'
+        population:
+          value: 350952489.0
+      - date: '2810-01-01'
+        population:
+          value: 350836431.0
+      - date: '2820-01-01'
+        population:
+          value: 350720410.0
+      - date: '2830-01-01'
+        population:
+          value: 349302269.0
+      - date: '2840-02-07'
+        population:
+          value: 347717307.0
+        socioIndustrial:
+          value: D-D-B-C-C
+      - date: '2850-01-01'
+        population:
+          value: 348206435.0
+      - date: '2860-01-01'
+        population:
+          value: 349822551.0
+      - date: '2870-01-01'
+        population:
+          value: 351010533.0
+      - date: '2880-01-01'
+        population:
+          value: 351678728.0
+      - date: '2890-01-01'
+        population:
+          value: 352348194.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 352843837.0
+      - date: '2910-01-01'
+        population:
+          value: 351940541.0
+      - date: '2920-01-01'
+        population:
+          value: 348091284.0
+      - date: '2930-01-01'
+        population:
+          value: 344369542.0
+      - date: '2940-01-01'
+        population:
+          value: 338245532.0
+      - date: '2950-01-01'
+        population:
+          value: 331736309.0
+      - date: '2960-01-01'
+        population:
+          value: 327782625.0
+      - date: '2970-01-01'
+        population:
+          value: 324278020.0
+      - date: '2980-01-01'
+        population:
+          value: 322086720.0
+      - date: '2990-01-01'
+        population:
+          value: 319672242.0
+      - date: '3000-01-01'
+        population:
+          value: 318616668.0
+      - date: '3010-01-01'
+        population:
+          value: 318037588.0
+      - date: '3020-01-01'
+        population:
+          value: 317774719.0
+      - date: '3030-01-01'
+        population:
+          value: 318208970.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-D-B-C-C
+      - date: '3040-01-01'
+        population:
+          value: 322372692.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '3050-01-01'
+        population:
+          value: 326199222.0
+      - date: '3052-02-01'
+        faction:
+          source: canon
+          value:
+            - CGB
+      - date: '3060-01-01'
+        population:
+          value: 330335335.0
+      - date: '3070-01-01'
+        population:
+          value: 332755606.0
+      - date: '3080-01-01'
+        population:
+          value: 333888901.0
+      - date: '3090-01-01'
+        population:
+          value: 334156119.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '3100-01-01'
+        population:
+          value: 334289808.0
+      - date: '3103-03-13'
+        faction:
+          source: canon
+          value:
+            - RD
+      - date: '3110-01-01'
+        population:
+          value: 334423551.0
+      - date: '3120-01-01'
+        population:
+          value: 334222957.0
+      - date: '3130-01-01'
+        population:
+          value: 334089294.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 335898256.0
+      - date: '3145-01-01'
+        population:
+          value: 336907464.0
+  - name:
+      value: Alphen-Chaam Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 3.2
+    temperature:
+      value: -29
+  - name:
+      value: Nikolaou's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Dubiaku
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Eshu
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Omumborombanga
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Emiliani's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: frozen57
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 17.6
+    temperature:
+      value: -122
+    water:
+      value: 67
+    smallMoons:
+      value: 11
+    landmass:
+      - name:
+          value: Smaller Alpan
+      - name:
+          value: Cautha
+      - name:
+          value: CharterLake
+      - name:
+          value: Old Malaka
+      - name:
+          value: Hofstätten an der Raab
+      - name:
+          value: Apulu
+      - name:
+          value: Vei
+      - name:
+          value: Culśu
+      - name:
+          value: Silver Bay
+      - name:
+          value: Agar
+      - name:
+          value: Larger Alpan
+    satellite:
+      - name:
+          value: Elpis I
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Elpis II
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Elpis III
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Gauntlett's Dawn
+    type:
+      value: ICE_GIANT
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 50000
+    density:
+      value: 2.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 46.9
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Gardner
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Aubert
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 128.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19

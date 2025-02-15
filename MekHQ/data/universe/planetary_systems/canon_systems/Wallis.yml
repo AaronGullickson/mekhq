@@ -1,0 +1,752 @@
+id: Wallis
+sucsId: 2716
+xcood: -198.832
+ycood: -193.619
+spectralType:
+  source: canon
+  value: M5V
+primarySlot: 6
+event:
+  - date: '2352-06-27'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Lei Kung
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.04
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1700
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -197
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Bezirk Zurzach
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -65
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Liu An
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1000
+    density:
+      value: 2.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -99
+    water:
+      value: 0
+  - name:
+      value: Long Wang
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ljankes A
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Ljankes B
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ljankes C
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Na Cha
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1900
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -169
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Wallis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 6
+    icon: green20
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.97
+    diameter:
+      value: 11372
+    density:
+      value: 6.011967524685
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.4
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 57
+    lifeForm:
+      source: canon
+      value: INSECT
+    desc: |-
+      Wallis is a hot and humid tropical world with limited natural resources but a well established industrial base and sufficient arable land to feed its population. Wallis is home to Ronin Inc., a major military manufacturer in the Free Worlds League. The plant on Wallis creates several ‘Mech chassis as well as some combat vehicles.
+
+      Wealthy Walloons enjoy taking advantage of Vuzar, the 7th planet in the Wallis system, as a retreat from the heat and humidity on Wallis. Vuzar is an arctic planet with an equator just warm enough for tourists from Wallis to enjoy the snow. Despite the planet’s popularity with the residents of Wallis, Vuzar is overlooked and forgotten by nearly everyone else in the universe.
+    landmass:
+      - name:
+          source: canon
+          value: Alofi
+      - name:
+          source: canon
+          value: Rotuma
+        capital:
+          source: canon
+          value: Jamestown
+      - name:
+          source: canon
+          value: Samoa
+      - name:
+          source: canon
+          value: Tuvalu
+    satellite:
+      - name:
+          value: Faioa
+        size:
+          value: large
+        icon: rock6
+    event:
+      - date: '2247-07-09'
+        faction:
+          source: canon
+          value:
+            - PR
+        population:
+          value: 53469.0
+        socioIndustrial:
+          value: D-D-D-D-D
+      - date: '2250-01-01'
+        population:
+          value: 79518.0
+      - date: '2260-01-01'
+        population:
+          value: 265211.0
+      - date: '2270-01-01'
+        population:
+          value: 751551.0
+      - date: '2271-06-01'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2274-01-01'
+        socioIndustrial:
+          value: C-C-D-C-D
+      - date: '2280-01-01'
+        population:
+          value: 1860115.0
+      - date: '2290-01-01'
+        population:
+          value: 4112271.0
+      - date: '2300-01-01'
+        population:
+          value: 8240619.0
+      - date: '2310-01-01'
+        population:
+          value: 15137335.0
+      - date: '2320-01-01'
+        population:
+          value: 25766710.0
+      - date: '2330-01-01'
+        population:
+          value: 40744603.0
+      - date: '2340-01-01'
+        population:
+          value: 60887452.0
+      - date: '2350-01-01'
+        population:
+          value: 85778293.0
+      - date: '2360-01-01'
+        population:
+          value: 114834696.0
+      - date: '2370-01-01'
+        population:
+          value: 147360099.0
+      - date: '2380-01-01'
+        population:
+          value: 182842130.0
+      - date: '2390-01-01'
+        population:
+          value: 220028618.0
+      - date: '2400-01-01'
+        population:
+          value: 258148409.0
+      - date: '2410-01-01'
+        population:
+          value: 296160503.0
+      - date: '2420-01-01'
+        population:
+          value: 333408097.0
+      - date: '2430-01-01'
+        population:
+          value: 369023278.0
+      - date: '2440-01-01'
+        population:
+          value: 402451990.0
+      - date: '2450-01-01'
+        population:
+          value: 433731045.0
+      - date: '2460-01-01'
+        population:
+          value: 462323686.0
+      - date: '2470-01-01'
+        population:
+          value: 490556027.0
+      - date: '2480-01-01'
+        population:
+          value: 518479388.0
+      - date: '2490-01-01'
+        population:
+          value: 543612371.0
+      - date: '2500-01-01'
+        population:
+          value: 567530350.0
+      - date: '2510-01-01'
+        population:
+          value: 590456486.0
+      - date: '2520-01-01'
+        population:
+          value: 610791822.0
+      - date: '2530-01-01'
+        population:
+          value: 628600526.0
+      - date: '2540-01-01'
+        population:
+          value: 647199729.0
+      - date: '2550-01-01'
+        population:
+          value: 666807988.0
+      - date: '2560-01-01'
+        population:
+          value: 686114879.0
+      - date: '2570-01-01'
+        population:
+          value: 706016047.0
+      - date: '2580-01-01'
+        population:
+          value: 716937451.0
+      - date: '2590-01-01'
+        population:
+          value: 722533984.0
+      - date: '2595-01-01'
+        socioIndustrial:
+          value: B-B-D-B-D
+      - date: '2600-01-01'
+        population:
+          value: 731134899.0
+      - date: '2610-01-01'
+        population:
+          value: 742402233.0
+      - date: '2620-01-01'
+        population:
+          value: 754020547.0
+      - date: '2623-01-01'
+        socioIndustrial:
+          value: A-A-D-A-C
+      - date: '2630-01-01'
+        population:
+          value: 765045896.0
+      - date: '2640-01-01'
+        population:
+          value: 773381446.0
+      - date: '2648-11-09'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 779026072.0
+      - date: '2660-01-01'
+        population:
+          value: 777631161.0
+      - date: '2670-01-01'
+        population:
+          value: 775635605.0
+      - date: '2680-01-01'
+        population:
+          value: 777599520.0
+      - date: '2690-01-01'
+        population:
+          value: 781569798.0
+      - date: '2700-01-01'
+        population:
+          value: 784164168.0
+      - date: '2710-01-01'
+        population:
+          value: 782585416.0
+      - date: '2720-01-01'
+        population:
+          value: 783445593.0
+      - date: '2730-01-01'
+        population:
+          value: 781293986.0
+      - date: '2740-01-01'
+        population:
+          value: 779759309.0
+      - date: '2750-01-01'
+        population:
+          value: 777614809.0
+      - date: '2760-01-01'
+        population:
+          value: 775349664.0
+      - date: '2770-01-01'
+        population:
+          value: 775148867.0
+      - date: '2780-01-01'
+        population:
+          value: 768832278.0
+      - date: '2790-01-01'
+        population:
+          value: 754455406.0
+      - date: '2800-01-01'
+        population:
+          value: 733959788.0
+      - date: '2810-01-01'
+        population:
+          value: 715551002.0
+      - date: '2820-01-01'
+        population:
+          value: 694029286.0
+      - date: '2830-01-01'
+        population:
+          value: 672003123.0
+      - date: '2840-01-01'
+        population:
+          value: 656271172.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-B-D-B-C
+      - date: '2850-01-01'
+        population:
+          value: 643106323.0
+      - date: '2860-01-01'
+        population:
+          value: 626976275.0
+      - date: '2870-01-01'
+        population:
+          value: 611774385.0
+      - date: '2880-01-01'
+        population:
+          value: 599502145.0
+      - date: '2890-01-01'
+        population:
+          value: 596345080.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: C-C-F-C-C
+      - date: '2900-01-01'
+        population:
+          value: 599331066.0
+      - date: '2910-01-01'
+        population:
+          value: 604916192.0
+      - date: '2920-01-01'
+        population:
+          value: 608987063.0
+      - date: '2930-01-01'
+        population:
+          value: 618622045.0
+      - date: '2940-01-01'
+        population:
+          value: 624119691.0
+      - date: '2950-01-01'
+        population:
+          value: 628319795.0
+      - date: '2960-01-01'
+        population:
+          value: 627961242.0
+      - date: '2970-01-01'
+        population:
+          value: 621985798.0
+      - date: '2980-01-01'
+        population:
+          value: 616594933.0
+      - date: '2990-01-01'
+        population:
+          value: 607858344.0
+      - date: '3000-01-01'
+        population:
+          value: 590839090.0
+      - date: '3010-01-01'
+        population:
+          value: 573804837.0
+      - date: '3020-01-01'
+        population:
+          value: 554643581.0
+      - date: '3030-01-01'
+        population:
+          value: 550467988.0
+      - date: '3040-01-01'
+        population:
+          value: 557893901.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-D-B-C
+      - date: '3050-01-01'
+        population:
+          value: 565589643.0
+      - date: '3060-01-01'
+        population:
+          value: 573735680.0
+      - date: '3070-01-01'
+        population:
+          value: 582173669.0
+      - date: '3078-05-01'
+        faction:
+          source: canon
+          value:
+            - PR
+      - date: '3080-01-01'
+        population:
+          value: 591090303.0
+      - date: '3086-02-01'
+        faction:
+          source: canon
+          value:
+            - RF
+      - date: '3090-01-01'
+        population:
+          value: 599543662.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: B-B-D-B-B
+      - date: '3100-01-01'
+        population:
+          value: 608482896.0
+      - date: '3110-01-01'
+        population:
+          value: 615459290.0
+      - date: '3120-01-01'
+        population:
+          value: 622889293.0
+      - date: '3130-01-01'
+        population:
+          value: 633695657.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 644173953.0
+      - date: '3145-01-01'
+        population:
+          value: 650778151.0
+      - date: '3148-07-07'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL
+  - name:
+      value: Buchs
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -218
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Guan Gong
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 170000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 7.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: FUS1
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: FUS2
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Liu Bei
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 21.6
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: STA-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: STA-2
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Yun Dun
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 15.44
+    sysPos:
+      value: 10
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 60.7
+    smallMoons:
+      value: 4
+  - name:
+      value: Werfelswind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.8
+    sysPos:
+      value: 11
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 170.9
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Chango
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Obatala
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Obatalá
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Sakarabru
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Macuilxochitl Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 61.52
+    sysPos:
+      value: 12
+    icon: asteroid2
+    yearLength:
+      value: 482.5
+    temperature:
+      value: -263

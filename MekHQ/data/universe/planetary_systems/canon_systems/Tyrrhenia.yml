@@ -1,0 +1,541 @@
+id: Tyrrhenia
+sucsId: 2926
+xcood: 428.555
+ycood: -488.473
+spectralType:
+  value: G2V
+primarySlot: 2
+planet:
+  - name:
+      value: Pomardi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 1
+    icon: barren8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 94
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Veleso Alpha
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Veleso Beta
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Tyrrhenia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 2
+    icon: green24
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13800
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 32
+    water:
+      value: 63
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Huitzilopochtli's Hold
+        capital:
+          value: Andriolo City
+      - name:
+          value: Terminus di Titlacauan
+      - name:
+          value: Uitzilopochtli
+    satellite:
+      - name:
+          value: Pecci I
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Pecci II
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '3028-08-02'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48879.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3030-01-01'
+        population:
+          value: 193912.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '3035-04-17'
+        hpg:
+          value: B
+      - date: '3040-01-01'
+        population:
+          value: 3080514.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '3050-01-01'
+        population:
+          value: 5112735.0
+      - date: '3060-01-01'
+        population:
+          value: 5622986.0
+      - date: '3066-04-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3070-01-01'
+        population:
+          value: 5747712.0
+      - date: '3080-01-01'
+        population:
+          value: 5825250.0
+      - date: '3090-01-01'
+        population:
+          value: 5934614.0
+      - date: '3100-01-01'
+        population:
+          value: 6018282.0
+      - date: '3110-01-01'
+        population:
+          value: 6122692.0
+      - date: '3120-01-26'
+        faction:
+          source: canon
+          value:
+            - CDP
+        population:
+          value: 6226422.0
+      - date: '3130-01-01'
+        population:
+          value: 6275178.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3136-01-01'
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '3140-01-01'
+        population:
+          value: 6335710.0
+      - date: '3145-01-01'
+        population:
+          value: 6345855.0
+  - name:
+      value: Ruiting
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: greenhouse12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 53
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Ostara
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Poulakis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 4
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Oliva
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Vishnu
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Angiras
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Trimurti
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Kumbhakarna
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Hari
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Brasco
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Treia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: T-1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: T-2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: T-3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: T-4
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: T-5
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: T-6
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: T-7
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: T-8
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Appenzell
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Halcyone A
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Halcyone B
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Halcyone C
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Halcyone D
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Halcyone E
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Fauonius
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Lamotta I
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Lamotta II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Lamotta III
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lamotta IV
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Lamotta V
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Chiostro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Aditi
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Patal
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Shiva
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Mara
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Karttireya
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Follia di Amesbury
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 9
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Jove I
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Jove II
+        size:
+          value: medium
+        icon: oddmoon3

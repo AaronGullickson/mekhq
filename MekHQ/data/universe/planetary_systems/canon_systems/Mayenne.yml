@@ -1,0 +1,422 @@
+id: Mayenne
+sucsId: 1635
+xcood: -547.119
+ycood: 241.556
+spectralType:
+  value: G3V
+primarySlot: 2
+event:
+  - date: '2804-10-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Leshey
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Villeneuve-sur-Lot
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Saint-Evroult-de-Montfort
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Saint-Georges-la-Pouge
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Mayenne
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green53
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 10800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 37
+    water:
+      value: 27
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Genet
+        capital:
+          value: Girardtown
+      - name:
+          value: Luciani
+    event:
+      - date: '2615-11-20'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52891.0
+        socioIndustrial:
+          value: D-F-A-F-F
+      - date: '2620-01-01'
+        population:
+          value: 169779.0
+      - date: '2630-01-01'
+        population:
+          value: 937650.0
+      - date: '2640-06-18'
+        hpg:
+          value: X
+        population:
+          value: 2882279.0
+      - date: '2650-01-01'
+        population:
+          value: 6017270.0
+      - date: '2660-01-01'
+        population:
+          value: 9739883.0
+      - date: '2670-01-01'
+        population:
+          value: 13394164.0
+      - date: '2680-01-01'
+        population:
+          value: 16387586.0
+      - date: '2690-01-01'
+        population:
+          value: 18667756.0
+      - date: '2700-01-01'
+        population:
+          value: 20406659.0
+      - date: '2710-01-01'
+        population:
+          value: 21803632.0
+      - date: '2720-01-01'
+        population:
+          value: 22870080.0
+      - date: '2730-01-01'
+        population:
+          value: 23803438.0
+      - date: '2740-01-01'
+        population:
+          value: 24399558.0
+      - date: '2748-01-01'
+        socioIndustrial:
+          value: D-D-A-D-D
+      - date: '2750-01-01'
+        population:
+          value: 23976295.0
+      - date: '2760-01-01'
+        population:
+          value: 7671886.0
+      - date: '2770-01-01'
+        population:
+          value: 1421820.0
+      - date: '2779-05-18'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 198444.0
+      - date: '2790-01-01'
+        population:
+          value: 42379.0
+      - date: '2800-01-01'
+        population:
+          value: 9639.0
+      - date: '2804-10-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Belabog
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: badwater24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.74
+    diameter:
+      value: 12500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 21
+    water:
+      value: 59
+    landmass:
+      - name:
+          value: Von Ormy
+      - name:
+          value: New Poudis
+      - name:
+          value: Anneville-sur-Mer
+      - name:
+          value: Andé
+  - name:
+      value: Bielobog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 4.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: J1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: J2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: J3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Navire de Prunier
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 45000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Leclerc 1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Leclerc 2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Leclerc 3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Leclerc 4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Chernobog
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: KI-1
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Kaledos
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 86.8
+  - name:
+      value: Perom
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Astrild I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Astrild II
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Astrild III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Astrild IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Astrild V
+        size:
+          value: medium
+        icon: oddmoon3

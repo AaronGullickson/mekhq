@@ -1,0 +1,446 @@
+id: Dalian
+sucsId: 650
+xcood: -57.584
+ycood: -267.289
+spectralType:
+  value: F2V
+primarySlot: 4
+event:
+  - date: '2640-12-06'
+    zenithCharge:
+      value: yes
+  - date: '2790-05-01'
+    zenithCharge:
+      value: no
+  - date: '2814-02-25'
+    nadirCharge:
+      value: yes
+  - date: '2819-07-17'
+    nadirCharge:
+      value: no
+  - date: '2921-05-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dhatri
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: barren10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.67
+    diameter:
+      value: 13500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 300
+    water:
+      value: 0
+  - name:
+      value: Yutu
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.6
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Chu Pa Chieh I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Chu Pa Chieh II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Chu Pa Chieh III
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Dakshesha
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: barren14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 99
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Dalian
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 35
+    water:
+      value: 60
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: New Henglu
+        capital:
+          value: New Henglu City
+      - name:
+          value: Rushan
+      - name:
+          value: Tuanpo
+      - name:
+          value: Elliott's Rock
+    event:
+      - date: '2635-04-19'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 54876.0
+        socioIndustrial:
+          value: C-C-C-D-B
+      - date: '2640-01-01'
+        population:
+          value: 418680.0
+      - date: '2650-01-01'
+        population:
+          value: 6993880.0
+      - date: '2651-01-24'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 38697185.0
+      - date: '2670-01-01'
+        population:
+          value: 109092544.0
+      - date: '2680-01-01'
+        population:
+          value: 203373848.0
+      - date: '2690-01-01'
+        population:
+          value: 295672317.0
+      - date: '2700-01-01'
+        population:
+          value: 369491016.0
+      - date: '2710-01-01'
+        population:
+          value: 421325003.0
+      - date: '2720-01-01'
+        population:
+          value: 456606117.0
+      - date: '2730-01-01'
+        population:
+          value: 480013068.0
+      - date: '2740-10-22'
+        population:
+          value: 493958285.0
+        socioIndustrial:
+          value: C-C-C-D-A
+      - date: '2748-01-01'
+        socioIndustrial:
+          value: D-C-C-D-A
+      - date: '2750-01-01'
+        population:
+          value: 499895093.0
+      - date: '2760-01-01'
+        population:
+          value: 501275165.0
+      - date: '2770-01-01'
+        population:
+          value: 500546068.0
+      - date: '2780-01-01'
+        population:
+          value: 499416885.0
+      - date: '2785-09-15'
+        hpg:
+          value: C
+      - date: '2790-01-01'
+        population:
+          value: 401675641.0
+      - date: '2800-01-01'
+        population:
+          value: 171234583.0
+      - date: '2810-01-01'
+        population:
+          value: 96716638.0
+      - date: '2820-01-01'
+        population:
+          value: 47256616.0
+      - date: '2830-01-01'
+        population:
+          value: 22506892.0
+      - date: '2840-01-01'
+        population:
+          value: 10098307.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: F-D-C-F-B
+      - date: '2850-01-01'
+        population:
+          value: 4892233.0
+      - date: '2860-01-01'
+        population:
+          value: 3034926.0
+      - date: '2864-09-30'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2870-01-01'
+        population:
+          value: 1981555.0
+      - date: '2880-01-01'
+        population:
+          value: 1208485.0
+      - date: '2890-01-01'
+        population:
+          value: 844738.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: F-D-D-F-C
+      - date: '2900-01-01'
+        population:
+          value: 515178.0
+      - date: '2910-01-01'
+        population:
+          value: 239167.0
+      - date: '2920-01-01'
+        population:
+          value: 149639.0
+      - date: '2921-03-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Tianzeng Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -62
+  - name:
+      value: Parjanya
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 21.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Dong Tai Shan
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Ba Xian
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Nüwa
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Sita
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 58.1
+    smallMoons:
+      value: 1
+  - name:
+      value: Maitreya
+    type:
+      value: ICE_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 159.4
+    smallMoons:
+      value: 9
+  - name:
+      value: Chaitany
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Cheng
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Hsia
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Lok
+        size:
+          value: large
+        icon: rock14

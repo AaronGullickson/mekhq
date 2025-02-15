@@ -1,0 +1,781 @@
+id: Emris IV
+sucsId: 801
+xcood: -88.934
+ycood: -149.415
+spectralType:
+  source: canon
+  value: G3V
+primarySlot: 4
+event:
+  - date: '2354-03-05'
+    nadirCharge:
+      value: yes
+  - date: '2400-05-18'
+    zenithCharge:
+      value: yes
+  - date: '2808-02-28'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Emris I
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 6
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Wōden
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Emris II
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -46
+    water:
+      value: 0
+  - name:
+      value: Emris III
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: badwater6
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 21
+    water:
+      value: 26
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Emris IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 4
+    icon: green18
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.2
+    diameter:
+      value: 15002
+    density:
+      value: 5.617337069708
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    temperature:
+      source: canon
+      value: 23
+    water:
+      source: canon
+      value: 41
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Despite the high-pressure atmosphere and slightly higher than standard gravity
+      on Emris IV, the planet is relatively comfortable for human habitation, though
+      agriculture suffers and the population must import food to sustain itself. Emris
+      contains abundant natural resources and is home to a sizable Starcorps Industries
+      ‘Mech production facility, which is located in the city Ivanograd on the Snowden
+      continent, which contrary to its name has a very mild climate. Starcorps also
+      has another facility on planet, the site of their famous Holly missile launchers
+      is located in the city of Urseinova, also on the Snowden continent.
+    landmass:
+      - name:
+          source: canon
+          value: Dinas
+      - name:
+          source: canon
+          value: Glaslyn
+      - name:
+          source: canon
+          value: Snowden
+        capital:
+          source: canon
+          value: Urseinova
+    satellite:
+      - name:
+          value: Lot
+        size:
+          value: large
+        icon: rock1
+    event:
+      - date: '2264-04-11'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 48750.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2270-01-01'
+        population:
+          value: 111994.0
+      - date: '2280-02-02'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 385210.0
+      - date: '2290-01-01'
+        population:
+          value: 1126217.0
+      - date: '2300-01-01'
+        population:
+          value: 2841810.0
+      - date: '2310-01-01'
+        population:
+          value: 6331646.0
+      - date: '2320-01-01'
+        population:
+          value: 12613435.0
+      - date: '2330-01-01'
+        population:
+          value: 22812165.0
+      - date: '2340-01-01'
+        population:
+          value: 37970763.0
+      - date: '2349-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2350-01-01'
+        population:
+          value: 58937461.0
+      - date: '2360-01-01'
+        population:
+          value: 86085333.0
+      - date: '2370-01-01'
+        population:
+          value: 119555983.0
+      - date: '2380-01-01'
+        population:
+          value: 159443153.0
+      - date: '2390-01-01'
+        population:
+          value: 206017777.0
+      - date: '2400-01-01'
+        population:
+          value: 257262417.0
+      - date: '2410-01-01'
+        population:
+          value: 312455067.0
+      - date: '2420-01-01'
+        population:
+          value: 371075697.0
+      - date: '2430-01-01'
+        population:
+          value: 430931475.0
+      - date: '2440-01-01'
+        population:
+          value: 491195960.0
+      - date: '2450-01-01'
+        population:
+          value: 550728328.0
+      - date: '2459-01-01'
+        socioIndustrial:
+          value: B-C-B-D-F
+      - date: '2460-01-01'
+        population:
+          value: 608350996.0
+      - date: '2470-01-01'
+        population:
+          value: 664664711.0
+      - date: '2480-01-01'
+        population:
+          value: 719159862.0
+      - date: '2490-01-01'
+        population:
+          value: 765233701.0
+      - date: '2500-01-01'
+        population:
+          value: 806745876.0
+      - date: '2510-01-01'
+        population:
+          value: 847789287.0
+      - date: '2520-01-01'
+        population:
+          value: 889067530.0
+      - date: '2530-01-01'
+        population:
+          value: 925217441.0
+      - date: '2540-01-01'
+        population:
+          value: 960148334.0
+      - date: '2550-01-01'
+        population:
+          value: 984117985.0
+      - date: '2560-01-01'
+        population:
+          value: 1007591087.0
+      - date: '2570-01-01'
+        population:
+          value: 1030344668.0
+      - date: '2580-01-01'
+        population:
+          value: 1051237698.0
+      - date: '2590-01-01'
+        population:
+          value: 1065154328.0
+      - date: '2600-01-01'
+        population:
+          value: 1073404552.0
+      - date: '2610-01-01'
+        population:
+          value: 1079571367.0
+      - date: '2620-01-01'
+        population:
+          value: 1082551402.0
+      - date: '2630-01-01'
+        population:
+          value: 1086423428.0
+      - date: '2634-07-28'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1086580819.0
+      - date: '2650-01-01'
+        population:
+          value: 1097565084.0
+      - date: '2660-01-01'
+        population:
+          value: 1110028772.0
+      - date: '2665-01-01'
+        socioIndustrial:
+          value: A-B-B-C-D
+      - date: '2670-01-01'
+        population:
+          value: 1111616257.0
+      - date: '2680-01-01'
+        population:
+          value: 1105249672.0
+      - date: '2690-01-01'
+        population:
+          value: 1096838756.0
+      - date: '2700-01-01'
+        population:
+          value: 1093698330.0
+      - date: '2710-01-01'
+        population:
+          value: 1091472237.0
+      - date: '2720-01-01'
+        population:
+          value: 1084121482.0
+      - date: '2730-01-01'
+        population:
+          value: 1077814933.0
+      - date: '2740-01-01'
+        population:
+          value: 1072575100.0
+      - date: '2750-01-01'
+        population:
+          value: 1065433973.0
+      - date: '2760-01-01'
+        population:
+          value: 1056037002.0
+      - date: '2770-01-01'
+        population:
+          value: 1050125498.0
+      - date: '2780-01-01'
+        population:
+          value: 1047035150.0
+      - date: '2790-01-01'
+        population:
+          value: 1041852385.0
+      - date: '2800-01-01'
+        population:
+          value: 1040665751.0
+      - date: '2810-01-01'
+        population:
+          value: 1037784508.0
+      - date: '2820-01-01'
+        population:
+          value: 1033275459.0
+      - date: '2830-01-01'
+        population:
+          value: 1028891000.0
+      - date: '2840-01-01'
+        population:
+          value: 1024159257.0
+      - date: '2850-10-10'
+        population:
+          value: 1020438134.0
+        socioIndustrial:
+          value: B-C-C-D-D
+      - date: '2860-01-01'
+        population:
+          value: 1016523027.0
+      - date: '2870-01-01'
+        population:
+          value: 1012209653.0
+      - date: '2880-01-01'
+        population:
+          value: 1009664765.0
+      - date: '2890-01-01'
+        population:
+          value: 1007743158.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: C-D-D-F-F
+      - date: '2900-01-01'
+        population:
+          value: 1006749477.0
+      - date: '2910-01-01'
+        population:
+          value: 1006424175.0
+      - date: '2920-01-01'
+        population:
+          value: 1004918879.0
+      - date: '2930-01-01'
+        population:
+          value: 1003723093.0
+      - date: '2940-01-01'
+        population:
+          value: 1001557227.0
+      - date: '2950-01-01'
+        population:
+          value: 1000467538.0
+      - date: '2960-01-01'
+        population:
+          value: 999277049.0
+      - date: '2970-01-01'
+        population:
+          value: 997069898.0
+      - date: '2980-01-01'
+        population:
+          value: 994055703.0
+      - date: '2990-01-01'
+        population:
+          value: 990848357.0
+      - date: '3000-01-01'
+        population:
+          value: 989820827.0
+      - date: '3010-01-01'
+        population:
+          value: 989349530.0
+      - date: '3014-04-15'
+        faction:
+          source: canon
+          value:
+            - FWL
+            - FWLR
+      - date: '3014-05-07'
+        faction:
+          source: canon
+          value:
+            - FWLR
+      - date: '3015-02-03'
+        faction:
+          source: canon
+          value:
+            - FWLR
+            - FWL
+      - date: '3015-02-06'
+        faction:
+          source: canon
+          value:
+            - FWLR
+      - date: '3015-03-15'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3020-01-01'
+        population:
+          value: 988323554.0
+      - date: '3030-01-01'
+        population:
+          value: 990537119.0
+      - date: '3040-01-01'
+        population:
+          value: 997395459.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-C-C-F-F
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-B-B-D-D
+      - date: '3050-01-01'
+        population:
+          value: 1003096846.0
+      - date: '3060-01-01'
+        population:
+          value: 1009133519.0
+      - date: '3070-01-01'
+        population:
+          value: 1017035539.0
+      - date: '3079-06-06'
+        faction:
+          source: canon
+          value:
+            - TP
+      - date: '3080-01-01'
+        population:
+          value: 1027873455.0
+      - date: '3090-01-01'
+        population:
+          value: 1032199602.0
+      - date: '3100-01-01'
+        population:
+          value: 1033852443.0
+      - date: '3110-01-01'
+        population:
+          value: 1034059234.0
+      - date: '3120-01-01'
+        population:
+          value: 1036543957.0
+      - date: '3126-01-01'
+        socioIndustrial:
+          value: A-B-A-D-D
+      - date: '3130-07-13'
+        faction:
+          source: canon
+          value:
+            - OP
+        population:
+          value: 1037996135.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1036543957.0
+      - date: '3145-01-01'
+        population:
+          value: 1038203755.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL
+  - name:
+      value: Emris V
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.8
+    satellite:
+      - name:
+          value: Kingu
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: Emris VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Orga
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Emris VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Ebersbach
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tonkin
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Emris VIII
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Danu I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Danu II
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Danu III
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Danu IV
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Emris IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Hosseini I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hosseini II
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Emris X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: K-1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: K-2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: K-3
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: K-4
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: K-5
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: K-6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Susanoo No Mikoto Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 1911.1
+    temperature:
+      value: -250

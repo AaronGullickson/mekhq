@@ -1,0 +1,452 @@
+id: Hrafn
+sucsId: 1144
+xcood: 618.547
+ycood: 232.599
+spectralType:
+  value: M4V
+primarySlot: 1
+event:
+  - date: '2735-04-14'
+    nadirCharge:
+      value: yes
+  - date: '2790-02-02'
+    nadirCharge:
+      value: no
+  - date: '2912-11-21'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Hrafn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 11100
+    density:
+      value: 4.6818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 12
+    water:
+      value: 39
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Tveit
+        capital:
+          value: Tveit City
+      - name:
+          value: Cunningham
+    event:
+      - date: '2727-10-04'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 45346.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2730-01-01'
+        population:
+          value: 63075.0
+      - date: '2731-10-23'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 165479.0
+      - date: '2750-01-01'
+        population:
+          value: 364537.0
+      - date: '2760-01-01'
+        population:
+          value: 691042.0
+      - date: '2770-01-01'
+        population:
+          value: 1160598.0
+      - date: '2780-01-01'
+        population:
+          value: 1766209.0
+      - date: '2790-01-01'
+        population:
+          value: 2486635.0
+      - date: '2800-01-01'
+        population:
+          value: 3285316.0
+      - date: '2810-01-01'
+        population:
+          value: 4095776.0
+      - date: '2820-01-01'
+        population:
+          value: 4894524.0
+      - date: '2830-01-01'
+        population:
+          value: 5690789.0
+      - date: '2840-01-01'
+        population:
+          value: 6081606.0
+      - date: '2850-01-01'
+        population:
+          value: 2467359.0
+      - date: '2860-01-01'
+        population:
+          value: 918116.0
+      - date: '2864-04-14'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 365863.0
+      - date: '2880-01-01'
+        population:
+          value: 195553.0
+      - date: '2890-01-01'
+        population:
+          value: 87639.0
+      - date: '2900-01-01'
+        population:
+          value: 45044.0
+      - date: '2910-01-01'
+        population:
+          value: 22926.0
+      - date: '2912-10-31'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jahnsen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: frozen54
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Water Vapor and Argon
+    gravity:
+      value: 0.99
+    diameter:
+      value: 14500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -69
+    water:
+      value: 53
+    landmass:
+      - name:
+          value: BW1
+      - name:
+          value: BW2
+      - name:
+          value: BW3
+      - name:
+          value: BW4
+      - name:
+          value: BW5
+  - name:
+      value: Varino
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 5
+  - name:
+      value: Leikanger's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 4
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Pandemos
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Pasithea
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Braun's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.0
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.2
+    satellite:
+      - name:
+          value: Jarvis
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Warholm
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.88
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 14.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Frøiland
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Hakanson
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Dyrkorn
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Guddal
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lønning
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.64
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 39.7
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Ekeland
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Collazo
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Elstad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.16
+    sysPos:
+      value: 8
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 111.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Wabosso
+        size:
+          value: giant
+        icon: rock12
+  - name:
+      value: Ådland
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.2
+    sysPos:
+      value: 9
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 314.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Tiepolo
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Bjorkman
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Einvik
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Stang
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Thurman
+        size:
+          value: medium
+        icon: oddmoon2

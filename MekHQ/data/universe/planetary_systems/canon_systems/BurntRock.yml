@@ -1,0 +1,381 @@
+id: Burnt Rock
+sucsId: 418
+xcood: -328.509
+ycood: 191.528
+spectralType:
+  value: G9V
+primarySlot: 3
+event:
+  - date: '2790-12-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Upper Freehold
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: greenhouse11
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 203
+    water:
+      value: 0
+  - name:
+      value: Newman
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 48
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Burnt Rock
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green28
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 30
+    water:
+      value: 60
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: New Argonne
+        capital:
+          value: Ray
+      - name:
+          value: New Plains
+      - name:
+          value: Torrance Prime
+      - name:
+          value: Wright
+      - name:
+          value: Moniteau
+    event:
+      - date: '2725-02-08'
+        faction:
+          source: canon
+          value:
+            - LA
+        hpg:
+          value: B
+        population:
+          value: 57371.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2730-01-01'
+        population:
+          value: 130969.0
+      - date: '2740-01-01'
+        population:
+          value: 531647.0
+      - date: '2750-01-01'
+        population:
+          value: 1639295.0
+      - date: '2760-01-01'
+        population:
+          value: 423032.0
+      - date: '2770-01-01'
+        population:
+          value: 57811.0
+      - date: '2780-01-01'
+        population:
+          value: 6611.0
+      - date: '2790-08-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Three Fates
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 50000
+    density:
+      value: 1.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Faulkner
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Mullins
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Lynch's Plains
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Fagg 1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Fagg 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Fagg 3
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Z-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -155
+  - name:
+      value: Wilkinson's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Edwards
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Jackson's Flats
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 20
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Aasgard I
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Aasgard II
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Aasgard III
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Aasgard IV
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Aasgard V
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Aasgard VI
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Aasgard VII
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Whitaker
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Hotai Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Hotai Beta
+        size:
+          value: medium
+        icon: rock14

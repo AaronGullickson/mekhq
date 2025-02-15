@@ -1,0 +1,618 @@
+id: Baruun Urt
+sucsId: 264
+xcood: 105.579
+ycood: 237.731
+spectralType:
+  value: F1V
+primarySlot: 4
+event:
+  - date: '2710-09-10'
+    zenithCharge:
+      value: yes
+  - date: '2757-01-28'
+    nadirCharge:
+      value: yes
+  - date: '2813-12-03'
+    nadirCharge:
+      value: no
+  - date: '2817-12-11'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Dashnyam's Planet
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 281
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Batbayar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: barren18
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 157
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+  - name:
+      value: Zenisek
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 2.4
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Crom Dubh
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Bat-Erdene
+        size:
+          value: large
+        icon: rock14
+  - name:
+      source: canon
+      value: Baruun Urt
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green43
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 30
+    water:
+      value: 38
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Ganbold
+        capital:
+          value: Old Malchin
+      - name:
+          value: Port Munkhsaikhan
+      - name:
+          value: Mona Prime
+      - name:
+          value: Otgonbayar
+    event:
+      - date: '2697-11-04'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 46575.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2700-01-01'
+        population:
+          value: 325309.0
+      - date: '2704-03-15'
+        hpg:
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 15479358.0
+      - date: '2720-01-01'
+        population:
+          value: 82428521.0
+      - date: '2723-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2730-01-01'
+        population:
+          value: 170707523.0
+      - date: '2733-01-01'
+        socioIndustrial:
+          value: B-C-A-D-B
+      - date: '2740-01-01'
+        population:
+          value: 234907922.0
+      - date: '2750-01-01'
+        population:
+          value: 271781413.0
+      - date: '2760-01-01'
+        population:
+          value: 291044367.0
+      - date: '2770-01-01'
+        population:
+          value: 301379922.0
+      - date: '2780-01-01'
+        population:
+          value: 305887042.0
+      - date: '2790-01-01'
+        population:
+          value: 307146255.0
+      - date: '2800-01-01'
+        population:
+          value: 304647223.0
+      - date: '2810-01-01'
+        population:
+          value: 301144849.0
+      - date: '2820-01-01'
+        population:
+          value: 297234104.0
+      - date: '2830-01-01'
+        population:
+          value: 292711182.0
+      - date: '2840-01-01'
+        population:
+          value: 289673515.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: C-D-B-F-C
+      - date: '2850-01-01'
+        population:
+          value: 288021687.0
+      - date: '2860-01-01'
+        population:
+          value: 284442194.0
+      - date: '2870-01-01'
+        population:
+          value: 281755810.0
+      - date: '2880-01-01'
+        population:
+          value: 280096320.0
+      - date: '2890-01-01'
+        population:
+          value: 278919461.0
+      - date: '2900-01-01'
+        population:
+          value: 278481603.0
+      - date: '2906-01-01'
+        socioIndustrial:
+          value: D-D-B-F-D
+      - date: '2910-01-01'
+        population:
+          value: 278936990.0
+      - date: '2920-01-01'
+        population:
+          value: 278184252.0
+      - date: '2930-01-01'
+        population:
+          value: 277538173.0
+      - date: '2940-01-01'
+        population:
+          value: 277625393.0
+      - date: '2950-01-01'
+        population:
+          value: 277974548.0
+      - date: '2960-01-01'
+        population:
+          value: 278324142.0
+      - date: '2970-01-01'
+        population:
+          value: 279200052.0
+      - date: '2980-01-01'
+        population:
+          value: 279920355.0
+      - date: '2990-01-01'
+        population:
+          value: 280483833.0
+      - date: '3000-01-01'
+        population:
+          value: 278884407.0
+      - date: '3010-01-01'
+        population:
+          value: 275314642.0
+      - date: '3020-01-01'
+        population:
+          value: 271636893.0
+      - date: '3030-01-01'
+        population:
+          value: 271286769.0
+      - date: '3040-01-01'
+        population:
+          value: 274479465.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: C-D-B-F-C
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: B-C-A-D-B
+      - date: '3050-01-01'
+        population:
+          value: 278210063.0
+      - date: '3056-01-01'
+        socioIndustrial:
+          value: B-C-A-D-C
+      - date: '3060-01-01'
+        population:
+          value: 282301726.0
+      - date: '3070-01-01'
+        population:
+          value: 285395646.0
+      - date: '3080-01-01'
+        population:
+          value: 288148638.0
+      - date: '3090-01-01'
+        population:
+          value: 291219259.0
+      - date: '3100-08-23'
+        population:
+          value: 295029824.0
+        socioIndustrial:
+          value: A-B-A-C-C
+      - date: '3110-01-01'
+        population:
+          value: 299968194.0
+      - date: '3120-01-01'
+        population:
+          value: 305050230.0
+      - date: '3130-01-01'
+        population:
+          value: 310094302.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 315347892.0
+      - date: '3145-01-01'
+        population:
+          value: 318580901.0
+  - name:
+      value: Banda
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: frozen14
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 27
+    yearLength:
+      value: 9.6
+    temperature:
+      value: -39
+    water:
+      value: 45
+    landmass:
+      - name:
+          value: New Buddinge A
+      - name:
+          value: New Buddinge B
+      - name:
+          value: New Buddinge C
+      - name:
+          value: New Buddinge D
+      - name:
+          value: New Buddinge E
+      - name:
+          value: New Buddinge F
+  - name:
+      value: Gantulga's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -119
+  - name:
+      value: Tömörbaatar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 7
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Hesperethousa I
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Hesperethousa II
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Hesperethousa III
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Hesperethousa IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hesperethousa V
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Altai
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 8
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Fan Guei 1
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Fan Guei 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Davaanyamyn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 489.1
+    smallMoons:
+      value: 21
+  - name:
+      value: Elston
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 10
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1372.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: WF1
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: WF2
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Overbeek
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.4
+    sysPos:
+      value: 11
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 110000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3867.8
+    smallMoons:
+      value: 12
+  - name:
+      value: Álvarez
+    type:
+      value: ICE_GIANT
+    orbitalDist: 492.16
+    sysPos:
+      value: 12
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10918.4
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Enkhjarga 1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Enkhjarga 2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Enkhjarga 3
+        size:
+          value: large
+        icon: rock2

@@ -1,0 +1,313 @@
+id: Ype-Jhu
+sucsId: 2804
+xcood: 674.285
+ycood: 138.333
+spectralType:
+  value: K8V
+primarySlot: 1
+event:
+  - date: '2791-05-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ype-Jhu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green24
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 11700
+    density:
+      value: 5.8284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 35
+    water:
+      value: 35
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Estacion Costa
+        capital:
+          value: Kuero Fresco Nueva
+    event:
+      - date: '2692-02-10'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 51936.0
+        socioIndustrial:
+          value: C-C-A-D-D
+      - date: '2700-01-01'
+        population:
+          value: 794304.0
+      - date: '2710-01-01'
+        population:
+          value: 4574119.0
+      - date: '2720-01-01'
+        population:
+          value: 10417796.0
+      - date: '2724-03-23'
+        hpg:
+          value: B
+      - date: '2728-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2730-01-01'
+        population:
+          value: 15222141.0
+      - date: '2740-01-01'
+        population:
+          value: 10282365.0
+      - date: '2750-01-01'
+        population:
+          value: 2753641.0
+      - date: '2760-01-01'
+        population:
+          value: 890148.0
+      - date: '2770-01-01'
+        population:
+          value: 407309.0
+      - date: '2780-01-01'
+        population:
+          value: 129775.0
+      - date: '2783-09-19'
+        hpg:
+          value: X
+      - date: '2788-04-18'
+        hpg:
+          value: B
+      - date: '2790-01-01'
+        population:
+          value: 39591.0
+      - date: '2791-06-27'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Román's Delight
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 30000
+    density:
+      value: 2.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: N.1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: N.2
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: N.3
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Puerto San Rafael Sub Urbano
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 6
+  - name:
+      value: Meléndez
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.02
+    diameter:
+      value: 13500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -96
+    water:
+      value: 0
+  - name:
+      value: Balderas
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.3
+  - name:
+      value: Com Indig Puerto Gimenez Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 5.6
+    temperature:
+      value: -175
+  - name:
+      value: Serrano's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Wiraqutra A
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Wiraqutra B
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Wiraqutra C
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Wiraqutra D
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Wiraqutra E
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Mbocaya´I Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 40.3
+    temperature:
+      value: -222

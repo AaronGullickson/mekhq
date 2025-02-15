@@ -1,0 +1,468 @@
+id: Cogdell
+sucsId: 2891
+xcood: 521.902
+ycood: -141.512
+spectralType:
+  source: canon
+  value: G5V
+primarySlot: 4
+planet:
+  - name:
+      value: Clayton
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 2000
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+  - name:
+      value: Murray's Wind
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 40000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 7
+  - name:
+      value: Natero Kop
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 55000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Shoko O I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Shoko O II
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      source: canon
+      value: Cogdell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 4
+    icon: green10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 41
+    water:
+      value: 26
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: Cogdell was originally ‘settled’ when a group of convicts from the Periphery
+      were dumped on the planet without supplies. The prisoners managed to scrape
+      together a semi-anarchic society with no real structure. When the planet was
+      absorbed by the Federated Suns prior to the 3rd Succession War the Davion government
+      appointed the governor from the people on the planet, selecting a member of
+      the well-known Sims family. However, as the years passed the Simms family became
+      more pro-Suns and and pro-Nobility, this has unfortunately caused major problems
+      on the planet as the citizens want to maintain the status quo of semi-anarchy.
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: North Reading I
+        capital:
+          value: New Union Dale
+      - name:
+          value: North Reading II
+    event:
+      - date: '2865-05-01'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 45851.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2867-04-09'
+        hpg:
+          source: canon
+          value: B
+      - date: '2870-01-01'
+        population:
+          value: 101828.0
+      - date: '2880-01-01'
+        population:
+          value: 352770.0
+      - date: '2890-01-01'
+        population:
+          value: 857704.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2900-01-01'
+        population:
+          value: 1623044.0
+      - date: '2910-01-01'
+        population:
+          value: 2556760.0
+      - date: '2920-01-01'
+        population:
+          value: 3545904.0
+      - date: '2930-01-01'
+        population:
+          value: 4486600.0
+      - date: '2940-01-01'
+        population:
+          value: 5313845.0
+      - date: '2950-01-01'
+        population:
+          value: 6018698.0
+      - date: '2960-01-01'
+        population:
+          value: 6568841.0
+      - date: '2970-01-01'
+        population:
+          value: 6974243.0
+      - date: '2980-01-01'
+        population:
+          value: 7291357.0
+      - date: '2990-01-01'
+        population:
+          value: 7510788.0
+      - date: '3000-01-01'
+        population:
+          value: 7630794.0
+      - date: '3010-01-01'
+        population:
+          value: 7735907.0
+      - date: '3020-01-01'
+        population:
+          value: 7826450.0
+      - date: '3025-08-29'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3030-01-01'
+        population:
+          value: 7905257.0
+      - date: '3040-01-01'
+        population:
+          value: 7955011.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '3050-01-01'
+        population:
+          value: 7976910.0
+      - date: '3060-01-01'
+        population:
+          value: 8030256.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 8070447.0
+      - date: '3072-02-20'
+        faction:
+          source: canon
+          value:
+            - FVC
+      - date: '3080-01-01'
+        population:
+          value: 8128764.0
+      - date: '3090-01-01'
+        population:
+          value: 8187502.0
+      - date: '3100-06-06'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 8230188.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: F-F-B-C-D
+      - date: '3110-01-01'
+        population:
+          value: 8307916.0
+      - date: '3120-01-01'
+        population:
+          value: 8376321.0
+      - date: '3130-01-01'
+        population:
+          value: 8414941.0
+      - date: '3140-01-01'
+        population:
+          value: 8452048.0
+      - date: '3145-01-01'
+        population:
+          value: 8446979.0
+  - name:
+      value: Alla
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: frozen32
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -86
+    water:
+      value: 48
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: New Ajitgarh
+        capital:
+          value: New Ajitgarh City
+  - name:
+      value: Montgomery's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 1L1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 1L2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 1L3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bender
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 9
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Sedna
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Nipinoukhe
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Dzalarhons
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Nankil'slas
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Apoyan Tachi
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Skewes's Nest
+    type:
+      value: ICE_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Ananse
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 17

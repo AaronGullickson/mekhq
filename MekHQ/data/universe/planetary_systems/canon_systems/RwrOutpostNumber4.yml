@@ -1,0 +1,287 @@
+id: 'RWR Outpost #4'
+sucsId: 3085
+xcood: 1721.913
+ycood: 424.912
+spectralType:
+  value: G7V
+primarySlot: 2
+event:
+  - date: '2779-04-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Le Gall's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.8
+    diameter:
+      value: 13500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+    ring:
+      value: yes
+  - name:
+      source: canon
+      value: 'RWR Outpost #4'
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: green18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.61
+    diameter:
+      value: 10800
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 30
+    water:
+      value: 39
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: New Lagoa Dourada
+        capital:
+          value: Alexandre
+      - name:
+          value: Wentlooge
+      - name:
+          value: Ossining
+      - name:
+          value: Baraki Barak
+      - name:
+          value: Ryan Port
+    satellite:
+      - name:
+          value: Covaliu 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Covaliu 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Covaliu 3
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2765-12-04'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 710.121944019148
+        socioIndustrial:
+          value: C-C-C-D-F
+      - date: '2766-04-30'
+        hpg:
+          value: X
+      - date: '2779-03-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          source: canon
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Y1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: asteroid3
+    yearLength:
+      value: 1.3
+    temperature:
+      value: -8
+  - name:
+      value: Fern
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Apel I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Apel II
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Apel III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Pichon's Grove
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Bin Salman
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: White
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Robinson
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: McIlvora's Hole
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      value: Ravenhurst
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 6
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Larking
+        size:
+          value: large
+        icon: rock6

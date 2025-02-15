@@ -1,0 +1,293 @@
+id: Oscar
+sucsId: 2916
+xcood: 548.604
+ycood: -451.75
+spectralType:
+  value: F5V
+primarySlot: 3
+planet:
+  - name:
+      value: L'aube de Delorme
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 55000
+    density:
+      value: 2.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Decima
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Virtus
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Suovetaurilia
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Invidia
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Mercury
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Hayagawa's Madness
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 53
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Oscar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: green53
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 29
+    water:
+      value: 50
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Rémire
+        capital:
+          value: Poulet Town
+      - name:
+          value: Cayenne
+      - name:
+          value: Douz Est
+      - name:
+          value: Nouveau Matoury
+      - name:
+          value: Nova Ciempozuelos
+    event:
+      - date: '3028-03-07'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 49252.0
+        socioIndustrial:
+          value: C-C-A-D-D
+      - date: '3030-06-03'
+        population:
+          value: 176623.0
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '3034-05-04'
+        hpg:
+          value: B
+      - date: '3040-01-01'
+        population:
+          value: 2349771.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '3050-01-01'
+        population:
+          value: 3777200.0
+      - date: '3060-01-01'
+        population:
+          value: 4128449.0
+      - date: '3066-04-01'
+        faction:
+          source: canon
+          value:
+            - CDP
+      - date: '3070-01-01'
+        population:
+          value: 4210522.0
+      - date: '3080-01-01'
+        population:
+          value: 4253689.0
+      - date: '3090-01-01'
+        population:
+          value: 4286997.0
+      - date: '3100-01-01'
+        population:
+          value: 4330948.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3110-01-01'
+        population:
+          value: 4399041.0
+      - date: '3120-01-01'
+        population:
+          value: 4475359.0
+      - date: '3130-01-01'
+        population:
+          value: 4561204.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 4644049.0
+      - date: '3145-01-01'
+        population:
+          value: 4687909.0
+  - name:
+      value: Illini
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 4
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -130
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Y-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Y-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Causse's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 14.0
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 52.4
+    temperature:
+      value: -170
+  - name:
+      value: Sinnamary
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Amaterasu
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Jizo
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Frunzenskiy
+        size:
+          value: medium
+        icon: oddmoon2

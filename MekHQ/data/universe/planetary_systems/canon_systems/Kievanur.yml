@@ -1,0 +1,393 @@
+id: Kievanur
+sucsId: 1346
+xcood: -55.485
+ycood: -152.459
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2749-12-13'
+    nadirCharge:
+      value: yes
+  - date: '2776-09-03'
+    zenithCharge:
+      value: yes
+  - date: '2794-04-07'
+    zenithCharge:
+      value: no
+  - date: '2822-10-13'
+    nadirCharge:
+      value: no
+  - date: '2863-04-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Aphrodite
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 178
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Kievanur
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 10800
+    density:
+      value: 6.8337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 35
+    water:
+      value: 32
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Heinonen's Harvest
+        capital:
+          value: Dubois
+      - name:
+          value: Smaller Burmeister
+      - name:
+          value: Bin Wa'il
+      - name:
+          value: Larger Burmeister
+    event:
+      - date: '2640-12-26'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 55251.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2650-01-01'
+        population:
+          value: 3106472.0
+      - date: '2653-09-01'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 33890090.0
+      - date: '2670-01-01'
+        population:
+          value: 139333422.0
+      - date: '2680-01-01'
+        population:
+          value: 321232783.0
+      - date: '2687-01-01'
+        socioIndustrial:
+          value: C-C-B-B-C
+      - date: '2690-01-01'
+        population:
+          value: 525468335.0
+      - date: '2700-01-01'
+        population:
+          value: 702163934.0
+      - date: '2710-01-01'
+        population:
+          value: 835379979.0
+      - date: '2720-01-01'
+        population:
+          value: 923523493.0
+      - date: '2730-01-01'
+        population:
+          value: 973508192.0
+      - date: '2740-01-01'
+        population:
+          value: 1001023410.0
+      - date: '2750-01-01'
+        population:
+          value: 1014885295.0
+      - date: '2760-01-01'
+        population:
+          value: 1020754585.0
+      - date: '2770-01-01'
+        population:
+          value: 1019760432.0
+      - date: '2780-01-01'
+        population:
+          value: 1020424683.0
+      - date: '2790-01-01'
+        population:
+          value: 1016910310.0
+      - date: '2800-01-01'
+        population:
+          value: 1014166080.0
+      - date: '2810-01-01'
+        population:
+          value: 1013146863.0
+      - date: '2820-01-01'
+        population:
+          value: 1009841475.0
+      - date: '2830-01-01'
+        population:
+          value: 1005219408.0
+      - date: '2840-01-01'
+        population:
+          value: 739625676.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: C-C-C-B-C
+      - date: '2850-01-01'
+        population:
+          value: 45771583.0
+      - date: '2860-01-01'
+        population:
+          value: 1120404.0
+      - date: '2863-02-24'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ducker's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 5
+  - name:
+      value: Nefteyuganskiy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Setesh I
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Setesh II
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Setesh III
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Setesh IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Setesh V
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Cronus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Y-1
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Bomani's Rock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 6
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Loke
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Baldr
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Mannheim
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Ceridwen
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Peko
+    type:
+      value: ICE_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1367.5
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Matsumura
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Rivera
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Bradley
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: McCray
+        size:
+          value: medium
+        icon: rock5

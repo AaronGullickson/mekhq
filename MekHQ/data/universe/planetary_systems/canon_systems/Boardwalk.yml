@@ -1,0 +1,795 @@
+id: Boardwalk
+sucsId: 352
+xcood: -13.703
+ycood: -197.583
+spectralType:
+  value: G5V
+primarySlot: 3
+event:
+  - date: '2365-04-05'
+    zenithCharge:
+      value: yes
+  - date: '2381-01-11'
+    nadirCharge:
+      value: yes
+  - date: '2831-04-15'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Woodley
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: M6-1
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: M6-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Suze
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 61
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Boardwalk
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green46
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 13200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 29
+    water:
+      value: 63
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Bin Zahid's Hole
+        capital:
+          value: Progreso Lakes
+      - name:
+          value: Cowan
+      - name:
+          value: Marshall's Land
+      - name:
+          value: Myers
+      - name:
+          value: Smith
+      - name:
+          value: Dunn
+      - name:
+          value: Chilhowee
+      - name:
+          value: New Vallers
+      - name:
+          value: Sanguinacco
+    event:
+      - date: '2270-02-06'
+        faction:
+          source: canon
+          value:
+            - CH
+        population:
+          value: 56120.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2280-01-01'
+        population:
+          value: 228491.0
+      - date: '2290-01-01'
+        population:
+          value: 769604.0
+      - date: '2300-01-01'
+        population:
+          value: 2188585.0
+      - date: '2310-05-18'
+        faction:
+          source: canon
+          value:
+            - CCom
+        population:
+          value: 5378840.0
+      - date: '2320-01-01'
+        population:
+          value: 11708897.0
+      - date: '2330-01-01'
+        population:
+          value: 22836100.0
+      - date: '2334-01-01'
+        socioIndustrial:
+          value: C-C-C-D-D
+      - date: '2340-01-01'
+        population:
+          value: 40608128.0
+      - date: '2350-01-01'
+        population:
+          value: 66481146.0
+      - date: '2360-01-01'
+        population:
+          value: 101731957.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 146801524.0
+      - date: '2380-01-01'
+        population:
+          value: 202205540.0
+      - date: '2390-01-01'
+        population:
+          value: 267622645.0
+      - date: '2400-01-01'
+        population:
+          value: 339618357.0
+      - date: '2410-01-01'
+        population:
+          value: 417901917.0
+      - date: '2420-01-01'
+        population:
+          value: 501478448.0
+      - date: '2430-01-01'
+        population:
+          value: 582107034.0
+      - date: '2440-01-01'
+        population:
+          value: 658446665.0
+      - date: '2450-01-01'
+        population:
+          value: 729925679.0
+      - date: '2460-01-01'
+        population:
+          value: 797856470.0
+      - date: '2470-01-01'
+        population:
+          value: 860742354.0
+      - date: '2480-01-01'
+        population:
+          value: 917268263.0
+      - date: '2490-01-01'
+        population:
+          value: 972573309.0
+      - date: '2500-01-01'
+        population:
+          value: 1016391548.0
+      - date: '2510-01-01'
+        population:
+          value: 1051736355.0
+      - date: '2520-01-01'
+        population:
+          value: 1083038053.0
+      - date: '2530-01-01'
+        population:
+          value: 1111965001.0
+      - date: '2540-01-01'
+        population:
+          value: 1136647995.0
+      - date: '2550-01-01'
+        population:
+          value: 1154762582.0
+      - date: '2560-01-01'
+        population:
+          value: 1166411201.0
+      - date: '2570-01-01'
+        population:
+          value: 1175725593.0
+      - date: '2580-01-01'
+        population:
+          value: 1190031552.0
+      - date: '2582-01-01'
+        socioIndustrial:
+          value: B-B-C-C-D
+      - date: '2590-01-01'
+        population:
+          value: 1208258592.0
+      - date: '2600-01-01'
+        population:
+          value: 1229001039.0
+      - date: '2610-01-01'
+        population:
+          value: 1246969653.0
+      - date: '2620-01-01'
+        population:
+          value: 1258044654.0
+      - date: '2623-01-01'
+        socioIndustrial:
+          value: A-A-B-B-C
+      - date: '2630-01-01'
+        population:
+          value: 1260276276.0
+      - date: '2640-01-01'
+        population:
+          value: 1261886440.0
+      - date: '2650-01-01'
+        population:
+          value: 1266857754.0
+      - date: '2655-04-19'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 1271320804.0
+      - date: '2670-01-01'
+        population:
+          value: 1277710743.0
+      - date: '2680-01-01'
+        population:
+          value: 1284124467.0
+      - date: '2690-01-01'
+        population:
+          value: 1290153405.0
+      - date: '2700-01-01'
+        population:
+          value: 1297700509.0
+      - date: '2710-01-01'
+        population:
+          value: 1309489459.0
+      - date: '2720-01-01'
+        population:
+          value: 1323586432.0
+      - date: '2730-01-01'
+        population:
+          value: 1338785863.0
+      - date: '2740-01-01'
+        population:
+          value: 1353009522.0
+      - date: '2750-01-01'
+        population:
+          value: 1369004927.0
+      - date: '2760-01-01'
+        population:
+          value: 1382994418.0
+      - date: '2770-01-01'
+        population:
+          value: 1388546539.0
+      - date: '2780-01-01'
+        population:
+          value: 1394206956.0
+      - date: '2790-01-01'
+        population:
+          value: 1387784676.0
+      - date: '2800-01-01'
+        population:
+          value: 1372305007.0
+      - date: '2810-01-01'
+        population:
+          value: 1371259278.0
+      - date: '2820-01-01'
+        population:
+          value: 1383258099.0
+      - date: '2830-01-01'
+        population:
+          value: 1384463740.0
+      - date: '2840-01-01'
+        population:
+          value: 1386576142.0
+      - date: '2850-01-01'
+        population:
+          value: 1390962090.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: B-B-C-C-D
+      - date: '2860-01-01'
+        population:
+          value: 1382655672.0
+      - date: '2870-01-01'
+        population:
+          value: 1361438645.0
+      - date: '2880-01-01'
+        population:
+          value: 1338359160.0
+      - date: '2890-01-01'
+        population:
+          value: 1311808069.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: C-B-D-D-F
+      - date: '2900-01-01'
+        population:
+          value: 1282846560.0
+      - date: '2910-01-01'
+        population:
+          value: 1255754635.0
+      - date: '2920-01-01'
+        population:
+          value: 1227629510.0
+      - date: '2930-01-01'
+        population:
+          value: 1200918741.0
+      - date: '2940-01-01'
+        population:
+          value: 1183263396.0
+      - date: '2950-01-01'
+        population:
+          value: 1159410330.0
+      - date: '2960-01-01'
+        population:
+          value: 1134554480.0
+      - date: '2970-01-01'
+        population:
+          value: 1107695364.0
+      - date: '2980-01-01'
+        population:
+          value: 1093194854.0
+      - date: '2990-01-01'
+        population:
+          value: 1077827251.0
+      - date: '3000-01-01'
+        population:
+          value: 1059209518.0
+      - date: '3010-01-01'
+        population:
+          value: 1047394852.0
+      - date: '3020-01-01'
+        population:
+          value: 1036388937.0
+      - date: '3029-01-01'
+        socioIndustrial:
+          value: C-B-D-C-D
+      - date: '3030-01-01'
+        population:
+          value: 1035817088.0
+      - date: '3040-01-01'
+        population:
+          value: 1050735686.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: B-A-C-B-C
+      - date: '3050-01-01'
+        population:
+          value: 1062676337.0
+      - date: '3060-01-01'
+        population:
+          value: 1075075157.0
+      - date: '3070-01-01'
+        population:
+          value: 1089251292.0
+      - date: '3080-01-01'
+        population:
+          value: 1096902800.0
+      - date: '3090-01-01'
+        population:
+          value: 1096902800.0
+      - date: '3100-01-01'
+        population:
+          value: 1096025629.0
+      - date: '3110-01-01'
+        population:
+          value: 1095149159.0
+      - date: '3111-01-01'
+        socioIndustrial:
+          value: B-A-C-A-C
+      - date: '3120-01-01'
+        population:
+          value: 1093835768.0
+      - date: '3130-01-01'
+        population:
+          value: 1099758458.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1111255628.0
+      - date: '3145-01-01'
+        population:
+          value: 1116155925.0
+  - name:
+      value: Orange
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.0
+  - name:
+      value: Kawa
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: UJY.1
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Nairobi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: West Saint Clair Alpha
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: West Saint Clair Beta
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: West Saint Clair Gamma
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: West Saint Clair Delta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: West Saint Clair Epsilon
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: West Saint Clair Zeta
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Dakshin Bastar Dantewada
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 579.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Cooper
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: McKinley
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Redpath
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Webster
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Shepherd
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Grenada
+    type:
+      value: GAS_GIANT
+    orbitalDist: 138.6
+    sysPos:
+      value: 8
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1631.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: P01
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: P02
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: P03
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Hughes's Mistake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4606.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Hinkle
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Fairhope
+    type:
+      value: GAS_GIANT
+    orbitalDist: 553.32
+    sysPos:
+      value: 10
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 13015.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Niklot
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Goodell
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Umatilla
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1106.28
+    sysPos:
+      value: 11
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 100000
+    density:
+      value: 0.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 36795.699999999997
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: None Mebeghe I
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: None Mebeghe II
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Brussels
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2212.2
+    sysPos:
+      value: 12
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 104048.699999999997
+    smallMoons:
+      value: 6

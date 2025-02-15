@@ -1,0 +1,340 @@
+id: Rover
+sucsId: 3087
+xcood: 823.24
+ycood: 207.547
+spectralType:
+  source: canon
+  value: G0V
+primarySlot: 3
+event:
+  - date: '2791-10-18'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: New Portl
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: O'Brien
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Salida
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 88
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Saptarishis
+        size:
+          value: large
+        icon: rock7
+  - name:
+      source: canon
+      value: Rover
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: wet1
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.98
+    diameter:
+      value: 11119
+    density:
+      value: 6.187811311866
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.6
+    temperature:
+      source: canon
+      value: 32
+    water:
+      source: canon
+      value: 79
+    lifeForm:
+      source: canon
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Spencer's Nest
+        capital:
+          value: New Ricetown
+      - name:
+          value: Corbin
+      - name:
+          value: Segura
+      - name:
+          value: Lee
+      - name:
+          value: Kessler's Glory
+      - name:
+          value: Birstall
+    event:
+      - date: '2675-06-06'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 51419.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2680-01-01'
+        population:
+          value: 293738.0
+      - date: '2690-01-01'
+        population:
+          value: 2212303.0
+      - date: '2700-01-01'
+        population:
+          value: 5754864.0
+      - date: '2710-01-01'
+        population:
+          value: 9021377.0
+      - date: '2715-01-01'
+        socioIndustrial:
+          value: D-F-B-D-F
+      - date: '2720-01-01'
+        population:
+          value: 11070415.0
+      - date: '2730-02-08'
+        hpg:
+          value: X
+        population:
+          value: 12098824.0
+      - date: '2740-01-01'
+        population:
+          value: 12607657.0
+      - date: '2750-01-01'
+        population:
+          value: 12752518.0
+      - date: '2760-01-01'
+        population:
+          value: 9032908.0
+      - date: '2770-01-01'
+        population:
+          value: 460579.0
+      - date: '2780-01-01'
+        population:
+          value: 19081.0
+      - date: '2790-01-01'
+        population:
+          value: 586.0
+      - date: '2791-10-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3025-09-13'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 1323.0
+        socioIndustrial:
+          value: B-X-X-X-X
+  - name:
+      value: Natoma
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.6
+    satellite:
+      - name:
+          value: Lindsey
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Webb
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Saugatuck
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 10
+  - name:
+      value: Le Sauk
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Greer's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205
+  - name:
+      value: Malinalxochi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 150000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Epiphanes
+        size:
+          value: medium
+        icon: rock6

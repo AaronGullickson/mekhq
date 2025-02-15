@@ -1,0 +1,906 @@
+id: Galedon V
+sucsId: 920
+xcood: 331.999
+ycood: 173.891
+spectralType:
+  source: canon
+  value: K5III
+primarySlot: 5
+event:
+  - date: '2357-09-11'
+    nadirCharge:
+      value: yes
+  - date: '2471-09-07'
+    zenithCharge:
+      value: yes
+  - date: '3069-11-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Galedon I
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 35000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: G.1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Galedon II
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 2
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.9
+    satellite:
+      - name:
+          value: Daugherty 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Daugherty 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Daugherty 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Galedon III
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: barren17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 81
+    water:
+      value: 0
+  - name:
+      value: Galedon IV
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Hambridge and Westport
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Asheville
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      source: canon
+      value: Galedon V
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 5
+    icon: green44
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.2
+    diameter:
+      value: 11229
+    density:
+      value: 7.523656081744
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 65
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Galedon V is a garden world with abundant water, natural resources, and agriculture. It is one of the earliest members of the nascent Draconis Combine. Historically, it has been a prefecture and military district capital and was heavily garrisoned by the DCMS as a result.
+
+      Galedon V was settled in the late 2200s and early colonists were attracted by the abundant, clean, water supplies, fertile plains, and abundant high-grade industrial diamonds and other natural resources. An early alliance with Shiro Kurita against the Ozawa Mercantile Association cemented Galedon V historically in the formation of the Draconis Combine. In 2332, the planet was wracked by revolts, the result of which left shattered cities and starving civilians. However, the Colonial Board put in place by Shiro Kurita and tasked with rebuilding the planet convinced the civilians of Shiro’s benevolence and charity. The people of Galedon have been staunch Kurita supporters ever since.
+
+      Galedon V is an agricultural powerhouse and trades with other worlds in the region. The Galedon pear is the planet’s most valuable harvest; the difficult maintenance require and a three-year growth cycle mean that it remains an expensive commodity, often costing hundreds of K-bills for a single pear. The hills of the Paphos continent hold a renowned wine industry.
+
+      The black and red diamonds that Galedon is famous for are mined from the ‘Steps of the Dragon’ mountain chain along the eastern coast of Paphos. Strict security on the mining, production, and export of these gems means they are the most rare and expensive in the Inner Sphere.
+
+      Luzon, the southern continent of Galedon is home to the capital, Galedon City and the the sprawling Galedon Military Academy, covering over five thousand hectares of land, just outside of the city. The continent is also home to two dedicated military DropPorts, extensive garrison facilities, and expansive BattleMech repair and refit facilities.
+
+      In orbit, is the Galedon Naval Warfare Station, which opened in 3037. The Galedon system is also home to the Galedon Ring, which services the planet’s aerospace defense units and resupplies visiting spacecraft.
+
+      Unfortunately, during the Word of Blake Jihad, orbital strikes by Clan Snow Raven in 3068 unleashed an ancient virulent epidemic that came to be known as the Curse of Galedon. All that kept the deadly virus from spreading further beyond Galedon was the return of a Snow Raven fleet nearly a year later which systematically destroyed every city and military base on the planet, which along with the Curse of Galedon, reduced the once powerful world to a graveyard.
+    landmass:
+      - name:
+          source: canon
+          value: Crete
+      - name:
+          source: canon
+          value: Luzon
+        capital:
+          source: canon
+          value: Galedon City
+      - name:
+          source: canon
+          value: Paphos
+    satellite:
+      - name:
+          value: Shiro
+        size:
+          value: medium
+        icon: rock12
+    event:
+      - date: '2270-11-23'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 56109.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2280-01-01'
+        population:
+          value: 248250.0
+      - date: '2290-01-01'
+        population:
+          value: 891495.0
+      - date: '2300-01-01'
+        population:
+          value: 2680644.0
+      - date: '2302-05-06'
+        faction:
+          source: canon
+          value:
+            - AG
+      - date: '2310-01-01'
+        population:
+          value: 6914339.0
+      - date: '2319-03-09'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2320-01-01'
+        population:
+          value: 15679368.0
+      - date: '2330-01-01'
+        population:
+          value: 31720201.0
+      - date: '2335-01-01'
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2340-01-01'
+        population:
+          value: 58425310.0
+      - date: '2341-09-05'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2350-01-01'
+        population:
+          value: 99155078.0
+      - date: '2360-01-01'
+        population:
+          value: 156779490.0
+      - date: '2370-01-01'
+        population:
+          value: 232357890.0
+      - date: '2380-01-01'
+        population:
+          value: 323329838.0
+      - date: '2390-01-01'
+        population:
+          value: 427902733.0
+      - date: '2400-01-01'
+        population:
+          value: 544347269.0
+      - date: '2410-01-01'
+        population:
+          value: 669744806.0
+      - date: '2420-01-01'
+        population:
+          value: 803201730.0
+      - date: '2430-01-01'
+        population:
+          value: 944480995.0
+      - date: '2440-01-01'
+        population:
+          value: 1082833665.0
+      - date: '2444-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2450-01-01'
+        population:
+          value: 1224599397.0
+      - date: '2460-01-01'
+        population:
+          value: 1360720395.0
+      - date: '2470-01-01'
+        population:
+          value: 1498785362.0
+      - date: '2480-01-01'
+        population:
+          value: 1633449485.0
+      - date: '2490-01-01'
+        population:
+          value: 1758073332.0
+      - date: '2500-01-01'
+        population:
+          value: 1867279209.0
+      - date: '2510-01-01'
+        population:
+          value: 1974941112.0
+      - date: '2520-01-01'
+        population:
+          value: 2066521338.0
+      - date: '2530-01-01'
+        population:
+          value: 2150707908.0
+      - date: '2540-01-01'
+        population:
+          value: 2225833338.0
+      - date: '2550-01-01'
+        population:
+          value: 2296900302.0
+      - date: '2560-01-01'
+        population:
+          value: 2360042858.0
+      - date: '2570-01-01'
+        population:
+          value: 2419599800.0
+      - date: '2580-01-01'
+        population:
+          value: 2471857035.0
+      - date: '2590-01-01'
+        population:
+          value: 2514221868.0
+      - date: '2600-01-01'
+        population:
+          value: 2555151144.0
+      - date: '2610-01-01'
+        population:
+          value: 2579760657.0
+      - date: '2620-01-01'
+        population:
+          value: 2594419666.0
+      - date: '2630-04-29'
+        hpg:
+          source: canon
+          value: A
+        population:
+          value: 2604706797.0
+      - date: '2640-01-01'
+        population:
+          value: 2607389175.0
+      - date: '2650-01-01'
+        population:
+          value: 2605453370.0
+      - date: '2660-01-01'
+        population:
+          value: 2593028251.0
+      - date: '2661-01-01'
+        socioIndustrial:
+          value: A-B-A-B-A
+      - date: '2670-01-01'
+        population:
+          value: 2580348158.0
+      - date: '2680-01-01'
+        population:
+          value: 2568187257.0
+      - date: '2690-01-01'
+        population:
+          value: 2556758665.0
+      - date: '2700-01-01'
+        population:
+          value: 2537599276.0
+      - date: '2710-01-01'
+        population:
+          value: 2521612654.0
+      - date: '2720-01-01'
+        population:
+          value: 2509882295.0
+      - date: '2730-01-01'
+        population:
+          value: 2500967222.0
+      - date: '2740-01-01'
+        population:
+          value: 2492944568.0
+      - date: '2750-01-01'
+        population:
+          value: 2479934484.0
+      - date: '2760-01-01'
+        population:
+          value: 2455205857.0
+      - date: '2770-01-01'
+        population:
+          value: 2430327742.0
+      - date: '2780-01-01'
+        population:
+          value: 2416454082.0
+      - date: '2790-01-01'
+        population:
+          value: 2385787661.0
+      - date: '2800-01-01'
+        population:
+          value: 2344363231.0
+      - date: '2810-01-01'
+        population:
+          value: 2298112024.0
+      - date: '2820-01-01'
+        population:
+          value: 2262568641.0
+      - date: '2830-01-01'
+        population:
+          value: 2217931134.0
+      - date: '2840-01-01'
+        population:
+          value: 2173126398.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2850-01-01'
+        population:
+          value: 2124100680.0
+      - date: '2860-01-01'
+        population:
+          value: 2119668055.0
+      - date: '2870-01-01'
+        population:
+          value: 2119327467.0
+      - date: '2880-01-01'
+        population:
+          value: 2125124910.0
+      - date: '2890-01-01'
+        population:
+          value: 2141235799.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 2119327467.0
+      - date: '2910-01-01'
+        population:
+          value: 2098654764.0
+      - date: '2920-01-01'
+        population:
+          value: 2060228482.0
+      - date: '2930-01-01'
+        population:
+          value: 2043084897.0
+      - date: '2940-01-01'
+        population:
+          value: 2046699488.0
+      - date: '2950-01-01'
+        population:
+          value: 2016988291.0
+      - date: '2960-01-01'
+        population:
+          value: 1975290355.0
+      - date: '2970-01-01'
+        population:
+          value: 1923296065.0
+      - date: '2980-01-01'
+        population:
+          value: 1875380666.0
+      - date: '2990-01-01'
+        population:
+          value: 1820742170.0
+      - date: '3000-01-01'
+        population:
+          value: 1766843584.0
+      - date: '3010-01-01'
+        population:
+          value: 1701366726.0
+      - date: '3020-01-01'
+        population:
+          value: 1641478586.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 1595000000.0
+      - date: '3028-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '3030-01-01'
+        population:
+          value: 1245496538.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '3040-01-01'
+        population:
+          value: 694468931.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-A-A-A
+      - date: '3050-01-01'
+        population:
+          value: 412466832.0
+      - date: '3060-01-01'
+        population:
+          value: 256858935.0
+      - date: '3068-11-18'
+        faction:
+          source: canon
+          value:
+            - DC
+            - FS
+      - date: '3068-12-03'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3069-06-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3069-04-04'
+        faction:
+          source: canon
+          value:
+            - FS
+            - DC
+      - date: '3069-05-15'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3069-06-01'
+        faction:
+          source: canon
+          value:
+            - DC
+            - CSR
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: Galedon VI
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Shahrestān-e Kordkūy Alpha
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Shahrestān-e Kordkūy Beta
+        size:
+          value: giant
+        icon: rock6
+      - name:
+          value: Shahrestān-e Kordkūy Gamma
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Shahrestān-e Kordkūy Delta
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Shahrestān-e Kordkūy Epsilon
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Galedon VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Mohammadi 1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Mohammadi 2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Mohammadi 3
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Mohammadi 4
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Mohammadi 5
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Mohammadi 6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Galedon VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Galedon IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Mahdavi
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bather
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Bauer
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Galedon X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Necessitas
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Fama
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Veive
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Consualia
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Sterculius
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Galedon XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 150000
+    density:
+      value: 0.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Galedon XII
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 215.32
+    sysPos:
+      value: 12
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3159.6
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: And I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: And II
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: And III
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Galedon XIII
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 430.36
+    sysPos:
+      value: 13
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 8927.9
+    satellite:
+      - name:
+          value: Xiuhcoatl
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Matlalcueitl
+        size:
+          value: large
+        icon: rock6

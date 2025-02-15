@@ -1,0 +1,310 @@
+id: Knechee
+sucsId: 3114
+xcood: -591.179
+ycood: -1793.429
+spectralType:
+  value: M1V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Knechee
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 11
+    water:
+      value: 43
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Clément
+        capital:
+          value: Clément City
+      - name:
+          value: Markaz Ajā
+    event:
+      - date: '3095-09-09'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-F-F
+      - date: '3100-01-01'
+        population:
+          value: 83265.0
+      - date: '3102-02-22'
+        hpg:
+          value: X
+      - date: '3110-01-01'
+        population:
+          value: 144607.0
+      - date: '3120-01-01'
+        population:
+          value: 166006.0
+      - date: '3130-01-01'
+        population:
+          value: 184384.0
+      - date: '3140-01-01'
+        population:
+          value: 209458.0
+      - date: '3145-01-01'
+        population:
+          value: 217136.0
+  - name:
+      value: Durban
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 3
+  - name:
+      value: Hussein
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -78
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Choi
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -119
+    water:
+      value: 0
+  - name:
+      value: Farmer
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+  - name:
+      value: Suitucancha Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -187
+  - name:
+      value: Mann's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Buscher
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: ZS1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: ZS2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: ZS3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: ZS4
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Santo Quintino Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 85.5
+    temperature:
+      value: -242
+  - name:
+      value: Nova Unterentfelden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21

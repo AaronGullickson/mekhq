@@ -1,0 +1,380 @@
+id: Chota
+sucsId: 551
+xcood: 186.624
+ycood: -21.95
+spectralType:
+  value: G7V
+primarySlot: 3
+event:
+  - date: '2800-11-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Espelid
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren14
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 157
+    water:
+      value: 0
+  - name:
+      value: Benavides
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 44
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Chota
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: wet6
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 24
+    water:
+      value: 86
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Rippner 1
+        capital:
+          value: Nueva San Gregorio
+      - name:
+          value: Rippner 2
+      - name:
+          value: Rippner 3
+      - name:
+          value: Rippner 4
+      - name:
+          value: Rippner 5
+      - name:
+          value: Rippner 6
+      - name:
+          value: Rippner 7
+    satellite:
+      - name:
+          value: Turner I
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Turner II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Turner III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Turner IV
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2672-10-02'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 47207.0
+        socioIndustrial:
+          value: B-D-B-D-D
+      - date: '2675-05-18'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 658036.0
+      - date: '2690-01-01'
+        population:
+          value: 4301565.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: B-D-A-C-D
+      - date: '2700-01-01'
+        population:
+          value: 11709695.0
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2710-01-01'
+        population:
+          value: 20113961.0
+      - date: '2720-01-01'
+        population:
+          value: 26932318.0
+      - date: '2730-01-01'
+        population:
+          value: 31498380.0
+      - date: '2740-01-01'
+        population:
+          value: 34413790.0
+      - date: '2750-01-01'
+        population:
+          value: 36226133.0
+      - date: '2760-01-01'
+        population:
+          value: 37337793.0
+      - date: '2770-01-01'
+        population:
+          value: 37820232.0
+      - date: '2780-01-01'
+        population:
+          value: 37812861.0
+      - date: '2790-01-01'
+        population:
+          value: 30903876.0
+      - date: '2800-09-05'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: DJ1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -64
+  - name:
+      value: Rosales's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 6
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Humbaba
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ansar
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Vargas
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Lugo
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Sandoval Alta
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 45000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: González I
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: González II
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Mendoza
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Y4-1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Y4-2
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Y4-3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Y4-4
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Böhmer
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 80000
+    density:
+      value: 1.6
+    dayLength:
+      value: 7
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 24

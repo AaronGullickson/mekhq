@@ -1,0 +1,442 @@
+id: Decatur
+sucsId: 672
+xcood: 54.151
+ycood: -336.258
+spectralType:
+  source: canon
+  value: G5V
+primarySlot: 4
+event:
+  - date: '2638-11-13'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Songpa-dong
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock12
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+  - name:
+      value: Aukra
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: 8U1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: 8U2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 8U3
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Guelph
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 800
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -52
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Decatur
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 4
+    icon: wet12
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.95
+    diameter:
+      value: 11400
+    density:
+      value: 5.8284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 36
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: Decatur is a tropical planet with fertile soil and abundant surface water,
+      though it is otherwise fairly average. Agriculture makes up the primary industry
+      on the planet's only continent Decatur. Most of the modest industry is centered
+      in the planetary capital of Macon. Decatur is home to one of the Confederation's
+      many Duchy RTC training facilities. The facilities are located on the flatlands
+      of Decatur and train recruits as either combat vehicle crews or unarmored infantry.
+    landmass:
+      - name:
+          source: canon
+          value: Decatur
+        capital:
+          source: canon
+          value: Macon
+    event:
+      - date: '2606-08-11'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 49911.0
+        socioIndustrial:
+          value: C-D-D-D-C
+      - date: '2610-01-01'
+        population:
+          value: 248667.0
+      - date: '2611-01-01'
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2620-01-01'
+        population:
+          value: 5025245.0
+      - date: '2630-01-01'
+        population:
+          value: 36051099.0
+      - date: '2640-01-01'
+        population:
+          value: 131075561.0
+      - date: '2650-01-01'
+        population:
+          value: 306133606.0
+      - date: '2660-01-01'
+        population:
+          value: 534699785.0
+      - date: '2670-01-01'
+        population:
+          value: 774202007.0
+      - date: '2680-01-01'
+        population:
+          value: 989019819.0
+      - date: '2690-01-01'
+        population:
+          value: 1156962887.0
+      - date: '2700-01-01'
+        population:
+          value: 1278309658.0
+      - date: '2702-01-01'
+        socioIndustrial:
+          value: B-B-B-C-B
+      - date: '2710-01-01'
+        population:
+          value: 1356350860.0
+      - date: '2720-01-01'
+        population:
+          value: 1401901730.0
+      - date: '2730-01-01'
+        population:
+          value: 1427782126.0
+      - date: '2732-03-18'
+        hpg:
+          source: canon
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 1447500190.0
+      - date: '2750-01-01'
+        population:
+          value: 1467493023.0
+      - date: '2760-01-01'
+        population:
+          value: 1477107316.0
+      - date: '2770-01-21'
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 1473846213.0
+      - date: '2780-03-24'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 1464145597.0
+      - date: '2790-01-01'
+        population:
+          value: 1454003926.0
+      - date: '2800-01-01'
+        population:
+          value: 1448598717.0
+      - date: '2810-01-01'
+        population:
+          value: 1440577330.0
+      - date: '2820-01-01'
+        population:
+          value: 1438725064.0
+      - date: '2830-01-01'
+        population:
+          value: 1436291499.0
+      - date: '2840-01-01'
+        population:
+          value: 1432697374.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2850-01-01'
+        population:
+          value: 1425053507.0
+      - date: '2860-01-01'
+        population:
+          value: 1415436182.0
+      - date: '2870-01-01'
+        population:
+          value: 1395639546.0
+      - date: '2880-01-01'
+        population:
+          value: 1371654141.0
+      - date: '2890-01-01'
+        population:
+          value: 1357424447.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 1355954529.0
+      - date: '2910-01-01'
+        population:
+          value: 1358068037.0
+      - date: '2920-01-01'
+        population:
+          value: 1361843769.0
+      - date: '2930-01-01'
+        population:
+          value: 1363689397.0
+      - date: '2940-01-01'
+        population:
+          value: 1363320071.0
+      - date: '2950-01-01'
+        population:
+          value: 1362120454.0
+      - date: '2960-01-01'
+        population:
+          value: 1363412393.0
+      - date: '2970-01-01'
+        population:
+          value: 1360553316.0
+      - date: '2980-01-01'
+        population:
+          value: 1355220167.0
+      - date: '2990-01-01'
+        population:
+          value: 1351554319.0
+      - date: '3000-01-01'
+        population:
+          value: 1348720108.0
+      - date: '3010-01-01'
+        population:
+          value: 1350273616.0
+      - date: '3020-01-01'
+        population:
+          value: 1345800705.0
+      - date: '3030-01-01'
+        population:
+          value: 1351691636.0
+      - date: '3040-01-01'
+        population:
+          value: 1363093667.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-C-C-B
+      - date: '3050-01-01'
+        population:
+          value: 1373080659.0
+      - date: '3060-01-01'
+        population:
+          value: 1385217091.0
+      - date: '3070-01-01'
+        population:
+          value: 1398299523.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 1420000000.0
+      - date: '3080-01-01'
+        population:
+          value: 1421420710.0
+      - date: '3090-01-01'
+        population:
+          value: 1430260895.0
+      - date: '3094-01-01'
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '3100-01-01'
+        population:
+          value: 1430833114.0
+      - date: '3110-01-01'
+        population:
+          value: 1424551278.0
+      - date: '3120-01-01'
+        population:
+          value: 1422558302.0
+      - date: '3130-01-01'
+        population:
+          value: 1425406265.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1431405561.0
+      - date: '3145-01-01'
+        population:
+          value: 1434558120.0
+  - name:
+      value: Kluisbergen
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -106
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Schneider
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Beavercreek I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Beavercreek II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Beavercreek III
+        size:
+          value: large
+        icon: rock4

@@ -1,0 +1,411 @@
+id: Helios
+sucsId: 3012
+xcood: -368.234
+ycood: -411.4
+spectralType:
+  value: F9V
+primarySlot: 3
+planet:
+  - name:
+      value: Taweret
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Sebek
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 35000
+    density:
+      value: 1.4
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Irákleion
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Helios
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green31
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 29
+    water:
+      value: 27
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Eliopoulos
+        capital:
+          value: Parastadidis
+      - name:
+          value: Shu's Pride
+    satellite:
+      - name:
+          value: KLM-1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: KLM-2
+        size:
+          value: medium
+        icon: rock4
+    event:
+      - date: '3067-11-06'
+        faction:
+          source: canon
+          value:
+            - IND
+        hpg:
+          value: X
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-C-F
+      - date: '3070-01-01'
+        population:
+          value: 64847.0
+      - date: '3080-01-01'
+        population:
+          value: 141178.0
+      - date: '3090-01-01'
+        population:
+          value: 165509.0
+      - date: '3100-01-01'
+        population:
+          value: 194323.0
+      - date: '3110-01-01'
+        population:
+          value: 230563.0
+      - date: '3120-01-01'
+        population:
+          value: 283588.0
+      - date: '3130-01-01'
+        population:
+          value: 348808.0
+      - date: '3135-06-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          source: canon
+          value: 0.0
+      - date: '3140-01-01'
+        population:
+          value: 408308.0
+      - date: '3145-01-01'
+        population:
+          value: 441432.0
+  - name:
+      value: Spelas's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: frozen44
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -17
+    water:
+      value: 64
+    landmass:
+      - name:
+          value: Oreithyia I
+      - name:
+          value: Oreithyia II
+  - name:
+      value: Vozoras's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 5.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Enyalius
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Thanotos
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Negris's Harbour
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 36.5
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: N1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: N2
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Centeeiro's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Chasca Coyllur
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Wiraqutra
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Supay
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Alatza
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Ilyap'a
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Quilla
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dimos Voio
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Mama Pacha
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Zindilis's Garden
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+  - name:
+      value: Ríos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 782.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: IYI1
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: IYI2
+        size:
+          value: medium
+        icon: oddmoon2

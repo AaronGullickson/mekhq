@@ -1,0 +1,783 @@
+id: An Ting
+sucsId: 122
+xcood: 301.652
+ycood: 109.811
+spectralType:
+  source: canon
+  value: G1V
+primarySlot: 3
+event:
+  - date: '2461-10-18'
+    nadirCharge:
+      value: yes
+  - date: '3081-08-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Thian
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 208
+    water:
+      value: 0
+  - name:
+      value: Liu's Garden
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 91
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: An Ting
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green27
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.8
+    diameter:
+      value: 11155
+    density:
+      value: 5.033805739922
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.4
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 26
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      An Ting was colonized early, however, settlement was limited by the dry and barren landscape. The planet only gained prominence in the late 2600s due to the founding of the An Ting University, which primarily focused on mechanical and industrial arts, prior to the later addition of a DCMS BattleMech training program. Over time, the city of Tule Mod, which was created to support the nearby An Ting University, grew to be the planetary capital.
+
+      Raids during the Second Succession War crippled the planet; farmlands were ruined, heavy industry was targeted by raids and destroyed. It wasn’t until 3039 that the planet was able to partially rebuild and begin producing enough agriculture and other simple goods to export and trade with nearby systems.
+
+      The northern continent of Hotei is home to the city of Signpan. The city is alongside Lake Hails, the largest body of water on the continent. Signpan is the oldest surviving settlement and is a large mining community. Many of the recruits for the BattleMech training program come from this region due to the regular use of IndustrialMechs and exosuits used to expand mining tunnels beneath the lake.
+
+      A raid in 3063 resulted in the destruction of an ancient refinery in Signpan that destroyed much of the city and caused the polluted Lake Hails to catch fire. It took more than two months for the fire to burnout.
+
+      Aside from the An Ting University, the planet is widely known for the picturesque and peaceful Algonquin Island, a caldera in the Sea of Taiwan. It is a central breeding area for Ting whales. The treeless, rocky, island is home to a Buddhist temple that was built in 2530 and has hosted Kuritan nobles and Coordinators desiring hours, days, or even months of peace and contemplation.
+
+      The An Ting Legions are based on the Hiroshima Plateau and based near the city of Kini-Mai and the AnTing DropPort. The plateau peaks at six-thousand kilometers above sea level, offers a wide view of Hotei’s interior.
+
+      Throughout the planet’s history, the DropPort has been destroyed and rebuilt fifteen times.
+
+      An Ting fell to the 'Curse of Galedon' plague that devastated Galedon V and was a dead or dying world by the mid 3070s.
+    landmass:
+      - capital:
+          source: canon
+          value: Tule Mod
+      - name:
+          source: canon
+          value: Hotei
+      - name:
+          source: canon
+          value: Algonquin Island
+    satellite:
+      - name:
+          value: 'Null'
+        size:
+          value: giant
+        icon: rock17
+    event:
+      - date: '2270-08-10'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 61405.0
+        socioIndustrial:
+          value: D-D-C-F-F
+      - date: '2280-01-01'
+        population:
+          value: 218799.0
+      - date: '2290-01-01'
+        population:
+          value: 653005.0
+      - date: '2300-01-01'
+        population:
+          value: 1676955.0
+      - date: '2310-01-01'
+        population:
+          value: 3769763.0
+      - date: '2320-01-01'
+        population:
+          value: 7548550.0
+      - date: '2326-10-01'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2330-01-26'
+        population:
+          value: 13755947.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2340-01-01'
+        population:
+          value: 23070959.0
+      - date: '2350-01-01'
+        population:
+          value: 36006999.0
+      - date: '2360-01-01'
+        population:
+          value: 52879056.0
+      - date: '2370-01-01'
+        population:
+          value: 74088218.0
+      - date: '2380-01-01'
+        population:
+          value: 99218033.0
+      - date: '2389-01-01'
+        socioIndustrial:
+          value: D-D-C-C-F
+      - date: '2390-01-01'
+        population:
+          value: 127774906.0
+      - date: '2400-01-01'
+        population:
+          value: 160441388.0
+      - date: '2406-01-01'
+        socioIndustrial:
+          value: D-C-C-B-D
+      - date: '2410-01-01'
+        population:
+          value: 196287435.0
+      - date: '2420-01-01'
+        population:
+          value: 233521183.0
+      - date: '2430-01-01'
+        population:
+          value: 270022526.0
+      - date: '2440-01-01'
+        population:
+          value: 305974345.0
+      - date: '2450-01-01'
+        population:
+          value: 340383585.0
+      - date: '2460-01-01'
+        population:
+          value: 373560142.0
+      - date: '2470-01-01'
+        population:
+          value: 404345616.0
+      - date: '2480-01-01'
+        population:
+          value: 433951305.0
+      - date: '2490-01-01'
+        population:
+          value: 460320590.0
+      - date: '2500-01-01'
+        population:
+          value: 482944541.0
+      - date: '2510-01-01'
+        population:
+          value: 501376083.0
+      - date: '2520-01-01'
+        population:
+          value: 515649661.0
+      - date: '2530-01-01'
+        population:
+          value: 529603080.0
+      - date: '2540-01-01'
+        population:
+          value: 540859480.0
+      - date: '2550-01-01'
+        population:
+          value: 549456475.0
+      - date: '2560-01-01'
+        population:
+          value: 558448545.0
+      - date: '2570-01-01'
+        population:
+          value: 564257960.0
+      - date: '2580-01-01'
+        population:
+          value: 568253926.0
+      - date: '2590-01-01'
+        population:
+          value: 570476242.0
+      - date: '2600-01-01'
+        population:
+          value: 571185199.0
+      - date: '2610-01-01'
+        population:
+          value: 570975944.0
+      - date: '2620-01-01'
+        population:
+          value: 570316074.0
+      - date: '2630-01-01'
+        population:
+          value: 570682614.0
+      - date: '2633-09-22'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 570114769.0
+      - date: '2650-01-01'
+        population:
+          value: 570518238.0
+      - date: '2660-01-01'
+        population:
+          value: 569681477.0
+      - date: '2670-01-01'
+        population:
+          value: 570287000.0
+      - date: '2680-01-01'
+        population:
+          value: 572391487.0
+      - date: '2690-01-01'
+        population:
+          value: 575941631.0
+      - date: '2692-01-01'
+        socioIndustrial:
+          value: C-B-C-A-C
+      - date: '2700-01-01'
+        population:
+          value: 575337673.0
+      - date: '2710-01-01'
+        population:
+          value: 575324548.0
+      - date: '2720-01-01'
+        population:
+          value: 573288241.0
+      - date: '2730-01-01'
+        population:
+          value: 568706181.0
+      - date: '2740-01-01'
+        population:
+          value: 565606211.0
+      - date: '2750-01-01'
+        population:
+          value: 564095687.0
+      - date: '2760-01-01'
+        population:
+          value: 560018390.0
+      - date: '2770-01-01'
+        population:
+          value: 559453121.0
+      - date: '2780-01-01'
+        population:
+          value: 555359344.0
+      - date: '2790-01-01'
+        population:
+          value: 550431965.0
+      - date: '2800-01-01'
+        population:
+          value: 548422284.0
+      - date: '2810-01-01'
+        population:
+          value: 547367505.0
+      - date: '2820-01-01'
+        population:
+          value: 547262139.0
+      - date: '2830-01-01'
+        population:
+          value: 549056126.0
+      - date: '2840-01-01'
+        population:
+          value: 548316714.0
+      - date: '2850-01-01'
+        population:
+          value: 544424906.0
+      - date: '2860-06-16'
+        population:
+          value: 541185477.0
+        socioIndustrial:
+          value: C-C-C-B-D
+      - date: '2870-01-01'
+        population:
+          value: 544215327.0
+      - date: '2880-01-01'
+        population:
+          value: 538794492.0
+      - date: '2890-01-01'
+        population:
+          value: 532504219.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: D-D-D-C-F
+      - date: '2900-01-01'
+        population:
+          value: 525376309.0
+      - date: '2910-01-01'
+        population:
+          value: 510618430.0
+      - date: '2920-01-01'
+        population:
+          value: 492562983.0
+      - date: '2930-01-01'
+        population:
+          value: 475420472.0
+      - date: '2940-01-01'
+        population:
+          value: 453342753.0
+      - date: '2950-01-01'
+        population:
+          value: 432540024.0
+      - date: '2960-01-01'
+        population:
+          value: 412691879.0
+      - date: '2970-01-01'
+        population:
+          value: 392845921.0
+      - date: '2980-01-01'
+        population:
+          value: 375686135.0
+      - date: '2990-01-01'
+        population:
+          value: 357619748.0
+      - date: '3000-01-01'
+        population:
+          value: 342987691.0
+      - date: '3010-01-01'
+        population:
+          value: 332583912.0
+      - date: '3020-01-01'
+        population:
+          value: 322495709.0
+      - date: '3030-01-01'
+        population:
+          value: 317631133.0
+      - date: '3040-01-01'
+        population:
+          value: 320310472.0
+      - date: '3048-01-01'
+        socioIndustrial:
+          source: canon
+          value: D-C-C-B-D
+      - date: '3050-01-01'
+        population:
+          value: 322850946.0
+      - date: '3060-01-01'
+        population:
+          value: 326356633.0
+      - date: '3062-12-26'
+        faction:
+          source: canon
+          value:
+            - DC
+            - FS
+      - date: '3063-02-13'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3064-12-02'
+        faction:
+          source: canon
+          value:
+            - FS
+            - DC
+      - date: '3065-01-24'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3070-01-01'
+        population:
+          value: 4304717.0
+      - date: '3080-01-01'
+        population:
+          value: 5877.0
+      - date: '3081-05-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Kuai's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: frozen51
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -19
+    water:
+      value: 51
+    landmass:
+      - name:
+          value: Du
+      - name:
+          value: Sun
+      - name:
+          value: Hugill
+      - name:
+          value: Kin
+      - name:
+          value: Jiao
+      - name:
+          value: Khu
+    satellite:
+      - name:
+          value: Jiangyi
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Jinxiu Yaozu Zizhixian
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Shinje
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Shuang
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: frozen58
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -70
+    water:
+      value: 44
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New Dimos Serres Alpha
+      - name:
+          value: New Dimos Serres Beta
+  - name:
+      value: Petherick's Station
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Kiak Kiak
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hann
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Liu's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -204
+  - name:
+      value: Meng Po
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Aurvandil
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Hela
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Godheim
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Taylor's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: IB-1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: IB-2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: IB-3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: IB-4
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: IB-5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Cape Seema
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1911.1
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Shen Yi I
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Shen Yi II
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Shen Yi III
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Shen Yi IV
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Shen Yi V
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Shen Yi VI
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Shen Yi VII
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Shen Yi VIII
+        size:
+          value: medium
+        icon: oddmoon3

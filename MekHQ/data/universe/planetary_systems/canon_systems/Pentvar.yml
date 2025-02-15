@@ -1,0 +1,393 @@
+id: Pentvar
+sucsId: 2009
+xcood: 131.659
+ycood: -301.133
+spectralType:
+  value: G1V
+primarySlot: 4
+event:
+  - date: '2837-06-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: RK01
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1300
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 208
+    water:
+      value: 0
+  - name:
+      value: RK02
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse18
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon and Nitrous Oxide
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 134
+    water:
+      value: 0
+    smallMoons:
+      value: 8
+  - name:
+      value: RK03
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 31
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Bashaw
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Iovis
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Raduň
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      source: canon
+      value: Pentvar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green23
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 19
+    water:
+      value: 53
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Siebke
+        capital:
+          value: Galteytown
+      - name:
+          value: Wood
+      - name:
+          value: Cartridge's Land
+      - name:
+          value: Marr
+      - name:
+          value: Stewart
+      - name:
+          value: Psaro Prime
+    event:
+      - date: '2744-02-05'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 41452.0
+        socioIndustrial:
+          value: B-C-C-C-A
+      - date: '2750-01-01'
+        population:
+          value: 118921.0
+      - date: '2756-01-01'
+        hpg:
+          value: B
+      - date: '2760-01-01'
+        population:
+          value: 517140.0
+      - date: '2770-01-01'
+        population:
+          value: 1666793.0
+      - date: '2780-01-01'
+        population:
+          value: 1207411.0
+      - date: '2790-01-01'
+        population:
+          value: 342820.0
+      - date: '2800-01-01'
+        population:
+          value: 126628.0
+      - date: '2810-01-01'
+        population:
+          value: 64985.0
+      - date: '2820-01-01'
+        population:
+          value: 32729.0
+      - date: '2830-01-01'
+        population:
+          value: 11643.0
+      - date: '2837-01-01'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: RK05
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: frozen37
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -70
+    water:
+      value: 43
+    landmass:
+      - name:
+          value: Eastern Rahnasto
+      - name:
+          value: Western Rahnasto
+  - name:
+      value: RK06
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1700
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 31.6
+    temperature:
+      value: -177
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: RK07
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: rock10
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -204
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Sutekh A
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Sutekh B
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Sutekh C
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: RK08
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 4Y3-1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 4Y3-2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 4Y3-3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 4Y3-4
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: RK09
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.74
+    diameter:
+      value: 17500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 1

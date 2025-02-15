@@ -1,0 +1,600 @@
+id: Banfora
+sucsId: 252
+xcood: -98.055
+ycood: -349.684
+spectralType:
+  value: M2V
+primarySlot: 1
+event:
+  - date: '2929-04-01'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Banfora
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: green42
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 31
+    water:
+      value: 71
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Leblanc
+        capital:
+          value: Nikolaisen Town
+      - name:
+          value: Larger Vigneron
+      - name:
+          value: Smaller Vigneron
+    event:
+      - date: '2741-10-08'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 43377.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2750-04-10'
+        hpg:
+          value: B
+        population:
+          value: 201686.0
+      - date: '2760-01-01'
+        population:
+          value: 802417.0
+      - date: '2770-01-01'
+        population:
+          value: 2418016.0
+      - date: '2780-01-01'
+        population:
+          value: 5837767.0
+      - date: '2790-01-01'
+        population:
+          value: 7557976.0
+      - date: '2800-01-01'
+        population:
+          value: 4564232.0
+      - date: '2810-01-01'
+        population:
+          value: 2858490.0
+      - date: '2820-01-01'
+        population:
+          value: 1837369.0
+      - date: '2821-05-12'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2830-01-01'
+        population:
+          value: 1409393.0
+      - date: '2840-01-01'
+        population:
+          value: 1115364.0
+      - date: '2850-01-01'
+        population:
+          value: 860024.0
+      - date: '2860-01-01'
+        population:
+          value: 680605.0
+      - date: '2870-01-01'
+        population:
+          value: 498205.0
+      - date: '2880-01-01'
+        population:
+          value: 332104.0
+      - date: '2890-01-01'
+        population:
+          value: 217955.0
+      - date: '2900-01-01'
+        population:
+          value: 144536.0
+      - date: '2910-01-01'
+        population:
+          value: 107464.0
+      - date: '2920-01-01'
+        population:
+          value: 61289.0
+      - date: '2929-03-24'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Morand's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 2
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Comte
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Dupont
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Swanson
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Alexandre
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Reynaud
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Overy
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Matsuura
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Nicolas
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Fa
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.64
+    sysPos:
+      value: 3
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Tin-Akoff
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Séno
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Mouhoun
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Mati Syra Zemlia
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Saulnier's Rock
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Romulus Alpha
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Romulus Beta
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Romulus Gamma
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Romulus Delta
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Romulus Epsilon
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Romulus Zeta
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Romulus Eta
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Romulus Theta
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Manannán Mac Lir
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 5
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 3.1
+    smallMoons:
+      value: 19
+  - name:
+      value: Nouveau Ténado
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 6
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 8.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Decima
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Volupta
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Pomona
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Iupiter
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bacchus
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Cupid
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Salus
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Oyá Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 7.84
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 22.0
+    temperature:
+      value: -231
+  - name:
+      value: Elegua
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.52
+    sysPos:
+      value: 8
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 61.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: IA-1
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: IA-2
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Umvelinqangi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.88
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 171.6
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Hathor I
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Hathor II
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Hathor III
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Hathor IV
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Hathor V
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Maire
+    type:
+      value: ICE_GIANT
+    orbitalDist: 61.6
+    sysPos:
+      value: 10
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 483.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Morel 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Morel 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bigot
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.04
+    sysPos:
+      value: 11
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1364.8
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: BK31
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: BK32
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: BK33
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: BK34
+        size:
+          value: large
+        icon: rock6

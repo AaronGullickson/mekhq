@@ -1,0 +1,361 @@
+id: Athna
+sucsId: 199
+xcood: -27.056
+ycood: -354.266
+spectralType:
+  value: M1V
+primarySlot: 1
+event:
+  - date: '2734-09-06'
+    nadirCharge:
+      value: yes
+  - date: '2788-06-21'
+    nadirCharge:
+      value: no
+  - date: '2789-04-04'
+    zenithCharge:
+      value: yes
+  - date: '2794-04-27'
+    zenithCharge:
+      value: no
+  - date: '2927-01-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Athna
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green57
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 12900
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 26
+    water:
+      value: 45
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Voulgaris
+        capital:
+          value: Mehurin
+    event:
+      - date: '2730-07-16'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 45193.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2732-01-09'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 239511.0
+      - date: '2750-01-01'
+        population:
+          value: 906391.0
+      - date: '2760-01-01'
+        population:
+          value: 2631114.0
+      - date: '2770-01-01'
+        population:
+          value: 6211818.0
+      - date: '2780-01-01'
+        population:
+          value: 12416809.0
+      - date: '2790-01-01'
+        population:
+          value: 14908609.0
+      - date: '2800-01-01'
+        population:
+          value: 9142746.0
+      - date: '2810-01-01'
+        population:
+          value: 6182844.0
+      - date: '2820-01-01'
+        population:
+          value: 3879906.0
+      - date: '2830-01-01'
+        population:
+          value: 2365715.0
+      - date: '2840-01-01'
+        population:
+          value: 1377580.0
+      - date: '2850-05-20'
+        population:
+          value: 849678.0
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2860-01-01'
+        population:
+          value: 558309.0
+      - date: '2870-01-01'
+        population:
+          value: 330768.0
+      - date: '2880-01-01'
+        population:
+          value: 202845.0
+      - date: '2890-01-01'
+        population:
+          value: 141992.0
+      - date: '2900-01-01'
+        population:
+          value: 98259.0
+      - date: '2910-01-01'
+        population:
+          value: 66448.0
+      - date: '2920-01-01'
+        population:
+          value: 33898.0
+      - date: '2927-04-30'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Pefanis's Grove
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1700
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -78
+    water:
+      value: 0
+  - name:
+      value: Evanggenelis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: frozen43
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.74
+    diameter:
+      value: 12500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -110
+    water:
+      value: 47
+    landmass:
+      - name:
+          value: Cape Pattakos
+      - name:
+          value: Tsahalis's Choice
+      - name:
+          value: Blackburn
+      - name:
+          value: Mentis
+  - name:
+      value: Kyriazis's Hole
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -156
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Poulakis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Lampetia A
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Lampetia B
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lampetia C
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lampetia D
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Tsarouhtsis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Demphredo A
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Demphredo B
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Demphredo C
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Willis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Stagias
+        size:
+          value: medium
+        icon: rock1

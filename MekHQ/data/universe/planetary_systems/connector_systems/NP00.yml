@@ -1,0 +1,206 @@
+id: NP 00
+sucsId: .na
+xcood: -163.0
+ycood: 543.0
+spectralType:
+  value: M0V
+planet:
+  - name:
+      value: J0K1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 1
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 5
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: FSY-1
+      - name:
+          value: FSY-0
+  - name:
+      value: J0K2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -40
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: FDB-1
+      - name:
+          value: FDB-0
+  - name:
+      value: J0K3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: frozen46
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -67
+    water:
+      value: 16
+    landmass:
+      - name:
+          value: M-1
+      - name:
+          value: M-0
+  - name:
+      value: Z1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -134
+  - name:
+      value: J0K4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 5
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Y1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Y2
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: J0K5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 6
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 21
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: RZ-1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: RZ-2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Z2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: asteroid1
+    yearLength:
+      value: 30.7
+    temperature:
+      value: -221

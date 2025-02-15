@@ -1,0 +1,307 @@
+id: Santa-Ana
+sucsId: 2228
+xcood: 668.724
+ycood: 200.815
+spectralType:
+  value: F0V
+primarySlot: 3
+event:
+  - date: '2815-08-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Aumakua
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Germanus I 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Germanus I 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Hernández's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 114
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Santa-Ana
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 3
+    icon: green18
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 29
+    water:
+      value: 39
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Little Vergeroux
+        capital:
+          value: Feng Tu
+      - name:
+          value: Santa Bárbara
+      - name:
+          value: Nova Los Chiles
+      - name:
+          value: Guatuso
+      - name:
+          value: Big Vergeroux
+      - name:
+          value: New San Francisco
+    satellite:
+      - name:
+          value: Wetiko
+        size:
+          value: large
+        icon: rock15
+    event:
+      - date: '2731-09-30'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 53921.0
+        socioIndustrial:
+          value: C-F-B-D-C
+      - date: '2734-01-14'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 135150.0
+      - date: '2750-01-01'
+        population:
+          value: 313462.0
+      - date: '2760-01-01'
+        population:
+          value: 621223.0
+      - date: '2770-01-01'
+        population:
+          value: 1077106.0
+      - date: '2780-01-01'
+        population:
+          value: 1676416.0
+      - date: '2785-01-01'
+        socioIndustrial:
+          value: D-F-B-D-C
+      - date: '2790-01-01'
+        population:
+          value: 2400086.0
+      - date: '2800-01-01'
+        population:
+          value: 260224.0
+      - date: '2810-01-01'
+        population:
+          value: 19364.0
+      - date: '2815-11-01'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Equivocación de Rincón
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 4
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Quintero
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: Lucero
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Pelei
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 24.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: X81
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: X82
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Madriguera de Sánchez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 6
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Mithra
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Noah
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Leviathan
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Lilitu
+        size:
+          value: medium
+        icon: oddmoon3

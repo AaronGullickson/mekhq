@@ -1,0 +1,284 @@
+id: Braum
+sucsId: 384
+xcood: 103.719
+ycood: -315.56
+spectralType:
+  value: K5V
+primarySlot: 1
+event:
+  - date: '2818-07-01'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Braum
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green33
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 32
+    water:
+      value: 39
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Novi Øksnes
+        capital:
+          value: Old Keblov
+      - name:
+          value: Old Hředle
+      - name:
+          value: New Slavkov u Brna
+      - name:
+          value: Stráž pod Ralskem
+      - name:
+          value: Nihošovice
+      - name:
+          value: New Trewern
+    event:
+      - date: '2639-12-28'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 50586.0
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2640-01-01'
+        population:
+          value: 74189.0
+      - date: '2650-01-01'
+        population:
+          value: 1398951.0
+      - date: '2654-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2659-01-01'
+        socioIndustrial:
+          value: C-C-A-D-B
+      - date: '2660-01-01'
+        population:
+          value: 8295175.0
+      - date: '2661-11-28'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 24459834.0
+      - date: '2680-01-01'
+        population:
+          value: 47148334.0
+      - date: '2690-01-01'
+        population:
+          value: 70037148.0
+      - date: '2700-01-01'
+        population:
+          value: 89125992.0
+      - date: '2710-01-01'
+        population:
+          value: 103198922.0
+      - date: '2720-01-01'
+        population:
+          value: 113059613.0
+      - date: '2730-01-01'
+        population:
+          value: 120014217.0
+      - date: '2740-01-01'
+        population:
+          value: 124317037.0
+      - date: '2750-01-01'
+        population:
+          value: 127012903.0
+      - date: '2760-01-01'
+        population:
+          value: 127970697.0
+      - date: '2770-01-01'
+        population:
+          value: 127717640.0
+      - date: '2780-01-01'
+        population:
+          value: 126823771.0
+      - date: '2790-01-01'
+        population:
+          value: 125750519.0
+      - date: '2800-01-01'
+        population:
+          value: 17469772.0
+      - date: '2810-01-01'
+        population:
+          value: 688013.0
+      - date: '2818-09-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Petru's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Auskar's Wheel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 23
+  - name:
+      value: Arc-Vojtasek
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Lisak
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Yakubek
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kotulek
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ganzorig
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ito
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Spurk's Station
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Vídeň
+        size:
+          value: large
+        icon: rock10

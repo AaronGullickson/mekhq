@@ -1,0 +1,458 @@
+id: Hibuarius
+sucsId: 1107
+xcood: -38.682
+ycood: -410.743
+spectralType:
+  value: M9V
+primarySlot: 1
+event:
+  - date: '2912-08-11'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Hibuarius
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 19
+    water:
+      value: 57
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: DK1
+        capital:
+          value: Lagdentown
+    event:
+      - date: '2717-12-01'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 51890.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2720-01-01'
+        population:
+          value: 82797.0
+      - date: '2721-07-23'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 321070.0
+      - date: '2740-01-01'
+        population:
+          value: 960899.0
+      - date: '2750-01-01'
+        population:
+          value: 2332480.0
+      - date: '2760-01-01'
+        population:
+          value: 4784016.0
+      - date: '2770-01-01'
+        population:
+          value: 8549395.0
+      - date: '2780-01-01'
+        population:
+          value: 13650208.0
+      - date: '2790-01-01'
+        population:
+          value: 14032539.0
+      - date: '2800-01-01'
+        population:
+          value: 7183768.0
+      - date: '2810-01-01'
+        population:
+          value: 4050497.0
+      - date: '2820-01-01'
+        population:
+          value: 2358546.0
+      - date: '2830-01-01'
+        population:
+          value: 1602819.0
+      - date: '2840-01-01'
+        population:
+          value: 1215224.0
+      - date: '2850-01-01'
+        population:
+          value: 831175.0
+      - date: '2860-01-01'
+        population:
+          value: 447999.0
+      - date: '2870-01-01'
+        population:
+          value: 285467.0
+      - date: '2880-01-01'
+        population:
+          value: 206898.0
+      - date: '2890-01-01'
+        population:
+          value: 127661.0
+      - date: '2900-01-01'
+        population:
+          value: 77262.0
+      - date: '2910-01-01'
+        population:
+          value: 38301.0
+      - date: '2912-06-27'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Yum Cimih Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -7
+  - name:
+      value: Coulee
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 16
+  - name:
+      value: Sainte-Angèle-de-Prémont
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Ywangan 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ywangan 2
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Ywangan 3
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Lockney
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Kimil
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Kulkuylkan
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Yum Cimih
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Ix Balangue
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: God O
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: New Granados
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Ghasemi
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Varadarajan
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Öz
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Mahler
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Tirunelveli
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: 4GD-1
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: 4GD-2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 4GD-3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: 4GD-4
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 4GD-5
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: 4GD-6
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 4GD-7
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: God C Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: asteroid3
+    yearLength:
+      value: 2.8
+    temperature:
+      value: -223
+  - name:
+      value: Lander
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 24
+    yearLength:
+      value: 7.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Friendship
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Anna Perenna
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Damariscotta
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.72
+    sysPos:
+      value: 10
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.74
+    diameter:
+      value: 17500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 21.5

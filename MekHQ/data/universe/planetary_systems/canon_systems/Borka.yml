@@ -1,0 +1,479 @@
+id: Borka
+sucsId: 371
+xcood: -56.598
+ycood: -325.638
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2925-02-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Borka
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green43
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 38
+    water:
+      value: 51
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Mashhad
+        capital:
+          value: Beaver Brook
+      - name:
+          value: Tando Muhammad Khan
+      - name:
+          value: Brekstad
+    event:
+      - date: '2701-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 50075.0
+        socioIndustrial:
+          value: C-D-B-C-B
+      - date: '2702-05-17'
+        hpg:
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 205286.0
+      - date: '2720-01-01'
+        population:
+          value: 751472.0
+      - date: '2722-01-01'
+        socioIndustrial:
+          value: C-C-B-B-B
+      - date: '2730-01-01'
+        population:
+          value: 2166381.0
+      - date: '2740-01-01'
+        population:
+          value: 5153236.0
+      - date: '2750-01-01'
+        population:
+          value: 10452174.0
+      - date: '2760-01-01'
+        population:
+          value: 18610169.0
+      - date: '2770-01-01'
+        population:
+          value: 29852708.0
+      - date: '2780-01-01'
+        population:
+          value: 43733315.0
+      - date: '2790-01-01'
+        population:
+          value: 43107762.0
+      - date: '2800-01-01'
+        population:
+          value: 17693663.0
+      - date: '2810-01-01'
+        population:
+          value: 8077141.0
+      - date: '2820-01-01'
+        population:
+          value: 3315278.0
+      - date: '2821-11-10'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2830-01-01'
+        population:
+          value: 1444632.0
+      - date: '2840-01-01'
+        population:
+          value: 637920.0
+      - date: '2850-01-01'
+        population:
+          value: 291210.0
+      - date: '2860-01-01'
+        population:
+          value: 151834.0
+      - date: '2870-01-01'
+        population:
+          value: 70239.0
+      - date: '2880-01-01'
+        population:
+          value: 37859.0
+      - date: '2890-01-01'
+        population:
+          value: 20817.0
+      - date: '2900-01-01'
+        population:
+          value: 11371.0
+      - date: '2910-01-01'
+        population:
+          value: 6336.0
+      - date: '2920-01-01'
+        population:
+          value: 3260.0
+      - date: '2925-05-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Wolinski
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1700
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 5
+    water:
+      value: 0
+  - name:
+      value: Skrzypinski's Sacrifice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 20
+  - name:
+      value: WyszyÕski's Retreat
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Powiat policki I
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Powiat policki II
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Powiat policki III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Canlas's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -134
+  - name:
+      value: Meillonnas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Ament Alpha
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Ament Beta
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Ament Gamma
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ament Delta
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ament Epsilon
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ament Zeta
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Ament Eta
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kiedorwicz
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: T1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: T2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: T3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: T4
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: T5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: New Poznań
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Rind A
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Rind B
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Rind C
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Rind D
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Cane
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Lefebvre 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Lefebvre 2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Lefebvre 3
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Canlas's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 675.7
+    temperature:
+      value: -254

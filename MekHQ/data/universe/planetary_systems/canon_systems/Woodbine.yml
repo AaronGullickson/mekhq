@@ -1,0 +1,682 @@
+id: Woodbine
+sucsId: 2772
+xcood: 503.68
+ycood: 23.77
+spectralType:
+  source: canon
+  value: G4III
+primarySlot: 5
+event:
+  - date: '2358-10-03'
+    zenithCharge:
+      value: yes
+  - date: '2363-02-01'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Juno
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1100
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 376
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Di Penates
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.1
+  - name:
+      value: Roma's Point
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: barren10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 160
+    water:
+      value: 0
+  - name:
+      value: Luna
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Baal Zebul A
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Baal Zebul B
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Baal Zebul C
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Baal Zebul D
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Baal Zebul E
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Baal Zebul F
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Baal Zebul G
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Woodbine
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 5
+    icon: green54
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.14
+    diameter:
+      value: 11615
+    density:
+      value: 6.883067875346
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.0
+    temperature:
+      source: canon
+      value: 21
+    water:
+      source: canon
+      value: 41
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Woodbine is the unofficial capital of the Federated Suns’ Outback. The planet
+      was settled in order to take advantage of the large deposits of minerals and
+      metal ores and mining has continued to be the primary industry, however the
+      planet does have several military factories that produce ammunition and other
+      supplies for the AFFS. Due to the planet’s proximity to the Federated Suns and
+      Combine border and the raw materials and war materials on planet, Woodbine has
+      suffered numerous raids throughout its history.
+    landmass:
+      - name:
+          source: canon
+          value: Arturro
+        capital:
+          source: canon
+          value: Gastonge
+      - name:
+          source: canon
+          value: Guam
+      - name:
+          source: canon
+          value: Sjardijn
+    satellite:
+      - name:
+          value: Akina
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Carbonvale
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Galaga
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Ocheusti
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Otousti
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tomb Rock
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Vastek Moon
+        size:
+          value: large
+        icon: rock8
+    event:
+      - date: '2266-12-19'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 43759.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2270-01-01'
+        population:
+          value: 73420.0
+      - date: '2280-01-01'
+        population:
+          value: 236894.0
+      - date: '2290-01-01'
+        population:
+          value: 657607.0
+      - date: '2300-01-01'
+        population:
+          value: 1590091.0
+      - date: '2310-01-01'
+        population:
+          value: 3417781.0
+      - date: '2320-01-01'
+        population:
+          value: 6651915.0
+      - date: '2330-01-01'
+        population:
+          value: 11863283.0
+      - date: '2340-01-01'
+        population:
+          value: 19587500.0
+      - date: '2350-01-01'
+        population:
+          value: 30165755.0
+      - date: '2355-03-21'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2360-01-01'
+        population:
+          value: 43719078.0
+      - date: '2370-01-01'
+        population:
+          value: 60148456.0
+      - date: '2380-01-01'
+        population:
+          value: 79174777.0
+      - date: '2390-01-01'
+        population:
+          value: 101035431.0
+      - date: '2400-01-01'
+        population:
+          value: 124666393.0
+      - date: '2410-01-01'
+        population:
+          value: 149020205.0
+      - date: '2420-01-01'
+        population:
+          value: 174360710.0
+      - date: '2425-01-01'
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2430-01-01'
+        population:
+          value: 199977488.0
+      - date: '2440-01-01'
+        population:
+          value: 225498467.0
+      - date: '2443-01-01'
+        socioIndustrial:
+          value: B-D-A-B-C
+      - date: '2450-01-01'
+        population:
+          value: 249952566.0
+      - date: '2460-01-01'
+        population:
+          value: 273300461.0
+      - date: '2470-01-01'
+        population:
+          value: 296671937.0
+      - date: '2480-01-01'
+        population:
+          value: 319962708.0
+      - date: '2490-01-01'
+        population:
+          value: 342154043.0
+      - date: '2500-01-01'
+        population:
+          value: 363060989.0
+      - date: '2510-01-01'
+        population:
+          value: 381514863.0
+      - date: '2520-01-01'
+        population:
+          value: 398806849.0
+      - date: '2530-01-01'
+        population:
+          value: 415596112.0
+      - date: '2540-01-01'
+        population:
+          value: 430659743.0
+      - date: '2550-01-01'
+        population:
+          value: 445438968.0
+      - date: '2560-01-01'
+        population:
+          value: 456520108.0
+      - date: '2570-01-01'
+        population:
+          value: 464546903.0
+      - date: '2580-01-01'
+        population:
+          value: 472349340.0
+      - date: '2590-01-01'
+        population:
+          value: 479585031.0
+      - date: '2600-01-01'
+        population:
+          value: 485483920.0
+      - date: '2610-01-01'
+        population:
+          value: 489230132.0
+      - date: '2620-01-01'
+        population:
+          value: 489991858.0
+      - date: '2630-01-01'
+        population:
+          value: 490091791.0
+      - date: '2640-01-01'
+        population:
+          value: 491567786.0
+      - date: '2641-11-11'
+        hpg:
+          source: canon
+          value: A
+      - date: '2650-01-01'
+        population:
+          value: 493609347.0
+      - date: '2660-01-01'
+        population:
+          value: 495685926.0
+      - date: '2670-01-01'
+        population:
+          value: 498545398.0
+      - date: '2680-01-01'
+        population:
+          value: 500039852.0
+      - date: '2690-01-01'
+        population:
+          value: 498197808.0
+      - date: '2700-01-01'
+        population:
+          value: 495361596.0
+      - date: '2710-01-01'
+        population:
+          value: 491575985.0
+      - date: '2720-01-01'
+        population:
+          value: 489327290.0
+      - date: '2730-01-01'
+        population:
+          value: 490966223.0
+      - date: '2731-01-01'
+        socioIndustrial:
+          value: A-C-A-A-C
+      - date: '2740-01-01'
+        population:
+          value: 492298054.0
+      - date: '2750-01-01'
+        population:
+          value: 494521279.0
+      - date: '2760-01-01'
+        population:
+          value: 495774023.0
+      - date: '2770-01-01'
+        population:
+          value: 492994556.0
+      - date: '2776-03-16'
+        hpg:
+          source: canon
+          value: X
+      - date: '2780-07-02'
+        hpg:
+          source: canon
+          value: A
+        population:
+          value: 489970107.0
+      - date: '2790-01-01'
+        population:
+          value: 486561438.0
+      - date: '2800-01-01'
+        population:
+          value: 482198050.0
+      - date: '2810-01-01'
+        population:
+          value: 475691668.0
+      - date: '2820-01-01'
+        population:
+          value: 473691538.0
+      - date: '2830-01-01'
+        population:
+          value: 471494258.0
+      - date: '2840-01-01'
+        population:
+          value: 466452005.0
+      - date: '2850-01-01'
+        population:
+          value: 460158086.0
+      - date: '2860-01-01'
+        population:
+          value: 453059556.0
+      - date: '2870-01-01'
+        population:
+          value: 446751570.0
+      - date: '2872-01-01'
+        socioIndustrial:
+          value: B-D-B-B-C
+      - date: '2880-01-01'
+        population:
+          value: 440819535.0
+      - date: '2890-01-01'
+        population:
+          value: 435535423.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: B-D-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 430689949.0
+      - date: '2910-01-01'
+        population:
+          value: 424323345.0
+      - date: '2920-01-01'
+        population:
+          value: 417959754.0
+      - date: '2930-01-01'
+        population:
+          value: 412050652.0
+      - date: '2940-01-01'
+        population:
+          value: 407999627.0
+      - date: '2950-01-01'
+        population:
+          value: 409216680.0
+      - date: '2960-01-01'
+        population:
+          value: 410884865.0
+      - date: '2970-01-01'
+        population:
+          value: 413009666.0
+      - date: '2980-01-01'
+        population:
+          value: 414331955.0
+      - date: '2990-01-01'
+        population:
+          value: 412859673.0
+      - date: '3000-01-01'
+        population:
+          value: 413279790.0
+      - date: '3010-01-01'
+        population:
+          value: 414783702.0
+      - date: '3020-01-01'
+        population:
+          value: 416656155.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: B-D-B-C-D
+      - date: '3030-01-01'
+        population:
+          value: 419120954.0
+      - date: '3040-01-01'
+        population:
+          value: 422867780.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-C-A-B-C
+      - date: '3050-01-01'
+        population:
+          value: 426434830.0
+      - date: '3060-01-01'
+        population:
+          value: 430720571.0
+      - date: '3063-09-04'
+        faction:
+          source: canon
+          value:
+            - FC
+            - LA
+      - date: '3063-11-30'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 434267000.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 435746021.0
+      - date: '3080-01-01'
+        population:
+          value: 439245970.0
+      - date: '3090-01-01'
+        population:
+          value: 446330430.0
+      - date: '3100-01-01'
+        population:
+          value: 454891784.0
+      - date: '3110-01-01'
+        population:
+          value: 463153972.0
+      - date: '3120-01-01'
+        population:
+          value: 470153648.0
+      - date: '3127-01-01'
+        socioIndustrial:
+          value: B-C-A-B-B
+      - date: '3130-01-01'
+        population:
+          value: 478693038.0
+      - date: '3140-01-01'
+        population:
+          value: 487777594.0
+      - date: '3145-01-01'
+        population:
+          value: 492088979.0
+  - name:
+      value: Berry
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Formorians 1
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Formorians 2
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: Formorians 3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Formorians 4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Aius Locutius
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+  - name:
+      value: Great Rabbit Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 206.4
+    temperature:
+      value: -207

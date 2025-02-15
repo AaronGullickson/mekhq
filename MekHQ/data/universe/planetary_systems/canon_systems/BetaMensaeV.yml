@@ -1,0 +1,651 @@
+id: Beta Mensae V
+sucsId: 312
+xcood: 317.163
+ycood: 129.199
+spectralType:
+  value: A4V
+primarySlot: 5
+event:
+  - date: '2390-01-04'
+    nadirCharge:
+      value: yes
+  - date: '2397-02-24'
+    zenithCharge:
+      value: yes
+  - date: '2787-09-07'
+    zenithCharge:
+      value: no
+  - date: '2844-03-30'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Beta Mensae I
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 390
+    water:
+      value: 0
+  - name:
+      value: Beta Mensae II
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.47
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 228
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Beta Mensae III
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.1
+    sysPos:
+      value: 3
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3.4
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: 9Z1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: 9Z2
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: 9Z3
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: 9Z4
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: 9Z5
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Beta Mensae IV
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.36
+    sysPos:
+      value: 4
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 6.3
+  - name:
+      source: canon
+      value: Beta Mensae V
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 5.88
+    sysPos:
+      value: 5
+    icon: green17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.11
+    diameter:
+      value: 12300
+    density:
+      value: 6.3437
+    dayLength:
+      value: 24
+    yearLength:
+      value: 14.3
+    temperature:
+      value: 29
+    water:
+      value: 44
+    lifeForm:
+      value: PLANT
+    landmass:
+      - name:
+          value: Ouargla
+        capital:
+          value: New Youngstown
+      - name:
+          value: Melvindale
+      - name:
+          value: Dahmen
+      - name:
+          value: Old Nanzheng Xian
+    event:
+      - date: '2285-11-10'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47527.0
+        socioIndustrial:
+          value: D-D-A-C-D
+      - date: '2290-01-01'
+        population:
+          value: 92327.0
+      - date: '2300-01-01'
+        population:
+          value: 303578.0
+      - date: '2310-01-01'
+        population:
+          value: 845387.0
+      - date: '2320-01-01'
+        population:
+          value: 2041987.0
+      - date: '2321-04-25'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2330-01-01'
+        population:
+          value: 4361387.0
+      - date: '2340-01-01'
+        population:
+          value: 8367264.0
+      - date: '2350-01-01'
+        population:
+          value: 14638278.0
+      - date: '2360-01-01'
+        population:
+          value: 23608007.0
+      - date: '2370-01-01'
+        population:
+          value: 35789631.0
+      - date: '2377-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2380-01-01'
+        population:
+          value: 51574724.0
+      - date: '2390-01-01'
+        population:
+          value: 70624351.0
+      - date: '2400-01-01'
+        population:
+          value: 92114491.0
+      - date: '2410-01-01'
+        population:
+          value: 115489538.0
+      - date: '2420-01-01'
+        population:
+          value: 140972047.0
+      - date: '2430-01-01'
+        population:
+          value: 167235685.0
+      - date: '2440-01-01'
+        population:
+          value: 194283278.0
+      - date: '2450-01-01'
+        population:
+          value: 222600822.0
+      - date: '2460-01-01'
+        population:
+          value: 249439063.0
+      - date: '2470-01-01'
+        population:
+          value: 275903066.0
+      - date: '2480-01-01'
+        population:
+          value: 299638053.0
+      - date: '2490-01-01'
+        population:
+          value: 321819435.0
+      - date: '2500-01-01'
+        population:
+          value: 343519542.0
+      - date: '2510-01-01'
+        population:
+          value: 362153407.0
+      - date: '2520-01-01'
+        population:
+          value: 378951852.0
+      - date: '2530-01-01'
+        population:
+          value: 394908773.0
+      - date: '2540-01-01'
+        population:
+          value: 409220548.0
+      - date: '2550-01-01'
+        population:
+          value: 420707844.0
+      - date: '2560-01-01'
+        population:
+          value: 428091583.0
+      - date: '2570-01-01'
+        population:
+          value: 433976905.0
+      - date: '2580-01-01'
+        population:
+          value: 441495219.0
+      - date: '2590-01-01'
+        population:
+          value: 447942950.0
+      - date: '2600-01-01'
+        population:
+          value: 452610801.0
+      - date: '2610-01-01'
+        population:
+          value: 457311349.0
+      - date: '2611-01-01'
+        socioIndustrial:
+          value: B-B-A-C-B
+      - date: '2620-01-01'
+        population:
+          value: 460962700.0
+      - date: '2630-01-01'
+        population:
+          value: 464290629.0
+      - date: '2640-01-01'
+        population:
+          value: 467282778.0
+      - date: '2650-01-01'
+        population:
+          value: 466170656.0
+      - date: '2657-12-18'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 463173893.0
+      - date: '2670-01-01'
+        population:
+          value: 461881182.0
+      - date: '2680-01-01'
+        population:
+          value: 461956643.0
+      - date: '2690-01-01'
+        population:
+          value: 462331461.0
+      - date: '2700-01-01'
+        population:
+          value: 463227258.0
+      - date: '2710-01-01'
+        population:
+          value: 464399120.0
+      - date: '2720-01-01'
+        population:
+          value: 463644847.0
+      - date: '2730-01-01'
+        population:
+          value: 466748375.0
+      - date: '2740-01-01'
+        population:
+          value: 470878905.0
+      - date: '2750-01-01'
+        population:
+          value: 474180079.0
+      - date: '2760-01-01'
+        population:
+          value: 476458292.0
+      - date: '2770-01-01'
+        population:
+          value: 479722091.0
+      - date: '2780-01-01'
+        population:
+          value: 484099586.0
+      - date: '2790-01-01'
+        population:
+          value: 483288939.0
+      - date: '2800-01-01'
+        population:
+          value: 477883129.0
+      - date: '2810-01-01'
+        population:
+          value: 472082405.0
+      - date: '2820-01-01'
+        population:
+          value: 463215236.0
+      - date: '2830-01-01'
+        population:
+          value: 460469301.0
+      - date: '2840-01-01'
+        population:
+          value: 460395313.0
+      - date: '2850-01-01'
+        population:
+          value: 462100051.0
+      - date: '2860-01-01'
+        population:
+          value: 456050992.0
+      - date: '2868-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2870-01-01'
+        population:
+          value: 456637641.0
+      - date: '2880-01-01'
+        population:
+          value: 458991795.0
+      - date: '2890-01-01'
+        population:
+          value: 454295561.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 445118273.0
+      - date: '2910-01-01'
+        population:
+          value: 434866717.0
+      - date: '2920-01-01'
+        population:
+          value: 426492922.0
+      - date: '2930-01-01'
+        population:
+          value: 418078777.0
+      - date: '2940-01-01'
+        population:
+          value: 405702585.0
+      - date: '2950-01-01'
+        population:
+          value: 389915186.0
+      - date: '2960-01-01'
+        population:
+          value: 373479681.0
+      - date: '2970-01-01'
+        population:
+          value: 364350722.0
+      - date: '2980-01-01'
+        population:
+          value: 359234711.0
+      - date: '2990-01-01'
+        population:
+          value: 357449643.0
+      - date: '3000-01-01'
+        population:
+          value: 353962947.0
+      - date: '3010-01-01'
+        population:
+          value: 348992796.0
+      - date: '3020-01-01'
+        population:
+          value: 347426067.0
+      - date: '3028-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '3030-01-01'
+        population:
+          value: 348509798.0
+      - date: '3040-05-06'
+        population:
+          value: 351309058.0
+        socioIndustrial:
+          value: B-C-A-C-C
+      - date: '3050-01-01'
+        population:
+          value: 353953781.0
+      - date: '3060-01-01'
+        population:
+          value: 356868135.0
+      - date: '3070-01-01'
+        population:
+          value: 359626626.0
+      - date: '3080-01-01'
+        population:
+          value: 363531643.0
+      - date: '3090-01-01'
+        population:
+          value: 368509445.0
+      - date: '3100-01-01'
+        population:
+          value: 373331343.0
+      - date: '3110-01-01'
+        population:
+          value: 378443332.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: B-C-A-C-C
+      - date: '3120-01-01'
+        population:
+          value: 384316466.0
+      - date: '3130-01-01'
+        population:
+          value: 392550952.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 398643025.0
+      - date: '3145-01-01'
+        population:
+          value: 401363036.0
+  - name:
+      value: Beta Mensae VI
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 10.92
+    sysPos:
+      value: 6
+    icon: hell17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.62
+    diameter:
+      value: 10500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 36.1
+    temperature:
+      value: -89
+    water:
+      value: 0
+  - name:
+      value: Beta Mensae VII
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 21.0
+    sysPos:
+      value: 7
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 900
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 96.2
+    temperature:
+      value: -140
+    water:
+      value: 0
+  - name:
+      value: Beta Mensae VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 41.16
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 264.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Nāḩiyat an Nashābīyah I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Nāḩiyat an Nashābīyah II
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Beta Mensae IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 81.48
+    sysPos:
+      value: 9
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 21
+    yearLength:
+      value: 735.5
+    smallMoons:
+      value: 16
+  - name:
+      value: Beta Mensae X
+    type:
+      value: ICE_GIANT
+    orbitalDist: 162.12
+    sysPos:
+      value: 10
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2064.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: V-1
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: V-2
+        size:
+          value: medium
+        icon: rock14

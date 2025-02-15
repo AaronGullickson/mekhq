@@ -1,0 +1,702 @@
+id: Dahar IV
+sucsId: 647
+xcood: 279.421
+ycood: 20.112
+spectralType:
+  source: canon
+  value: M8V
+primarySlot: 4
+event:
+  - date: '2364-11-02'
+    nadirCharge:
+      value: yes
+  - date: '2398-07-10'
+    zenithCharge:
+      value: yes
+  - date: '2790-11-28'
+    zenithCharge:
+      value: no
+  - date: '2800-09-04'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Dahar I
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Frizell I
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Frizell II
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Dahar II
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 4
+  - name:
+      value: Dahar III
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 40000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+  - name:
+      source: canon
+      value: Dahar IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 4
+    icon: green27
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 11977
+    density:
+      value: 5.889977583969
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      source: canon
+      value: 55
+    water:
+      source: canon
+      value: 20
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Dahar IV is a scorching desert planet known best for its hardy people and
+      the metal ores they mine from the planet. The planet has abundant deposits of
+      ores, silicon and bauxite. The planet is home to Brook Incorporated, which produces
+      some of the most advanced mining equipment in the Inner Sphere and sells their
+      machines throughout the Inner Sphere. Of the planet's two continents, Dusty
+      is more habitable and is home to most of the cities and the planet's population.
+      The other continent, Bauxum is known as 'Hell's Kitchen' to locals, due to an
+      average mean temperature of 75 degrees celcius. Due to the scorching temperatures
+      on Bauxum, the local militia is located and trains there to be better prepared
+      for the harsh, but relatively comfortable, conditions on the rest of the planet.
+    landmass:
+      - name:
+          source: canon
+          value: Bauxum
+      - name:
+          source: canon
+          value: Dusty
+        capital:
+          source: canon
+          value: Drakaar
+    satellite:
+      - name:
+          value: Drakhor
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Drakkon
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2272-06-08'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 44661.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2280-01-01'
+        population:
+          value: 126600.0
+      - date: '2290-01-01'
+        population:
+          value: 396874.0
+      - date: '2300-01-01'
+        population:
+          value: 1070578.0
+      - date: '2310-01-01'
+        population:
+          value: 2533813.0
+      - date: '2320-01-01'
+        population:
+          value: 5332313.0
+      - date: '2330-01-01'
+        population:
+          value: 10090731.0
+      - date: '2340-01-01'
+        population:
+          value: 17390068.0
+      - date: '2350-01-01'
+        population:
+          value: 27722437.0
+      - date: '2358-01-01'
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2360-05-15'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 41373683.0
+      - date: '2370-01-01'
+        population:
+          value: 58201752.0
+      - date: '2380-01-01'
+        population:
+          value: 78858801.0
+      - date: '2390-01-01'
+        population:
+          value: 103156064.0
+      - date: '2400-01-01'
+        population:
+          value: 129792776.0
+      - date: '2410-01-01'
+        population:
+          value: 158260865.0
+      - date: '2420-01-01'
+        population:
+          value: 188140465.0
+      - date: '2430-01-01'
+        population:
+          value: 218028002.0
+      - date: '2440-01-01'
+        population:
+          value: 248813181.0
+      - date: '2443-01-01'
+        socioIndustrial:
+          value: B-C-B-B-F
+      - date: '2450-01-01'
+        population:
+          value: 280212599.0
+      - date: '2460-01-01'
+        population:
+          value: 310726752.0
+      - date: '2470-01-01'
+        population:
+          value: 338738700.0
+      - date: '2480-01-01'
+        population:
+          value: 362146016.0
+      - date: '2490-01-01'
+        population:
+          value: 383708688.0
+      - date: '2500-01-01'
+        population:
+          value: 406281029.0
+      - date: '2510-01-01'
+        population:
+          value: 429774692.0
+      - date: '2520-01-01'
+        population:
+          value: 451469002.0
+      - date: '2530-01-01'
+        population:
+          value: 470513188.0
+      - date: '2540-01-01'
+        population:
+          value: 488597994.0
+      - date: '2550-01-01'
+        population:
+          value: 504154521.0
+      - date: '2560-01-01'
+        population:
+          value: 517181809.0
+      - date: '2570-01-01'
+        population:
+          value: 524236683.0
+      - date: '2580-01-01'
+        population:
+          value: 528125274.0
+      - date: '2590-01-01'
+        population:
+          value: 529913810.0
+      - date: '2600-01-01'
+        population:
+          value: 531225890.0
+      - date: '2610-01-01'
+        population:
+          value: 535185155.0
+      - date: '2618-01-01'
+        socioIndustrial:
+          value: A-B-A-A-D
+      - date: '2620-01-01'
+        population:
+          value: 539269531.0
+      - date: '2630-01-01'
+        population:
+          value: 539363470.0
+      - date: '2638-09-27'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 540396411.0
+      - date: '2650-01-01'
+        population:
+          value: 543864492.0
+      - date: '2660-01-01'
+        population:
+          value: 544520816.0
+      - date: '2670-01-01'
+        population:
+          value: 543717100.0
+      - date: '2680-01-01'
+        population:
+          value: 545096070.0
+      - date: '2690-01-01'
+        population:
+          value: 547841283.0
+      - date: '2700-01-01'
+        population:
+          value: 554224187.0
+      - date: '2710-01-01'
+        population:
+          value: 562377348.0
+      - date: '2720-01-01'
+        population:
+          value: 569551278.0
+      - date: '2730-01-01'
+        population:
+          value: 576768694.0
+      - date: '2740-01-01'
+        population:
+          value: 583234414.0
+      - date: '2750-01-01'
+        population:
+          value: 590001947.0
+      - date: '2760-01-01'
+        population:
+          value: 596023490.0
+      - date: '2770-01-01'
+        population:
+          value: 597931865.0
+      - date: '2780-01-01'
+        population:
+          value: 599524908.0
+      - date: '2790-01-01'
+        population:
+          value: 598069247.0
+      - date: '2800-01-01'
+        population:
+          value: 592049430.0
+      - date: '2810-01-01'
+        population:
+          value: 584365815.0
+      - date: '2820-01-01'
+        population:
+          value: 578143125.0
+      - date: '2830-01-01'
+        population:
+          value: 574351098.0
+      - date: '2840-01-01'
+        population:
+          value: 576668629.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: B-C-B-B-D
+      - date: '2850-01-01'
+        population:
+          value: 573730907.0
+      - date: '2860-01-01'
+        population:
+          value: 567956066.0
+      - date: '2870-01-01'
+        population:
+          value: 562570779.0
+      - date: '2880-01-01'
+        population:
+          value: 557729347.0
+      - date: '2890-01-01'
+        population:
+          value: 551627737.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 550112793.0
+      - date: '2910-01-01'
+        population:
+          value: 549734707.0
+      - date: '2920-01-01'
+        population:
+          value: 548063450.0
+      - date: '2930-01-01'
+        population:
+          value: 542227330.0
+      - date: '2940-01-01'
+        population:
+          value: 533458465.0
+      - date: '2950-01-01'
+        population:
+          value: 522362943.0
+      - date: '2960-01-01'
+        population:
+          value: 514218266.0
+      - date: '2970-01-01'
+        population:
+          value: 504711241.0
+      - date: '2980-01-01'
+        population:
+          value: 495818074.0
+      - date: '2990-01-01'
+        population:
+          value: 486221248.0
+      - date: '3000-01-01'
+        population:
+          value: 477091243.0
+      - date: '3010-01-01'
+        population:
+          value: 466205541.0
+      - date: '3020-01-01'
+        population:
+          value: 455702471.0
+      - date: '3030-01-01'
+        population:
+          value: 452176961.0
+      - date: '3034-01-01'
+        socioIndustrial:
+          value: C-C-C-B-D
+      - date: '3040-01-12'
+        population:
+          value: 455854468.0
+        socioIndustrial:
+          source: canon
+          value: B-B-B-A-D
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3050-01-01'
+        population:
+          value: 459332161.0
+      - date: '3060-01-01'
+        population:
+          value: 461773084.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 464970336.0
+      - date: '3080-01-01'
+        population:
+          value: 472942402.0
+      - date: '3090-01-01'
+        population:
+          value: 481821450.0
+      - date: '3100-01-01'
+        population:
+          value: 487930808.0
+      - date: '3110-01-01'
+        population:
+          value: 493821250.0
+      - date: '3120-01-01'
+        population:
+          value: 498784236.0
+      - date: '3125-01-01'
+        socioIndustrial:
+          value: B-B-C-A-D
+      - date: '3130-01-01'
+        population:
+          value: 500482989.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 500482989.0
+      - date: '3145-01-01'
+        population:
+          value: 500282836.0
+  - name:
+      value: Dahar V
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: frozen5
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -130
+    water:
+      value: 43
+    landmass:
+      - name:
+          value: Armo
+      - name:
+          value: Rūdān
+    satellite:
+      - name:
+          value: Hodan I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hodan II
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Dahar VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Gobolka Jubbada Hoose I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Gobolka Jubbada Hoose II
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Gobolka Jubbada Hoose III
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Gobolka Jubbada Hoose IV
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Gobolka Jubbada Hoose V
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Dahar VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 7
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.8
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Brunhilt I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Brunhilt II
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Dahar VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 7.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Gobolka Shabeellaha Hoose Alpha
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Gobolka Shabeellaha Hoose Beta
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Dahar IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.4
+    sysPos:
+      value: 9
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 60.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 21

@@ -1,0 +1,318 @@
+id: St. Cyr
+sucsId: 2389
+xcood: 510.01
+ycood: -110.128
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2852-08-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Invidia
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1700
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 167
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: St. Cyr
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green56
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 36
+    water:
+      value: 25
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: Lefrançois Rouge
+        capital:
+          value: Jean City
+      - name:
+          value: Leclerc's Rock
+    event:
+      - date: '2729-09-13'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 53246.0
+        socioIndustrial:
+          value: B-D-B-C-D
+      - date: '2730-01-01'
+        population:
+          value: 62021.0
+      - date: '2732-07-21'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 241576.0
+      - date: '2750-01-01'
+        population:
+          value: 722705.0
+      - date: '2760-01-01'
+        population:
+          value: 1748800.0
+      - date: '2769-11-17'
+        hpg:
+          value: C
+      - date: '2770-01-01'
+        population:
+          value: 3559727.0
+      - date: '2780-01-01'
+        population:
+          value: 6309338.0
+      - date: '2790-01-01'
+        population:
+          value: 10045630.0
+      - date: '2800-01-01'
+        population:
+          value: 14694047.0
+      - date: '2810-01-01'
+        population:
+          value: 19942316.0
+      - date: '2820-01-01'
+        population:
+          value: 25546522.0
+      - date: '2830-01-01'
+        population:
+          value: 7209116.0
+      - date: '2832-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2840-01-01'
+        population:
+          value: 322455.0
+      - date: '2850-01-01'
+        population:
+          value: 28487.0
+      - date: '2852-02-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bacchus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Roger
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Rolland
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Leclerc
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Welson
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Bouchard
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Saturn
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 2
+  - name:
+      value: Lucifer
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Camlez
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Waat
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Fraisse's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -185
+  - name:
+      value: Juno
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 160000
+    density:
+      value: 0.9
+    dayLength:
+      value: 22
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Roussel
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Djous Pater
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Coste
+        size:
+          value: large
+        icon: rock5

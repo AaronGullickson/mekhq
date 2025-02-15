@@ -1,0 +1,377 @@
+id: Star Cluster P12
+sucsId: 3032
+xcood: 115.721
+ycood: 1304.581
+spectralType:
+  value: G4V
+primarySlot: 3
+planet:
+  - name:
+      value: Padilla
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 186
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Yi's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 55000
+    density:
+      value: 2.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Minderlittgen
+        size:
+          value: large
+        icon: rock9
+  - name:
+      source: canon
+      value: Star Cluster P12
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green27
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 20
+    water:
+      value: 40
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Richard
+        capital:
+          value: White's Meridian City
+    event:
+      - date: '3095-12-30'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3100-01-01'
+        population:
+          value: 92022.0
+      - date: '3101-11-18'
+        hpg:
+          value: X
+      - date: '3110-01-01'
+        population:
+          value: 192101.0
+      - date: '3120-01-01'
+        population:
+          value: 240212.0
+      - date: '3130-01-01'
+        population:
+          value: 288883.0
+      - date: '3140-01-01'
+        population:
+          value: 343787.0
+      - date: '3145-01-01'
+        population:
+          value: 372793.0
+  - name:
+      value: South Luffenham
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+    water:
+      value: 0
+  - name:
+      value: Terminus Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -100
+  - name:
+      value: Combes
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.7
+    dayLength:
+      value: 20
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Anunnaki
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Nadaner
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Fish Lake
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Abgal
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Emdin
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Bacanora
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hercules Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 27.0
+    temperature:
+      value: -181
+  - name:
+      value: Adeona Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 74.1
+    temperature:
+      value: -208
+  - name:
+      value: Ruíz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Kartodirdjo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Týr
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Sterquilinius Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 11
+    icon: asteroid3
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -250
+  - name:
+      value: Vick's Harvest
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 276.84
+    sysPos:
+      value: 12
+    icon: frozen24
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon and Hydrochloric Acid
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4606.2
+    temperature:
+      value: -256
+    water:
+      value: 61
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Blevins's Harbour
+      - name:
+          value: Schliessmann
+      - name:
+          value: Tickle
+      - name:
+          value: Foster's Heights
+      - name:
+          value: Vann
+      - name:
+          value: Bin Jawhar
+      - name:
+          value: Bin Qutaiba
+      - name:
+          value: Old Skara domkyrkoförs.

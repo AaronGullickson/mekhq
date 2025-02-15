@@ -1,0 +1,642 @@
+id: Hofn
+sucsId: 3136
+xcood: 600.099
+ycood: 545.503
+spectralType:
+  source: canon
+  value: G8III
+primarySlot: 4
+event:
+  - date: '2566-09-06'
+    nadirCharge:
+      value: yes
+  - date: '2795-06-27'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Hermoth
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 3
+  - name:
+      value: Haglund
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Boqvist
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Holler's Gräns
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Seirenes 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Seirenes 2
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Seirenes 3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Hofn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: wet13
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.02
+    diameter:
+      value: 11812
+    density:
+      value: 6.039314312002
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.7
+    temperature:
+      source: canon
+      value: 34
+    water:
+      source: canon
+      value: 95
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Hofn is the warmest JarnFolk world, however it also has the harshest weather.
+      Storms are a regular occurrence and winds can often reach over 300 kph. The
+      JarnFolk dwellings are built to withstand these harsh conditions, often with
+      the stout buildings that extend underground. Subterranean building also allows
+      the JarnFolk to make the most of the limited ground space as Hofn is almost
+      entirely covered in water. The major industries on planet are power from wind
+      turbines and fishing.
+    landmass:
+      - name:
+          value: Prock's Patch
+        capital:
+          value: Ba Xian
+      - name:
+          value: Helleland's Felt
+    satellite:
+      - name:
+          value: Myvatn
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Geyser
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Jockulsarlon
+        size:
+          value: medium
+        icon: rock1
+    event:
+      - date: '2504-08-04'
+        faction:
+          source: canon
+          value:
+            - JF
+        population:
+          value: 45849.0
+        socioIndustrial:
+          value: C-D-D-C-C
+      - date: '2510-01-01'
+        population:
+          value: 148879.0
+      - date: '2514-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2520-01-01'
+        population:
+          value: 737970.0
+      - date: '2530-01-01'
+        population:
+          value: 2535146.0
+      - date: '2540-01-01'
+        population:
+          value: 6571303.0
+      - date: '2550-01-01'
+        population:
+          value: 13695225.0
+      - date: '2560-01-01'
+        population:
+          value: 24142160.0
+      - date: '2570-01-01'
+        population:
+          value: 37479796.0
+      - date: '2580-01-01'
+        population:
+          value: 52585397.0
+      - date: '2590-01-01'
+        population:
+          value: 68490452.0
+      - date: '2600-01-01'
+        population:
+          value: 84380198.0
+      - date: '2610-01-01'
+        population:
+          value: 99034438.0
+      - date: '2620-01-01'
+        population:
+          value: 112224064.0
+      - date: '2630-01-01'
+        population:
+          value: 123325011.0
+      - date: '2639-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2640-01-01'
+        population:
+          value: 132343590.0
+      - date: '2646-01-24'
+        hpg:
+          source: canon
+          value: C
+      - date: '2650-01-01'
+        population:
+          value: 138707773.0
+      - date: '2660-01-01'
+        population:
+          value: 142818109.0
+      - date: '2670-01-01'
+        population:
+          value: 145534567.0
+      - date: '2680-01-01'
+        population:
+          value: 147002967.0
+      - date: '2690-01-01'
+        population:
+          value: 148316692.0
+      - date: '2700-01-01'
+        population:
+          value: 149902101.0
+      - date: '2710-01-01'
+        population:
+          value: 150947755.0
+      - date: '2720-01-01'
+        population:
+          value: 150921579.0
+      - date: '2730-01-01'
+        population:
+          value: 152481645.0
+      - date: '2740-01-01'
+        population:
+          value: 154444263.0
+      - date: '2750-01-01'
+        population:
+          value: 156502521.0
+      - date: '2760-01-01'
+        population:
+          value: 158257893.0
+      - date: '2770-01-01'
+        population:
+          value: 159572564.0
+      - date: '2780-01-01'
+        population:
+          value: 160492563.0
+      - date: '2790-01-01'
+        population:
+          value: 160823487.0
+      - date: '2800-01-01'
+        population:
+          value: 160620449.0
+      - date: '2810-01-01'
+        population:
+          value: 159996370.0
+      - date: '2820-01-01'
+        population:
+          value: 159214549.0
+      - date: '2830-01-01'
+        population:
+          value: 158448803.0
+      - date: '2840-01-01'
+        population:
+          value: 157845370.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 157524208.0
+      - date: '2860-01-01'
+        population:
+          value: 156900024.0
+      - date: '2870-01-01'
+        population:
+          value: 155988488.0
+      - date: '2880-01-01'
+        population:
+          value: 154986320.0
+      - date: '2890-01-01'
+        population:
+          value: 154193199.0
+      - date: '2895-01-01'
+        socioIndustrial:
+          value: D-D-D-D-C
+      - date: '2900-01-01'
+        population:
+          value: 153712935.0
+      - date: '2910-01-01'
+        population:
+          value: 153198615.0
+      - date: '2920-01-01'
+        population:
+          value: 152851438.0
+      - date: '2930-01-01'
+        population:
+          value: 152457872.0
+      - date: '2940-01-01'
+        population:
+          value: 151947752.0
+      - date: '2950-01-01'
+        population:
+          value: 151263747.0
+      - date: '2960-01-01'
+        population:
+          value: 150512956.0
+      - date: '2970-01-01'
+        population:
+          value: 150044154.0
+      - date: '2980-01-01'
+        population:
+          value: 149403380.0
+      - date: '2990-01-01'
+        population:
+          value: 148868934.0
+      - date: '3000-01-01'
+        population:
+          value: 148531568.0
+      - date: '3010-01-01'
+        population:
+          value: 148539227.0
+      - date: '3020-01-01'
+        population:
+          value: 148673322.0
+      - date: '3030-01-01'
+        population:
+          value: 149523647.0
+      - date: '3040-01-01'
+        population:
+          value: 151132140.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-D-C-D-B
+      - date: '3050-01-01'
+        population:
+          value: 153063758.0
+      - date: '3060-01-01'
+        population:
+          value: 154694864.0
+      - date: '3070-01-01'
+        population:
+          value: 156312085.0
+      - date: '3080-01-01'
+        population:
+          value: 157410108.0
+      - date: '3090-01-01'
+        population:
+          value: 158547551.0
+      - date: '3100-01-01'
+        population:
+          value: 160525780.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: C-C-C-D-B
+      - date: '3110-01-01'
+        population:
+          value: 162691302.0
+      - date: '3120-01-01'
+        population:
+          value: 165613135.0
+      - date: '3130-01-01'
+        population:
+          value: 168688624.0
+      - date: '3140-01-01'
+        population:
+          value: 171101091.0
+      - date: '3145-01-01'
+        population:
+          value: 171615165.0
+  - name:
+      value: Ragnorak
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 35000
+    density:
+      value: 2.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Harmony 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Harmony 2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Harmony 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Harmony 4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Killingworth
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: frozen49
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -80
+    water:
+      value: 17
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Zimmer
+        capital:
+          value: Zimmer City
+  - name:
+      value: Ragnarøkr
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -149
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Eriksen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 70000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Brigid
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Lugh
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Graneros
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Åsgard
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Kleven
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Skeiða- og Gnúpverjahreppur
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 10
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1367.5
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Valtam 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Valtam 2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Valtam 3
+        size:
+          value: medium
+        icon: rock7

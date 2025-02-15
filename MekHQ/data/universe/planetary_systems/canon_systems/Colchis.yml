@@ -1,0 +1,289 @@
+id: Colchis
+sucsId: 2892
+xcood: 458.018
+ycood: -498.371
+spectralType:
+  value: K8V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Colchis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green46
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 9900
+    density:
+      value: 5.2795
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 34
+    water:
+      value: 43
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: New Notre-Dame-du-Bon-Conseil
+        capital:
+          value: Kalamunda
+      - name:
+          value: Tomaszkowice
+      - name:
+          value: New Darwin
+      - name:
+          value: New Prienai
+      - name:
+          value: New West Torrens
+    event:
+      - date: '3028-01-13'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 51581.0
+        socioIndustrial:
+          value: C-C-B-C-F
+      - date: '3029-07-06'
+        hpg:
+          value: D
+      - date: '3030-01-01'
+        population:
+          value: 198635.0
+      - date: '3031-01-01'
+        socioIndustrial:
+          value: D-D-B-C-F
+      - date: '3040-01-01'
+        population:
+          value: 2965642.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '3050-01-01'
+        population:
+          value: 4809225.0
+      - date: '3060-01-01'
+        population:
+          value: 5202792.0
+      - date: '3066-04-01'
+        faction:
+          source: canon
+          value:
+            - CDP
+      - date: '3070-01-01'
+        population:
+          value: 5249126.0
+      - date: '3080-01-01'
+        population:
+          value: 5321002.0
+      - date: '3090-01-01'
+        population:
+          value: 5396020.0
+      - date: '3100-01-01'
+        population:
+          value: 5489634.0
+      - date: '3110-01-01'
+        population:
+          value: 5583756.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: C-D-A-B-D
+      - date: '3120-01-01'
+        population:
+          value: 5672680.0
+      - date: '3130-01-01'
+        population:
+          value: 5728545.0
+      - date: '3140-01-01'
+        population:
+          value: 5757260.0
+      - date: '3145-01-01'
+        population:
+          value: 5784961.0
+  - name:
+      value: Fowler
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -5
+    water:
+      value: 0
+  - name:
+      value: Knapp's Plains
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Z1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Z2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Z3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Z4
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Symes's Flats
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 11
+  - name:
+      value: Goðheimar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: N-1
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: N-2
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: N-3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Westoby
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 5

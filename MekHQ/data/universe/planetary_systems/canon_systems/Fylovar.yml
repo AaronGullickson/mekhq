@@ -1,0 +1,307 @@
+id: Fylovar
+sucsId: 3134
+xcood: 461.378
+ycood: -489.791
+spectralType:
+  value: F9V
+primarySlot: 4
+planet:
+  - name:
+      value: Saint Jiang
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: barren10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 238
+    water:
+      value: 0
+  - name:
+      value: Rivera's Nest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1400
+    density:
+      value: 2.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 104
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Santos's Wind
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 42
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Fylovar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: wet8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 28
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 20
+    water:
+      value: 76
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Warren
+        capital:
+          value: Blandings
+      - name:
+          value: Fleischer
+      - name:
+          value: Sivakumaran
+      - name:
+          value: Rickward's Meridian
+      - name:
+          value: Yan
+      - name:
+          value: Huo
+      - name:
+          value: Smith's Mistake
+      - name:
+          value: Snyder
+    event:
+      - date: '3130-07-10'
+        faction:
+          source: canon
+          value:
+            - CDP
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3135-09-24'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 97712.0
+      - date: '3145-01-01'
+        population:
+          value: 104535.0
+  - name:
+      value: Johnson's Rest
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: RQL1
+        size:
+          value: giant
+        icon: rock12
+  - name:
+      value: Renaud's Den
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 18
+  - name:
+      value: Ching's Dawn
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 36.5
+    smallMoons:
+      value: 6
+  - name:
+      value: Rockmeier's Retreat
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Audhumla I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Audhumla II
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Audhumla III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Audhumla IV
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Audhumla V
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Audhumla VI
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Audhumla VII
+        size:
+          value: medium
+        icon: rock11

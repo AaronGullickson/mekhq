@@ -1,0 +1,466 @@
+id: Diik
+sucsId: 2896
+xcood: 531.014
+ycood: -464.283
+spectralType:
+  source: canon
+  value: G7V
+primarySlot: 3
+planet:
+  - name:
+      value: Antill
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 157
+    water:
+      value: 0
+  - name:
+      value: Kaelani
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon and Simple Hydrocarbons
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 61
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Diik
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green16
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.05
+    diameter:
+      value: 14646
+    density:
+      value: 5.007457125695
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Diik was not settled until the early 31st century when the Taurian Concordat began a colonization drive to expand the realm by settling new planets. The planet has modest natural resources and a predominantly arid climate, with limited arable land near rivers and other bodies of water allowing the planet to be mostly self sufficient agriculturally. Most of the planet is unexplored and much of the population has settled on the Overland continent, in and around the capital, Diik City. Modest industry was established on Diik to provide many of the needs of the population including a facility in the capitals south side, which was retooled during the Word of Blake Jihad to produce primitive BattleMechs.
+
+      Manufacturing centers:
+      Protectorate Arms Conglomerate
+    landmass:
+      - name:
+          source: canon
+          value: Netherland
+      - name:
+          source: canon
+          value: Northland
+      - name:
+          source: canon
+          value: Overland
+        capital:
+          source: canon
+          value: Diik City
+    satellite:
+      - name:
+          value: Nox
+        size:
+          value: large
+        icon: rock13
+    event:
+      - date: '3028-04-22'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 49019.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '3029-06-20'
+        hpg:
+          source: canon
+          value: C
+      - date: '3030-01-01'
+        population:
+          value: 370330.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '3040-01-01'
+        population:
+          value: 18175673.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-C-C-C-C
+      - date: '3050-01-01'
+        population:
+          value: 34799871.0
+      - date: '3060-01-01'
+        population:
+          value: 39039086.0
+      - date: '3066-12-01'
+        faction:
+          source: canon
+          value:
+            - CDP
+      - date: '3070-01-01'
+        population:
+          value: 40006698.0
+      - date: '3080-01-01'
+        population:
+          value: 40668218.0
+      - date: '3090-01-01'
+        population:
+          value: 41241577.0
+      - date: '3100-01-01'
+        population:
+          value: 41957068.0
+      - date: '3107-01-01'
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '3110-01-01'
+        population:
+          value: 42753322.0
+      - date: '3120-01-01'
+        population:
+          value: 43468950.0
+      - date: '3130-01-01'
+        population:
+          value: 44240776.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 45044320.0
+      - date: '3145-01-01'
+        population:
+          value: 45433372.0
+  - name:
+      value: Mason
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1700
+    density:
+      value: 5.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -64
+    water:
+      value: 0
+  - name:
+      value: Haulani's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Evered
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Small
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Lopeti A
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Lopeti B
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Lopeti C
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Oke
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Gui Xian A
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Gui Xian B
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Gui Xian C
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Gui Xian D
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Gui Xian E
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Peka
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Hemolekekeakua I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hemolekekeakua II
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Hemolekekeakua III
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Hemolekekeakua IV
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Poutini's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 206.4
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: W1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: W2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: W3
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: W4
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: W5
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: 5N9-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 579.1
+    temperature:
+      value: -243

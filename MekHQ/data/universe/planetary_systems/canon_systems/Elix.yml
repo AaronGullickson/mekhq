@@ -1,0 +1,627 @@
+id: Elix
+sucsId: 791
+xcood: 45.701
+ycood: 71.019
+spectralType:
+  value: F5V
+primarySlot: 4
+event:
+  - date: '2671-11-30'
+    nadirCharge:
+      value: yes
+    zenithCharge:
+      value: yes
+  - date: '2806-05-02'
+    zenithCharge:
+      value: no
+  - date: '2835-10-09'
+    nadirCharge:
+      value: no
+  - date: '2924-04-15'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Summers
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 242
+    water:
+      value: 0
+  - name:
+      value: Liñares
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1100
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Iovis
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Motte
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: barren14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.22
+    diameter:
+      value: 4500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 70
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Elix
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: wet9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 22
+    water:
+      value: 79
+    lifeForm:
+      value: PLANT
+    landmass:
+      - name:
+          value: Romulus I
+        capital:
+          value: Beattyville
+      - name:
+          value: Romulus II
+      - name:
+          value: Romulus III
+      - name:
+          value: Romulus IV
+      - name:
+          value: Romulus V
+      - name:
+          value: Romulus VI
+      - name:
+          value: Romulus VII
+      - name:
+          value: Romulus VIII
+      - name:
+          value: Romulus IX
+    event:
+      - date: '2667-02-19'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 52993.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2670-01-01'
+        population:
+          value: 309416.0
+      - date: '2672-05-15'
+        hpg:
+          value: B
+      - date: '2677-01-01'
+        socioIndustrial:
+          value: C-D-A-C-C
+      - date: '2680-01-01'
+        population:
+          value: 15944466.0
+      - date: '2690-01-01'
+        population:
+          value: 126948676.0
+      - date: '2700-01-01'
+        population:
+          value: 377839123.0
+      - date: '2710-01-01'
+        population:
+          value: 669711655.0
+      - date: '2713-01-01'
+        socioIndustrial:
+          value: C-C-A-B-C
+      - date: '2720-01-01'
+        population:
+          value: 900434854.0
+      - date: '2730-01-01'
+        population:
+          value: 1049057970.0
+      - date: '2740-01-01'
+        population:
+          value: 1135966677.0
+      - date: '2742-01-01'
+        socioIndustrial:
+          value: B-B-A-A-C
+      - date: '2749-01-01'
+        socioIndustrial:
+          value: B-B-B-A-C
+      - date: '2750-01-01'
+        population:
+          value: 1181049724.0
+      - date: '2760-01-01'
+        population:
+          value: 1199361268.0
+      - date: '2770-01-01'
+        population:
+          value: 1213402404.0
+      - date: '2780-01-01'
+        population:
+          value: 1213839940.0
+      - date: '2790-01-01'
+        population:
+          value: 961128712.0
+      - date: '2800-01-01'
+        population:
+          value: 391387361.0
+      - date: '2810-01-01'
+        population:
+          value: 156541160.0
+      - date: '2820-01-01'
+        population:
+          value: 71002684.0
+      - date: '2830-01-01'
+        population:
+          value: 29703338.0
+      - date: '2840-01-01'
+        population:
+          value: 15695718.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: C-C-C-B-C
+      - date: '2850-01-01'
+        population:
+          value: 7313624.0
+      - date: '2860-01-01'
+        population:
+          value: 2722328.0
+      - date: '2870-01-01'
+        population:
+          value: 726747.0
+      - date: '2880-01-01'
+        population:
+          value: 238543.0
+      - date: '2890-01-01'
+        population:
+          value: 93710.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: D-D-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 42888.0
+      - date: '2910-01-01'
+        population:
+          value: 21091.0
+      - date: '2920-01-01'
+        population:
+          value: 10465.0
+      - date: '2924-03-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Gilles
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 100000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: J4-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Guillon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 52.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Richard 1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Richard 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Richard 3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Richard 4
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Aubin
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 70000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 143.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: L-1
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: L-2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: L-3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: L-4
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: L-5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Combes
+    type:
+      value: ICE_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 8
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 50000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Sterquilinus
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dies Pater
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Optimus Maximus
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Gauthier's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Optimus Maximus
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Grégoire
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.64
+    sysPos:
+      value: 10
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8936.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Terminus de Arnould
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 11
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 70000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 25251.799999999999
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Powiat pułtuski
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Petitjean
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.88
+    sysPos:
+      value: 12
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 71388.100000000006
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Richard A
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Richard B
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Richard C
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Richard D
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Lacaze
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3441.2
+    sysPos:
+      value: 13
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 201866.799999999988
+    smallMoons:
+      value: 10

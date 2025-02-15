@@ -1,0 +1,378 @@
+id: Thorn
+sucsId: 3006
+xcood: -774.43
+ycood: 666.562
+spectralType:
+  value: G4V
+primarySlot: 2
+planet:
+  - name:
+      value: Howard
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren20
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 198
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: BX1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Thorn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 2
+    icon: green21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 33
+    water:
+      value: 47
+    lifeForm:
+      value: REPTILE
+    desc: No description available.
+    landmass:
+      - name:
+          value: New Berméricourt
+        capital:
+          value: Stone
+      - name:
+          value: Smaller New Caddo
+      - name:
+          value: New Terry
+      - name:
+          value: Larger New Caddo
+      - name:
+          value: Lausanne
+      - name:
+          value: Willowick
+    satellite:
+      - name:
+          value: 3HY-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 3HY-2
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2891-10-10'
+        faction:
+          source: canon
+          value:
+            - HL
+        population:
+          value: 52952.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2895-12-22'
+        hpg:
+          value: X
+      - date: '2900-01-01'
+        population:
+          value: 84341.0
+      - date: '2910-01-01'
+        population:
+          value: 121834.0
+      - date: '2920-01-01'
+        population:
+          value: 157996.0
+      - date: '2930-01-01'
+        population:
+          value: 189949.0
+      - date: '2940-01-01'
+        population:
+          value: 216963.0
+      - date: '2950-01-01'
+        population:
+          value: 239125.0
+      - date: '2960-01-01'
+        population:
+          value: 256463.0
+      - date: '2970-01-01'
+        population:
+          value: 270801.0
+      - date: '2980-01-01'
+        population:
+          value: 280609.0
+      - date: '2990-01-01'
+        population:
+          value: 285621.0
+      - date: '3000-01-01'
+        population:
+          value: 288952.0
+      - date: '3001-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '3010-01-01'
+        population:
+          value: 289940.0
+      - date: '3020-01-01'
+        population:
+          value: 292256.0
+      - date: '3030-01-01'
+        population:
+          value: 295959.0
+      - date: '3040-01-01'
+        population:
+          value: 299895.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '3050-01-01'
+        population:
+          value: 303391.0
+      - date: '3060-01-01'
+        population:
+          value: 305148.0
+      - date: '3070-01-01'
+        population:
+          value: 306234.0
+      - date: '3080-01-01'
+        population:
+          value: 310304.0
+      - date: '3090-01-01'
+        population:
+          value: 314741.0
+      - date: '3100-01-01'
+        population:
+          value: 320394.0
+      - date: '3110-01-01'
+        population:
+          value: 324781.0
+      - date: '3120-01-01'
+        population:
+          value: 329623.0
+      - date: '3129-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '3130-01-01'
+        population:
+          value: 335208.0
+      - date: '3140-01-01'
+        population:
+          value: 341296.0
+      - date: '3141-03-02'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3145-01-01'
+        population:
+          value: 344382.0
+  - name:
+      value: Blankenship's Garden
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1100
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+    water:
+      value: 0
+  - name:
+      value: Roberts's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 4
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: M-1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: M-2
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Clarke
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 5
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Simon I
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Simon II
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Simon III
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Simon IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Simon V
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Simon VI
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Simon VII
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: China Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 70000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Volus
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Peron
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Dziewona
+        size:
+          value: medium
+        icon: oddmoon3

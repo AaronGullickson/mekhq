@@ -1,0 +1,447 @@
+id: Frankson
+sucsId: 898
+xcood: 555.124
+ycood: -193.261
+spectralType:
+  value: K8V
+primarySlot: 1
+event:
+  - date: '2833-07-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Frankson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 12000
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 19
+    water:
+      value: 42
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Itasca Prime
+        capital:
+          value: New Forman City
+    event:
+      - date: '2718-06-05'
+        faction:
+          source: canon
+          value:
+            - FS
+        hpg:
+          value: B
+        population:
+          value: 46737.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2720-01-01'
+        population:
+          value: 61033.0
+      - date: '2730-01-01'
+        population:
+          value: 198966.0
+      - date: '2740-01-01'
+        population:
+          value: 521710.0
+      - date: '2750-01-01'
+        population:
+          value: 1143278.0
+      - date: '2760-01-01'
+        population:
+          value: 2165266.0
+      - date: '2770-01-01'
+        population:
+          value: 3643973.0
+      - date: '2780-01-01'
+        population:
+          value: 5586016.0
+      - date: '2790-01-01'
+        population:
+          value: 7885383.0
+      - date: '2800-01-01'
+        population:
+          value: 10404905.0
+      - date: '2810-01-01'
+        population:
+          value: 13133018.0
+      - date: '2820-01-01'
+        population:
+          value: 8577553.0
+      - date: '2830-01-01'
+        population:
+          value: 64155.0
+      - date: '2833-12-20'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: New Tennessee
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1100
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -5
+    water:
+      value: 0
+  - name:
+      value: Bwca Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: asteroid2
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -49
+  - name:
+      value: Mahouš
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+  - name:
+      value: Badbh Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -139
+  - name:
+      value: Premont
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Currituck
+    type:
+      value: ICE_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 40000
+    density:
+      value: 2.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 5
+  - name:
+      value: West Salem
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Rugievit A
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Rugievit B
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Dukes
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 112.3
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Yan Luo Wang
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Millen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 7
+    yearLength:
+      value: 315.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Irenaeus
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Benezet
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Madern
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Eugene I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Angus
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Catherine
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brounie Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 888.2
+    temperature:
+      value: -255
+  - name:
+      value: Koda
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 184.56
+    sysPos:
+      value: 12
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2507.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Mac Ind Óg Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 368.88
+    sysPos:
+      value: 13
+    icon: asteroid2
+    yearLength:
+      value: 7084.8
+    temperature:
+      value: -264
+  - name:
+      value: Louisa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 737.52
+    sysPos:
+      value: 14
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 90000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 20029.099999999999
+    smallMoons:
+      value: 17

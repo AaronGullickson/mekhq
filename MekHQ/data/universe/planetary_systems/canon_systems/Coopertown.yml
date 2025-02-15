@@ -1,0 +1,386 @@
+id: Coopertown
+sucsId: 592
+xcood: -301.667
+ycood: -455.141
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2924-05-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Frontier
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 167
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Coopertown
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: wet12
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 25
+    water:
+      value: 84
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Allison
+        capital:
+          value: Doss
+      - name:
+          value: Hankin
+      - name:
+          value: Hodges
+      - name:
+          value: Eckley
+      - name:
+          value: Cantrell
+      - name:
+          value: Kemp
+      - name:
+          value: Stafford
+      - name:
+          value: Gray's Sacrifice
+      - name:
+          value: Gross's Refuge
+    event:
+      - date: '2615-08-12'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 47782.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2620-01-01'
+        population:
+          value: 201902.0
+      - date: '2621-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2630-01-01'
+        population:
+          value: 1649526.0
+      - date: '2634-10-25'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 6490451.0
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2650-01-01'
+        population:
+          value: 15875034.0
+      - date: '2660-01-01'
+        population:
+          value: 28500796.0
+      - date: '2670-01-01'
+        population:
+          value: 42060884.0
+      - date: '2680-01-01'
+        population:
+          value: 54297391.0
+      - date: '2690-01-01'
+        population:
+          value: 64278100.0
+      - date: '2700-01-01'
+        population:
+          value: 72222229.0
+      - date: '2710-01-01'
+        population:
+          value: 78087052.0
+      - date: '2720-01-01'
+        population:
+          value: 81712136.0
+      - date: '2730-01-01'
+        population:
+          value: 83562829.0
+      - date: '2740-01-01'
+        population:
+          value: 84608548.0
+      - date: '2750-01-01'
+        population:
+          value: 85374499.0
+      - date: '2760-01-01'
+        population:
+          value: 86154346.0
+      - date: '2770-01-01'
+        population:
+          value: 87113961.0
+      - date: '2780-01-01'
+        population:
+          value: 88116315.0
+      - date: '2790-01-01'
+        population:
+          value: 74191583.0
+      - date: '2800-01-01'
+        population:
+          value: 38109961.0
+      - date: '2810-01-01'
+        population:
+          value: 19437685.0
+      - date: '2820-01-01'
+        population:
+          value: 12176085.0
+      - date: '2830-01-01'
+        population:
+          value: 8015224.0
+      - date: '2840-01-01'
+        population:
+          value: 4985411.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: F-D-C-F-D
+      - date: '2850-01-01'
+        population:
+          value: 2368802.0
+      - date: '2860-01-01'
+        population:
+          value: 1063491.0
+      - date: '2870-01-01'
+        population:
+          value: 444796.0
+      - date: '2880-01-01'
+        population:
+          value: 196884.0
+      - date: '2889-05-31'
+        hpg:
+          value: D
+      - date: '2890-01-01'
+        population:
+          value: 103306.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: F-D-C-F-D
+      - date: '2900-01-01'
+        population:
+          value: 61146.0
+      - date: '2910-01-01'
+        population:
+          value: 38032.0
+      - date: '2920-01-01'
+        population:
+          value: 25214.0
+      - date: '2924-11-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Corsicana
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: XF-1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: XF-2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: XF-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: XF-4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: XF-5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lilburn
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -107
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: San Eduardo
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: frozen60
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Methane
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -101
+    water:
+      value: 40
+    landmass:
+      - name:
+          value: New Chisago
+    satellite:
+      - name:
+          value: R1
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Saint Lowe
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: frozen15
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Methane
+    gravity:
+      value: 0.62
+    diameter:
+      value: 12500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -183
+    water:
+      value: 36
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Northern Mena
+      - name:
+          value: Southern Mena
+      - name:
+          value: Jove
+      - name:
+          value: Genius
+      - name:
+          value: New Cedarburg

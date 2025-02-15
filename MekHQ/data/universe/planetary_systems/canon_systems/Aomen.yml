@@ -1,0 +1,385 @@
+id: Aomen
+sucsId: 152
+xcood: -18.813
+ycood: -323.119
+spectralType:
+  value: G9V
+primarySlot: 1
+event:
+  - date: '2744-12-17'
+    nadirCharge:
+      value: yes
+  - date: '2812-03-16'
+    zenithCharge:
+      value: yes
+  - date: '2817-01-28'
+    zenithCharge:
+      value: no
+  - date: '2838-09-02'
+    nadirCharge:
+      value: no
+  - date: '2908-06-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Aomen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: green30
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 33
+    water:
+      value: 36
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Xin Odda
+        capital:
+          value: Szema
+    satellite:
+      - name:
+          value: Pandu
+        size:
+          value: large
+        icon: rock12
+    event:
+      - date: '2743-02-19'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 50096.0
+        socioIndustrial:
+          value: C-C-D-C-C
+      - date: '2745-03-22'
+        hpg:
+          value: A
+      - date: '2750-01-01'
+        population:
+          value: 172542.0
+      - date: '2760-01-01'
+        population:
+          value: 741735.0
+      - date: '2770-01-01'
+        population:
+          value: 2356654.0
+      - date: '2780-01-01'
+        population:
+          value: 5878202.0
+      - date: '2790-01-01'
+        population:
+          value: 7563630.0
+      - date: '2800-01-01'
+        population:
+          value: 4696390.0
+      - date: '2810-01-01'
+        population:
+          value: 2628391.0
+      - date: '2820-01-01'
+        population:
+          value: 1325891.0
+      - date: '2830-01-01'
+        population:
+          value: 698071.0
+      - date: '2840-01-01'
+        population:
+          value: 475045.0
+      - date: '2850-01-01'
+        population:
+          value: 333301.0
+      - date: '2860-01-01'
+        population:
+          value: 214680.0
+      - date: '2870-01-01'
+        population:
+          value: 138276.0
+      - date: '2880-01-01'
+        population:
+          value: 75059.0
+      - date: '2890-01-01'
+        population:
+          value: 42265.0
+      - date: '2900-01-01'
+        population:
+          value: 27057.0
+      - date: '2908-11-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ahu
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1600
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: -4
+    water:
+      value: 0
+  - name:
+      value: Changfeng Xian
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: frozen54
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -104
+    water:
+      value: 100
+    landmass:
+      - name:
+          value: New Mizhou Archipelago
+      - name:
+          value: Xin Lobito Archipelago
+      - name:
+          value: Lujiao Archipelago
+      - name:
+          value: Liangzihu Qu Archipelago
+      - name:
+          value: Li Archipelago
+      - name:
+          value: Der Archipelago
+      - name:
+          value: New Leiwang Archipelago
+      - name:
+          value: Shang Archipelago
+      - name:
+          value: Kilminster Archipelago
+      - name:
+          value: Cannon Ball Archipelago
+      - name:
+          value: Beifang Archipelago
+  - name:
+      value: Louqiao
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 4
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: González
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Wacker
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Li
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Zhang
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: West
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Liu
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Chikan
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 5
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 35000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Yingshang Chengguanzhen
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Yao's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.68
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 62.1
+    temperature:
+      value: -212
+  - name:
+      value: Fuqiang
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 8
+    yearLength:
+      value: 172.9
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Gai 1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Gai 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Conecuh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 8
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 9

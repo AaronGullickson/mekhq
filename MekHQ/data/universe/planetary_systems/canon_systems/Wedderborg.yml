@@ -1,0 +1,366 @@
+id: Wedderborg
+sucsId: 2733
+xcood: 472.222
+ycood: -85.391
+spectralType:
+  value: K8V
+primarySlot: 1
+event:
+  - date: '2734-02-27'
+    nadirCharge:
+      value: yes
+  - date: '2737-08-01'
+    zenithCharge:
+      value: yes
+  - date: '2789-02-08'
+    nadirCharge:
+      value: no
+  - date: '2809-12-05'
+    zenithCharge:
+      value: no
+  - date: '2951-10-30'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Wedderborg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 13500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 34
+    water:
+      value: 39
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Waterl
+        capital:
+          value: Schmidt's Planet City
+    event:
+      - date: '2731-09-22'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 42988.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2733-09-25'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 138658.0
+      - date: '2750-01-01'
+        population:
+          value: 400260.0
+      - date: '2760-01-01'
+        population:
+          value: 947644.0
+      - date: '2770-01-01'
+        population:
+          value: 1915508.0
+      - date: '2780-01-01'
+        population:
+          value: 3390603.0
+      - date: '2790-01-01'
+        population:
+          value: 3909750.0
+      - date: '2800-01-01'
+        population:
+          value: 2782547.0
+      - date: '2810-01-01'
+        population:
+          value: 2037948.0
+      - date: '2820-01-01'
+        population:
+          value: 1298487.0
+      - date: '2830-01-01'
+        population:
+          value: 784417.0
+      - date: '2840-01-01'
+        population:
+          value: 452982.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: D-D-D-D-F
+      - date: '2850-01-01'
+        population:
+          value: 274771.0
+      - date: '2860-01-01'
+        population:
+          value: 151060.0
+      - date: '2870-01-01'
+        population:
+          value: 91255.0
+      - date: '2880-01-01'
+        population:
+          value: 55354.0
+      - date: '2890-01-01'
+        population:
+          value: 32494.0
+      - date: '2900-01-01'
+        population:
+          value: 18764.0
+      - date: '2910-01-01'
+        population:
+          value: 10487.0
+      - date: '2920-01-01'
+        population:
+          value: 5836.0
+      - date: '2930-01-01'
+        population:
+          value: 3398.0
+      - date: '2940-01-01'
+        population:
+          value: 1995.0
+      - date: '2950-01-01'
+        population:
+          value: 1210.0
+      - date: '2951-12-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Willems
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 2
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: R1
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Dorst's Haven
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 3
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Ragnarøkr
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Bogers
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 4
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Ingwine
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Ēostre
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Sowilo
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Salij
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 5
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 20
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Nebthet 1
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Nebthet 2
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Nebthet 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Nebthet 4
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Nebthet 5
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Nebthet 6
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Nebthet 7
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Nebthet 8
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Brasser's Flats
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Hnoss
+        size:
+          value: large
+        icon: rock15

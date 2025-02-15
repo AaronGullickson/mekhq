@@ -1,0 +1,427 @@
+id: Prydain
+sucsId: 2078
+xcood: -269.754
+ycood: 247.101
+spectralType:
+  value: F6V
+primarySlot: 4
+event:
+  - date: '2732-05-15'
+    nadirCharge:
+      value: yes
+  - date: '2925-05-15'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Whitelegg's Field
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Rivera
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tchernobog
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Cupra
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Newcastle upon Tyne
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 7
+  - name:
+      value: Pistyll
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.34
+    diameter:
+      value: 4500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 58
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Prydain
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: green18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 26
+    yearLength:
+      value: 3.2
+    temperature:
+      value: 20
+    water:
+      value: 37
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Aleppo
+        capital:
+          value: Marie
+      - name:
+          value: Ellington and Linton
+      - name:
+          value: New Wallingford
+      - name:
+          value: New Nansen
+    event:
+      - date: '2714-05-15'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 49280.0
+        socioIndustrial:
+          value: B-D-A-D-C
+      - date: '2716-06-04'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 122314.0
+      - date: '2730-01-01'
+        population:
+          value: 439755.0
+      - date: '2740-01-01'
+        population:
+          value: 1250550.0
+      - date: '2750-01-01'
+        population:
+          value: 2917168.0
+      - date: '2760-01-01'
+        population:
+          value: 5750467.0
+      - date: '2769-10-11'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 9974496.0
+      - date: '2780-11-09'
+        hpg:
+          value: B
+        population:
+          value: 15566359.0
+      - date: '2790-01-01'
+        population:
+          value: 16247922.0
+      - date: '2800-01-01'
+        population:
+          value: 8369047.0
+      - date: '2810-01-01'
+        population:
+          value: 4414121.0
+      - date: '2820-01-01'
+        population:
+          value: 2529459.0
+      - date: '2830-01-01'
+        population:
+          value: 1350022.0
+      - date: '2840-01-01'
+        population:
+          value: 675082.0
+      - date: '2850-01-01'
+        population:
+          value: 320051.0
+      - date: '2860-01-01'
+        population:
+          value: 156295.0
+      - date: '2870-01-01'
+        population:
+          value: 65045.0
+      - date: '2880-01-01'
+        population:
+          value: 29410.0
+      - date: '2890-01-01'
+        population:
+          value: 13779.0
+      - date: '2900-01-01'
+        population:
+          value: 5768.0
+      - date: '2910-01-01'
+        population:
+          value: 2800.0
+      - date: '2920-01-01'
+        population:
+          value: 1179.0
+      - date: '2925-08-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Temple Hirst
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 7.0
+    temperature:
+      value: -80
+    water:
+      value: 0
+  - name:
+      value: Newland with Woodhouse Moor
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Messiah
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Saturn
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ashtoreth
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Brington
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 46.9
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Stubbins 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Stubbins 2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Stubbins 3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Stubbins 4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Stubbins 5
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Stubbins 6
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Bald Bluff
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 128.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Dewi Alpha
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Dewi Beta
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Morrighan Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 50.44
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 358.2
+    temperature:
+      value: -221

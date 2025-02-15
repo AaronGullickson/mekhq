@@ -1,0 +1,557 @@
+id: Ragusa
+sucsId: 2108
+xcood: -99.44
+ycood: -193.798
+spectralType:
+  value: G4V
+primarySlot: 2
+event:
+  - date: '2684-06-01'
+    nadirCharge:
+      value: yes
+  - date: '2693-11-24'
+    zenithCharge:
+      value: yes
+  - date: '2806-06-23'
+    zenithCharge:
+      value: no
+  - date: '2834-11-19'
+    nadirCharge:
+      value: no
+  - date: '2925-07-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: UA5-1
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 9
+  - name:
+      source: canon
+      value: Ragusa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: green41
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 12000
+    density:
+      value: 6.8337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 36
+    water:
+      value: 27
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Srnicek
+        capital:
+          value: Osijek
+    event:
+      - date: '2683-03-07'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 48911.0
+        socioIndustrial:
+          value: C-F-A-D-F
+      - date: '2688-08-15'
+        hpg:
+          value: B
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2690-01-01'
+        population:
+          value: 1960375.0
+      - date: '2700-12-03'
+        population:
+          value: 34675031.0
+        socioIndustrial:
+          value: C-C-A-C-D
+      - date: '2710-01-01'
+        population:
+          value: 138673093.0
+      - date: '2720-01-01'
+        population:
+          value: 272613047.0
+      - date: '2730-01-01'
+        population:
+          value: 379848679.0
+      - date: '2740-01-01'
+        population:
+          value: 447009929.0
+      - date: '2750-01-01'
+        population:
+          value: 482975342.0
+      - date: '2760-01-01'
+        population:
+          value: 497800754.0
+      - date: '2770-01-01'
+        population:
+          value: 503741281.0
+      - date: '2780-01-01'
+        population:
+          value: 504001415.0
+      - date: '2790-01-01'
+        population:
+          value: 433739978.0
+      - date: '2800-01-01'
+        population:
+          value: 189349004.0
+      - date: '2810-01-01'
+        population:
+          value: 81977927.0
+      - date: '2820-01-01'
+        population:
+          value: 41545545.0
+      - date: '2830-01-01'
+        population:
+          value: 20033370.0
+      - date: '2840-01-01'
+        population:
+          value: 9345120.0
+      - date: '2850-08-20'
+        population:
+          value: 3602662.0
+        socioIndustrial:
+          value: D-C-B-C-F
+      - date: '2860-01-01'
+        population:
+          value: 1435690.0
+      - date: '2870-01-01'
+        population:
+          value: 601307.0
+      - date: '2880-01-01'
+        population:
+          value: 262500.0
+      - date: '2890-01-01'
+        population:
+          value: 82258.0
+      - date: '2900-01-01'
+        population:
+          value: 28004.0
+      - date: '2901-01-01'
+        socioIndustrial:
+          value: D-D-C-C-F
+      - date: '2910-01-01'
+        population:
+          value: 9377.0
+      - date: '2920-01-01'
+        population:
+          value: 2660.0
+      - date: '2925-08-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: UA5-3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: badwater2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.59
+    diameter:
+      value: 6500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 33
+    water:
+      value: 33
+    landmass:
+      - name:
+          value: Bellas's Mistake
+      - name:
+          value: Miskova's Grove
+  - name:
+      value: Chloe Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+  - name:
+      value: UA5-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: UA5-5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 10
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ziu
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: UA5-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Jurojin I
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Jurojin II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Jurojin III
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Jurojin IV
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Jurojin V
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: UA5-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Mbongo
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Uzume
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Thixo
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Shango
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Ngai
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Osun
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Orisas
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Tschernobog
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: UA5-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 170000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Foral
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: UA5-9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 138.6
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1631.7
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Sedlaczek
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Beno
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Schmied
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Marek
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Lofn
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ginnungagap
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: UA5-10
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 11
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4606.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Sedlaczek
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Krejcova
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Sesztko
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Bobkovich
+        size:
+          value: medium
+        icon: oddmoon1

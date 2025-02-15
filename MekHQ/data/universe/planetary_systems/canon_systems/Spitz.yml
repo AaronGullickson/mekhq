@@ -1,0 +1,517 @@
+id: Spitz
+sucsId: 2924
+xcood: 221.008
+ycood: -429.166
+spectralType:
+  value: F5V
+primarySlot: 3
+planet:
+  - name:
+      value: Froebel
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: barren7
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 255
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Leitenberger
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1100
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: DD1
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      source: canon
+      value: Spitz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: green30
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.04
+    diameter:
+      value: 12600
+    density:
+      value: 5.8284
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 29
+    water:
+      value: 28
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Vladoiu
+        capital:
+          value: Eberstein
+      - name:
+          value: Kaiserswahl
+    event:
+      - date: '3040-09-08'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 51254.0
+        socioIndustrial:
+          value: D-C-B-C-C
+      - date: '3041-06-22'
+        hpg:
+          value: C
+      - date: '3050-01-01'
+        population:
+          value: 2883621.0
+      - date: '3060-01-01'
+        population:
+          value: 4073851.0
+      - date: '3070-01-01'
+        population:
+          value: 4167527.0
+      - date: '3080-01-01'
+        population:
+          value: 4215308.0
+      - date: '3090-01-01'
+        population:
+          value: 4257673.0
+      - date: '3100-01-01'
+        population:
+          value: 4270465.0
+      - date: '3110-01-01'
+        population:
+          value: 4285009.0
+      - date: '3120-10-15'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 4290154.0
+      - date: '3130-01-01'
+        population:
+          value: 4278159.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 4291871.0
+      - date: '3145-01-01'
+        population:
+          value: 4313384.0
+  - name:
+      value: Millberg's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: frozen46
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane
+    gravity:
+      value: 0.92
+    diameter:
+      value: 13500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 3.6
+    temperature:
+      value: -9
+    water:
+      value: 52
+    landmass:
+      - name:
+          value: Platzer
+      - name:
+          value: Axmann
+      - name:
+          value: Hurtgen'shöhle
+      - name:
+          value: Zickermannstein
+  - name:
+      value: Zorya Polunochnaya Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 7.9
+    temperature:
+      value: -78
+  - name:
+      value: Adams
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 19.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Othinn Alpha
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Othinn Beta
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Othinn Gamma
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Zorya Polunochnaya Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 14.0
+    sysPos:
+      value: 7
+    icon: asteroid1
+    yearLength:
+      value: 52.4
+    temperature:
+      value: -170
+  - name:
+      value: Phipps
+    type:
+      value: ICE_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 40000
+    density:
+      value: 2.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 400.4
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: X1
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Od
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 150000
+    density:
+      value: 0.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Wangermann Alpha
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Wangermann Beta
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Zorya Polunochnaya Belt 3
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 3165.7
+    temperature:
+      value: -247
+  - name:
+      value: Hubner
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.64
+    sysPos:
+      value: 11
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8936.6
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Ēostre
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lieber
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Zweig
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lingeman
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Södingberg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 12
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 25251.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: Jaekleshafen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.88
+    sysPos:
+      value: 13
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 71388.100000000006
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Dylan Eil Ton I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Dylan Eil Ton II
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Dylan Eil Ton III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Dale's Flats
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3441.2
+    sysPos:
+      value: 14
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 201866.799999999988
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: HZ-1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: HZ-2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: HZ-3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: HZ-4
+        size:
+          value: large
+        icon: rock11

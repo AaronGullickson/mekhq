@@ -1,0 +1,387 @@
+id: Boara
+sucsId: 351
+xcood: -310.769
+ycood: 481.44
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2818-10-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Boara
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green54
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 12300
+    density:
+      value: 5.2795
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 35
+    water:
+      value: 40
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Smaller Fascinus
+        capital:
+          value: Zampieri
+      - name:
+          value: Larger Fascinus
+    event:
+      - date: '2721-10-10'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 53470.0
+        socioIndustrial:
+          value: C-C-A-D-F
+      - date: '2730-07-04'
+        hpg:
+          value: X
+        population:
+          value: 167722.0
+      - date: '2740-01-01'
+        population:
+          value: 475438.0
+      - date: '2750-01-01'
+        population:
+          value: 1008526.0
+      - date: '2760-01-01'
+        population:
+          value: 530226.0
+      - date: '2770-01-01'
+        population:
+          value: 270526.0
+      - date: '2779-03-20'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 158901.0
+      - date: '2790-01-01'
+        population:
+          value: 99364.0
+      - date: '2800-01-01'
+        population:
+          value: 66668.0
+      - date: '2810-01-01'
+        population:
+          value: 43014.0
+      - date: '2818-04-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Stefaneschi's Square
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Garafaio
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Castiglione
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Alti
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Orcus Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: asteroid3
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -82
+  - name:
+      value: Spaglio di Colleano
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 4
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Spano
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Lamboglio
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Pessotto
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Eventus Bonus Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.0
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -197
+  - name:
+      value: Fenrisulfr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 6
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: S1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: S2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bharati
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 7
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 35000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Bellifluficus
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Minutillo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 8
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Susano O
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Kunitokotachi
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Shichi Fuku Jin
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Benten
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Akuma
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Raiden
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Bishamonten
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Toyotama
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Fiesco
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 9
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 13

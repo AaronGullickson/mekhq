@@ -1,0 +1,400 @@
+id: Hirtshals
+sucsId: 1116
+xcood: -329.067
+ycood: 507.801
+spectralType:
+  value: K1V
+primarySlot: 2
+planet:
+  - name:
+      value: Mariagerfjord
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Q-1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Q-2
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      source: canon
+      value: Hirtshals
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 38
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Astbury
+        capital:
+          value: Gladsheimr
+    event:
+      - date: '2779-11-19'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47358.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2780-01-01'
+        population:
+          value: 53427.0
+      - date: '2781-06-15'
+        hpg:
+          value: X
+      - date: '2790-01-01'
+        population:
+          value: 154299.0
+      - date: '2800-01-01'
+        population:
+          value: 83643.0
+      - date: '2810-04-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Dimos Gavdos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 35000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Persephassa I
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Persephassa II
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brøndbyvester
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock11
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon and Hydrogen Sulfide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -73
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: DI-1
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Byrum
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Valtam
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Baldr
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Baldur
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kirke Hvalsø
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Guan Yu
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Chang Fei
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Nergaard
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Helleland
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Gong Gong
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Åbybro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: 43P1
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Kaindorf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 7
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: W-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: W-2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: W-3
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: W-4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Taastrup
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.64
+    diameter:
+      value: 160000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Gribskov
+        size:
+          value: medium
+        icon: oddmoon1

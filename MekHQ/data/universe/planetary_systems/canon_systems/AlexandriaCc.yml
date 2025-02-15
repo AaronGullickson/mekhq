@@ -1,0 +1,643 @@
+id: Alexandria (CC)
+sucsId: 64
+xcood: 110.827
+ycood: -356.104
+spectralType:
+  value: G0V
+primarySlot: 3
+event:
+  - date: '2391-03-25'
+    zenithCharge:
+      value: yes
+  - date: '2818-04-10'
+    zenithCharge:
+      value: no
+  - date: '2897-03-13'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Villafranca Piemonte
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1400
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+  - name:
+      value: Solonţ
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: greenhouse39
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 131
+    water:
+      value: 0
+    smallMoons:
+      value: 6
+  - name:
+      source: canon
+      value: Alexandria (CC)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green42
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 10800
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 37
+    water:
+      value: 35
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Ambolokohy
+        capital:
+          value: Battllori
+      - name:
+          value: New Orcop
+      - name:
+          value: Caldaro sulla Strada del Vino
+      - name:
+          value: Borgonovo Val Tidone
+      - name:
+          value: Rivalta di Torino
+    satellite:
+      - name:
+          value: Arkas
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Castellana
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2274-07-11'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 60503.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2280-01-01'
+        population:
+          value: 120101.0
+      - date: '2290-01-01'
+        population:
+          value: 331832.0
+      - date: '2300-01-01'
+        population:
+          value: 794936.0
+      - date: '2310-11-15'
+        faction:
+          source: canon
+          value:
+            - CCom
+        population:
+          value: 1690182.0
+      - date: '2320-01-01'
+        population:
+          value: 3237874.0
+      - date: '2330-01-01'
+        population:
+          value: 5672543.0
+      - date: '2340-01-01'
+        population:
+          value: 9227755.0
+      - date: '2350-01-01'
+        population:
+          value: 14041958.0
+      - date: '2360-01-01'
+        population:
+          value: 20237471.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 27750609.0
+      - date: '2380-01-01'
+        population:
+          value: 36472190.0
+      - date: '2390-01-01'
+        population:
+          value: 46304520.0
+      - date: '2400-01-01'
+        population:
+          value: 56779072.0
+      - date: '2410-01-01'
+        population:
+          value: 67727797.0
+      - date: '2420-01-01'
+        population:
+          value: 79186053.0
+      - date: '2430-01-01'
+        population:
+          value: 91062274.0
+      - date: '2440-01-01'
+        population:
+          value: 102837711.0
+      - date: '2450-01-01'
+        population:
+          value: 114579640.0
+      - date: '2460-01-01'
+        population:
+          value: 125689240.0
+      - date: '2470-01-01'
+        population:
+          value: 136456939.0
+      - date: '2480-01-01'
+        population:
+          value: 146180638.0
+      - date: '2490-01-01'
+        population:
+          value: 154854245.0
+      - date: '2500-01-01'
+        population:
+          value: 162473988.0
+      - date: '2510-01-01'
+        population:
+          value: 169248712.0
+      - date: '2520-01-01'
+        population:
+          value: 175515207.0
+      - date: '2530-01-01'
+        population:
+          value: 181155305.0
+      - date: '2540-01-01'
+        population:
+          value: 186143985.0
+      - date: '2550-01-01'
+        population:
+          value: 190032989.0
+      - date: '2560-01-01'
+        population:
+          value: 193733493.0
+      - date: '2570-01-01'
+        population:
+          value: 197395238.0
+      - date: '2580-01-01'
+        population:
+          value: 200566021.0
+      - date: '2590-01-01'
+        population:
+          value: 202312170.0
+      - date: '2600-01-01'
+        population:
+          value: 203261210.0
+      - date: '2610-01-01'
+        population:
+          value: 204307156.0
+      - date: '2620-01-01'
+        population:
+          value: 204346759.0
+      - date: '2630-01-01'
+        population:
+          value: 205049995.0
+      - date: '2640-01-01'
+        population:
+          value: 205919865.0
+      - date: '2650-01-01'
+        population:
+          value: 206903648.0
+      - date: '2658-01-07'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 206617467.0
+      - date: '2661-01-01'
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '2670-01-01'
+        population:
+          value: 205621243.0
+      - date: '2680-01-01'
+        population:
+          value: 204065491.0
+      - date: '2690-01-01'
+        population:
+          value: 202868944.0
+      - date: '2700-01-01'
+        population:
+          value: 201352869.0
+      - date: '2710-01-01'
+        population:
+          value: 200095337.0
+      - date: '2720-01-01'
+        population:
+          value: 198822847.0
+      - date: '2730-01-01'
+        population:
+          value: 198693249.0
+      - date: '2740-01-01'
+        population:
+          value: 197566360.0
+      - date: '2750-01-01'
+        population:
+          value: 196209514.0
+      - date: '2760-01-01'
+        population:
+          value: 194905568.0
+      - date: '2770-01-01'
+        population:
+          value: 194356618.0
+      - date: '2780-01-01'
+        population:
+          value: 193667393.0
+      - date: '2790-01-01'
+        population:
+          value: 153005585.0
+      - date: '2800-01-01'
+        population:
+          value: 44834185.0
+      - date: '2810-01-01'
+        population:
+          value: 12059197.0
+      - date: '2820-01-01'
+        population:
+          value: 3777011.0
+      - date: '2830-01-01'
+        population:
+          value: 1252487.0
+      - date: '2840-01-01'
+        population:
+          value: 343358.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2850-01-01'
+        population:
+          value: 110656.0
+      - date: '2860-01-01'
+        population:
+          value: 29202.0
+      - date: '2870-01-01'
+        population:
+          value: 6875.0
+      - date: '2880-01-01'
+        population:
+          value: 1514.0
+      - date: '2890-01-01'
+        population:
+          value: 381.0
+      - date: '2897-10-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Paluari's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -34
+  - name:
+      value: Moresco
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Grande A
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Grande B
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Grande C
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Grande D
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Grande E
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Grande F
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Grande G
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Grande H
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Grande I
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Grande J
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Paluari's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -141
+  - name:
+      value: Grontardo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 90000
+    density:
+      value: 0.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Ciaravella
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Sicilia
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 278.8
+  - name:
+      value: Castelnuovo Magra
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 9
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 782.6
+    smallMoons:
+      value: 19
+  - name:
+      value: Lug
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 169.4
+    sysPos:
+      value: 10
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2204.8
+    smallMoons:
+      value: 4
+  - name:
+      value: Sturgis
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 338.36
+    sysPos:
+      value: 11
+    icon: frozen45
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 6224.0
+    temperature:
+      value: -255
+    water:
+      value: 52
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Montecchia di Crosara
+      - name:
+          value: New Centro Urbano
+      - name:
+          value: San Biagio della Cima Prime
+      - name:
+          value: New Cervo
+    satellite:
+      - name:
+          value: DalMaistro 1
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: DalMaistro 2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Thompson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 676.28
+    sysPos:
+      value: 12
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 17586.900000000001
+    smallMoons:
+      value: 14

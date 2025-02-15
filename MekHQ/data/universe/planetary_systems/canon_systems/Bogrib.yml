@@ -1,0 +1,336 @@
+id: Bogrib
+sucsId: 358
+xcood: -139.179
+ycood: -305.873
+spectralType:
+  value: G1V
+primarySlot: 3
+event:
+  - date: '2645-07-22'
+    zenithCharge:
+      value: yes
+  - date: '2703-04-28'
+    nadirCharge:
+      value: yes
+  - date: '2785-05-31'
+    zenithCharge:
+      value: no
+  - date: '2793-04-09'
+    nadirCharge:
+      value: no
+  - date: '2923-10-28'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Barattin
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Tiwaz
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Oesterreicher
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 242
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Bogrib
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green30
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 36
+    water:
+      value: 33
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Holbæk
+        capital:
+          value: Batbayar's Rift City
+      - name:
+          value: Ski
+      - name:
+          value: Old Jingtou
+      - name:
+          value: Quairading
+      - name:
+          value: New Foreston
+    satellite:
+      - name:
+          value: Pandora
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '2620-04-16'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 50222.0
+        socioIndustrial:
+          value: D-D-C-C-C
+      - date: '2621-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2630-01-01'
+        population:
+          value: 944773.0
+      - date: '2637-06-12'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 6157601.0
+      - date: '2650-01-01'
+        population:
+          value: 20464456.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2660-01-01'
+        population:
+          value: 44180930.0
+      - date: '2670-01-01'
+        population:
+          value: 72515697.0
+      - date: '2680-01-01'
+        population:
+          value: 98972367.0
+      - date: '2690-01-01'
+        population:
+          value: 119955334.0
+      - date: '2700-01-01'
+        population:
+          value: 135336107.0
+      - date: '2710-01-01'
+        population:
+          value: 146140387.0
+      - date: '2720-01-01'
+        population:
+          value: 153594272.0
+      - date: '2730-01-01'
+        population:
+          value: 159069794.0
+      - date: '2740-01-01'
+        population:
+          value: 163977733.0
+      - date: '2750-01-01'
+        population:
+          value: 167449309.0
+      - date: '2760-01-01'
+        population:
+          value: 170002393.0
+      - date: '2770-01-01'
+        population:
+          value: 172799392.0
+      - date: '2780-01-01'
+        population:
+          value: 175211349.0
+      - date: '2790-01-01'
+        population:
+          value: 153270441.0
+      - date: '2800-01-01'
+        population:
+          value: 94713427.0
+      - date: '2810-01-01'
+        population:
+          value: 56334400.0
+      - date: '2820-01-01'
+        population:
+          value: 30571542.0
+      - date: '2830-01-01'
+        population:
+          value: 19929570.0
+      - date: '2840-01-01'
+        population:
+          value: 13395265.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: B-D-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 9212114.0
+      - date: '2860-01-01'
+        population:
+          value: 6482193.0
+      - date: '2870-01-01'
+        population:
+          value: 4775224.0
+      - date: '2880-01-01'
+        population:
+          value: 2754756.0
+      - date: '2890-01-01'
+        population:
+          value: 1577082.0
+      - date: '2900-01-01'
+        population:
+          value: 842872.0
+      - date: '2910-01-01'
+        population:
+          value: 417337.0
+      - date: '2920-01-01'
+        population:
+          value: 248227.0
+      - date: '2923-07-17'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Martin's End
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.3
+    smallMoons:
+      value: 1
+  - name:
+      value: Cedar Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -91
+  - name:
+      value: Sangal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 80000
+    density:
+      value: 0.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Gama Konsensei
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Otohime
+        size:
+          value: medium
+        icon: oddmoon3

@@ -1,0 +1,407 @@
+id: Glenlivet
+sucsId: 966
+xcood: 14.499
+ycood: 174.54
+spectralType:
+  value: G4V
+primarySlot: 3
+event:
+  - date: '2923-03-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Kariba
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 2
+  - name:
+      value: Gokwe South
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 93
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Arakho I
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Arakho II
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Arakho III
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      source: canon
+      value: Glenlivet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green47
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 13200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 33
+    water:
+      value: 64
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Chikomba
+        capital:
+          value: Ilett
+      - name:
+          value: Panuto
+      - name:
+          value: Bulawayo
+      - name:
+          value: Mberengwa
+      - name:
+          value: Sigourney
+      - name:
+          value: Vilankulos
+    event:
+      - date: '2725-06-27'
+        faction:
+          source: canon
+          value:
+            - LA
+        hpg:
+          value: B
+        population:
+          value: 42595.0
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2730-01-01'
+        population:
+          value: 110567.0
+      - date: '2740-01-01'
+        population:
+          value: 561540.0
+      - date: '2750-01-01'
+        population:
+          value: 2072614.0
+      - date: '2760-01-01'
+        population:
+          value: 5898036.0
+      - date: '2770-01-01'
+        population:
+          value: 13734534.0
+      - date: '2780-01-01'
+        population:
+          value: 27094772.0
+      - date: '2790-01-01'
+        population:
+          value: 30020883.0
+      - date: '2800-01-01'
+        population:
+          value: 14521930.0
+      - date: '2810-01-01'
+        population:
+          value: 6541066.0
+      - date: '2820-01-01'
+        population:
+          value: 3289620.0
+      - date: '2830-01-01'
+        population:
+          value: 1753830.0
+      - date: '2840-01-01'
+        population:
+          value: 1165670.0
+      - date: '2850-01-01'
+        population:
+          value: 593889.0
+      - date: '2860-01-01'
+        population:
+          value: 329187.0
+      - date: '2870-01-01'
+        population:
+          value: 183653.0
+      - date: '2880-01-01'
+        population:
+          value: 92963.0
+      - date: '2890-01-01'
+        population:
+          value: 36780.0
+      - date: '2900-01-01'
+        population:
+          value: 14458.0
+      - date: '2910-01-01'
+        population:
+          value: 5870.0
+      - date: '2920-01-01'
+        population:
+          value: 2263.0
+      - date: '2923-03-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Manical
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock3
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Argon
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+    water:
+      value: 0
+    smallMoons:
+      value: 8
+  - name:
+      value: Vance's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -100
+  - name:
+      value: Hurungwe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 18
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Gwanda
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kali
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Bharani
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Beitbridge
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Kunti
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Ilma
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: New Goromonzi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Goromonzi
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Spurgeon's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 206.4
+    temperature:
+      value: -227
+  - name:
+      value: Matabeleland North
+    type:
+      value: ICE_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 7

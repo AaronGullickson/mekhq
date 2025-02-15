@@ -1,0 +1,341 @@
+id: Zinal
+sucsId: 2839
+xcood: -515.49
+ycood: 110.026
+spectralType:
+  value: F9V
+primarySlot: 3
+event:
+  - date: '2881-11-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: L-1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1100
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+  - name:
+      value: L-2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: barren24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 113
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Zinal
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 3
+    icon: green53
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 13200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 27
+    water:
+      value: 36
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Recchia
+        capital:
+          value: New Valgreghentino
+      - name:
+          value: Floyd
+      - name:
+          value: Arduino
+      - name:
+          value: Sinisian East
+      - name:
+          value: Bione
+    event:
+      - date: '2696-08-14'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 48417.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2700-04-06'
+        hpg:
+          value: X
+        population:
+          value: 340351.0
+      - date: '2710-01-01'
+        population:
+          value: 5802369.0
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2720-01-01'
+        population:
+          value: 20711010.0
+      - date: '2730-01-01'
+        population:
+          value: 36579216.0
+      - date: '2740-01-01'
+        population:
+          value: 47234445.0
+      - date: '2750-01-01'
+        population:
+          value: 53028675.0
+      - date: '2760-01-01'
+        population:
+          value: 55676306.0
+      - date: '2770-01-01'
+        population:
+          value: 57249683.0
+      - date: '2779-03-31'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 58326307.0
+      - date: '2790-01-01'
+        population:
+          value: 58842066.0
+      - date: '2800-01-01'
+        population:
+          value: 58944084.0
+      - date: '2810-01-01'
+        population:
+          value: 58997087.0
+      - date: '2820-01-01'
+        population:
+          value: 57171962.0
+      - date: '2830-01-01'
+        population:
+          value: 11695562.0
+      - date: '2840-01-01'
+        population:
+          value: 2554033.0
+      - date: '2847-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2850-01-01'
+        population:
+          value: 724272.0
+      - date: '2860-01-01'
+        population:
+          value: 250812.0
+      - date: '2870-01-01'
+        population:
+          value: 85530.0
+      - date: '2880-01-01'
+        population:
+          value: 18967.0
+      - date: '2881-03-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: L-4
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 4
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1000
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -85
+    water:
+      value: 0
+  - name:
+      value: L-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 5
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 18
+  - name:
+      value: Hedetet Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -173
+  - name:
+      value: L-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: L-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 8
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Bacchae Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Bacchae Beta
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Bacchae Gamma
+        size:
+          value: large
+        icon: rock13

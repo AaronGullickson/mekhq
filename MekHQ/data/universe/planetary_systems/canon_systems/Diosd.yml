@@ -1,0 +1,501 @@
+id: Diosd
+sucsId: 720
+xcood: -2.343
+ycood: 230.527
+spectralType:
+  value: F1V
+primarySlot: 4
+planet:
+  - name:
+      value: Torsvik's Field
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Borsod-Abauj Zemplen I
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Borsod-Abauj Zemplen II
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Borsod-Abauj Zemplen III
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Markkanen
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 9
+  - name:
+      value: Devecser
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: barren21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 86
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Diosd
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green34
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 11100
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 31
+    water:
+      value: 52
+    lifeForm:
+      value: MICROBE
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Nova Jánoshalma
+        capital:
+          value: Koppala City
+    event:
+      - date: '2679-04-27'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 54915.0
+        socioIndustrial:
+          value: C-C-B-D-D
+      - date: '2680-01-01'
+        population:
+          value: 104056.0
+      - date: '2687-08-26'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 8699263.0
+      - date: '2696-01-01'
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2700-01-01'
+        population:
+          value: 76898847.0
+      - date: '2710-01-01'
+        population:
+          value: 224702051.0
+      - date: '2715-01-01'
+        socioIndustrial:
+          value: D-D-A-C-B
+      - date: '2720-01-01'
+        population:
+          value: 379467748.0
+      - date: '2730-01-01'
+        population:
+          value: 489105833.0
+      - date: '2740-01-01'
+        population:
+          value: 550131554.0
+      - date: '2750-01-01'
+        population:
+          value: 578531199.0
+      - date: '2760-01-01'
+        population:
+          value: 590982990.0
+      - date: '2770-01-01'
+        population:
+          value: 595112455.0
+      - date: '2780-01-01'
+        population:
+          value: 596656108.0
+      - date: '2790-01-01'
+        population:
+          value: 595487835.0
+      - date: '2800-01-01'
+        population:
+          value: 589538093.0
+      - date: '2810-01-01'
+        population:
+          value: 582436483.0
+      - date: '2820-01-01'
+        population:
+          value: 563881746.0
+      - date: '2830-01-01'
+        population:
+          value: 541400159.0
+      - date: '2840-02-27'
+        population:
+          value: 522793277.0
+        socioIndustrial:
+          value: D-D-B-C-C
+      - date: '2850-01-01'
+        population:
+          value: 507718372.0
+      - date: '2860-01-01'
+        population:
+          value: 501341905.0
+      - date: '2870-01-01'
+        population:
+          value: 494788464.0
+      - date: '2880-01-01'
+        population:
+          value: 482521880.0
+      - date: '2890-01-01'
+        population:
+          value: 464488756.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: F-D-C-D-C
+      - date: '2900-02-22'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 454623250.0
+      - date: '2910-01-01'
+        population:
+          value: 447981923.0
+      - date: '2920-01-01'
+        population:
+          value: 448369890.0
+      - date: '2930-01-01'
+        population:
+          value: 446201596.0
+      - date: '2940-01-01'
+        population:
+          value: 442202545.0
+      - date: '2950-01-01'
+        population:
+          value: 441208395.0
+      - date: '2960-01-01'
+        population:
+          value: 441819915.0
+      - date: '2970-01-01'
+        population:
+          value: 444274481.0
+      - date: '2980-01-01'
+        population:
+          value: 441896414.0
+      - date: '2990-01-01'
+        population:
+          value: 434988910.0
+      - date: '3000-01-01'
+        population:
+          value: 427078828.0
+      - date: '3010-01-01'
+        population:
+          value: 425455225.0
+      - date: '3020-01-01'
+        population:
+          value: 428931354.0
+      - date: '3025-01-04'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3030-02-26'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 430802879.0
+      - date: '3034-03-13'
+        faction:
+          source: canon
+          value:
+            - FRR
+      - date: '3040-11-22'
+        population:
+          value: 436047258.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3050-01-01'
+        population:
+          value: 442416005.0
+      - date: '3052-02-10'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3060-01-01'
+        population:
+          value: 448967557.0
+      - date: '3070-01-01'
+        population:
+          value: 454387623.0
+      - date: '3080-01-01'
+        population:
+          value: 458495569.0
+      - date: '3090-01-01'
+        population:
+          value: 460701638.0
+      - date: '3100-01-01'
+        population:
+          value: 460057107.0
+      - date: '3110-01-01'
+        population:
+          value: 459505370.0
+      - date: '3116-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3120-01-01'
+        population:
+          value: 458770749.0
+      - date: '3130-02-15'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 459505370.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 460057107.0
+      - date: '3145-01-01'
+        population:
+          value: 460517395.0
+  - name:
+      value: Apedemak's Rift
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 8.32
+    sysPos:
+      value: 5
+    icon: frozen46
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 0.8
+    diameter:
+      value: 13500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -111
+    water:
+      value: 56
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Sistonen
+      - name:
+          value: Ahlapuro
+      - name:
+          value: Isosomppi
+    satellite:
+      - name:
+          value: Hare Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hare Beta
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Hesa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 6
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Riksman
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Huttunen
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Laukkonen
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Laertes
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Jarvela's Refuge
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 489.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Tammuz I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Tammuz II
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Tammuz III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Tammuz IV
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Tammuz V
+        size:
+          value: large
+        icon: rock2

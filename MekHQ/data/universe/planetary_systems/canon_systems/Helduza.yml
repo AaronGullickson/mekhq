@@ -1,0 +1,448 @@
+id: Helduza
+sucsId: 1082
+xcood: -518.076
+ycood: 279.196
+spectralType:
+  value: M5V
+primarySlot: 1
+event:
+  - date: '2879-04-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Helduza
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 21
+    water:
+      value: 59
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Major Heilbron
+        capital:
+          value: Plantation City
+      - name:
+          value: Angelburg
+      - name:
+          value: Minor Heilbron
+      - name:
+          value: Abudarham
+      - name:
+          value: North Abington
+    event:
+      - date: '2734-12-21'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52875.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2737-07-10'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 118356.0
+      - date: '2750-01-01'
+        population:
+          value: 366631.0
+      - date: '2760-01-01'
+        population:
+          value: 913287.0
+      - date: '2770-01-01'
+        population:
+          value: 1913590.0
+      - date: '2779-12-21'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 3481160.0
+      - date: '2790-01-01'
+        population:
+          value: 2403411.0
+      - date: '2800-01-01'
+        population:
+          value: 1274251.0
+      - date: '2810-01-01'
+        population:
+          value: 684673.0
+      - date: '2820-01-01'
+        population:
+          value: 428973.0
+      - date: '2830-01-01'
+        population:
+          value: 239918.0
+      - date: '2840-01-01'
+        population:
+          value: 122204.0
+      - date: '2850-01-01'
+        population:
+          value: 70668.0
+      - date: '2860-01-01'
+        population:
+          value: 39788.0
+      - date: '2870-01-01'
+        population:
+          value: 24929.0
+      - date: '2879-09-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Haifa Belt Alpha
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -65
+  - name:
+      value: Swain
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Brían
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cigfa
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Cailleach Bheur
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Kakos's Meridian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 80000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Blyth
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Smith
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Ball
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Settlemeyer
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: O'Neal
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Dalling
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Miller
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Haifa Belt Beta
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -169
+  - name:
+      value: Lazarevac
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Annwn A
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Annwn B
+        size:
+          value: giant
+        icon: rock12
+  - name:
+      value: Howe's Pride
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 28
+    satellite:
+      - name:
+          value: Hyperion 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hyperion 2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hyperion 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Haifa Belt Gamma
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 7.8
+    temperature:
+      value: -234
+  - name:
+      value: Ancora's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 21.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Tuatha Dé Danann
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Bricriu Nemthenga
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Beliticaurus
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: SG1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Fotla
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Urania
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: York's Wind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.44
+    sysPos:
+      value: 10
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 60.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Nidhøg
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Othinn
+        size:
+          value: large
+        icon: rock2

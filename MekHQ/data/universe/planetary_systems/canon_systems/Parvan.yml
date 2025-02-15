@@ -1,0 +1,555 @@
+id: Parvan
+sucsId: 1990
+xcood: -465.129
+ycood: 142.848
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2872-01-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Parvan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 12600
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 25
+    water:
+      value: 66
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Aībak
+        capital:
+          value: New Saint-Paul-d'Abbotsford
+      - name:
+          value: New Zīrakī
+      - name:
+          value: Rahimi
+      - name:
+          value: Masoumi
+      - name:
+          value: Allington
+      - name:
+          value: Manihi
+      - name:
+          value: Abedini
+      - name:
+          value: Barbadori
+    event:
+      - date: '2616-09-15'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 54907.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2620-01-01'
+        population:
+          value: 170116.0
+      - date: '2630-01-01'
+        population:
+          value: 1399831.0
+      - date: '2640-01-01'
+        population:
+          value: 5508311.0
+      - date: '2650-01-01'
+        population:
+          value: 13428191.0
+      - date: '2660-01-01'
+        population:
+          value: 23828768.0
+      - date: '2670-11-06'
+        population:
+          value: 34576796.0
+        socioIndustrial:
+          value: B-D-A-C-B
+      - date: '2680-01-01'
+        population:
+          value: 44254965.0
+      - date: '2681-05-05'
+        hpg:
+          value: X
+      - date: '2690-01-01'
+        population:
+          value: 51685017.0
+      - date: '2700-01-01'
+        population:
+          value: 56886115.0
+      - date: '2710-01-01'
+        population:
+          value: 60522767.0
+      - date: '2720-01-01'
+        population:
+          value: 62818656.0
+      - date: '2730-01-01'
+        population:
+          value: 64294878.0
+      - date: '2740-01-01'
+        population:
+          value: 64814844.0
+      - date: '2750-01-01'
+        population:
+          value: 65102117.0
+      - date: '2760-01-01'
+        population:
+          value: 65173678.0
+      - date: '2770-01-01'
+        population:
+          value: 65244089.0
+      - date: '2779-08-26'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 65600120.0
+      - date: '2790-01-01'
+        population:
+          value: 65844551.0
+      - date: '2800-01-01'
+        population:
+          value: 56148596.0
+      - date: '2810-01-01'
+        population:
+          value: 16045218.0
+      - date: '2820-01-01'
+        population:
+          value: 3136938.0
+      - date: '2830-01-01'
+        population:
+          value: 653342.0
+      - date: '2840-03-30'
+        population:
+          value: 146806.0
+        socioIndustrial:
+          value: C-F-B-D-C
+      - date: '2850-01-01'
+        population:
+          value: 36501.0
+      - date: '2860-01-01'
+        population:
+          value: 10431.0
+      - date: '2870-01-01'
+        population:
+          value: 4142.0
+      - date: '2872-06-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Jājī Maīdān Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: asteroid3
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+  - name:
+      value: Ḩişārak
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 150000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: U1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: U2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: U3
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Tefnet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Atea
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Soido
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Rongomatane
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Ku Kua Akahi
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Khānābād
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Jotunheim I
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Jotunheim II
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Jotunheim III
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Lara Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -203
+  - name:
+      value: Heket
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Mardīān
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 7.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Akba Atatdia
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Chisht-e Sharīf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 21.6
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Yinepu
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Ernutet
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Bat
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Harpakhruti
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Trikala
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.44
+    sysPos:
+      value: 10
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 60.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Velāyat-e Nūrestān
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Chak-e Wardak
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Popovice
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Anpu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.8
+    sysPos:
+      value: 11
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 170.9
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: W1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: W2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: W3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: W4
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: W5
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Acca Larentia Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 61.52
+    sysPos:
+      value: 12
+    icon: asteroid1
+    yearLength:
+      value: 482.5
+    temperature:
+      value: -264

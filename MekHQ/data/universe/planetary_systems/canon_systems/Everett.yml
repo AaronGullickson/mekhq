@@ -1,0 +1,265 @@
+id: Everett
+sucsId: 834
+xcood: 149.754
+ycood: -91.345
+spectralType:
+  value: F0V
+primarySlot: 4
+event:
+  - date: '2839-02-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Lawson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: barren11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 340
+    water:
+      value: 0
+  - name:
+      value: Burns Port
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1700
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 166
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Cleere
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: greenhouse22
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 138
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Everett
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green42
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 31
+    water:
+      value: 44
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Ruston
+        capital:
+          value: Mictlan
+      - name:
+          value: Museros
+      - name:
+          value: New Medina
+    event:
+      - date: '2735-11-08'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 49320.0
+        socioIndustrial:
+          value: C-F-A-D-F
+      - date: '2736-01-26'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 137507.0
+      - date: '2750-01-01'
+        population:
+          value: 775931.0
+      - date: '2760-01-01'
+        population:
+          value: 3086349.0
+      - date: '2770-01-01'
+        population:
+          value: 9293437.0
+      - date: '2780-01-01'
+        population:
+          value: 22530852.0
+      - date: '2790-01-01'
+        population:
+          value: 45867596.0
+      - date: '2800-01-01'
+        population:
+          value: 81218187.0
+      - date: '2810-01-01'
+        population:
+          value: 114290938.0
+      - date: '2820-01-01'
+        population:
+          value: 8544246.0
+      - date: '2821-11-22'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2830-01-01'
+        population:
+          value: 426595.0
+      - date: '2839-09-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Devatas Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 9.6
+    temperature:
+      value: -53
+  - name:
+      value: Carey's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 9
+    yearLength:
+      value: 24.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: 2W61
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: 2W62
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: 2W63
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: 2W64
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 2W65
+        size:
+          value: medium
+        icon: rock16

@@ -1,0 +1,239 @@
+id: HL 24
+sucsId: .na
+xcood: -840.0
+ycood: 845.0
+spectralType:
+  value: M8V
+planet:
+  - name:
+      value: R7-1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: 2I61
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: R7-2
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -18
+    water:
+      value: 0
+  - name:
+      value: R7-3
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.16
+    diameter:
+      value: 1900
+    density:
+      value: 6.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -60
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: R7-4
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -104
+    water:
+      value: 0
+  - name:
+      value: R7-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: LGA-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: LGA-2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: LGA-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: LGA-4
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: LGA-5
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: LGA-6
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: R7-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 170000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: E-1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: E-2
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: HQ1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.96
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 2.8
+    temperature:
+      value: -225
+  - name:
+      value: HQ2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.88
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 7.6
+    temperature:
+      value: -239

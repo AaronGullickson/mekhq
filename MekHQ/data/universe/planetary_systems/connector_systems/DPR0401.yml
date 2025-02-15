@@ -1,0 +1,249 @@
+id: DPR 0401
+sucsId: .na
+xcood: -425.0
+ycood: 395.0
+spectralType:
+  value: M2V
+planet:
+  - name:
+      value: F-1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.01
+    diameter:
+      value: 800
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: F-2
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 2
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1200
+    density:
+      value: 3.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -127
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: F-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: F1
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: F-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 8
+    yearLength:
+      value: 3.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: 29G1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 29G2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 29G3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: F-5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 5
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 8.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: S-1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: S-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: S-3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: S-4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: YB1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 7.84
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 22.0
+    temperature:
+      value: -231
+  - name:
+      value: F-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.52
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 61.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: A1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: A2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: A3
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: A4
+        size:
+          value: medium
+        icon: rock8

@@ -1,0 +1,597 @@
+id: Miyada
+sucsId: 1727
+xcood: 310.184
+ycood: 245.005
+spectralType:
+  value: G0V
+primarySlot: 3
+planet:
+  - name:
+      value: Port Ogawa
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 700
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Hatsutori
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    satellite:
+      - name:
+          value: Unzen 1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Unzen 2
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Unzen 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Miyada
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 3
+    icon: green44
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 36
+    water:
+      value: 54
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Onishi 1
+        capital:
+          value: Dazaifu
+      - name:
+          value: Onishi 2
+      - name:
+          value: Onishi 3
+      - name:
+          value: Onishi 4
+      - name:
+          value: Onishi 5
+      - name:
+          value: Onishi 6
+    event:
+      - date: '2167-09-13'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 50850.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2170-01-01'
+        population:
+          value: 70127.0
+      - date: '2180-01-01'
+        population:
+          value: 189096.0
+      - date: '2190-01-01'
+        population:
+          value: 456335.0
+      - date: '2200-01-01'
+        population:
+          value: 993923.0
+      - date: '2210-01-01'
+        population:
+          value: 1965943.0
+      - date: '2220-01-01'
+        population:
+          value: 3597185.0
+      - date: '2230-01-01'
+        population:
+          value: 6158121.0
+      - date: '2240-01-01'
+        population:
+          value: 9977598.0
+      - date: '2242-04-15'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2250-01-01'
+        population:
+          value: 15355469.0
+      - date: '2260-01-01'
+        population:
+          value: 22406885.0
+      - date: '2270-01-01'
+        population:
+          value: 31141233.0
+      - date: '2280-01-01'
+        population:
+          value: 41697392.0
+      - date: '2290-01-01'
+        population:
+          value: 53871591.0
+      - date: '2300-01-01'
+        population:
+          value: 67279260.0
+      - date: '2310-01-01'
+        population:
+          value: 82646606.0
+      - date: '2320-10-27'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 99640722.0
+      - date: '2330-01-01'
+        population:
+          value: 117601712.0
+      - date: '2340-01-01'
+        population:
+          value: 135331645.0
+      - date: '2350-01-01'
+        population:
+          value: 152678325.0
+      - date: '2360-01-01'
+        population:
+          value: 170028823.0
+      - date: '2370-01-01'
+        population:
+          value: 187742505.0
+      - date: '2380-01-01'
+        population:
+          value: 205427955.0
+      - date: '2390-05-10'
+        population:
+          value: 223749333.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2400-01-01'
+        population:
+          value: 242185506.0
+      - date: '2410-01-01'
+        population:
+          value: 259417282.0
+      - date: '2420-01-01'
+        population:
+          value: 274300063.0
+      - date: '2430-01-01'
+        population:
+          value: 288660342.0
+      - date: '2440-01-01'
+        population:
+          value: 301999168.0
+      - date: '2450-01-01'
+        population:
+          value: 316196973.0
+      - date: '2460-01-01'
+        population:
+          value: 329713827.0
+      - date: '2470-01-01'
+        population:
+          value: 343123945.0
+      - date: '2480-01-01'
+        population:
+          value: 354319086.0
+      - date: '2490-01-01'
+        population:
+          value: 364864760.0
+      - date: '2500-01-01'
+        population:
+          value: 373985837.0
+      - date: '2510-01-01'
+        population:
+          value: 381065848.0
+      - date: '2520-01-01'
+        population:
+          value: 390432875.0
+      - date: '2530-01-01'
+        population:
+          value: 399776505.0
+      - date: '2540-01-01'
+        population:
+          value: 409169772.0
+      - date: '2550-01-01'
+        population:
+          value: 416928571.0
+      - date: '2560-01-01'
+        population:
+          value: 423106580.0
+      - date: '2570-01-01'
+        population:
+          value: 426581404.0
+      - date: '2580-01-01'
+        population:
+          value: 425124095.0
+      - date: '2590-01-01'
+        population:
+          value: 423296122.0
+      - date: '2600-01-01'
+        population:
+          value: 423002036.0
+      - date: '2610-01-01'
+        population:
+          value: 424022177.0
+      - date: '2613-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2620-01-01'
+        population:
+          value: 425633090.0
+      - date: '2630-01-01'
+        population:
+          value: 425567307.0
+      - date: '2640-01-01'
+        population:
+          value: 422835994.0
+      - date: '2650-01-01'
+        population:
+          value: 420614484.0
+      - date: '2660-01-01'
+        population:
+          value: 417911205.0
+      - date: '2667-11-21'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 416082922.0
+      - date: '2680-01-01'
+        population:
+          value: 412898529.0
+      - date: '2690-01-01'
+        population:
+          value: 410614530.0
+      - date: '2700-01-01'
+        population:
+          value: 409719910.0
+      - date: '2710-01-01'
+        population:
+          value: 408170603.0
+      - date: '2720-01-01'
+        population:
+          value: 404443848.0
+      - date: '2730-01-01'
+        population:
+          value: 401006552.0
+      - date: '2740-01-01'
+        population:
+          value: 400013531.0
+      - date: '2750-01-01'
+        population:
+          value: 399850682.0
+      - date: '2760-01-01'
+        population:
+          value: 399083539.0
+      - date: '2770-01-01'
+        population:
+          value: 396529341.0
+      - date: '2778-12-07'
+        hpg:
+          value: C
+      - date: '2780-01-01'
+        population:
+          value: 394824136.0
+      - date: '2790-01-01'
+        population:
+          value: 390475055.0
+      - date: '2800-01-01'
+        population:
+          value: 377112759.0
+      - date: '2810-01-01'
+        population:
+          value: 367182330.0
+      - date: '2820-01-01'
+        population:
+          value: 360896537.0
+      - date: '2830-01-01'
+        population:
+          value: 359765281.0
+      - date: '2840-01-01'
+        population:
+          value: 361411919.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: C-D-C-F-D
+      - date: '2850-01-01'
+        population:
+          value: 361515084.0
+      - date: '2860-01-01'
+        population:
+          value: 363636464.0
+      - date: '2870-01-01'
+        population:
+          value: 364207730.0
+      - date: '2880-01-01'
+        population:
+          value: 360896537.0
+      - date: '2890-01-01'
+        population:
+          value: 358996004.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: D-D-C-F-D
+      - date: '2900-01-01'
+        population:
+          value: 352246631.0
+      - date: '2910-01-01'
+        population:
+          value: 345032792.0
+      - date: '2920-01-01'
+        population:
+          value: 335659594.0
+      - date: '2930-01-01'
+        population:
+          value: 328926238.0
+      - date: '2940-01-01'
+        population:
+          value: 320539030.0
+      - date: '2950-01-01'
+        population:
+          value: 310366195.0
+      - date: '2960-01-01'
+        population:
+          value: 301160176.0
+      - date: '2970-01-01'
+        population:
+          value: 293732362.0
+      - date: '2980-01-01'
+        population:
+          value: 288333403.0
+      - date: '2990-01-01'
+        population:
+          value: 284613286.0
+      - date: '3000-01-01'
+        population:
+          value: 281181819.0
+      - date: '3010-01-01'
+        population:
+          value: 274716787.0
+      - date: '3020-01-01'
+        population:
+          value: 266910777.0
+      - date: '3030-01-01'
+        population:
+          value: 264383659.0
+      - date: '3040-01-01'
+        population:
+          value: 267441621.0
+      - date: '3049-01-01'
+        socioIndustrial:
+          value: D-D-C-F-D
+      - date: '3050-01-01'
+        population:
+          value: 269724563.0
+      - date: '3060-01-01'
+        population:
+          value: 271456336.0
+      - date: '3070-01-01'
+        population:
+          value: 273746173.0
+      - date: '3080-01-01'
+        population:
+          value: 277217196.0
+      - date: '3090-01-01'
+        population:
+          value: 279164525.0
+      - date: '3100-01-01'
+        population:
+          value: 279667473.0
+      - date: '3110-01-01'
+        population:
+          value: 280283419.0
+      - date: '3120-01-01'
+        population:
+          value: 280676091.0
+      - date: '3130-01-01'
+        population:
+          value: 280788383.0
+      - date: '3131-01-01'
+        socioIndustrial:
+          value: D-C-C-D-C
+      - date: '3140-01-01'
+        population:
+          value: 281238004.0
+      - date: '3145-01-01'
+        population:
+          value: 281744689.0
+  - name:
+      value: Kato's Gulf
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 4
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 50000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+  - name:
+      value: Rousseau
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 5
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1100
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -141
+    water:
+      value: 0
+  - name:
+      value: Fort Abdul-Qadir
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 6
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -178
+    water:
+      value: 0
+  - name:
+      value: Yamaguchi's Redoubt
+    type:
+      value: ICE_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 7
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Crocombe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18

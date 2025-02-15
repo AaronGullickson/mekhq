@@ -1,0 +1,574 @@
+id: Périgueux
+sucsId: 2012
+xcood: 342.594
+ycood: 82.485
+spectralType:
+  value: F3V
+primarySlot: 4
+event:
+  - date: '2717-09-18'
+    zenithCharge:
+      value: yes
+  - date: '2820-11-04'
+    zenithCharge:
+      value: no
+  - date: '2923-04-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Charlier's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: greenhouse24
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 323
+    water:
+      value: 0
+  - name:
+      value: Simon's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.6
+    smallMoons:
+      value: 2
+  - name:
+      value: Démence de Dupond
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 50000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Durnford 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Durnford 2
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      source: canon
+      value: Périgueux
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green55
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 19
+    water:
+      value: 32
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Paratico
+        capital:
+          value: Nouveau Chambornay-lès-Bellevaux
+      - name:
+          value: Nouveau Juvancourt
+      - name:
+          value: Yina
+      - name:
+          value: Muids
+    event:
+      - date: '2693-07-12'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 53103.0
+        socioIndustrial:
+          value: D-F-B-F-C
+      - date: '2699-02-09'
+        hpg:
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 1727973.0
+      - date: '2710-01-01'
+        population:
+          value: 22288493.0
+      - date: '2720-01-01'
+        population:
+          value: 70622658.0
+      - date: '2730-01-01'
+        population:
+          value: 118302912.0
+      - date: '2740-01-01'
+        population:
+          value: 148922646.0
+      - date: '2747-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2750-01-01'
+        population:
+          value: 164419798.0
+      - date: '2760-01-01'
+        population:
+          value: 171783401.0
+      - date: '2770-01-01'
+        population:
+          value: 174460740.0
+      - date: '2780-01-01'
+        population:
+          value: 174352007.0
+      - date: '2790-01-01'
+        population:
+          value: 150306895.0
+      - date: '2800-01-01'
+        population:
+          value: 80986833.0
+      - date: '2810-01-01'
+        population:
+          value: 54036478.0
+      - date: '2820-01-01'
+        population:
+          value: 35508182.0
+      - date: '2830-01-01'
+        population:
+          value: 17998614.0
+      - date: '2840-01-01'
+        population:
+          value: 6878157.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2850-01-01'
+        population:
+          value: 2326244.0
+      - date: '2860-01-01'
+        population:
+          value: 937773.0
+      - date: '2870-01-01'
+        population:
+          value: 575305.0
+      - date: '2880-01-01'
+        population:
+          value: 314750.0
+      - date: '2890-01-01'
+        population:
+          value: 174849.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: D-D-D-F-C
+      - date: '2900-01-01'
+        population:
+          value: 97876.0
+      - date: '2910-01-01'
+        population:
+          value: 53958.0
+      - date: '2920-01-01'
+        population:
+          value: 35729.0
+      - date: '2923-02-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Refuge de Valentin
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1200
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -72
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Denis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 120000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 58.1
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Dufour
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Rambaud
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Joly
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Mangin
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: García
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ceroklis
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: C1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Erreur de Guillot
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Iovis
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Voluptas
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Menulis
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Allard
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Faunus 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Faunus 2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Faunus 3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Faunus 4
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Cruz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 9
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1246.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: 4B1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 4B2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 4B3
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Dagda Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 231.0
+    sysPos:
+      value: 10
+    icon: asteroid2
+    yearLength:
+      value: 3510.9
+    temperature:
+      value: -246
+  - name:
+      value: Refuge de Petit
+    type:
+      value: ICE_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 11
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 40000
+    density:
+      value: 2.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 9911.0
+    smallMoons:
+      value: 12
+  - name:
+      value: Bosquet de Hernández
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 922.2
+    sysPos:
+      value: 12
+    icon: frozen9
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 28005.099999999999
+    temperature:
+      value: -259
+    water:
+      value: 49
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Oishi
+      - name:
+          value: Cartier
+      - name:
+          value: Legrand
+      - name:
+          value: Moreau's Delight
+      - name:
+          value: Frontière de Gaertner
+      - name:
+          value: Béraud
+    satellite:
+      - name:
+          value: Kartodirdjo
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Yunus
+        size:
+          value: large
+        icon: rock7

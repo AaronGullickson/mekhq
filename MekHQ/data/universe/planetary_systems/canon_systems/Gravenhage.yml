@@ -1,0 +1,604 @@
+id: Gravenhage
+sucsId: 996
+xcood: 304.745
+ycood: 425.981
+spectralType:
+  value: G1V
+primarySlot: 3
+event:
+  - date: '2736-01-07'
+    zenithCharge:
+      value: yes
+  - date: '2793-11-20'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Friesl
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren23
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 221
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: A0-1
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Nieuw Bertrange
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1600
+    density:
+      value: 5.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 91
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Gravenhage
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green50
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 13200
+    density:
+      value: 4.6818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 36
+    water:
+      value: 36
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Matena's Schip
+        capital:
+          value: Nieuw Hengelo
+    satellite:
+      - name:
+          value: Sleipnir 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Sleipnir 2
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2726-02-07'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 46225.0
+        socioIndustrial:
+          value: C-C-C-D-D
+      - date: '2729-06-04'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 81609.0
+      - date: '2740-01-01'
+        population:
+          value: 277470.0
+      - date: '2750-01-01'
+        population:
+          value: 746232.0
+      - date: '2760-01-01'
+        population:
+          value: 1649986.0
+      - date: '2770-01-01'
+        population:
+          value: 3131351.0
+      - date: '2780-01-01'
+        population:
+          value: 5257757.0
+      - date: '2790-01-01'
+        population:
+          value: 8030242.0
+      - date: '2800-01-01'
+        population:
+          value: 11329301.0
+      - date: '2810-01-01'
+        population:
+          value: 14986789.0
+      - date: '2820-01-01'
+        population:
+          value: 18834875.0
+      - date: '2830-01-01'
+        population:
+          value: 22800481.0
+      - date: '2840-01-01'
+        population:
+          value: 26591938.0
+      - date: '2850-01-01'
+        population:
+          value: 30073476.0
+      - date: '2860-01-01'
+        population:
+          value: 33297141.0
+      - date: '2870-01-01'
+        population:
+          value: 35810719.0
+      - date: '2880-01-01'
+        population:
+          value: 37859973.0
+      - date: '2890-01-01'
+        population:
+          value: 39839698.0
+      - date: '2900-01-01'
+        population:
+          value: 41648355.0
+      - date: '2904-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2910-01-01'
+        population:
+          value: 43326067.0
+      - date: '2920-01-01'
+        population:
+          value: 45053527.0
+      - date: '2930-01-01'
+        population:
+          value: 46403442.0
+      - date: '2940-01-01'
+        population:
+          value: 47718047.0
+      - date: '2950-01-01'
+        population:
+          value: 48835564.0
+      - date: '2960-01-01'
+        population:
+          value: 49822557.0
+      - date: '2970-01-01'
+        population:
+          value: 50514476.0
+      - date: '2980-01-01'
+        population:
+          value: 51277833.0
+      - date: '2990-01-01'
+        population:
+          value: 51821552.0
+      - date: '3000-01-01'
+        population:
+          value: 52184198.0
+      - date: '3010-01-01'
+        population:
+          value: 52615122.0
+      - date: '3020-01-01'
+        population:
+          value: 52987658.0
+      - date: '3030-01-01'
+        population:
+          value: 53201831.0
+      - date: '3040-01-01'
+        population:
+          value: 53357985.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: D-F-C-F-F
+      - date: '3050-01-01'
+        population:
+          value: 53814748.0
+      - date: '3060-01-01'
+        population:
+          value: 54420574.0
+      - date: '3070-01-01'
+        population:
+          value: 54935341.0
+      - date: '3080-01-01'
+        population:
+          value: 55431991.0
+      - date: '3090-01-01'
+        population:
+          value: 56078746.0
+      - date: '3100-01-01'
+        population:
+          value: 56846627.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: D-F-B-F-F
+      - date: '3110-01-01'
+        population:
+          value: 58018208.0
+      - date: '3120-02-17'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 58895040.0
+      - date: '3130-01-01'
+        population:
+          value: 59940769.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 60980667.0
+      - date: '3145-01-01'
+        population:
+          value: 61544278.0
+  - name:
+      value: Washita
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.3
+  - name:
+      value: Naini Tāl
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Batara Kali
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Phra Sao
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Aditinggi
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Smulders's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 11.9
+    temperature:
+      value: -140
+  - name:
+      value: Zoeterwou
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Gula 1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Gula 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Gula 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Abbeel's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Van Opdorp
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Vroom
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lommaryd
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Pijlswaard 1
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: Pijlswaard 2
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Pijlswaard 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Pijlswaard 4
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Pijlswaard 5
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Pijlswaard 6
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Pijlswaard 7
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: McIntyre
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 4E-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 4E-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 4E-3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 4E-4
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Zwartewaterl
+    type:
+      value: ICE_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 50000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Enki 1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Enki 2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Enki 3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Enki 4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Enki 5
+        size:
+          value: medium
+        icon: oddmoon3

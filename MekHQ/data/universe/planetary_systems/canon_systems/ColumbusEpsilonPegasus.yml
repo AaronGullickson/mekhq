@@ -1,0 +1,470 @@
+id: Columbus (Epsilon Pegasus)
+sucsId: 3021
+xcood: 405.006
+ycood: 601.855
+spectralType:
+  source: canon
+  value: G2V
+primarySlot: 4
+event:
+  - date: '2549-09-20'
+    nadirCharge:
+      value: yes
+  - date: '2765-03-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+  - date: '3023-10-16'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: N1
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 55000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: B-1
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: N2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.37
+    diameter:
+      value: 7500
+    density:
+      value: 3.5
+    dayLength:
+      value: 27
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -43
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: 4H1
+      - name:
+          value: 4H0
+  - name:
+      value: N3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: badwater18
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 26
+    water:
+      value: 47
+    landmass:
+      - name:
+          value: N9V.1
+  - name:
+      source: canon
+      value: Columbus (Epsilon Pegasus)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 4
+    icon: green51
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.9
+    diameter:
+      value: 13118
+    density:
+      value: 4.858657981073
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 40
+    water:
+      value: 20
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Columbus was settled in 2549 by deep exploration crews for the Terran Hegemony.
+      The station continued as a send off point for explorers throughout the Star
+      League and the facilities were eventually upgraded to include a dropship repair
+      facility on Amor, the planets moon. The planet was abandoned in 2780, just prior
+      to Kerensky's Exodus and remained abandoned until Comstar rediscovered the facility
+      in 3023 and began using it as a staging base for their Explorer Corps. The facility
+      was very small until the early 3050s when the need to find the Clan Homeworlds
+      reignited the need for the Explorer Corps.
+    landmass:
+      - name:
+          value: 1ZT1
+      - name:
+          value: 1ZT0
+    satellite:
+      - name:
+          value: Amor
+        size:
+          value: large
+        icon: rock12
+    event:
+      - date: '2549-05-12'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 1742.0
+        socioIndustrial:
+          value: B-X-X-X-X
+      - date: '2765-03-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3023-09-29'
+        faction:
+          source: canon
+          value:
+            - CS
+        hpg:
+          value: A
+        population:
+          value: 1346.0
+        socioIndustrial:
+          value: B-X-X-X-X
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - ABN
+  - name:
+      value: N5
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 900
+    density:
+      value: 5.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -99
+    water:
+      value: 0
+  - name:
+      value: N6
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: 85G1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: N7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: I1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: I2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: I3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: N8
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Q81
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Q82
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Q83
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Q84
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: N9
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 241.7
+  - name:
+      value: P-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -240
+  - name:
+      value: N10
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Y1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Y2
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Y3
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: N11
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.6
+    sysPos:
+      value: 12
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 5394.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: XT1
+        size:
+          value: medium
+        icon: oddmoon3

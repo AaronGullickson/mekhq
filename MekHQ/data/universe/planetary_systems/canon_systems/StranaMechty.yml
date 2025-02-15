@@ -1,0 +1,572 @@
+id: Strana Mechty
+sucsId: 2961
+xcood: 32.3
+ycood: 1767.809
+spectralType:
+  source: canon
+  value: G3VI
+primarySlot: 4
+event:
+  - date: '2803-11-07'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Nova Virserum
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 1
+  - name:
+      value: Sanluri
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: barren16
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 224
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Lamoine
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1600
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 133
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: LD1
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      source: canon
+      value: Strana Mechty
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green46
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.1
+    diameter:
+      value: 11781
+    density:
+      value: 6.555719555642
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.3
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 70
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Strana Mechty ("Land of Dreams") is the Clan shared "capital" planet. The
+      planet is the site that Nicolas Kerensky and the original 800 Clan founders
+      fled to from the Pentagon Worlds. Strana Mechty houses the Hall of Khans where
+      the leaders of the Clans meet for Grand Councils. Each Clan has an enclave on
+      the planet. Strana Mechty is cold but teeming with both native and terrestrial
+      life.
+    landmass:
+      - name:
+          source: canon
+          value: Cameron
+      - name:
+          source: canon
+          value: McKenna
+      - name:
+          source: canon
+          value: Novy Terra
+        capital:
+          source: canon
+          value: Katyusha City
+      - name:
+          source: canon
+          value: Kerensky Prime
+    satellite:
+      - name:
+          value: Petrograd
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Magadan
+        size:
+          value: large
+        icon: rock1
+    event:
+      - date: '2802-02-04'
+        faction:
+          source: canon
+          value:
+            - CLAN
+        population:
+          value: 10453.0
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2803-09-18'
+        hpg:
+          source: canon
+          value: A
+      - date: '2810-01-01'
+        population:
+          value: 36031.0
+      - date: '2820-01-01'
+        population:
+          value: 121824.0
+      - date: '2821-12-17'
+        faction:
+          source: canon
+          value:
+            - CLAN
+      - date: '2830-01-01'
+        population:
+          value: 307934.0
+      - date: '2840-01-01'
+        population:
+          value: 622830.0
+      - date: '2850-01-01'
+        population:
+          value: 1070337.0
+      - date: '2860-01-01'
+        population:
+          value: 1626560.0
+      - date: '2870-01-01'
+        population:
+          value: 2238564.0
+      - date: '2880-01-01'
+        population:
+          value: 2856444.0
+      - date: '2890-01-01'
+        population:
+          value: 3435450.0
+      - date: '2900-01-01'
+        population:
+          value: 3947309.0
+      - date: '2910-01-01'
+        population:
+          value: 4370781.0
+      - date: '2920-01-01'
+        population:
+          value: 4704621.0
+      - date: '2930-01-01'
+        population:
+          value: 4954326.0
+      - date: '2940-01-01'
+        population:
+          value: 5153558.0
+      - date: '2950-01-01'
+        population:
+          value: 5324592.0
+      - date: '2960-01-01'
+        population:
+          value: 5458051.0
+      - date: '2970-01-01'
+        population:
+          value: 5570056.0
+      - date: '2980-01-01'
+        population:
+          value: 5666905.0
+      - date: '2990-01-01'
+        population:
+          value: 5711052.0
+      - date: '3000-01-01'
+        population:
+          value: 5736218.0
+      - date: '3010-01-01'
+        population:
+          value: 5743869.0
+      - date: '3020-01-01'
+        population:
+          value: 5757688.0
+      - date: '3030-01-01'
+        population:
+          value: 5774301.0
+      - date: '3040-01-01'
+        population:
+          value: 5809464.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '3050-01-01'
+        population:
+          value: 5876655.0
+      - date: '3060-01-01'
+        population:
+          value: 5950633.0
+      - date: '3070-01-01'
+        population:
+          value: 6021639.0
+      - date: '3075-06-01'
+        faction:
+          source: canon
+          value:
+            - CBS
+            - CCC
+            - CCO
+            - CGS
+            - CSA
+            - CSL
+            - CSV
+      - date: '3076-02-10'
+        faction:
+          source: canon
+          value:
+            - CBS
+            - CCC
+            - CCO
+            - CGS
+            - CSA
+            - CSL
+      - date: '3079-01-20'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CCO
+            - CSA
+            - CSL
+      - date: '3080-01-01'
+        population:
+          value: 6096772.0
+      - date: '3084-06-01'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CCO
+            - CSA
+            - CSL
+      - date: '3090-01-01'
+        population:
+          value: 6133463.0
+      - date: '3100-01-01'
+        population:
+          value: 6154352.0
+      - date: '3110-01-01'
+        population:
+          value: 6187675.0
+      - date: '3120-01-01'
+        population:
+          value: 6213718.0
+      - date: '3130-01-01'
+        population:
+          value: 6212476.0
+      - date: '3131-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '3140-01-01'
+        population:
+          value: 6188913.0
+      - date: '3145-01-01'
+        population:
+          value: 6179019.0
+  - name:
+      value: Murchison
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Absu
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Avanzo
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Abzu
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Lahmu
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Sarkin Yara B
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Ereshkigal
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Adrammelech
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Janesville
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 8
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Musa
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Melkart
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Trigueros del Valle
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Enniskillen
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Pollitt
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Farmer
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Oates
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Susano Wu
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Freya Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -227
+  - name:
+      value: Patrick's Redoubt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1911.1
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: L-1
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: L-2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: L-3
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: L-4
+        size:
+          value: large
+        icon: rock3

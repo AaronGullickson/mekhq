@@ -1,0 +1,607 @@
+id: Vanern
+sucsId: 2656
+xcood: 159.223
+ycood: 141.093
+spectralType:
+  value: G1V
+primarySlot: 4
+event:
+  - date: '2405-11-21'
+    zenithCharge:
+      value: yes
+  - date: '2516-07-13'
+    nadirCharge:
+      value: yes
+  - date: '2813-04-02'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Fama
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 35000
+    density:
+      value: 1.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Gefion
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Fricco
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Ullstorp
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Freyr I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Freyr II
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Freyr III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Freyr IV
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Freyr V
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Örsjö
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Strömsunds
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Hall
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Vanern
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green49
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 11100
+    density:
+      value: 6.3437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 36
+    water:
+      value: 52
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Greater Järpås
+        capital:
+          value: Melin Town
+      - name:
+          value: Lesser Järpås
+      - name:
+          value: Herrestad
+      - name:
+          value: Egby
+      - name:
+          value: Ny Hardenburgh
+      - name:
+          value: Bjørgen
+    satellite:
+      - name:
+          value: Zorya Polunochnaya
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '2305-09-10'
+        faction:
+          source: canon
+          value:
+            - AG
+        population:
+          value: 43073.0
+        socioIndustrial:
+          value: D-D-C-F-B
+      - date: '2310-01-01'
+        population:
+          value: 105527.0
+      - date: '2319-02-04'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2320-01-01'
+        population:
+          value: 520505.0
+      - date: '2330-01-01'
+        population:
+          value: 2031112.0
+      - date: '2340-01-01'
+        population:
+          value: 6484339.0
+      - date: '2350-01-01'
+        population:
+          value: 17391673.0
+      - date: '2360-01-01'
+        population:
+          value: 40167683.0
+      - date: '2370-01-01'
+        population:
+          value: 82079442.0
+      - date: '2380-01-01'
+        population:
+          value: 151127448.0
+      - date: '2390-01-01'
+        population:
+          value: 255412955.0
+      - date: '2396-01-01'
+        socioIndustrial:
+          value: D-D-C-D-B
+      - date: '2400-01-01'
+        population:
+          value: 399628543.0
+      - date: '2410-01-01'
+        population:
+          value: 585735552.0
+      - date: '2420-01-01'
+        population:
+          value: 811245053.0
+      - date: '2430-01-01'
+        population:
+          value: 1069224236.0
+      - date: '2440-01-01'
+        population:
+          value: 1349709292.0
+      - date: '2450-01-01'
+        population:
+          value: 1650137268.0
+      - date: '2460-01-01'
+        population:
+          value: 1966249506.0
+      - date: '2470-01-01'
+        population:
+          value: 2277384160.0
+      - date: '2480-01-01'
+        population:
+          value: 2567269306.0
+      - date: '2490-01-01'
+        population:
+          value: 2849977576.0
+      - date: '2500-01-01'
+        population:
+          value: 3133977213.0
+      - date: '2510-01-01'
+        population:
+          value: 3387496428.0
+      - date: '2520-01-01'
+        population:
+          value: 3611816246.0
+      - date: '2530-01-01'
+        population:
+          value: 3830168213.0
+      - date: '2540-01-01'
+        population:
+          value: 4022030664.0
+      - date: '2550-01-01'
+        population:
+          value: 4195609601.0
+      - date: '2560-01-01'
+        population:
+          value: 4354804239.0
+      - date: '2570-01-01'
+        population:
+          value: 4506742290.0
+      - date: '2580-01-01'
+        population:
+          value: 4636961557.0
+      - date: '2581-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2584-01-01'
+        socioIndustrial:
+          value: B-B-C-B-B
+      - date: '2590-01-01'
+        population:
+          value: 4765299398.0
+      - date: '2600-01-01'
+        population:
+          value: 4858894576.0
+      - date: '2610-01-01'
+        population:
+          value: 4923723150.0
+      - date: '2620-01-01'
+        population:
+          value: 5017384568.0
+      - date: '2630-01-01'
+        population:
+          value: 5138037863.0
+      - date: '2640-01-01'
+        population:
+          value: 5235342850.0
+      - date: '2643-03-07'
+        hpg:
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 5316580194.0
+      - date: '2660-01-01'
+        population:
+          value: 5353057645.0
+      - date: '2661-01-01'
+        socioIndustrial:
+          value: A-A-C-A-A
+      - date: '2670-01-01'
+        population:
+          value: 5389851930.0
+      - date: '2680-01-01'
+        population:
+          value: 5395294656.0
+      - date: '2690-01-01'
+        population:
+          value: 5385019396.0
+      - date: '2700-01-01'
+        population:
+          value: 5396256583.0
+      - date: '2710-01-01'
+        population:
+          value: 5419868615.0
+      - date: '2720-01-01'
+        population:
+          value: 5415126931.0
+      - date: '2730-01-01'
+        population:
+          value: 5381382960.0
+      - date: '2740-01-01'
+        population:
+          value: 5339727919.0
+      - date: '2750-01-01'
+        population:
+          value: 5319247318.0
+      - date: '2760-01-01'
+        population:
+          value: 5302917984.0
+      - date: '2770-01-01'
+        population:
+          value: 5288768580.0
+      - date: '2780-01-01'
+        population:
+          value: 5271662452.0
+      - date: '2790-01-01'
+        population:
+          value: 5230255131.0
+      - date: '2800-01-01'
+        population:
+          value: 5183716416.0
+      - date: '2810-01-01'
+        population:
+          value: 5116442165.0
+      - date: '2820-01-01'
+        population:
+          value: 5044092468.0
+      - date: '2830-01-01'
+        population:
+          value: 4985970502.0
+      - date: '2840-01-01'
+        population:
+          value: 4914017613.0
+      - date: '2850-01-01'
+        population:
+          value: 4853102631.0
+      - date: '2854-01-01'
+        socioIndustrial:
+          value: B-B-C-B-B
+      - date: '2860-01-01'
+        population:
+          value: 4729810776.0
+      - date: '2870-01-01'
+        population:
+          value: 4616447361.0
+      - date: '2880-01-01'
+        population:
+          value: 4548486664.0
+      - date: '2890-01-01'
+        population:
+          value: 4521316898.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-C-C-C-B
+      - date: '2900-01-01'
+        population:
+          value: 4515547632.0
+      - date: '2910-01-01'
+        population:
+          value: 4515104147.0
+      - date: '2920-01-01'
+        population:
+          value: 4522649313.0
+      - date: '2930-01-01'
+        population:
+          value: 4528872446.0
+      - date: '2940-01-01'
+        population:
+          value: 4535104141.0
+      - date: '2950-01-01'
+        population:
+          value: 4525315322.0
+      - date: '2960-01-01'
+        population:
+          value: 4526204341.0
+      - date: '2970-01-01'
+        population:
+          value: 4541790474.0
+      - date: '2980-01-01'
+        population:
+          value: 4566840000.0
+      - date: '2990-01-01'
+        population:
+          value: 4552956275.0
+      - date: '3000-01-01'
+        population:
+          value: 4553850724.0
+      - date: '3010-01-01'
+        population:
+          value: 4546700049.0
+      - date: '3020-01-01'
+        population:
+          value: 4470535821.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: B-B-C-B-B
+      - date: '3030-01-01'
+        population:
+          value: 4448475953.0
+      - date: '3031-01-01'
+        socioIndustrial:
+          value: A-A-C-A-A
+      - date: '3040-07-30'
+        population:
+          value: 4475247042.0
+        socioIndustrial:
+          value: A-A-D-A-A
+      - date: '3050-01-01'
+        population:
+          value: 4505331868.0
+      - date: '3060-01-01'
+        population:
+          value: 4542427474.0
+      - date: '3070-01-01'
+        population:
+          value: 4600484182.0
+      - date: '3080-01-01'
+        population:
+          value: 4684042668.0
+      - date: '3090-01-01'
+        population:
+          value: 4774845202.0
+      - date: '3100-01-01'
+        population:
+          value: 4856711462.0
+      - date: '3110-01-01'
+        population:
+          value: 4936030941.0
+      - date: '3120-01-01'
+        population:
+          value: 4996619356.0
+      - date: '3125-01-01'
+        socioIndustrial:
+          value: A-A-D-A-A
+      - date: '3130-01-01'
+        population:
+          value: 5050875300.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 5111850926.0
+      - date: '3145-01-01'
+        population:
+          value: 5142614229.0
+  - name:
+      value: Västerstr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Freya
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Freyja
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Lopter
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Baldur
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Ragnarök
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Nicor
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Markert
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Odin
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Fenris
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Plains
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 55000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: CI1
+        size:
+          value: large
+        icon: rock16

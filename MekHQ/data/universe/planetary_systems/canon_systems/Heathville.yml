@@ -1,0 +1,399 @@
+id: Heathville
+sucsId: 1074
+xcood: -509.832
+ycood: 91.851
+spectralType:
+  value: M8V
+primarySlot: 1
+event:
+  - date: '2799-04-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Heathville
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green11
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 10500
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 25
+    water:
+      value: 48
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Akhavan
+        capital:
+          value: New Middlebury
+      - name:
+          value: Stevens's End
+      - name:
+          value: Fisher's Folly
+      - name:
+          value: Lee
+    event:
+      - date: '2712-09-27'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52590.0
+        socioIndustrial:
+          value: C-D-B-F-F
+      - date: '2720-06-27'
+        hpg:
+          value: X
+        population:
+          value: 152913.0
+      - date: '2730-01-01'
+        population:
+          value: 461584.0
+      - date: '2740-01-01'
+        population:
+          value: 1131956.0
+      - date: '2750-01-01'
+        population:
+          value: 2354952.0
+      - date: '2760-01-01'
+        population:
+          value: 4287594.0
+      - date: '2769-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2770-01-01'
+        population:
+          value: 4528493.0
+      - date: '2779-05-30'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 635972.0
+      - date: '2790-01-01'
+        population:
+          value: 64156.0
+      - date: '2799-03-23'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Eldred Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: asteroid3
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -18
+  - name:
+      value: Forest Prairie
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Morrigu 1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Morrigu 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Wosret
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 3
+  - name:
+      value: Shed
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: ZQ.1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: ZQ.2
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Sekhet's Plains
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Voluptas
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Anpu
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.0
+    satellite:
+      - name:
+          value: Giugliano in Campania
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Spa
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Fountain Run
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Ogdoad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.8
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: SFI1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: SFI2
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Jackson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 7.6
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: M1
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: M2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Flowers's Tears
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.72
+    sysPos:
+      value: 10
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 21.5
+    smallMoons:
+      value: 14

@@ -1,0 +1,536 @@
+id: Antietam
+sucsId: 148
+xcood: 330.86
+ycood: -137.026
+spectralType:
+  value: G0V
+primarySlot: 4
+planet:
+  - name:
+      value: Shichi Fukujin
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 205
+    water:
+      value: 0
+  - name:
+      value: Twelve Heavenly Generals
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Goibniu
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Hannya's Square
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: greenhouse11
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 65
+    water:
+      value: 0
+    ring:
+      value: yes
+  - name:
+      source: canon
+      value: Antietam
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: dry2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 16
+    water:
+      value: 100
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: New Haralson Archipelago
+        capital:
+          value: Ridgway
+      - name:
+          value: Griffin Archipelago
+      - name:
+          value: Nova Morris Plains Archipelago
+      - name:
+          value: New Truth or Consequences Archipelago
+      - name:
+          value: Nova Glastenbury Prime Archipelago
+      - name:
+          value: Lesser North River Archipelago
+      - name:
+          value: Beloit Archipelago
+      - name:
+          value: Greater North River Archipelago
+      - name:
+          value: Tomahawk Archipelago
+    event:
+      - date: '2304-10-19'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 40711.0
+        socioIndustrial:
+          value: D-F-C-C-D
+      - date: '2310-01-01'
+        population:
+          value: 91644.0
+      - date: '2320-01-01'
+        population:
+          value: 302414.0
+      - date: '2330-01-01'
+        population:
+          value: 835180.0
+      - date: '2340-01-01'
+        population:
+          value: 1998406.0
+      - date: '2350-01-01'
+        population:
+          value: 4226931.0
+      - date: '2360-01-01'
+        population:
+          value: 8003373.0
+      - date: '2370-01-01'
+        population:
+          value: 13772588.0
+      - date: '2380-01-01'
+        population:
+          value: 22035417.0
+      - date: '2390-01-01'
+        population:
+          value: 33002297.0
+      - date: '2400-01-01'
+        population:
+          value: 46619353.0
+      - date: '2410-01-01'
+        population:
+          value: 62609469.0
+      - date: '2420-01-01'
+        population:
+          value: 80127960.0
+      - date: '2430-01-01'
+        population:
+          value: 98973829.0
+      - date: '2440-01-01'
+        population:
+          value: 118373048.0
+      - date: '2450-01-01'
+        population:
+          value: 138221795.0
+      - date: '2460-01-01'
+        population:
+          value: 158688498.0
+      - date: '2470-01-01'
+        population:
+          value: 179642901.0
+      - date: '2480-01-01'
+        population:
+          value: 199966421.0
+      - date: '2490-01-01'
+        population:
+          value: 218345800.0
+      - date: '2500-01-01'
+        population:
+          value: 233321630.0
+      - date: '2510-01-01'
+        population:
+          value: 247280092.0
+      - date: '2520-01-01'
+        population:
+          value: 261830254.0
+      - date: '2530-01-01'
+        population:
+          value: 277114295.0
+      - date: '2540-01-01'
+        population:
+          value: 290913133.0
+      - date: '2550-01-01'
+        population:
+          value: 304729232.0
+      - date: '2560-01-01'
+        population:
+          value: 317041884.0
+      - date: '2570-01-01'
+        population:
+          value: 328306048.0
+      - date: '2580-01-01'
+        population:
+          value: 338915825.0
+      - date: '2590-01-01'
+        population:
+          value: 348192782.0
+      - date: '2600-01-01'
+        population:
+          value: 355310723.0
+      - date: '2610-01-01'
+        population:
+          value: 361778217.0
+      - date: '2620-01-01'
+        population:
+          value: 365618096.0
+      - date: '2630-01-01'
+        population:
+          value: 369495246.0
+      - date: '2634-01-01'
+        socioIndustrial:
+          value: C-F-C-C-D
+      - date: '2640-01-01'
+        population:
+          value: 373870368.0
+      - date: '2650-01-01'
+        population:
+          value: 378154087.0
+      - date: '2656-01-01'
+        socioIndustrial:
+          value: B-D-B-B-C
+      - date: '2660-01-01'
+        population:
+          value: 382789701.0
+      - date: '2670-01-01'
+        population:
+          value: 387535176.0
+      - date: '2680-01-01'
+        population:
+          value: 393857375.0
+      - date: '2690-01-01'
+        population:
+          value: 399709881.0
+      - date: '2700-01-01'
+        population:
+          value: 404134684.0
+      - date: '2710-01-01'
+        population:
+          value: 408909767.0
+      - date: '2720-01-01'
+        population:
+          value: 413494699.0
+      - date: '2730-09-02'
+        hpg:
+          value: B
+        population:
+          value: 414907617.0
+      - date: '2740-01-01'
+        population:
+          value: 419631516.0
+      - date: '2750-01-01'
+        population:
+          value: 424558509.0
+      - date: '2760-01-01'
+        population:
+          value: 429452107.0
+      - date: '2770-01-01'
+        population:
+          value: 434931621.0
+      - date: '2780-01-01'
+        population:
+          value: 439620496.0
+      - date: '2790-01-01'
+        population:
+          value: 439225017.0
+      - date: '2800-01-01'
+        population:
+          value: 438410941.0
+      - date: '2810-01-01'
+        population:
+          value: 436102206.0
+      - date: '2820-01-01'
+        population:
+          value: 436600359.0
+      - date: '2830-01-01'
+        population:
+          value: 438223292.0
+      - date: '2840-01-01'
+        population:
+          value: 437223852.0
+      - date: '2850-01-01'
+        population:
+          value: 439789493.0
+      - date: '2860-01-01'
+        population:
+          value: 441802400.0
+      - date: '2869-01-01'
+        socioIndustrial:
+          value: C-D-C-C-C
+      - date: '2870-01-01'
+        population:
+          value: 440229031.0
+      - date: '2880-01-01'
+        population:
+          value: 441676324.0
+      - date: '2890-01-01'
+        population:
+          value: 441046483.0
+      - date: '2900-01-01'
+        population:
+          value: 435542463.0
+      - date: '2910-01-01'
+        population:
+          value: 426805448.0
+      - date: '2915-01-01'
+        socioIndustrial:
+          value: D-D-D-C-D
+      - date: '2920-01-01'
+        population:
+          value: 416278719.0
+      - date: '2930-01-01'
+        population:
+          value: 409152445.0
+      - date: '2940-01-01'
+        population:
+          value: 399916240.0
+      - date: '2950-01-01'
+        population:
+          value: 389385331.0
+      - date: '2960-01-01'
+        population:
+          value: 381737624.0
+      - date: '2970-01-01'
+        population:
+          value: 370890644.0
+      - date: '2980-01-01'
+        population:
+          value: 358812462.0
+      - date: '2990-01-01'
+        population:
+          value: 347127610.0
+      - date: '3000-01-01'
+        population:
+          value: 336110943.0
+      - date: '3010-01-01'
+        population:
+          value: 325862157.0
+      - date: '3020-01-01'
+        population:
+          value: 315250344.0
+      - date: '3030-01-01'
+        population:
+          value: 311628997.0
+      - date: '3040-01-01'
+        population:
+          value: 314289133.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '3050-01-01'
+        population:
+          value: 317733623.0
+      - date: '3060-01-01'
+        population:
+          value: 321569395.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 325256261.0
+      - date: '3080-01-01'
+        population:
+          value: 329380418.0
+      - date: '3090-01-01'
+        population:
+          value: 333757061.0
+      - date: '3094-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '3100-01-01'
+        population:
+          value: 337583662.0
+      - date: '3110-01-01'
+        population:
+          value: 341522433.0
+      - date: '3120-01-01'
+        population:
+          value: 347377945.0
+      - date: '3130-01-01'
+        population:
+          value: 353192547.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 358745552.0
+      - date: '3145-01-01'
+        population:
+          value: 361193334.0
+  - name:
+      value: Ogma
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1000
+    density:
+      value: 5.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -92
+    water:
+      value: 0
+  - name:
+      value: Susanoo No Mikoto's Hold
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -141
+    water:
+      value: 0
+  - name:
+      value: Port Alexander
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1000
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -178
+    water:
+      value: 0
+  - name:
+      value: 3TX1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205

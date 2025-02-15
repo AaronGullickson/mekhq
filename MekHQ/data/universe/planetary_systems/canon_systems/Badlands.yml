@@ -1,0 +1,491 @@
+id: Badlands
+sucsId: 235
+xcood: 421.692
+ycood: -354.196
+spectralType:
+  value: F2V
+primarySlot: 4
+event:
+  - date: '2558-06-06'
+    nadirCharge:
+      value: yes
+  - date: '2787-07-11'
+    nadirCharge:
+      value: no
+  - date: '2863-04-04'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Fort Johnson
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 4
+  - name:
+      value: Palmer
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: barren17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane and Water Vapor
+    gravity:
+      value: 0.77
+    diameter:
+      value: 8500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 172
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: GA1
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: Natvik
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.2
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Badlands
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green57
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 11700
+    density:
+      value: 5.8284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 37
+    water:
+      value: 53
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Big Port Norton
+        capital:
+          value: Goodman's Land City
+      - name:
+          value: Little Port Norton
+      - name:
+          value: New Richland Hills
+      - name:
+          value: Minnehaha
+    satellite:
+      - name:
+          value: Henry I
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Henry II
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2519-01-23'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 52162.0
+        socioIndustrial:
+          value: B-D-A-D-C
+      - date: '2520-01-01'
+        population:
+          value: 64267.0
+      - date: '2530-01-01'
+        population:
+          value: 388728.0
+      - date: '2540-01-01'
+        population:
+          value: 1518641.0
+      - date: '2550-01-01'
+        population:
+          value: 4257304.0
+      - date: '2560-01-01'
+        population:
+          value: 9271001.0
+      - date: '2570-01-01'
+        population:
+          value: 16825943.0
+      - date: '2580-01-01'
+        population:
+          value: 26249833.0
+      - date: '2590-01-01'
+        population:
+          value: 36821874.0
+      - date: '2596-09-22'
+        faction:
+          source: canon
+          value:
+            - SL
+      - date: '2597-03-21'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '2600-01-01'
+        population:
+          value: 47602863.0
+      - date: '2609-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2610-01-01'
+        population:
+          value: 58033501.0
+      - date: '2620-01-01'
+        population:
+          value: 67561321.0
+      - date: '2630-01-01'
+        population:
+          value: 75554570.0
+      - date: '2640-01-01'
+        population:
+          value: 82700650.0
+      - date: '2650-08-11'
+        hpg:
+          value: B
+        population:
+          value: 88730001.0
+      - date: '2660-01-01'
+        population:
+          value: 94256065.0
+      - date: '2670-01-01'
+        population:
+          value: 98821335.0
+      - date: '2680-01-01'
+        population:
+          value: 102596734.0
+      - date: '2690-01-01'
+        population:
+          value: 105689515.0
+      - date: '2700-01-01'
+        population:
+          value: 107780118.0
+      - date: '2710-01-01'
+        population:
+          value: 108640635.0
+      - date: '2720-01-01'
+        population:
+          value: 108976530.0
+      - date: '2730-01-01'
+        population:
+          value: 109015612.0
+      - date: '2740-01-01'
+        population:
+          value: 109539025.0
+      - date: '2750-01-01'
+        population:
+          value: 109785345.0
+      - date: '2760-01-01'
+        population:
+          value: 110095983.0
+      - date: '2770-01-01'
+        population:
+          value: 109947476.0
+      - date: '2780-01-01'
+        population:
+          value: 109121725.0
+      - date: '2790-01-01'
+        population:
+          value: 108408851.0
+      - date: '2800-01-01'
+        population:
+          value: 108053553.0
+      - date: '2810-01-01'
+        population:
+          value: 107759889.0
+      - date: '2820-01-01'
+        population:
+          value: 107472507.0
+      - date: '2830-01-01'
+        population:
+          value: 76425044.0
+      - date: '2840-10-19'
+        population:
+          value: 5651848.0
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '2850-01-01'
+        population:
+          value: 374124.0
+      - date: '2860-01-01'
+        population:
+          value: 11089.0
+      - date: '2863-01-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Emerick's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 5
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Guidi 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Guidi 2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Guidi 3
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Harris's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 58.1
+    temperature:
+      value: -161
+  - name:
+      value: Maddox's Meridian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: S1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: S2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: S3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: S4
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Beaumont
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Stuy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 9
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 9
+    yearLength:
+      value: 3510.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Richmond
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Mashonaland East
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ierissós
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Ware
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Chalfont
+        size:
+          value: medium
+        icon: oddmoon1

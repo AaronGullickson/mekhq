@@ -1,0 +1,425 @@
+id: Durabon
+sucsId: 755
+xcood: -279.793
+ycood: -441.329
+spectralType:
+  value: F4V
+primarySlot: 3
+event:
+  - date: '2923-12-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Old Kőszegi Járás
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1400
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 134
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Trerise's Rift
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.65
+    diameter:
+      value: 14500
+    density:
+      value: 8.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: V801
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Durabon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: green36
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 12300
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 38
+    water:
+      value: 52
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Möggers
+        capital:
+          value: New Moggio
+      - name:
+          value: Heath
+      - name:
+          value: New Teno
+    event:
+      - date: '2746-04-27'
+        faction:
+          source: canon
+          value:
+            - MOC
+        hpg:
+          value: X
+        population:
+          value: 46550.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2750-01-01'
+        population:
+          value: 86948.0
+      - date: '2760-01-01'
+        population:
+          value: 330246.0
+      - date: '2770-01-01'
+        population:
+          value: 954251.0
+      - date: '2780-01-01'
+        population:
+          value: 2228868.0
+      - date: '2790-01-01'
+        population:
+          value: 4395855.0
+      - date: '2800-01-01'
+        population:
+          value: 7549381.0
+      - date: '2810-01-01'
+        population:
+          value: 11647076.0
+      - date: '2817-01-01'
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2820-01-01'
+        population:
+          value: 9483050.0
+      - date: '2830-01-01'
+        population:
+          value: 5443172.0
+      - date: '2840-01-01'
+        population:
+          value: 2268100.0
+      - date: '2850-01-01'
+        population:
+          value: 757970.0
+      - date: '2860-01-01'
+        population:
+          value: 275889.0
+      - date: '2864-09-17'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 102586.0
+      - date: '2880-01-01'
+        population:
+          value: 35525.0
+      - date: '2890-01-01'
+        population:
+          value: 13116.0
+      - date: '2900-01-01'
+        population:
+          value: 5910.0
+      - date: '2910-01-01'
+        population:
+          value: 3205.0
+      - date: '2920-01-01'
+        population:
+          value: 1496.0
+      - date: '2923-06-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Chimay
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 7.9
+    smallMoons:
+      value: 2
+  - name:
+      value: Skarda's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Amarynthia Alpha
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Amarynthia Beta
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Amarynthia Gamma
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Amarynthia Delta
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Petroúpolis
+    type:
+      value: ICE_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 6
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1123.6
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Edwyn Ralph
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Fort Bend
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Smisby
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 7
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 70000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 3165.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Antoniou
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Dorsey
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Eurus
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Bartosz
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Alesov
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Short
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Adams
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Wright
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 430.64
+    sysPos:
+      value: 8
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8936.6
+  - name:
+      value: Telemark fylke
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 860.72
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 25251.799999999999
+    smallMoons:
+      value: 1

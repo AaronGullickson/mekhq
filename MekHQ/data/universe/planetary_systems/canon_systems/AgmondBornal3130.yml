@@ -1,0 +1,335 @@
+id: Agmond (Bornal 3130+)
+sucsId: 42
+xcood: 395.843
+ycood: -140.358
+spectralType:
+  value: M8V
+primarySlot: 1
+event:
+  - date: '2897-01-15'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Agmond
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 12000
+    density:
+      value: 4.6818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 30
+    water:
+      value: 55
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Old Göteborgs Vasa
+        capital:
+          value: Reesinktown
+      - name:
+          value: Nenagh
+      - name:
+          value: An
+    event:
+      - date: '2730-07-23'
+        faction:
+          source: canon
+          value:
+            - FS
+        hpg:
+          value: B
+        population:
+          value: 41377.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2740-01-01'
+        population:
+          value: 171038.0
+      - date: '2750-01-01'
+        population:
+          value: 539591.0
+      - date: '2760-01-01'
+        population:
+          value: 1362418.0
+      - date: '2770-01-01'
+        population:
+          value: 2873468.0
+      - date: '2777-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2780-01-01'
+        population:
+          value: 5239719.0
+      - date: '2790-01-01'
+        population:
+          value: 5893112.0
+      - date: '2800-01-01'
+        population:
+          value: 2684714.0
+      - date: '2810-01-01'
+        population:
+          value: 1176305.0
+      - date: '2820-01-01'
+        population:
+          value: 486122.0
+      - date: '2830-01-01'
+        population:
+          value: 200896.0
+      - date: '2840-01-01'
+        population:
+          value: 95160.0
+      - date: '2850-01-01'
+        population:
+          value: 43352.0
+      - date: '2860-01-01'
+        population:
+          value: 25281.0
+      - date: '2870-01-01'
+        population:
+          value: 15835.0
+      - date: '2880-01-01'
+        population:
+          value: 9664.0
+      - date: '2890-01-01'
+        population:
+          value: 6630.0
+      - date: '2897-04-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FS
+      - date: '2108-12-05'
+        name:
+          value: Agmond
+      - date: '3130-01-01'
+        name:
+          value: Bornal
+        message: Agmond renamed to Bornal
+  - name:
+      value: Valea Iaşului
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: greenhouse17
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 12
+    water:
+      value: 59
+    landmass:
+      - name:
+          value: New Grandville
+      - name:
+          value: New Luya
+  - name:
+      value: Kocasinan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 170000
+    density:
+      value: 1.2
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 19
+  - name:
+      value: C1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -104
+  - name:
+      value: Bartoušov
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 40000
+    density:
+      value: 2.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Charlton Mackrell
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Vastic I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Vastic II
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Vastic III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Dunnellon
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 13500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+  - name:
+      value: Wampsville
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15

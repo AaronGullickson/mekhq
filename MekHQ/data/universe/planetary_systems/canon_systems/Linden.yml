@@ -1,0 +1,306 @@
+id: Linden
+sucsId: 1491
+xcood: 737.651
+ycood: 261.963
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2695-03-05'
+    nadirCharge:
+      value: yes
+  - date: '2822-03-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Linden
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green10
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 14100
+    density:
+      value: 4.6818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 35
+    water:
+      value: 44
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Benning
+        capital:
+          value: Dégelis
+      - name:
+          value: Amatsu Kami
+      - name:
+          value: Hatt
+      - name:
+          value: Hyatt
+      - name:
+          value: Chujo Hime
+      - name:
+          value: Uke Mochi
+    satellite:
+      - name:
+          value: Danu
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2671-11-15'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 47891.0
+        socioIndustrial:
+          value: C-F-A-F-F
+      - date: '2674-10-06'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 503695.0
+      - date: '2690-01-01'
+        population:
+          value: 2182548.0
+      - date: '2700-02-21'
+        population:
+          value: 4823963.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2710-01-01'
+        population:
+          value: 7390690.0
+      - date: '2720-05-27'
+        population:
+          value: 9341438.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2730-01-01'
+        population:
+          value: 10652047.0
+      - date: '2740-01-01'
+        population:
+          value: 11528517.0
+      - date: '2750-01-01'
+        population:
+          value: 12106724.0
+      - date: '2760-01-01'
+        population:
+          value: 12489149.0
+      - date: '2768-04-12'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 12738074.0
+      - date: '2780-05-18'
+        hpg:
+          value: B
+        population:
+          value: 12954512.0
+      - date: '2790-01-01'
+        population:
+          value: 12992827.0
+      - date: '2800-01-01'
+        population:
+          value: 12894158.0
+      - date: '2810-01-01'
+        population:
+          value: 588369.0
+      - date: '2820-01-01'
+        population:
+          value: 11161.0
+      - date: '2822-08-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Saint-François-Xavier-de-Brompton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane, plus trace amounts of Methane
+    gravity:
+      value: 1.02
+    diameter:
+      value: 13500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 15
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Beaver
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 130000
+    density:
+      value: 0.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Marshall
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Parwān
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Low
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: James 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: James 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Frelighsburg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 23

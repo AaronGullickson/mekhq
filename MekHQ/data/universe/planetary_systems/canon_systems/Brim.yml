@@ -1,0 +1,541 @@
+id: Brim
+sucsId: 2938
+xcood: -24.525
+ycood: 1768.565
+spectralType:
+  source: canon
+  value: F9II
+primarySlot: 4
+event:
+  - date: '2820-04-23'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: P1
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Lucas
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Mountfield
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: P2
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Campkin
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Craster
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: El Hadrioui
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: P3
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 173
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Brim
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 4
+    icon: green16
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 2.0
+    diameter:
+      value: 19777
+    density:
+      value: 7.126966450998
+    dayLength:
+      value: 22
+    yearLength:
+      value: 5.5
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 20
+    lifeForm:
+      source: canon
+      value: FISH
+    desc: No description available.
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Smaller Layar
+        capital:
+          value: P4 City
+      - name:
+          value: Larger Layar
+    event:
+      - date: '2802-07-01'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CNC
+        population:
+          value: 11390.0
+        socioIndustrial:
+          value: B-C-C-D-D
+      - date: '2808-03-11'
+        hpg:
+          source: canon
+          value: A
+      - date: '2810-01-01'
+        population:
+          value: 43597.0
+      - date: '2820-01-01'
+        population:
+          value: 161816.0
+      - date: '2821-08-14'
+        faction:
+          source: canon
+          value:
+            - CLAN
+      - date: '2830-01-01'
+        population:
+          value: 439777.0
+      - date: '2840-03-05'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CSA
+            - CSR
+            - CNC
+        population:
+          value: 939840.0
+      - date: '2850-01-01'
+        population:
+          value: 1666948.0
+      - date: '2860-01-01'
+        population:
+          value: 2579234.0
+      - date: '2870-01-01'
+        population:
+          value: 3580899.0
+      - date: '2880-01-01'
+        population:
+          value: 4600110.0
+      - date: '2890-01-01'
+        population:
+          value: 5575800.0
+      - date: '2900-01-01'
+        population:
+          value: 6490043.0
+      - date: '2910-01-01'
+        population:
+          value: 7272483.0
+      - date: '2920-01-01'
+        population:
+          value: 7864773.0
+      - date: '2930-01-01'
+        population:
+          value: 8306289.0
+      - date: '2940-01-01'
+        population:
+          value: 8656197.0
+      - date: '2950-01-01'
+        population:
+          value: 8952481.0
+      - date: '2960-01-01'
+        population:
+          value: 9167234.0
+      - date: '2970-01-01'
+        population:
+          value: 9357400.0
+      - date: '2980-01-01'
+        population:
+          value: 9514201.0
+      - date: '2990-01-01'
+        population:
+          value: 9622983.0
+      - date: '3000-01-01'
+        population:
+          value: 9641118.0
+      - date: '3010-01-01'
+        population:
+          value: 9650100.0
+      - date: '3020-01-01'
+        population:
+          value: 9624458.0
+      - date: '3030-01-01'
+        population:
+          value: 9589619.0
+      - date: '3040-01-01'
+        population:
+          value: 9552606.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: B-B-C-C-C
+      - date: '3050-01-01'
+        population:
+          value: 9576899.0
+      - date: '3060-07-01'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CSA
+            - CSR
+        population:
+          value: 9585863.0
+      - date: '3070-01-01'
+        population:
+          value: 9632696.0
+      - date: '3070-06-01'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CSA
+            - CSV
+            - CBS
+      - date: '3072-02-12'
+        faction:
+          source: canon
+          value:
+            - CCC
+            - CSV
+            - SOC
+      - date: '3075-04-17'
+        faction:
+          source: canon
+          value:
+            - CCC
+      - date: '3080-01-01'
+        population:
+          value: 9776320.0
+      - date: '3085-09-28'
+        faction:
+          source: canon
+          value:
+            - CCC
+      - date: '3090-01-01'
+        population:
+          value: 9945927.0
+      - date: '3095-01-01'
+        socioIndustrial:
+          value: B-B-C-C-C
+      - date: '3100-01-01'
+        population:
+          value: 10009785.0
+      - date: '3110-01-01'
+        population:
+          value: 10047894.0
+      - date: '3120-01-01'
+        population:
+          value: 10057947.0
+      - date: '3130-01-01'
+        population:
+          value: 10072038.0
+      - date: '3140-01-01'
+        population:
+          value: 10068010.0
+      - date: '3145-01-01'
+        population:
+          value: 10051914.0
+  - name:
+      value: P5
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 5
+    icon: greenhouse1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.33
+    diameter:
+      value: 5500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 121
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Acidalia
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Enyalius
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Hespera
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: P6
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: greenhouse35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 13.7
+    temperature:
+      value: 3
+    water:
+      value: 0
+  - name:
+      value: P7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: RRM1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: RRM2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: RRM3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: P8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 100.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Moyle I
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Moyle II
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Moyle III
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: P9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 150000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 278.8
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Chaytor
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: 40E-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 782.6
+    temperature:
+      value: -222

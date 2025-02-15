@@ -1,0 +1,349 @@
+id: Johnson
+sucsId: 1256
+xcood: 531.755
+ycood: 252.287
+spectralType:
+  value: G9V
+primarySlot: 3
+event:
+  - date: '2764-02-07'
+    nadirCharge:
+      value: yes
+  - date: '2800-04-16'
+    nadirCharge:
+      value: no
+  - date: '2912-06-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Martínez
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.9
+    satellite:
+      - name:
+          value: S51
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: S52
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: S53
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: S54
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ames's Den
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 40000
+    density:
+      value: 2.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: F1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: F2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: F3
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: F4
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      source: canon
+      value: Johnson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green44
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.82
+    diameter:
+      value: 12300
+    density:
+      value: 4.6818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 24
+    water:
+      value: 51
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Larger Sampson
+        capital:
+          value: Chamusca
+      - name:
+          value: Thompson's Redoubt
+      - name:
+          value: Morrow
+      - name:
+          value: Law
+      - name:
+          value: Smaller Sampson
+      - name:
+          value: Boyd
+    event:
+      - date: '2748-02-02'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 49301.0
+        socioIndustrial:
+          value: B-F-A-D-F
+      - date: '2750-01-01'
+        population:
+          value: 64447.0
+      - date: '2751-07-02'
+        hpg:
+          value: X
+      - date: '2760-01-01'
+        population:
+          value: 209554.0
+      - date: '2770-01-01'
+        population:
+          value: 536085.0
+      - date: '2774-01-01'
+        socioIndustrial:
+          value: B-D-A-D-D
+      - date: '2780-01-01'
+        population:
+          value: 1134932.0
+      - date: '2790-01-01'
+        population:
+          value: 2062188.0
+      - date: '2800-01-01'
+        population:
+          value: 3335054.0
+      - date: '2810-01-01'
+        population:
+          value: 4910258.0
+      - date: '2820-01-01'
+        population:
+          value: 6658441.0
+      - date: '2830-01-01'
+        population:
+          value: 8471769.0
+      - date: '2840-01-01'
+        population:
+          value: 10243017.0
+      - date: '2850-01-01'
+        population:
+          value: 12060176.0
+      - date: '2860-01-01'
+        population:
+          value: 13831720.0
+      - date: '2864-01-12'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 11712825.0
+      - date: '2880-01-01'
+        population:
+          value: 2017348.0
+      - date: '2890-01-01'
+        population:
+          value: 196784.0
+      - date: '2900-01-01'
+        population:
+          value: 19539.0
+      - date: '2910-01-01'
+        population:
+          value: 2818.0
+      - date: '2912-01-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Fish
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: frozen5
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -108
+    water:
+      value: 45
+    landmass:
+      - name:
+          value: Cohutta
+      - name:
+          value: New Sabinal
+      - name:
+          value: Dyer Brook
+      - name:
+          value: Tremeirchion
+      - name:
+          value: New Galesville
+    satellite:
+      - name:
+          value: Cartoogechaye A
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cartoogechaye B
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: McLeod's Flats
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 8.5
+    smallMoons:
+      value: 9
+  - name:
+      value: Lawson
+    type:
+      value: ICE_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Chamunda
+        size:
+          value: giant
+        icon: rock1

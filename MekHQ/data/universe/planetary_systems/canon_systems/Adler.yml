@@ -1,0 +1,314 @@
+id: Adler
+sucsId: 32
+xcood: 155.257
+ycood: -210.669
+spectralType:
+  value: G5V
+primarySlot: 2
+event:
+  - date: '2831-06-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Maywood
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 1
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.1
+    satellite:
+      - name:
+          value: Gangleri
+        size:
+          value: giant
+        icon: rock1
+  - name:
+      source: canon
+      value: Adler
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 2
+    icon: green38
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.06
+    diameter:
+      value: 11700
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 30
+    water:
+      value: 74
+    lifeForm:
+      value: INSECT
+    landmass:
+      - name:
+          value: Turnbull Prime
+        capital:
+          value: New Johnson City
+      - name:
+          value: Chaney
+      - name:
+          value: Allen
+      - name:
+          value: Peters
+      - name:
+          value: New Chowan
+      - name:
+          value: Rosener
+    event:
+      - date: '2719-11-25'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 53300.0
+        socioIndustrial:
+          value: D-D-B-D-B
+      - date: '2720-01-01'
+        population:
+          value: 64233.0
+      - date: '2722-11-15'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 338134.0
+      - date: '2740-01-01'
+        population:
+          value: 1289908.0
+      - date: '2750-01-01'
+        population:
+          value: 3803505.0
+      - date: '2760-01-01'
+        population:
+          value: 9073426.0
+      - date: '2763-01-01'
+        socioIndustrial:
+          value: C-D-B-C-B
+      - date: '2770-01-01'
+        population:
+          value: 18240704.0
+      - date: '2780-01-01'
+        population:
+          value: 31947464.0
+      - date: '2790-01-01'
+        population:
+          value: 50222200.0
+      - date: '2800-01-01'
+        population:
+          value: 72623881.0
+      - date: '2810-01-01'
+        population:
+          value: 97521322.0
+      - date: '2820-01-01'
+        population:
+          value: 11775254.0
+      - date: '2830-01-01'
+        population:
+          value: 489805.0
+      - date: '2831-01-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Corning
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -52
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Zerman
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Fair Haven
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: AF-1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: AF-2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: AF-3
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: AF-4
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Chestfield
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 7
+  - name:
+      value: South Mills
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 4
+  - name:
+      value: Wehrheim
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 13

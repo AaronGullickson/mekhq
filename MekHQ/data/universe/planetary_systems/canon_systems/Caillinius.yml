@@ -1,0 +1,582 @@
+id: Caillinius
+sucsId: 432
+xcood: -130.967
+ycood: 540.409
+spectralType:
+  value: F5V
+primarySlot: 3
+event:
+  - date: '2846-02-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Copacati's Frontier
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: greenhouse8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Chlorine
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 455
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Davidson Alpha
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Davidson Beta
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Davidson Gamma
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Mama Pacha
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: barren21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 137
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Caillinius
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: green3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.99
+    diameter:
+      value: 13200
+    density:
+      value: 5.2795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 46
+    water:
+      value: 27
+    lifeForm:
+      value: PLANT
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Davis's Grove
+        capital:
+          value: Angor Tumani
+    event:
+      - date: '2631-05-28'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 46482.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2640-01-01'
+        population:
+          value: 485004.0
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2650-01-01'
+        population:
+          value: 2603339.0
+      - date: '2660-07-30'
+        population:
+          value: 7495908.0
+        socioIndustrial:
+          value: F-F-C-D-F
+      - date: '2670-01-01'
+        population:
+          value: 14658050.0
+      - date: '2680-01-01'
+        population:
+          value: 22431378.0
+      - date: '2690-01-01'
+        population:
+          value: 29260576.0
+      - date: '2700-01-01'
+        population:
+          value: 34727394.0
+      - date: '2709-11-21'
+        hpg:
+          value: X
+      - date: '2710-01-01'
+        population:
+          value: 22900620.0
+      - date: '2720-01-01'
+        population:
+          value: 14056955.0
+      - date: '2730-01-01'
+        population:
+          value: 8369279.0
+      - date: '2740-01-01'
+        population:
+          value: 4519533.0
+      - date: '2750-01-01'
+        population:
+          value: 2610016.0
+      - date: '2760-01-01'
+        population:
+          value: 1262870.0
+      - date: '2770-01-01'
+        population:
+          value: 729303.0
+      - date: '2779-10-29'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 458722.0
+      - date: '2790-01-01'
+        population:
+          value: 271455.0
+      - date: '2800-01-01'
+        population:
+          value: 153921.0
+      - date: '2810-01-01'
+        population:
+          value: 94481.0
+      - date: '2820-01-01'
+        population:
+          value: 59427.0
+      - date: '2830-01-01'
+        population:
+          value: 39730.0
+      - date: '2840-01-01'
+        population:
+          value: 25764.0
+      - date: '2845-01-01'
+        socioIndustrial:
+          value: F-F-C-D-F
+      - date: '2846-10-20'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Horne's Plains
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: YY1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: YY2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: YY3
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: YY4
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: YY5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Huaca
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: OY1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: OY2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: OY3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: OY4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: OY5
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: OY6
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Delgado's Stand
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Cronos Alpha
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cronos Beta
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Apu Punchau
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 7
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 52.4
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Vishvamitra I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Vishvamitra II
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Vishvamitra III
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Vishvamitra IV
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Montilliez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 8
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 143.7
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Benney
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Harstad
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Knowles
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Noguchi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 9
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 400.4
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Mainaky 1
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Mainaky 2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Mainaky 3
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Mainaky 4
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Garrett's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 10
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: UT1
+    type:
+      value: ICE_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 11
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Loau
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Kilyaki
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Ao Kanapanapa
+        size:
+          value: large
+        icon: rock8

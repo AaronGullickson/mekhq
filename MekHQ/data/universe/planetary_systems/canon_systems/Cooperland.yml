@@ -1,0 +1,390 @@
+id: Cooperland
+sucsId: 591
+xcood: 567.72
+ycood: -266.091
+spectralType:
+  value: G8V
+primarySlot: 3
+event:
+  - date: '2810-01-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Wynn's End
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 2
+  - name:
+      value: Frank's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: greenhouse33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 197
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Cooperland
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green28
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 13800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 35
+    water:
+      value: 74
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Marshall
+        capital:
+          value: Tsukiyomi City
+      - name:
+          value: Larger Myers's Frontier
+      - name:
+          value: Cox
+      - name:
+          value: Northern Karahallı
+      - name:
+          value: Southern Karahallı
+      - name:
+          value: Smaller Myers's Frontier
+      - name:
+          value: Basile
+      - name:
+          value: Edinburg
+    satellite:
+      - name:
+          value: O8T-1
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2720-08-27'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 52664.0
+        socioIndustrial:
+          value: B-C-B-D-D
+      - date: '2726-01-05'
+        hpg:
+          value: X
+      - date: '2730-01-01'
+        population:
+          value: 180272.0
+      - date: '2738-01-01'
+        socioIndustrial:
+          value: B-C-B-D-C
+      - date: '2740-01-01'
+        population:
+          value: 488241.0
+      - date: '2750-01-01'
+        population:
+          value: 1090197.0
+      - date: '2758-01-01'
+        socioIndustrial:
+          value: C-C-B-D-C
+      - date: '2760-01-01'
+        population:
+          value: 2089671.0
+      - date: '2770-01-01'
+        population:
+          value: 2118629.0
+      - date: '2780-01-01'
+        population:
+          value: 895708.0
+      - date: '2790-01-01'
+        population:
+          value: 469624.0
+      - date: '2800-01-01'
+        population:
+          value: 179573.0
+      - date: '2810-01-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Cole
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 8
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Nymphai I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Nymphai II
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Nymphai III
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Jensen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Monroe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Hendricks
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Kon
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Accla
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Kappa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: K-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: K-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Worthington
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: I1Z1
+        size:
+          value: medium
+        icon: rock8

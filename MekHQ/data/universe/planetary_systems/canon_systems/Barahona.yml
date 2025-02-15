@@ -1,0 +1,576 @@
+id: Barahona
+sucsId: 256
+xcood: 684.662
+ycood: 284.052
+spectralType:
+  value: K3V
+primarySlot: 2
+event:
+  - date: '2696-10-27'
+    nadirCharge:
+      value: yes
+  - date: '2793-05-15'
+    nadirCharge:
+      value: no
+  - date: '2831-02-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: La Jaqueta
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Chapman
+        size:
+          value: giant
+        icon: rock11
+  - name:
+      source: canon
+      value: Barahona
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green29
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 24
+    water:
+      value: 61
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: North Kilvington 1
+        capital:
+          value: New De Los Santos Town
+      - name:
+          value: North Kilvington 2
+      - name:
+          value: North Kilvington 3
+      - name:
+          value: North Kilvington 4
+      - name:
+          value: North Kilvington 5
+      - name:
+          value: North Kilvington 6
+      - name:
+          value: North Kilvington 7
+      - name:
+          value: North Kilvington 8
+      - name:
+          value: North Kilvington 9
+    event:
+      - date: '2694-02-01'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 52009.0
+        socioIndustrial:
+          value: C-D-C-F-F
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: D-D-C-F-F
+      - date: '2700-01-01'
+        population:
+          value: 481180.0
+      - date: '2706-09-20'
+        hpg:
+          value: B
+        socioIndustrial:
+          value: F-F-C-F-F
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: F-F-C-D-D
+      - date: '2710-01-01'
+        population:
+          value: 3678008.0
+      - date: '2720-01-01'
+        population:
+          value: 9395120.0
+      - date: '2730-01-01'
+        population:
+          value: 14549335.0
+      - date: '2740-01-01'
+        population:
+          value: 17734593.0
+      - date: '2750-01-01'
+        population:
+          value: 19331995.0
+      - date: '2760-01-01'
+        population:
+          value: 19981276.0
+      - date: '2770-01-01'
+        population:
+          value: 20252929.0
+      - date: '2780-01-01'
+        population:
+          value: 20313896.0
+      - date: '2790-01-01'
+        population:
+          value: 20191808.0
+      - date: '2800-01-01'
+        population:
+          value: 20155362.0
+      - date: '2810-01-01'
+        population:
+          value: 6014440.0
+      - date: '2811-03-23'
+        hpg:
+          value: C
+      - date: '2820-01-01'
+        population:
+          value: 224059.0
+      - date: '2830-01-01'
+        population:
+          value: 15920.0
+      - date: '2831-09-30'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Penhold
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: frozen25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -8
+    water:
+      value: 39
+    landmass:
+      - name:
+          value: Puerto de Salazar
+      - name:
+          value: García
+      - name:
+          value: Toreev
+      - name:
+          value: Coronado
+    satellite:
+      - name:
+          value: CF-1
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: La Policia O Urbanización Palma Real
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 30000
+    density:
+      value: 2.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Sutekh I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Sutekh II
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Batey Higuero
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1700
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -123
+    water:
+      value: 0
+  - name:
+      value: La Peonía
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Sabana Alta .
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Los Riceli
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Chrysó
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Psary
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Las Maguanas-Hato Nuevo .
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Castañuelas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: 59-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 59-2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 59-3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: 59-4
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: 59-5
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: El Carril .
+    type:
+      value: ICE_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 45000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Castillo
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Arques-la-Bataille
+    type:
+      value: ICE_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 30000
+    density:
+      value: 1.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 141.5
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Serrano
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: McFerran
+        size:
+          value: giant
+        icon: rock1
+  - name:
+      value: Spring Lake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 15
+  - name:
+      value: Aloncillo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Castro
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Rosales
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Punto Fijo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 12
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3159.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Loki Laufeyjarson
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Fenrisulfr
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Loder
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Sleipnir
+        size:
+          value: medium
+        icon: rock13

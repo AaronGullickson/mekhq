@@ -1,0 +1,696 @@
+id: Brownsville
+sucsId: 406
+xcood: 6.466
+ycood: -29.788
+spectralType:
+  source: canon
+  value: K3V
+primarySlot: 2
+event:
+  - date: '2352-02-16'
+    zenithCharge:
+      value: yes
+  - date: '2382-09-05'
+    nadirCharge:
+      value: yes
+  - date: '2785-04-28'
+    nadirCharge:
+      value: no
+  - date: '2862-03-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Xanthus
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1200
+    density:
+      value: 3.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 125
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Brownsville
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: wet7
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 22
+    water:
+      source: canon
+      value: 75
+    lifeForm:
+      source: canon
+      value: NONE
+    desc: |-
+      Brownsville was not immediately inhabitable but proved to be easily terraformed and minimal efforts by the Terran Hegemony resulted in a world with a stable, flourishing ecosystem. The first settlers in early the 2300s found a paradise in the continental interiors. Young forests. Green meadows. Rains and clean water filled with fish.
+
+      Temperate continents like Indiana and Iowa were settled more heavily than the steamy equatorial lands of California or the arid, fjord-pierced continent of Texas. Most cities and habitations were settled well inland, away from the brown, polluted looking oceans. The planet thrived for hundreds of years, with abundant resources, agriculture, and industry.
+
+      Unfortunately, the planet suffered heavily during the Amaris civil war and never truly recovered. Even more tragic, the planet was susceptible to the loss of atmospheric processors and the atmosphere became slowly more tainted by the 2800s and by 2850 most animal life had died from low oxygen levels and humans required respirators. The planet was formally abandoned in 2862. While thousands were evacuated by ComStar, millions more were left to die.
+    landmass:
+      - name:
+          source: canon
+          value: Florida
+      - name:
+          source: canon
+          value: Illinois
+      - name:
+          source: canon
+          value: Indiana
+      - name:
+          source: canon
+          value: Iowa
+      - name:
+          source: canon
+          value: Ohio
+      - name:
+          source: canon
+          value: Texas
+        capital:
+          source: canon
+          value: Dallas
+    satellite:
+      - name:
+          value: (Rings)
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '2333-04-06'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 60637.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2340-01-01'
+        population:
+          value: 236893.0
+      - date: '2350-01-01'
+        population:
+          value: 1263576.0
+      - date: '2360-01-01'
+        population:
+          value: 5089464.0
+      - date: '2370-01-01'
+        population:
+          value: 16389095.0
+      - date: '2380-01-01'
+        population:
+          value: 43906582.0
+      - date: '2390-01-01'
+        population:
+          value: 100263304.0
+      - date: '2400-01-01'
+        population:
+          value: 200978506.0
+      - date: '2410-01-01'
+        population:
+          value: 360813177.0
+      - date: '2420-01-01'
+        population:
+          value: 585702653.0
+      - date: '2430-01-01'
+        population:
+          value: 872085197.0
+      - date: '2440-01-01'
+        population:
+          value: 1213440168.0
+      - date: '2450-01-01'
+        population:
+          value: 1602836273.0
+      - date: '2460-01-01'
+        population:
+          value: 2015888262.0
+      - date: '2470-01-01'
+        population:
+          value: 2441544042.0
+      - date: '2480-01-01'
+        population:
+          value: 2861584219.0
+      - date: '2490-01-01'
+        population:
+          value: 3249677999.0
+      - date: '2500-01-01'
+        population:
+          value: 3602308261.0
+      - date: '2510-01-01'
+        population:
+          value: 3928728751.0
+      - date: '2520-01-01'
+        population:
+          value: 4211679283.0
+      - date: '2530-01-01'
+        population:
+          value: 4487925204.0
+      - date: '2540-01-01'
+        population:
+          value: 4757208298.0
+      - date: '2550-01-01'
+        population:
+          value: 4967310535.0
+      - date: '2560-01-01'
+        population:
+          value: 5112834460.0
+      - date: '2570-01-01'
+        population:
+          value: 5234918484.0
+      - date: '2571-01-01'
+        socioIndustrial:
+          value: C-C-A-C-B
+      - date: '2580-01-01'
+        population:
+          value: 5337344620.0
+      - date: '2590-01-01'
+        population:
+          value: 5414984052.0
+      - date: '2600-01-01'
+        population:
+          value: 5466381001.0
+      - date: '2610-01-01'
+        population:
+          value: 5500771919.0
+      - date: '2620-01-01'
+        population:
+          value: 5520692468.0
+      - date: '2630-09-26'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 5526171061.0
+      - date: '2640-01-01'
+        population:
+          value: 5536857154.0
+      - date: '2645-01-01'
+        socioIndustrial:
+          value: B-B-A-B-B
+      - date: '2650-01-01'
+        population:
+          value: 5522344893.0
+      - date: '2657-01-01'
+        socioIndustrial:
+          value: A-A-A-A-A
+      - date: '2660-01-01'
+        population:
+          value: 5505105226.0
+      - date: '2670-01-01'
+        population:
+          value: 5495115492.0
+      - date: '2680-01-01'
+        population:
+          value: 5492215008.0
+      - date: '2690-01-01'
+        population:
+          value: 5487324715.0
+      - date: '2700-01-01'
+        population:
+          value: 5486616453.0
+      - date: '2710-01-01'
+        population:
+          value: 5466554950.0
+      - date: '2720-01-01'
+        population:
+          value: 5433256086.0
+      - date: '2730-01-01'
+        population:
+          value: 5442588049.0
+      - date: '2740-01-01'
+        population:
+          value: 5474264507.0
+      - date: '2750-01-01'
+        population:
+          value: 5490390582.0
+      - date: '2760-01-01'
+        population:
+          value: 5542922200.0
+      - date: '2767-07-18'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 5545364569.0
+      - date: '2779-10-11'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-08-10'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 5374762841.0
+      - date: '2790-01-01'
+        population:
+          value: 5255810290.0
+      - date: '2800-01-01'
+        population:
+          value: 5146005230.0
+      - date: '2810-01-01'
+        population:
+          value: 5064090234.0
+      - date: '2820-01-01'
+        population:
+          value: 4958290613.0
+      - date: '2830-01-01'
+        population:
+          value: 4851627360.0
+      - date: '2840-01-01'
+        population:
+          value: 4810826045.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '2850-01-01'
+        population:
+          value: 1380870603.0
+      - date: '2860-01-01'
+        population:
+          value: 11873.0
+      - date: '2862-09-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Kadmos
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1100
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -74
+    water:
+      value: 0
+  - name:
+      value: Phaeton
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 4
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 45000
+    density:
+      value: 2.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Acsumama
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Ayar Colo
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Iyapa
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Tiwanaku
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Coniraya
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Chasca
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Illapa
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Phoebe's Rift
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 5
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 18.5
+    temperature:
+      value: -193
+    water:
+      value: 0
+  - name:
+      value: Muses
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 6
+    icon: frozen56
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Methane and Sulfur
+        Dioxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 50.8
+    temperature:
+      value: -213
+    water:
+      value: 52
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Pearson
+      - name:
+          value: Sharp's Revenge
+      - name:
+          value: Gundagai
+      - name:
+          value: Galt
+      - name:
+          value: New Willow Lake
+  - name:
+      value: Enosichthon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.16
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 141.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: U-1
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: U-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: U-3
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: U-4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Hades
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.04
+    sysPos:
+      value: 8
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Briareus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 9
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 150000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Jennings
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Lade
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Dionysus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 10
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3159.6
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Dumuzi 1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Dumuzi 2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Dumuzi 3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Dumuzi 4
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Dumuzi 5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Brigid's Wind
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.36
+    sysPos:
+      value: 11
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 80000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8927.9
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: 6J1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 6J2
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: 6J3
+        size:
+          value: medium
+        icon: rock17

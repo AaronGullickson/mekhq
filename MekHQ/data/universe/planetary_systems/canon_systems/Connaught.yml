@@ -1,0 +1,854 @@
+id: Connaught
+sucsId: 586
+xcood: -54.292
+ycood: -40.367
+spectralType:
+  source: canon
+  value: M2V
+primarySlot: 3
+event:
+  - date: '2398-02-10'
+    zenithCharge:
+      value: yes
+  - date: '2526-06-24'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Eatwell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: frozen39
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.1
+    diameter:
+      value: 14500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: -83
+    water:
+      value: 89
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Newby
+      - name:
+          value: Osbert
+      - name:
+          value: Rhodes
+      - name:
+          value: Chaytor
+      - name:
+          value: Old Acton Vale
+      - name:
+          value: Arderne's Rock
+  - name:
+      value: Udall
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 7
+  - name:
+      source: canon
+      value: Connaught
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 3
+    icon: green32
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13266
+    density:
+      value: 5.306097145661
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.6
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 48
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Connaught is a typical garden world, with ample arable land, a comfortable
+      climate and atmosphere and standard gravity. It also has the added benefit of
+      abundant natural resources and a strong industrial base. Connaught is home to
+      the Kong Interstellar Corp. ‘Mech factories, which produces the Black Knight
+      and Ostsol for the Free Worlds League. Kong Interstellar Corp. also has a sizable
+      ‘Mech repair and refit facility as part of their factories. The Kong facility
+      is located in the major city Skellig on the rainy Leitrim continent.
+    landmass:
+      - name:
+          source: canon
+          value: Galway
+        capital:
+          source: canon
+          value: Ranelagh
+      - name:
+          source: canon
+          value: Leitrim
+      - name:
+          source: canon
+          value: Mayo
+      - name:
+          source: canon
+          value: Sligo
+    satellite:
+      - name:
+          value: Morrigu
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Medb
+        size:
+          value: medium
+        icon: rock12
+    event:
+      - date: '2242-01-12'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47546.0
+        socioIndustrial:
+          value: F-D-A-C-C
+      - date: '2245-01-01'
+        socioIndustrial:
+          value: D-D-A-C-C
+      - date: '2250-01-01'
+        population:
+          value: 183982.0
+      - date: '2260-01-01'
+        population:
+          value: 815096.0
+      - date: '2270-01-01'
+        population:
+          value: 2943626.0
+      - date: '2280-01-01'
+        population:
+          value: 8936644.0
+      - date: '2290-01-01'
+        population:
+          value: 23276673.0
+      - date: '2300-01-01'
+        population:
+          value: 53023699.0
+      - date: '2310-01-01'
+        population:
+          value: 107487786.0
+      - date: '2320-01-08'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 197561410.0
+      - date: '2330-01-01'
+        population:
+          value: 335394309.0
+      - date: '2340-01-01'
+        population:
+          value: 528827512.0
+      - date: '2350-01-01'
+        population:
+          value: 780897141.0
+      - date: '2360-01-01'
+        population:
+          value: 1088124646.0
+      - date: '2367-01-29'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2370-01-01'
+        population:
+          value: 1450911071.0
+      - date: '2380-01-01'
+        population:
+          value: 1863882507.0
+      - date: '2390-01-01'
+        population:
+          value: 2297346624.0
+      - date: '2400-01-01'
+        population:
+          value: 2753862323.0
+      - date: '2410-01-01'
+        population:
+          value: 3214565028.0
+      - date: '2420-01-01'
+        population:
+          value: 3661736026.0
+      - date: '2430-01-01'
+        population:
+          value: 4102412910.0
+      - date: '2440-01-01'
+        population:
+          value: 4515080560.0
+      - date: '2450-01-01'
+        population:
+          value: 4895602050.0
+      - date: '2460-01-01'
+        population:
+          value: 5256492810.0
+      - date: '2469-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '2470-01-01'
+        population:
+          value: 5619717759.0
+      - date: '2480-01-01'
+        population:
+          value: 5936005896.0
+      - date: '2490-01-01'
+        population:
+          value: 6223777250.0
+      - date: '2500-03-29'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 6514164223.0
+      - date: '2510-01-01'
+        population:
+          value: 6812574448.0
+      - date: '2519-01-01'
+        socioIndustrial:
+          value: B-B-A-C-C
+      - date: '2520-01-01'
+        population:
+          value: 7062157413.0
+      - date: '2530-01-01'
+        population:
+          value: 7290778502.0
+      - date: '2540-01-01'
+        population:
+          value: 7512319247.0
+      - date: '2550-01-01'
+        population:
+          value: 7731209513.0
+      - date: '2560-01-01'
+        population:
+          value: 7917028498.0
+      - date: '2570-01-01'
+        population:
+          value: 8081500634.0
+      - date: '2580-01-01'
+        population:
+          value: 8189715449.0
+      - date: '2590-01-01'
+        population:
+          value: 8296255945.0
+      - date: '2600-01-01'
+        population:
+          value: 8377903254.0
+      - date: '2610-01-01'
+        population:
+          value: 8440741216.0
+      - date: '2620-01-01'
+        population:
+          value: 8452003813.0
+      - date: '2622-01-01'
+        socioIndustrial:
+          value: A-A-A-B-B
+      - date: '2630-01-01'
+        population:
+          value: 8426274827.0
+      - date: '2631-10-22'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 8410316025.0
+      - date: '2650-01-01'
+        population:
+          value: 8410096772.0
+      - date: '2660-01-01'
+        population:
+          value: 8433207027.0
+      - date: '2670-01-01'
+        population:
+          value: 8445030927.0
+      - date: '2680-01-01'
+        population:
+          value: 8498681234.0
+      - date: '2690-01-01'
+        population:
+          value: 8499777435.0
+      - date: '2700-01-01'
+        population:
+          value: 8492816961.0
+      - date: '2710-01-01'
+        population:
+          value: 8485011372.0
+      - date: '2720-01-01'
+        population:
+          value: 8543090359.0
+      - date: '2730-01-01'
+        population:
+          value: 8639296106.0
+      - date: '2740-01-01'
+        population:
+          value: 8698293689.0
+      - date: '2750-01-01'
+        population:
+          value: 8779036168.0
+      - date: '2760-01-01'
+        population:
+          value: 8785153645.0
+      - date: '2767-09-30'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 8741312990.0
+      - date: '2779-08-16'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 8701209180.0
+      - date: '2786-06-18'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2790-01-02'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 8669477086.0
+      - date: '2800-01-01'
+        population:
+          value: 8657471069.0
+      - date: '2810-01-01'
+        population:
+          value: 8572273110.0
+      - date: '2820-01-01'
+        population:
+          value: 8462288218.0
+      - date: '2830-01-01'
+        population:
+          value: 8339518715.0
+      - date: '2840-01-01'
+        population:
+          value: 8218530332.0
+      - date: '2850-01-01'
+        population:
+          value: 8139189940.0
+      - date: '2860-04-24'
+        population:
+          value: 8077388762.0
+        socioIndustrial:
+          value: B-B-B-C-C
+      - date: '2870-01-01'
+        population:
+          value: 7994877135.0
+      - date: '2880-01-01'
+        population:
+          value: 7935671236.0
+      - date: '2890-01-01'
+        population:
+          value: 7929175424.0
+      - date: '2900-01-01'
+        population:
+          value: 7942172370.0
+      - date: '2903-01-01'
+        socioIndustrial:
+          value: C-C-C-D-C
+      - date: '2910-01-01'
+        population:
+          value: 7959701906.0
+      - date: '2920-01-01'
+        population:
+          value: 7978777784.0
+      - date: '2930-01-01'
+        population:
+          value: 7997899378.0
+      - date: '2940-01-01'
+        population:
+          value: 7947677489.0
+      - date: '2950-01-01'
+        population:
+          value: 7832373875.0
+      - date: '2960-01-01'
+        population:
+          value: 7739191251.0
+      - date: '2970-01-01'
+        population:
+          value: 7660134358.0
+      - date: '2980-01-01'
+        population:
+          value: 7584751164.0
+      - date: '2990-01-01'
+        population:
+          value: 7534275466.0
+      - date: '3000-01-01'
+        population:
+          value: 7447453593.0
+      - date: '3010-01-01'
+        population:
+          value: 7342181607.0
+      - date: '3020-01-01'
+        population:
+          value: 7231561503.0
+      - date: '3030-01-01'
+        population:
+          value: 7224447527.0
+      - date: '3040-01-01'
+        population:
+          value: 7285388479.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-C-B
+      - date: '3050-01-01'
+        population:
+          value: 7338766408.0
+      - date: '3060-01-01'
+        population:
+          value: 7389578998.0
+      - date: '3070-01-01'
+        population:
+          value: 7431819870.0
+      - date: '3080-01-01'
+        population:
+          value: 7434793193.0
+      - date: '3081-07-30'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3082-07-28'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 7440743407.0
+      - date: '3100-01-01'
+        population:
+          value: 7433306383.0
+      - date: '3103-01-01'
+        socioIndustrial:
+          value: A-A-A-B-A
+      - date: '3110-01-01'
+        population:
+          value: 7425876792.0
+      - date: '3120-01-01'
+        population:
+          value: 7433306383.0
+      - date: '3130-01-01'
+        population:
+          value: 7466084991.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3137-10-01'
+        faction:
+          source: canon
+          value:
+            - CvW
+      - date: '3140-01-01'
+        population:
+          value: 7521538946.0
+      - date: '3145-01-01'
+        population:
+          value: 7556217726.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - FWL
+  - name:
+      value: Vonhof
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 4
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -127
+    water:
+      value: 0
+  - name:
+      value: Okonkwo's Garden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 5
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Chaos I
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Chaos II
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Bird
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Odinn
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Odin
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Organ
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 7
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 8.0
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Baba Yaga I
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Baba Yaga II
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Baba Yaga III
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Baba Yaga IV
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Baba Yaga V
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Baba Yaga VI
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Lugh
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.84
+    sysPos:
+      value: 8
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 22.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Audumla
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Lokkju
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Saint-Édouard-de-Maskinongé
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Uttley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.52
+    sysPos:
+      value: 9
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 61.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Valkyries I
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Valkyries II
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Valkyries III
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: Balman's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.88
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 171.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: IC51
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Greenhalgh's Den
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.6
+    sysPos:
+      value: 11
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 483.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Tuatha Dé Danann
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Ceridwen
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Bóand
+        size:
+          value: large
+        icon: rock4

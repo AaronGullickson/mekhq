@@ -1,0 +1,391 @@
+id: Overton
+sucsId: 1965
+xcood: 46.252
+ycood: -207.89
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 3
+event:
+  - date: '2689-11-15'
+    nadirCharge:
+      value: yes
+planet:
+  - name:
+      value: Bell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 186
+    water:
+      value: 0
+  - name:
+      value: Cole's Patch
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Overton
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: wet10
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 12927
+    density:
+      value: 5.416652709834
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 78
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: Overton is an unremarkable planet, with limited natural resources, agriculture
+      and industry. The planet is mostly self-sufficient but is of limited strategic
+      or military importance. Overton is home to one of many Duchy RTC training facilities
+      throughout the Capellan Confederation that trains infantry and conventional
+      armor crews.
+    landmass:
+      - name:
+          source: canon
+          value: Yarmouth
+        capital:
+          source: canon
+          value: Glasson
+    satellite:
+      - name:
+          value: Heysham
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2683-12-22'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 47125.0
+        socioIndustrial:
+          value: B-D-C-D-C
+      - date: '2687-12-02'
+        hpg:
+          source: canon
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 2937723.0
+      - date: '2695-01-01'
+        socioIndustrial:
+          value: B-C-C-C-C
+      - date: '2700-01-01'
+        population:
+          value: 71085826.0
+      - date: '2710-01-01'
+        population:
+          value: 325637897.0
+      - date: '2720-01-01'
+        population:
+          value: 678076276.0
+      - date: '2727-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2730-01-01'
+        population:
+          value: 966338909.0
+      - date: '2740-01-01'
+        population:
+          value: 1151113750.0
+      - date: '2750-01-01'
+        population:
+          value: 1257241623.0
+      - date: '2760-01-01'
+        population:
+          value: 1305524756.0
+      - date: '2770-01-01'
+        population:
+          value: 1333336114.0
+      - date: '2780-01-01'
+        population:
+          value: 1355285178.0
+      - date: '2790-01-01'
+        population:
+          value: 1363824248.0
+      - date: '2800-01-01'
+        population:
+          value: 1358297370.0
+      - date: '2810-01-01'
+        population:
+          value: 1350539619.0
+      - date: '2820-01-01'
+        population:
+          value: 1342998381.0
+      - date: '2830-01-01'
+        population:
+          value: 1335670519.0
+      - date: '2840-01-01'
+        population:
+          value: 1330513633.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 1323423589.0
+      - date: '2860-01-01'
+        population:
+          value: 1316540139.0
+      - date: '2870-01-01'
+        population:
+          value: 1309608521.0
+      - date: '2880-01-01'
+        population:
+          value: 1304301351.0
+      - date: '2890-01-01'
+        population:
+          value: 1295771495.0
+      - date: '2900-01-01'
+        population:
+          value: 1289197178.0
+      - date: '2910-01-01'
+        population:
+          value: 1281587548.0
+      - date: '2916-01-01'
+        socioIndustrial:
+          value: D-C-C-C-C
+      - date: '2920-01-01'
+        population:
+          value: 1274758220.0
+      - date: '2930-01-01'
+        population:
+          value: 1268615833.0
+      - date: '2940-01-01'
+        population:
+          value: 1263555798.0
+      - date: '2950-01-01'
+        population:
+          value: 1258919469.0
+      - date: '2960-01-01'
+        population:
+          value: 1254300152.0
+      - date: '2970-01-01'
+        population:
+          value: 1250178636.0
+      - date: '2980-01-01'
+        population:
+          value: 1247349620.0
+      - date: '2990-01-01'
+        population:
+          value: 1243250942.0
+      - date: '3000-01-01'
+        population:
+          value: 1241551560.0
+      - date: '3010-01-01'
+        population:
+          value: 1239298158.0
+      - date: '3020-01-01'
+        population:
+          value: 1236493763.0
+      - date: '3030-01-01'
+        population:
+          value: 1241514166.0
+      - date: '3040-01-01'
+        population:
+          value: 1253364752.0
+      - date: '3045-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-C-C-C
+      - date: '3050-01-01'
+        population:
+          value: 1267988437.0
+      - date: '3060-01-01'
+        population:
+          value: 1283809380.0
+      - date: '3070-01-01'
+        population:
+          value: 1300087717.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 1320000000.0
+      - date: '3080-01-01'
+        population:
+          value: 1321320660.0
+      - date: '3090-01-01'
+        population:
+          value: 1334867100.0
+      - date: '3100-01-01'
+        population:
+          value: 1350441717.0
+      - date: '3110-01-01'
+        population:
+          value: 1359112260.0
+      - date: '3116-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '3120-01-01'
+        population:
+          value: 1359384110.0
+      - date: '3130-01-01'
+        population:
+          value: 1361560865.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1364832536.0
+      - date: '3145-01-01'
+        population:
+          value: 1370576887.0
+  - name:
+      value: Helen
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 9
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 4
+  - name:
+      value: Pleone
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: G1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: G2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: G3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: G4
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: G5
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: G6
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: G7
+        size:
+          value: medium
+        icon: rock16

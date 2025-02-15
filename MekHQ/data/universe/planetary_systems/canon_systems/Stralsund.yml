@@ -1,0 +1,536 @@
+id: Stralsund
+sucsId: 3005
+xcood: -651.703
+ycood: 735.939
+spectralType:
+  value: G7V
+primarySlot: 3
+planet:
+  - name:
+      value: Neuötting
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 146
+    water:
+      value: 0
+  - name:
+      value: Karbach
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 61
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Liekmar
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Stralsund
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 12300
+    density:
+      value: 5.2795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 31
+    water:
+      value: 49
+    lifeForm:
+      value: REPTILE
+    desc: No description available.
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Gòdaschke
+        capital:
+          value: Old Fayetteville
+      - name:
+          value: López
+    event:
+      - date: '2891-06-12'
+        faction:
+          source: canon
+          value:
+            - HL
+        hpg:
+          value: X
+        population:
+          value: 58745.0
+        socioIndustrial:
+          value: C-F-A-D-F
+      - date: '2900-01-01'
+        population:
+          value: 109625.0
+      - date: '2910-01-01'
+        population:
+          value: 179797.0
+      - date: '2920-01-01'
+        population:
+          value: 254473.0
+      - date: '2930-01-01'
+        population:
+          value: 323724.0
+      - date: '2940-01-01'
+        population:
+          value: 382781.0
+      - date: '2950-01-01'
+        population:
+          value: 429328.0
+      - date: '2960-01-01'
+        population:
+          value: 463729.0
+      - date: '2970-01-01'
+        population:
+          value: 488498.0
+      - date: '2980-01-01'
+        population:
+          value: 505411.0
+      - date: '2990-01-01'
+        population:
+          value: 518125.0
+      - date: '3000-01-01'
+        population:
+          value: 524205.0
+      - date: '3010-01-01'
+        population:
+          value: 527142.0
+      - date: '3020-01-01'
+        population:
+          value: 527462.0
+      - date: '3030-01-01'
+        population:
+          value: 528294.0
+      - date: '3040-01-01'
+        population:
+          value: 527920.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: D-F-A-D-F
+      - date: '3050-01-01'
+        population:
+          value: 525223.0
+      - date: '3060-01-01'
+        population:
+          value: 521423.0
+      - date: '3070-01-01'
+        population:
+          value: 522897.0
+      - date: '3080-01-01'
+        population:
+          value: 528364.0
+      - date: '3090-01-01'
+        population:
+          value: 532501.0
+      - date: '3100-01-01'
+        population:
+          value: 535920.0
+      - date: '3110-10-18'
+        population:
+          value: 536778.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '3120-01-01'
+        population:
+          value: 539469.0
+      - date: '3130-01-01'
+        population:
+          value: 543476.0
+      - date: '3140-01-01'
+        population:
+          value: 547622.0
+      - date: '3140-11-15'
+        faction:
+          source: canon
+          value:
+            - CEI
+      - date: '3145-01-01'
+        population:
+          value: 549267.0
+  - name:
+      value: Atlantida
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -64
+    water:
+      value: 0
+  - name:
+      value: Grafing b.München
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Roma
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Åsgard
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Iovis
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Schuld
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Balder
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Z-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Z-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Z-3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Navarro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+  - name:
+      value: Neuhaus-Schierschnitz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Horta
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Jupiter
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Antinous
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Zweig
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hiko Hohodemi
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Iovis
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Aius Locutius
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Aasgard
+    type:
+      value: ICE_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 6
+  - name:
+      value: ML71 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -252
+  - name:
+      value: Níu Heimar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 12
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4606.2
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Ziu
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Ostara
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Ermunaz
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Wurdiz
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Frey
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Ēostre
+        size:
+          value: medium
+        icon: oddmoon1

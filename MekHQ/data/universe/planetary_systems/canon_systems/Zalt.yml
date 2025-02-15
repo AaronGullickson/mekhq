@@ -1,0 +1,273 @@
+id: Zalt
+sucsId: 2811
+xcood: 661.832
+ycood: 248.285
+spectralType:
+  value: M5V
+primarySlot: 1
+event:
+  - date: '2897-12-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Zalt
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green52
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 35
+    water:
+      value: 43
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Morrigna
+        capital:
+          value: Macha
+    satellite:
+      - name:
+          value: Nobsa I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Nobsa II
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2733-09-06'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 43971.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2740-01-01'
+        population:
+          value: 99827.0
+      - date: '2741-09-06'
+        hpg:
+          value: X
+      - date: '2750-01-01'
+        population:
+          value: 265371.0
+      - date: '2760-01-01'
+        population:
+          value: 587334.0
+      - date: '2770-01-01'
+        population:
+          value: 1116211.0
+      - date: '2780-01-01'
+        population:
+          value: 1869622.0
+      - date: '2790-01-01'
+        population:
+          value: 2838812.0
+      - date: '2800-01-01'
+        population:
+          value: 3996393.0
+      - date: '2810-01-01'
+        population:
+          value: 5275406.0
+      - date: '2820-01-01'
+        population:
+          value: 6629695.0
+      - date: '2830-01-01'
+        population:
+          value: 8003854.0
+      - date: '2839-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2840-01-01'
+        population:
+          value: 8161122.0
+      - date: '2850-01-01'
+        population:
+          value: 2704625.0
+      - date: '2860-01-01'
+        population:
+          value: 722339.0
+      - date: '2864-07-08'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 167776.0
+      - date: '2880-01-01'
+        population:
+          value: 31405.0
+      - date: '2890-01-01'
+        population:
+          value: 7202.0
+      - date: '2897-06-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ocoee
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 2
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: TT-1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: TT-2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: TT-3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: TT-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: TT-5
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Bjugn Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.56
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -169
+  - name:
+      value: '''s-Hertogenbosch'
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.04
+    sysPos:
+      value: 4
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Barkelsby Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 7.8
+    temperature:
+      value: -234
+  - name:
+      value: Surupa's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.76
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 21.6
+    smallMoons:
+      value: 7

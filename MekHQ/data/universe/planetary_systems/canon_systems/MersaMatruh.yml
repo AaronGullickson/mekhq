@@ -1,0 +1,675 @@
+id: Mersa Matruh
+sucsId: 1688
+xcood: 130.855
+ycood: 168.849
+spectralType:
+  value: F8V
+primarySlot: 4
+event:
+  - date: '2359-10-23'
+    nadirCharge:
+      value: yes
+  - date: '2449-03-17'
+    zenithCharge:
+      value: yes
+  - date: '2789-05-03'
+    nadirCharge:
+      value: no
+  - date: '2811-04-25'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Farid
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 3
+  - name:
+      value: Kahil
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 2
+    icon: barren7
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 113
+    water:
+      value: 0
+  - name:
+      value: Bin Na'il's Rift
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.2
+    sysPos:
+      value: 3
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 35000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Ku Ka Pua
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Maui
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Murimuria
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Alalahe
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Abere
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Mersa Matruh
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.92
+    sysPos:
+      value: 4
+    icon: green51
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 28
+    yearLength:
+      value: 2.9
+    temperature:
+      value: 25
+    water:
+      value: 51
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Bilal
+        capital:
+          value: New Markaz al Wāḩāt ad Dākhilah
+      - name:
+          value: Humam
+      - name:
+          value: Bin Jalil's Choice
+    event:
+      - date: '2305-11-29'
+        faction:
+          source: canon
+          value:
+            - AG
+        population:
+          value: 49200.0
+        socioIndustrial:
+          value: C-D-C-D-B
+      - date: '2310-01-01'
+        population:
+          value: 106774.0
+      - date: '2319-07-20'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2320-01-01'
+        population:
+          value: 424875.0
+      - date: '2330-01-01'
+        population:
+          value: 1387535.0
+      - date: '2340-01-01'
+        population:
+          value: 3795514.0
+      - date: '2350-01-01'
+        population:
+          value: 8951094.0
+      - date: '2355-01-01'
+        socioIndustrial:
+          value: C-D-D-D-B
+      - date: '2360-01-01'
+        population:
+          value: 18573896.0
+      - date: '2370-01-01'
+        population:
+          value: 34555448.0
+      - date: '2380-01-01'
+        population:
+          value: 58656864.0
+      - date: '2390-01-01'
+        population:
+          value: 92534241.0
+      - date: '2400-01-01'
+        population:
+          value: 136595906.0
+      - date: '2410-01-01'
+        population:
+          value: 190835606.0
+      - date: '2420-01-01'
+        population:
+          value: 253779888.0
+      - date: '2430-01-01'
+        population:
+          value: 324246255.0
+      - date: '2440-01-01'
+        population:
+          value: 402135701.0
+      - date: '2447-01-01'
+        socioIndustrial:
+          value: C-D-D-C-B
+      - date: '2450-01-01'
+        population:
+          value: 483526566.0
+      - date: '2460-01-01'
+        population:
+          value: 566498362.0
+      - date: '2470-01-01'
+        population:
+          value: 647336653.0
+      - date: '2480-01-01'
+        population:
+          value: 729167425.0
+      - date: '2490-01-01'
+        population:
+          value: 809432323.0
+      - date: '2500-01-01'
+        population:
+          value: 885100755.0
+      - date: '2510-01-01'
+        population:
+          value: 954712474.0
+      - date: '2520-01-01'
+        population:
+          value: 1020010206.0
+      - date: '2530-01-01'
+        population:
+          value: 1080341792.0
+      - date: '2540-01-01'
+        population:
+          value: 1128730941.0
+      - date: '2550-01-01'
+        population:
+          value: 1162210975.0
+      - date: '2557-01-01'
+        socioIndustrial:
+          value: C-C-D-B-B
+      - date: '2560-01-01'
+        population:
+          value: 1189430656.0
+      - date: '2570-01-01'
+        population:
+          value: 1212299845.0
+      - date: '2580-01-01'
+        population:
+          value: 1232836983.0
+      - date: '2590-01-01'
+        population:
+          value: 1245870572.0
+      - date: '2600-01-01'
+        population:
+          value: 1255519995.0
+      - date: '2610-01-01'
+        population:
+          value: 1263485715.0
+      - date: '2620-01-01'
+        population:
+          value: 1271959242.0
+      - date: '2630-01-01'
+        population:
+          value: 1279284659.0
+      - date: '2633-01-01'
+        socioIndustrial:
+          value: B-B-D-A-A
+      - date: '2640-01-01'
+        population:
+          value: 1291181182.0
+      - date: '2650-05-24'
+        hpg:
+          value: B
+        population:
+          value: 1302838519.0
+      - date: '2660-01-01'
+        population:
+          value: 1309245063.0
+      - date: '2670-01-01'
+        population:
+          value: 1315783167.0
+      - date: '2680-01-01'
+        population:
+          value: 1328465956.0
+      - date: '2690-01-01'
+        population:
+          value: 1340636711.0
+      - date: '2700-01-01'
+        population:
+          value: 1354036413.0
+      - date: '2710-01-01'
+        population:
+          value: 1362532709.0
+      - date: '2720-01-01'
+        population:
+          value: 1360132409.0
+      - date: '2730-01-01'
+        population:
+          value: 1348862680.0
+      - date: '2740-01-01'
+        population:
+          value: 1338616674.0
+      - date: '2750-01-01'
+        population:
+          value: 1333426068.0
+      - date: '2760-01-01'
+        population:
+          value: 1328492063.0
+      - date: '2769-03-20'
+        hpg:
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 1322796357.0
+      - date: '2780-02-01'
+        hpg:
+          value: B
+        population:
+          value: 1317702503.0
+      - date: '2790-01-01'
+        population:
+          value: 1307084549.0
+      - date: '2800-01-01'
+        population:
+          value: 1301022245.0
+      - date: '2810-01-01'
+        population:
+          value: 1301506193.0
+      - date: '2820-01-01'
+        population:
+          value: 1323963483.0
+      - date: '2830-01-01'
+        population:
+          value: 1343056859.0
+      - date: '2840-02-12'
+        population:
+          value: 1346557850.0
+        socioIndustrial:
+          value: C-C-F-B-B
+      - date: '2850-01-01'
+        population:
+          value: 1329143684.0
+      - date: '2860-01-01'
+        population:
+          value: 1304656245.0
+      - date: '2870-01-01'
+        population:
+          value: 1274206416.0
+      - date: '2880-01-01'
+        population:
+          value: 1253525155.0
+      - date: '2890-01-01'
+        population:
+          value: 1245624867.0
+      - date: '2900-01-01'
+        population:
+          value: 1227460034.0
+      - date: '2910-01-01'
+        population:
+          value: 1198811915.0
+      - date: '2914-01-01'
+        socioIndustrial:
+          value: D-D-F-C-C
+      - date: '2920-01-01'
+        population:
+          value: 1173447979.0
+      - date: '2930-01-01'
+        population:
+          value: 1155046270.0
+      - date: '2940-01-01'
+        population:
+          value: 1125573791.0
+      - date: '2950-01-01'
+        population:
+          value: 1093188142.0
+      - date: '2960-01-01'
+        population:
+          value: 1061734311.0
+      - date: '2970-01-01'
+        population:
+          value: 1030035617.0
+      - date: '2980-01-01'
+        population:
+          value: 991509276.0
+      - date: '2990-01-01'
+        population:
+          value: 946998891.0
+      - date: '3000-01-01'
+        population:
+          value: 914634671.0
+      - date: '3010-01-01'
+        population:
+          value: 880915952.0
+      - date: '3020-01-01'
+        population:
+          value: 857959504.0
+      - date: '3030-01-01'
+        population:
+          value: 849661915.0
+      - date: '3036-01-01'
+        socioIndustrial:
+          value: C-D-F-C-B
+      - date: '3040-01-01'
+        population:
+          value: 857000518.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          value: B-C-D-B-A
+      - date: '3048-01-01'
+        socioIndustrial:
+          value: A-C-D-B-A
+      - date: '3050-01-01'
+        population:
+          value: 863624893.0
+      - date: '3060-01-01'
+        population:
+          value: 869865431.0
+      - date: '3070-01-01'
+        population:
+          value: 875975851.0
+      - date: '3080-01-01'
+        population:
+          value: 885133537.0
+      - date: '3090-01-01'
+        population:
+          value: 893493020.0
+      - date: '3100-01-01'
+        population:
+          value: 898870093.0
+      - date: '3104-01-01'
+        socioIndustrial:
+          value: A-C-D-B-B
+      - date: '3110-01-01'
+        population:
+          value: 902472774.0
+      - date: '3120-01-01'
+        population:
+          value: 902292298.0
+      - date: '3130-01-01'
+        population:
+          value: 900489517.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 901751085.0
+      - date: '3145-01-01'
+        population:
+          value: 902653287.0
+  - name:
+      value: Khatib
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.36
+    sysPos:
+      value: 5
+    icon: frozen8
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Carbon Dioxide and Methane
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 6.3
+    temperature:
+      value: -63
+    water:
+      value: 46
+    landmass:
+      - name:
+          value: New Markaz Awlād Ţawq Sharq
+      - name:
+          value: Markaz Dayr Mawās
+      - name:
+          value: Muḩāfaz̧at al Qalyūbīyah
+      - name:
+          value: Markaz al Qūşīyah Jadida
+  - name:
+      value: Adshead
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.24
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 15.6
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Markaz Sīdī Sālim
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Mit Yazid
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Perpezat
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Al Bin Safiy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.52
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 114.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Asshur
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Ellil
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Sin
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Me
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Pazuzu
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Absu
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Istar
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Anshur
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Mamitu
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Viborg
+    type:
+      value: ICE_GIANT
+    orbitalDist: 46.56
+    sysPos:
+      value: 8
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 21
+    yearLength:
+      value: 317.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Shakti
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Rama
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Daksha
+        size:
+          value: medium
+        icon: rock5

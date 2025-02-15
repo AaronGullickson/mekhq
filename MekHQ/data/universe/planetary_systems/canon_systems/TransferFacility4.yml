@@ -1,0 +1,428 @@
+id: Transfer Facility 4
+sucsId: 3036
+xcood: 293.32
+ycood: 669.005
+spectralType:
+  source: canon
+  value: M4II
+primarySlot: 2
+event:
+  - date: '2864-06-15'
+    nadirCharge:
+      value: yes
+    zenithCharge:
+      value: yes
+  - date: '3049-08-01'
+    nadirCharge:
+      value: yes
+    zenithCharge:
+      value: yes
+  - date: '3063-06-14'
+    nadirCharge:
+      value: yes
+  - date: '3075-01-24'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: MP-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 90
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: UVJ-1
+      - name:
+          value: UVJ-0
+    satellite:
+      - name:
+          value: PI1
+        size:
+          value: large
+        icon: rock5
+  - name:
+      source: canon
+      value: Transfer Facility 4
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: wet6
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 11100
+    density:
+      value: 6.8337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 31
+    water:
+      value: 75
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: S-1
+      - name:
+          value: S-2
+      - name:
+          value: S-3
+      - name:
+          value: S-4
+    satellite:
+      - name:
+          value: U-1
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '2864-09-26'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 925.0
+        socioIndustrial:
+          value: B-X-X-X-X
+      - date: '3049-08-01'
+        faction:
+          source: canon
+          value:
+            - CSJ
+        hpg:
+          value: A
+        population:
+          value: 1792.0
+        socioIndustrial:
+          value: A-X-X-X-X
+      - date: '3063-03-17'
+        faction:
+          source: canon
+          value:
+            - CS
+        hpg:
+          value: A
+        population:
+          value: 8475.0
+        socioIndustrial:
+          value: B-X-X-X-X
+      - date: '3075-02-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: MP-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: TL-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: TL-2
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: TL-3
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: TL-4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: MP-4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 4
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    satellite:
+      - name:
+          value: H-1
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: MP-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: SL1
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: SL2
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: SL3
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: MP-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.0
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 80000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 5.2
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: QP-1
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: QP-2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: QP-3
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: MP-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.88
+    sysPos:
+      value: 7
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 14.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: MP-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.64
+    sysPos:
+      value: 8
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 39.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: P1
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: MP-9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.16
+    sysPos:
+      value: 9
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 6
+    yearLength:
+      value: 111.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: C4-1
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: C4-2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: C4-3
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: C4-4
+        size:
+          value: medium
+        icon: rock7

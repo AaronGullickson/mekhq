@@ -1,0 +1,445 @@
+id: Star Cluster Briceno 1
+sucsId: 3092
+xcood: 1311.721
+ycood: -570.295
+spectralType:
+  value: M0V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Star Cluster Briceno 1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green12
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 30
+    water:
+      value: 52
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Pullela
+        capital:
+          value: Ivanovskoye
+      - name:
+          value: Buizer
+      - name:
+          value: Avery
+      - name:
+          value: Torset
+    event:
+      - date: '3095-11-02'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-F-A-D-C
+      - date: '3098-03-07'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 93881.0
+      - date: '3110-01-01'
+        population:
+          value: 209144.0
+      - date: '3120-01-01'
+        population:
+          value: 246663.0
+      - date: '3130-01-01'
+        population:
+          value: 276034.0
+      - date: '3140-01-01'
+        population:
+          value: 298874.0
+      - date: '3145-01-01'
+        population:
+          value: 309365.0
+  - name:
+      value: Balvu pagasts
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: barren9
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 12
+    water:
+      value: 0
+  - name:
+      value: Chemung Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -40
+  - name:
+      value: Bonete
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 170000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Bimbogami 1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Bimbogami 2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Bimbogami 3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Bimbogami 4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bimbogami 5
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: ElistaOkrug
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Xanthos
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Palmer
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Sonora
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: R1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: R2
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: R3
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: R4
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: New Lincolnshire
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 11.2
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Apocatequil
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Apu Punchau
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Liber
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: D-1
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Pickaway
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 160000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Qi Lin
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Sajjadi's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: O1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: O2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: O3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: O4
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: O5
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: O6
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: O7
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: O8
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Ménessaire
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 239.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Koljada
+        size:
+          value: medium
+        icon: oddmoon1

@@ -1,0 +1,440 @@
+id: Idrmach/Idrmarch
+sucsId: 3013
+xcood: -166.642
+ycood: 584.489
+spectralType:
+  value: G5V
+primarySlot: 2
+planet:
+  - name:
+      value: Nordengren
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 169
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Idrmach/Idrmarch
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: green55
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 13800
+    density:
+      value: 6.3437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 39
+    water:
+      value: 39
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: New Panadaran
+        capital:
+          value: New Izmaylovo
+      - name:
+          value: Hutton's Run
+      - name:
+          value: Wildschönau
+    event:
+      - date: '2864-02-11'
+        faction:
+          source: canon
+          value:
+            - CI
+        hpg:
+          value: X
+        population:
+          value: 49610.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2870-01-01'
+        population:
+          value: 104413.0
+      - date: '2880-01-01'
+        population:
+          value: 271409.0
+      - date: '2890-01-01'
+        population:
+          value: 538040.0
+      - date: '2900-01-01'
+        population:
+          value: 883197.0
+      - date: '2910-01-01'
+        population:
+          value: 1255831.0
+      - date: '2920-01-01'
+        population:
+          value: 1612891.0
+      - date: '2930-01-01'
+        population:
+          value: 1935877.0
+      - date: '2940-01-01'
+        population:
+          value: 2222392.0
+      - date: '2950-01-01'
+        population:
+          value: 2462114.0
+      - date: '2960-01-01'
+        population:
+          value: 2662093.0
+      - date: '2970-01-01'
+        population:
+          value: 2817276.0
+      - date: '2980-01-01'
+        population:
+          value: 2949383.0
+      - date: '2990-01-01'
+        population:
+          value: 3044306.0
+      - date: '3000-01-01'
+        population:
+          value: 3118012.0
+      - date: '3010-01-01'
+        population:
+          value: 3175208.0
+      - date: '3020-01-01'
+        population:
+          value: 3227958.0
+      - date: '3030-01-01'
+        population:
+          value: 3246136.0
+      - date: '3040-01-01'
+        population:
+          value: 3228336.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3050-01-01'
+        population:
+          value: 3208142.0
+      - date: '3060-01-01'
+        population:
+          value: 3182373.0
+      - date: '3070-01-01'
+        population:
+          value: 3177724.0
+      - date: '3080-01-01'
+        population:
+          value: 3209660.0
+      - date: '3090-01-01'
+        population:
+          value: 3265344.0
+      - date: '3098-01-01'
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '3100-01-01'
+        population:
+          value: 3320001.0
+      - date: '3110-01-01'
+        population:
+          value: 3352697.0
+      - date: '3120-01-01'
+        population:
+          value: 3376248.0
+      - date: '3130-01-01'
+        population:
+          value: 3402005.0
+      - date: '3140-01-01'
+        population:
+          value: 3415641.0
+      - date: '3145-01-01'
+        population:
+          value: 3415641.0
+  - name:
+      value: Mills
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 170000
+    density:
+      value: 0.9
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Stjern I
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Stjern II
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Stjern III
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Nerland's End
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 4
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Faustulus
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Aius Locutus
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Venetico Superiore
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: Leimoniads
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Morales
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 6
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Davaajav Alpha
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Davaajav Beta
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Davaajav Gamma
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Davaajav Delta
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Polevik
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 3
+  - name:
+      value: De Soto
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 8
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Fintan 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Fintan 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Fintan 3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Fintan 4
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Fintan 5
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Fintan 6
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Fintan 7
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Fintan 8
+        size:
+          value: medium
+        icon: oddmoon2

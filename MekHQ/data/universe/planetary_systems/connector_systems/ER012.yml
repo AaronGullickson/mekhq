@@ -1,0 +1,342 @@
+id: ER 012
+sucsId: .na
+xcood: -126.0
+ycood: 842.0
+spectralType:
+  value: G6V
+planet:
+  - name:
+      value: 3U1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1400
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 162
+    water:
+      value: 0
+  - name:
+      value: 3U2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: greenhouse1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 95
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: E51
+      - name:
+          value: E50
+  - name:
+      value: 3U3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: greenhouse9
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 24
+    water:
+      value: 19
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: EB-1
+      - name:
+          value: EB-0
+  - name:
+      value: 3U4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 8
+  - name:
+      value: 3U5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: P-1
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: 3U6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 15
+  - name:
+      value: 3U7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 20
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: SF-1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: SF-2
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: SF-3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: SF-4
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: SF-5
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: SF-6
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: SF-7
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: SF-8
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: 3U8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 22
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: MD-1
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: 3U9
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 9
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 579.1
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 6H1
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: 6H2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 6H3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: 6H4
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: 6H5
+        size:
+          value: medium
+        icon: rock11

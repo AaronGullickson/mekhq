@@ -1,0 +1,319 @@
+id: Angra
+sucsId: 137
+xcood: 390.616
+ycood: -361.187
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2847-04-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Angra
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green46
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 26
+    water:
+      value: 45
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Smaller Retiro de Namorado
+        capital:
+          value: New Nova Pádua
+      - name:
+          value: Larger Retiro de Namorado
+    satellite:
+      - name:
+          value: Gurgel
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Frana
+        size:
+          value: medium
+        icon: rock14
+    event:
+      - date: '2704-06-14'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 51015.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2710-01-01'
+        population:
+          value: 111897.0
+      - date: '2713-03-18'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 344013.0
+      - date: '2730-01-01'
+        population:
+          value: 865828.0
+      - date: '2740-01-01'
+        population:
+          value: 1844644.0
+      - date: '2750-01-01'
+        population:
+          value: 3431125.0
+      - date: '2760-01-01'
+        population:
+          value: 5714919.0
+      - date: '2770-04-09'
+        hpg:
+          value: X
+        population:
+          value: 8707756.0
+      - date: '2780-05-17'
+        hpg:
+          value: B
+        population:
+          value: 12317771.0
+      - date: '2790-01-01'
+        population:
+          value: 16303342.0
+      - date: '2800-01-01'
+        population:
+          value: 20388700.0
+      - date: '2810-01-01'
+        population:
+          value: 24421874.0
+      - date: '2820-01-01'
+        population:
+          value: 18207107.0
+      - date: '2830-01-01'
+        population:
+          value: 1742832.0
+      - date: '2840-01-01'
+        population:
+          value: 171671.0
+      - date: '2847-06-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Canal's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: barren20
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -71
+    water:
+      value: 0
+  - name:
+      value: Derbyshire
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 20
+  - name:
+      value: Gravateira
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.04
+    sysPos:
+      value: 4
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 9
+  - name:
+      value: Milreu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+  - name:
+      value: De Faria
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: ANS1
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Rolo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 21.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: L-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: L-2
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: L-3
+        size:
+          value: medium
+        icon: rock15

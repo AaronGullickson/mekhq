@@ -1,0 +1,386 @@
+id: Yamoussoukra
+sucsId: 2791
+xcood: 504.06
+ycood: -67.985
+spectralType:
+  value: F2V
+primarySlot: 4
+event:
+  - date: '2769-08-27'
+    nadirCharge:
+      value: yes
+  - date: '2803-09-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Rocher
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Crawford's Rift
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 40000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: D1
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Hamada's Garden
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 80
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Yamoussoukra
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green33
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 29
+    water:
+      value: 35
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Esperance Shire Alpha
+        capital:
+          value: Marrero's World City
+      - name:
+          value: Esperance Shire Beta
+      - name:
+          value: Esperance Shire Gamma
+    event:
+      - date: '2742-06-28'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 44716.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2743-12-28'
+        hpg:
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 147014.0
+      - date: '2760-01-01'
+        population:
+          value: 494997.0
+      - date: '2770-01-01'
+        population:
+          value: 1300609.0
+      - date: '2780-01-01'
+        population:
+          value: 2811455.0
+      - date: '2790-01-01'
+        population:
+          value: 1144061.0
+      - date: '2800-01-01'
+        population:
+          value: 106724.0
+      - date: '2803-07-31'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Neal
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 8.7
+  - name:
+      value: Pantelakos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Brantley
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Culley
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Mat Yunus
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Attis
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Sorsa
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Neal
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Goulandris
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Mohmand
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Sanchez's Home
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 58.1
+    smallMoons:
+      value: 20
+  - name:
+      value: Evenrud's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 159.4
+    temperature:
+      value: -193
+  - name:
+      value: Froehucher
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 2
+  - name:
+      value: Saturnino
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 10
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 7
+    yearLength:
+      value: 1246.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Kang A
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kang B
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Kang C
+        size:
+          value: medium
+        icon: oddmoon2

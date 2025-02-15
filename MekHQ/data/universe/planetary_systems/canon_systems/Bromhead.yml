@@ -1,0 +1,647 @@
+id: Bromhead
+sucsId: 403
+xcood: 159.739
+ycood: -377.477
+spectralType:
+  source: canon
+  value: F9II
+primarySlot: 6
+event:
+  - date: '2359-11-06'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Homewood
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: barren20
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 470
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Sauvagny
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: greenhouse26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.59
+    diameter:
+      value: 6500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 480
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Lyndon I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lyndon II
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lyndon III
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: Chauk
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: barren5
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.58
+    diameter:
+      value: 8500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 184
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Mont-Saint-Hilaire
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: barren21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.62
+    diameter:
+      value: 10500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 98
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Earnshaw's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 5
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 35000
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      source: canon
+      value: Bromhead
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 6
+    icon: green28
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13747
+    density:
+      value: 5.108262592534
+    dayLength:
+      value: 21
+    yearLength:
+      value: 5.5
+    temperature:
+      source: canon
+      value: 40
+    water:
+      source: canon
+      value: 40
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: Bromhead is an arid planet with only modest natural resources but sufficient
+      arable land, despite the dry conditions. Bromhead has been important primarily
+      for strategic reasons due to its location on the border between the Federated
+      Suns and Capellan Confederation. The planet has two continents, the northern
+      continent of Zanzabar is more temperate and home to most of the planet's population,
+      while the southern continent Salazaar is barren desert and badlands divided
+      by the Salaarn-Zurkan mountain range, which has higher peaks than the famous
+      Mt. Everest on Terra. The AFFS used the mostly uninhabited continent of Salazaar
+      as a desert and mountain training ground for soldiers.
+    landmass:
+      - name:
+          source: canon
+          value: Salazaar
+      - name:
+          source: canon
+          value: Zanzabar
+        capital:
+          source: canon
+          value: Brom's Home
+    satellite:
+      - name:
+          value: Brom’s Reflection
+        size:
+          value: large
+        icon: rock8
+    event:
+      - date: '2341-04-14'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 58062.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2350-01-01'
+        population:
+          value: 190797.0
+      - date: '2360-01-01'
+        population:
+          value: 592250.0
+      - date: '2370-01-01'
+        population:
+          value: 1545760.0
+      - date: '2380-01-01'
+        population:
+          value: 3463377.0
+      - date: '2390-01-01'
+        population:
+          value: 6863389.0
+      - date: '2400-01-01'
+        population:
+          value: 12218390.0
+      - date: '2410-01-01'
+        population:
+          value: 20066898.0
+      - date: '2420-01-01'
+        population:
+          value: 30670419.0
+      - date: '2430-01-01'
+        population:
+          value: 43913465.0
+      - date: '2440-01-01'
+        population:
+          value: 59504392.0
+      - date: '2450-01-01'
+        population:
+          value: 76514968.0
+      - date: '2460-01-01'
+        population:
+          value: 93911398.0
+      - date: '2470-01-01'
+        population:
+          value: 111117338.0
+      - date: '2475-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2480-01-01'
+        population:
+          value: 128254539.0
+      - date: '2488-01-01'
+        socioIndustrial:
+          value: B-D-C-C-B
+      - date: '2490-01-01'
+        population:
+          value: 144271036.0
+      - date: '2500-01-01'
+        population:
+          value: 159303955.0
+      - date: '2510-01-01'
+        population:
+          value: 173126169.0
+      - date: '2520-01-01'
+        population:
+          value: 185172466.0
+      - date: '2530-01-01'
+        population:
+          value: 195623674.0
+      - date: '2540-01-01'
+        population:
+          value: 205116552.0
+      - date: '2550-01-01'
+        population:
+          value: 212768121.0
+      - date: '2560-01-01'
+        population:
+          value: 219551106.0
+      - date: '2570-01-01'
+        population:
+          value: 224986433.0
+      - date: '2580-01-01'
+        population:
+          value: 229043465.0
+      - date: '2582-05-13'
+        faction:
+          source: canon
+          value:
+            - SL
+            - TC
+      - date: '2582-09-28'
+        faction:
+          source: canon
+          value:
+            - SL
+      - date: '2590-01-01'
+        population:
+          value: 232664712.0
+      - date: '2596-09-22'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '2600-01-01'
+        population:
+          value: 235703661.0
+      - date: '2610-01-01'
+        population:
+          value: 238176959.0
+      - date: '2620-01-01'
+        population:
+          value: 239271169.0
+      - date: '2630-01-01'
+        population:
+          value: 239831119.0
+      - date: '2640-01-01'
+        population:
+          value: 239840074.0
+      - date: '2648-03-16'
+        hpg:
+          source: canon
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 239463781.0
+      - date: '2660-01-01'
+        population:
+          value: 238715409.0
+      - date: '2670-01-01'
+        population:
+          value: 237600697.0
+      - date: '2679-01-01'
+        socioIndustrial:
+          value: A-C-C-B-A
+      - date: '2680-01-01'
+        population:
+          value: 237018374.0
+      - date: '2690-01-01'
+        population:
+          value: 237189744.0
+      - date: '2700-01-01'
+        population:
+          value: 237480761.0
+      - date: '2710-01-01'
+        population:
+          value: 238584493.0
+      - date: '2720-01-01'
+        population:
+          value: 240726608.0
+      - date: '2730-01-01'
+        population:
+          value: 242931255.0
+      - date: '2740-01-01'
+        population:
+          value: 243992705.0
+      - date: '2750-01-01'
+        population:
+          value: 244837889.0
+      - date: '2760-01-01'
+        population:
+          value: 245869017.0
+      - date: '2770-01-01'
+        population:
+          value: 247345352.0
+      - date: '2780-01-01'
+        population:
+          value: 247891065.0
+      - date: '2790-01-01'
+        population:
+          value: 246941017.0
+      - date: '2800-01-01'
+        population:
+          value: 245570784.0
+      - date: '2810-01-01'
+        population:
+          value: 239004363.0
+      - date: '2820-01-01'
+        population:
+          value: 232864174.0
+      - date: '2830-01-01'
+        population:
+          value: 228844911.0
+      - date: '2840-01-01'
+        population:
+          value: 227820310.0
+      - date: '2850-01-01'
+        population:
+          value: 223526720.0
+      - date: '2860-01-24'
+        population:
+          value: 215103538.0
+        socioIndustrial:
+          value: B-D-C-C-B
+      - date: '2870-01-01'
+        population:
+          value: 206330063.0
+      - date: '2880-01-01'
+        population:
+          value: 198341184.0
+      - date: '2890-01-01'
+        population:
+          value: 189842055.0
+      - date: '2900-01-01'
+        population:
+          value: 184467552.0
+      - date: '2906-01-01'
+        socioIndustrial:
+          value: B-D-C-C-B
+      - date: '2910-01-01'
+        population:
+          value: 184732627.0
+      - date: '2920-01-01'
+        population:
+          value: 184699472.0
+      - date: '2930-01-01'
+        population:
+          value: 182983575.0
+      - date: '2940-01-01'
+        population:
+          value: 181576709.0
+      - date: '2950-01-01'
+        population:
+          value: 179213032.0
+      - date: '2960-01-01'
+        population:
+          value: 177739421.0
+      - date: '2970-01-01'
+        population:
+          value: 178378627.0
+      - date: '2980-01-01'
+        population:
+          value: 178538787.0
+      - date: '2990-01-01'
+        population:
+          value: 177070720.0
+      - date: '3000-01-01'
+        population:
+          value: 171133774.0
+      - date: '3010-01-01'
+        population:
+          value: 165484971.0
+      - date: '3020-01-01'
+        population:
+          value: 159334758.0
+      - date: '3030-01-01'
+        population:
+          value: 156896478.0
+      - date: '3040-01-01'
+        population:
+          value: 158188318.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3046-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-C-C-C-B
+      - date: '3050-01-01'
+        population:
+          value: 159506745.0
+      - date: '3060-01-01'
+        population:
+          value: 160530862.0
+      - date: '3062-12-06'
+        faction:
+          source: canon
+          value:
+            - FC
+            - LA
+      - date: '3063-02-12'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3069-02-18'
+        faction:
+          source: canon
+          value:
+            - FS
+            - CC
+      - date: '3069-03-10'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 161868813.0
+      - date: '3074-06-25'
+        faction:
+          source: canon
+          value:
+            - TC
+      - date: '3080-01-01'
+        population:
+          value: 164413766.0
+      - date: '3090-01-01'
+        population:
+          value: 166765096.0
+      - date: '3100-01-01'
+        population:
+          value: 169658266.0
+      - date: '3110-01-01'
+        population:
+          value: 171740774.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: B-C-C-C-B
+      - date: '3120-01-01'
+        population:
+          value: 173085590.0
+      - date: '3130-06-02'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 173814078.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 175350392.0
+      - date: '3145-01-01'
+        population:
+          value: 176335109.0
+  - name:
+      value: Nova CharterBangor
+    type:
+      value: ICE_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 36.5
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: N421
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: N422
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: N423
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Old Longview
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1400
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -172
+    water:
+      value: 0
+    smallMoons:
+      value: 3

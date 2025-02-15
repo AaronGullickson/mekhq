@@ -1,0 +1,423 @@
+id: Verdinge
+sucsId: 2674
+xcood: 517.115
+ycood: -6.375
+spectralType:
+  value: F1V
+primarySlot: 3
+event:
+  - date: '2921-05-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Rocky Ford
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 1
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Wendego
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Aakuluujjusi
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Crow
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Iwate-gun
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: barren16
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 86
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Hohnir I
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Hohnir II
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      source: canon
+      value: Verdinge
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 3
+    icon: green7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.76
+    diameter:
+      value: 11400
+    density:
+      value: 4.6818
+    dayLength:
+      value: 24
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 27
+    water:
+      value: 40
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: New Ballina
+        capital:
+          value: Embrach
+      - name:
+          value: Minor New East McHenry
+      - name:
+          value: Major New East McHenry
+      - name:
+          value: New Marugán
+      - name:
+          value: Matzen-Raggendorf
+    event:
+      - date: '2702-07-09'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 43892.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 120631.0
+      - date: '2720-01-01'
+        population:
+          value: 347230.0
+      - date: '2723-01-28'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 828921.0
+      - date: '2740-01-01'
+        population:
+          value: 1692591.0
+      - date: '2750-01-01'
+        population:
+          value: 3052176.0
+      - date: '2760-01-01'
+        population:
+          value: 4953488.0
+      - date: '2770-01-01'
+        population:
+          value: 7383119.0
+      - date: '2780-01-01'
+        population:
+          value: 10280162.0
+      - date: '2790-01-01'
+        population:
+          value: 10342293.0
+      - date: '2800-01-01'
+        population:
+          value: 5153965.0
+      - date: '2810-01-01'
+        population:
+          value: 2173562.0
+      - date: '2820-01-01'
+        population:
+          value: 775726.0
+      - date: '2830-01-01'
+        population:
+          value: 334763.0
+      - date: '2840-01-01'
+        population:
+          value: 150406.0
+      - date: '2850-01-01'
+        population:
+          value: 62704.0
+      - date: '2860-01-01'
+        population:
+          value: 26444.0
+      - date: '2870-01-01'
+        population:
+          value: 13331.0
+      - date: '2880-01-01'
+        population:
+          value: 7895.0
+      - date: '2890-01-01'
+        population:
+          value: 4466.0
+      - date: '2900-01-01'
+        population:
+          value: 2802.0
+      - date: '2910-01-01'
+        population:
+          value: 1916.0
+      - date: '2920-01-01'
+        population:
+          value: 1288.0
+      - date: '2921-06-30'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Spotterswood's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 8.32
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 24.0
+    temperature:
+      value: -119
+  - name:
+      value: Merced
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 5
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Vápno
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 6
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 80000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Y1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Y2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Y3
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Flagstaff
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 7
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 489.1
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: EM1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: EM2
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: EM3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: EM4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: EM5
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: EM6
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: EM7
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Liscomb
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.4
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 3867.8
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Dagdha Alpha
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Dagdha Beta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Dagdha Gamma
+        size:
+          value: medium
+        icon: oddmoon2

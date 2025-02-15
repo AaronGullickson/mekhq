@@ -1,0 +1,402 @@
+id: Hellespont
+sucsId: 2905
+xcood: 235.525
+ycood: -512.462
+spectralType:
+  value: M3V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Hellespont
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.12
+    sysPos:
+      value: 1
+    icon: green37
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.5
+    temperature:
+      value: 38
+    water:
+      value: 48
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Korb
+        capital:
+          value: Adamidisopolis
+      - name:
+          value: Ierápetra
+    event:
+      - date: '3028-10-19'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48851.0
+        socioIndustrial:
+          value: D-D-A-F-F
+      - date: '3030-01-01'
+        population:
+          value: 269605.0
+      - date: '3031-07-01'
+        hpg:
+          value: D
+      - date: '3040-01-01'
+        population:
+          value: 7724246.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '3050-01-01'
+        population:
+          value: 13824343.0
+      - date: '3060-01-01'
+        population:
+          value: 15348621.0
+      - date: '3066-04-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3070-01-01'
+        population:
+          value: 15647394.0
+      - date: '3080-01-01'
+        population:
+          value: 15747859.0
+      - date: '3090-01-01'
+        population:
+          value: 15754159.0
+      - date: '3100-01-01'
+        population:
+          value: 15915674.0
+      - date: '3110-01-01'
+        population:
+          value: 16094931.0
+      - date: '3114-01-01'
+        socioIndustrial:
+          value: B-D-A-D-F
+      - date: '3120-01-01'
+        population:
+          value: 16198269.0
+      - date: '3130-01-01'
+        population:
+          value: 16315318.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 16528801.0
+      - date: '3145-01-01'
+        population:
+          value: 16661562.0
+  - name:
+      value: Lathouris's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.21
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+  - name:
+      value: Hephaestus's Hole
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.3
+    sysPos:
+      value: 3
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Erichthoneus
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Nix
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Pallas
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Enyalius
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Chiron
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Pallas Athena
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.48
+    sysPos:
+      value: 4
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 150000
+    density:
+      value: 0.9
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Chaves
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Kybele
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.84
+    sysPos:
+      value: 5
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Moirae
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.56
+    sysPos:
+      value: 6
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 2
+  - name:
+      value: Kourempes's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 3.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 5.2
+    temperature:
+      value: -215
+  - name:
+      value: Caenis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.88
+    sysPos:
+      value: 8
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 14.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Enyalius's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.16
+    sysPos:
+      value: 9
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 111.5
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Ereshkigal
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Enki
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Rawnsley
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Tiamay
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Dilmun
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Aeolus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.2
+    sysPos:
+      value: 10
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 314.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Haides
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Notus
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Achilles
+        size:
+          value: medium
+        icon: rock10

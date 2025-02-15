@@ -1,0 +1,451 @@
+id: Shira
+sucsId: 2317
+xcood: 700.522
+ycood: 236.5
+spectralType:
+  value: M0V
+primarySlot: 1
+event:
+  - date: '2642-12-02'
+    nadirCharge:
+      value: yes
+  - date: '2785-03-22'
+    nadirCharge:
+      value: no
+  - date: '2820-12-11'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Shira
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green45
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.23
+    diameter:
+      value: 12600
+    density:
+      value: 6.8337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 20
+    water:
+      value: 37
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Bugomba
+        capital:
+          value: Orjais Mpya
+      - name:
+          value: Kibiraro
+      - name:
+          value: Ubumwe
+      - name:
+          value: Robinson's Heights
+      - name:
+          value: New Nyamitanzi
+    satellite:
+      - name:
+          value: Tamer
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Hisagita Imisi
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Kopano
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2616-01-13'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 48117.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2620-01-01'
+        population:
+          value: 113863.0
+      - date: '2624-01-01'
+        socioIndustrial:
+          value: C-D-C-C-F
+      - date: '2625-01-01'
+        socioIndustrial:
+          value: C-D-C-B-F
+      - date: '2630-01-01'
+        population:
+          value: 575815.0
+      - date: '2633-01-01'
+        socioIndustrial:
+          value: C-D-C-A-D
+      - date: '2640-11-04'
+        hpg:
+          value: B
+        population:
+          value: 1678705.0
+      - date: '2650-01-01'
+        population:
+          value: 3403109.0
+      - date: '2660-01-01'
+        population:
+          value: 5438977.0
+      - date: '2670-01-01'
+        population:
+          value: 7391737.0
+      - date: '2680-01-01'
+        population:
+          value: 9007426.0
+      - date: '2690-01-01'
+        population:
+          value: 10276435.0
+      - date: '2700-01-01'
+        population:
+          value: 11256157.0
+      - date: '2710-01-01'
+        population:
+          value: 11996320.0
+      - date: '2720-01-01'
+        population:
+          value: 12523404.0
+      - date: '2730-01-01'
+        population:
+          value: 12984001.0
+      - date: '2740-01-01'
+        population:
+          value: 13298556.0
+      - date: '2750-01-01'
+        population:
+          value: 13579847.0
+      - date: '2760-01-01'
+        population:
+          value: 13780840.0
+      - date: '2770-01-01'
+        population:
+          value: 13924268.0
+      - date: '2780-01-01'
+        population:
+          value: 14073714.0
+      - date: '2790-01-01'
+        population:
+          value: 14125013.0
+      - date: '2800-01-01'
+        population:
+          value: 3307258.0
+      - date: '2810-01-01'
+        population:
+          value: 287625.0
+      - date: '2820-11-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Sefu
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.15
+    diameter:
+      value: 1800
+    density:
+      value: 6.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 5
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Medusa
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1700
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -40
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Ereng's World
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: frozen27
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -84
+    water:
+      value: 47
+    landmass:
+      - name:
+          value: Boyer
+      - name:
+          value: Zaman
+  - name:
+      value: Selmi's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: asteroid1
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -134
+  - name:
+      value: Feisal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 16
+  - name:
+      value: Chiron
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 100000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Amon Ra
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Helios
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Lumberl
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Cronos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Robienayai
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Chango
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Zuber
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Pietus
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Isis
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: El-Guerray's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.0
+    sysPos:
+      value: 11
+    icon: asteroid3
+    yearLength:
+      value: 675.7
+    temperature:
+      value: -254

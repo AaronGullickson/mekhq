@@ -1,0 +1,539 @@
+id: Aurigae
+sucsId: 3105
+xcood: 868.618
+ycood: -1226.974
+spectralType:
+  value: F9V
+primarySlot: 4
+planet:
+  - name:
+      value: New Chikkaballapur
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Setesh
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Hat Mehit
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Sopd
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: U91
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Nekhbet
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Laak
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Wierden
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 3
+    icon: green36
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 14400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 31
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Twenter
+        capital:
+          value: Van Wijk City
+    satellite:
+      - name:
+          value: Buijs I
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Buijs II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Buijs III
+        size:
+          value: medium
+        icon: rock8
+    event:
+      - date: '3095-05-08'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-B-F-F
+      - date: '3100-01-01'
+        population:
+          value: 81616.0
+      - date: '3110-01-01'
+        population:
+          value: 151870.0
+      - date: '3120-01-01'
+        population:
+          value: 182915.0
+      - date: '3130-01-01'
+        population:
+          value: 223972.0
+      - date: '3140-01-01'
+        population:
+          value: 277556.0
+      - date: '3145-01-01'
+        population:
+          value: 309211.0
+  - name:
+      source: canon
+      value: Aurigae
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: green41
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.44
+    diameter:
+      value: 6500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 22
+    water:
+      value: 41
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - capital:
+          value: De Nooyertown
+    event:
+      - date: '3095-08-14'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-C-D-F
+      - date: '3098-12-31'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 76863.0
+      - date: '3110-01-01'
+        population:
+          value: 117041.0
+      - date: '3120-01-01'
+        population:
+          value: 130389.0
+      - date: '3130-01-01'
+        population:
+          value: 141390.0
+      - date: '3140-01-01'
+        population:
+          value: 154474.0
+      - date: '3145-01-01'
+        population:
+          value: 163289.0
+  - name:
+      value: Sandleheath
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 5
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Willems
+        size:
+          value: giant
+        icon: rock16
+  - name:
+      value: Het Bildt
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 13.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Putten
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: frozen14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Argon
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 36.5
+    temperature:
+      value: -168
+    water:
+      value: 15
+    landmass:
+      - name:
+          value: Bal's Rift Alpha
+      - name:
+          value: Bal's Rift Beta
+      - name:
+          value: Bal's Rift Gamma
+  - name:
+      value: Anraad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 100.1
+    smallMoons:
+      value: 10
+  - name:
+      value: Drimmelen
+    type:
+      value: GAS_GIANT
+    orbitalDist: 42.68
+    sysPos:
+      value: 9
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 278.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: 84W1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: 84W2
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: 84W3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: 84W4
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Nieuw Noord
+    type:
+      value: GAS_GIANT
+    orbitalDist: 84.92
+    sysPos:
+      value: 10
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 782.6
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 0W-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 0W-2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: 0W-3
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: 0W-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 0W-5
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 0W-6
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Neder-Betuwe
+    type:
+      value: GAS_GIANT
+    orbitalDist: 169.4
+    sysPos:
+      value: 11
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2204.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Villa Talea de Castro
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Medemblik
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Avena
+    type:
+      value: ICE_GIANT
+    orbitalDist: 338.36
+    sysPos:
+      value: 12
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 6224.0
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Van Grootveld
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Bochica
+        size:
+          value: large
+        icon: rock6

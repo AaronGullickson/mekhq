@@ -1,0 +1,211 @@
+id: Albaracht
+sucsId: 3128
+xcood: 492.596
+ycood: -458.249
+spectralType:
+  value: G9V
+primarySlot: 2
+planet:
+  - name:
+      value: Jājarm
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.58
+    diameter:
+      value: 18500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    satellite:
+      - name:
+          value: O'Rorke
+        size:
+          value: giant
+        icon: rock5
+  - name:
+      source: canon
+      value: Albaracht
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green25
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 30
+    water:
+      value: 35
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Old Matei
+        capital:
+          value: Beekmantown
+      - name:
+          value: Halam
+      - name:
+          value: New Colney
+      - name:
+          value: Karlsruhe
+      - name:
+          value: Nova Garbahaarey
+    event:
+      - date: '3130-05-03'
+        faction:
+          source: canon
+          value:
+            - CDP
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-F-F
+      - date: '3133-06-06'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 145769.0
+      - date: '3145-01-01'
+        population:
+          value: 156417.0
+  - name:
+      value: Eden Prairie
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Harland
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Drage
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Rietkerk
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Nova South Dundas
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: New Stonewall
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1400
+    density:
+      value: 6.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -112
+    water:
+      value: 0
+  - name:
+      value: Woden Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -155

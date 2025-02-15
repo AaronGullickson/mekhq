@@ -1,0 +1,410 @@
+id: Jeju
+sucsId: 1244
+xcood: 212.589
+ycood: 443.06
+spectralType:
+  value: G2V
+primarySlot: 2
+event:
+  - date: '2715-11-13'
+    nadirCharge:
+      value: yes
+  - date: '2733-11-06'
+    zenithCharge:
+      value: yes
+  - date: '2788-03-14'
+    zenithCharge:
+      value: no
+  - date: '2803-03-31'
+    nadirCharge:
+      value: no
+  - date: '2820-07-14'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Terpsikhore's Patch
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: greenhouse3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.49
+    diameter:
+      value: 6500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 379
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Jeju
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 12300
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 35
+    water:
+      value: 21
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Miryeok-myeon
+        capital:
+          value: Duil-ri
+      - name:
+          value: New Yedang-ri
+    event:
+      - date: '2704-06-25'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 47102.0
+        socioIndustrial:
+          value: C-D-D-D-F
+      - date: '2710-01-01'
+        population:
+          value: 100640.0
+      - date: '2720-01-01'
+        population:
+          value: 297809.0
+      - date: '2729-12-30'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 725080.0
+      - date: '2740-01-01'
+        population:
+          value: 1506518.0
+      - date: '2750-01-01'
+        population:
+          value: 2741677.0
+      - date: '2760-01-01'
+        population:
+          value: 4496634.0
+      - date: '2770-01-01'
+        population:
+          value: 6758170.0
+      - date: '2780-01-01'
+        population:
+          value: 9425770.0
+      - date: '2790-01-01'
+        population:
+          value: 4622468.0
+      - date: '2800-01-01'
+        population:
+          value: 531924.0
+      - date: '2810-01-01'
+        population:
+          value: 46467.0
+      - date: '2820-09-17'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Muspell Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: asteroid3
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 19
+  - name:
+      value: Han's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Yi A
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Yi B
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Yi C
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Yi D
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Yi E
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Yi F
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Garak-dong
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 14
+  - name:
+      value: Ruffieu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: DE4-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: DE4-2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: DE4-3
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Sang's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 5R-1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: 5R-2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 5R-3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 5R-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 5R-5
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Muspell Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -226
+  - name:
+      value: Athene
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 3
+  - name:
+      value: Nix
+    type:
+      value: GAS_GIANT
+    orbitalDist: 307.6
+    sysPos:
+      value: 10
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 170000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 5394.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16

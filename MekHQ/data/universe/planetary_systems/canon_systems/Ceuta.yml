@@ -1,0 +1,506 @@
+id: Ceuta
+sucsId: 510
+xcood: -538.748
+ycood: 199.654
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2877-03-30'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Ceuta
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green26
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.74
+    diameter:
+      value: 11100
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 29
+    water:
+      value: 43
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Hernández
+        capital:
+          value: Díaz
+      - name:
+          value: Remy
+    event:
+      - date: '2613-04-19'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 53830.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2620-01-01'
+        population:
+          value: 306275.0
+      - date: '2630-01-01'
+        population:
+          value: 1769281.0
+      - date: '2632-06-13'
+        hpg:
+          value: X
+      - date: '2640-01-01'
+        population:
+          value: 5604760.0
+      - date: '2650-01-01'
+        population:
+          value: 11949095.0
+      - date: '2660-01-01'
+        population:
+          value: 19543687.0
+      - date: '2670-01-01'
+        population:
+          value: 26886793.0
+      - date: '2680-01-01'
+        population:
+          value: 33152325.0
+      - date: '2690-01-01'
+        population:
+          value: 37854746.0
+      - date: '2700-01-01'
+        population:
+          value: 41189019.0
+      - date: '2710-01-01'
+        population:
+          value: 43291650.0
+      - date: '2720-01-01'
+        population:
+          value: 44766241.0
+      - date: '2730-01-01'
+        population:
+          value: 45743801.0
+      - date: '2740-01-01'
+        population:
+          value: 46372585.0
+      - date: '2748-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2750-01-01'
+        population:
+          value: 46662200.0
+      - date: '2760-01-01'
+        population:
+          value: 46711549.0
+      - date: '2770-01-01'
+        population:
+          value: 46891408.0
+      - date: '2779-03-21'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 46925248.0
+      - date: '2790-01-01'
+        population:
+          value: 28670923.0
+      - date: '2800-01-01'
+        population:
+          value: 14229384.0
+      - date: '2810-01-01'
+        population:
+          value: 9641736.0
+      - date: '2820-01-01'
+        population:
+          value: 5072877.0
+      - date: '2830-01-01'
+        population:
+          value: 2748089.0
+      - date: '2840-01-01'
+        population:
+          value: 1311813.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2850-01-01'
+        population:
+          value: 584969.0
+      - date: '2860-01-01'
+        population:
+          value: 260852.0
+      - date: '2870-01-01'
+        population:
+          value: 99550.0
+      - date: '2877-07-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Agres
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 7
+  - name:
+      value: Gujarāt
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 50000
+    density:
+      value: 2.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Odinn
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Njörðr
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: Mombuey
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 140000
+    density:
+      value: 0.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Bañuelos Alpha
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Bañuelos Beta
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Bañuelos Gamma
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Bañuelos Delta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bañuelos Epsilon
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Africus Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -133
+  - name:
+      value: Figueruela de Arriba
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Cifuentes I
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Cifuentes II
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Cifuentes III
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Þonar
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 170000
+    density:
+      value: 1.2
+    dayLength:
+      value: 9
+    yearLength:
+      value: 14.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Montseny
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 170000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Majadahonda 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Majadahonda 2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Majadahonda 3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Majadahonda 4
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Descanso de Sánchez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: W1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: W2
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: W3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Cubas de la Sagra
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Futen 1
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Futen 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Futen 3
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Futen 4
+        size:
+          value: medium
+        icon: rock8

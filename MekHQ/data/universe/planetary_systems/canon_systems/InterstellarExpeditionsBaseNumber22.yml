@@ -1,0 +1,352 @@
+id: 'Interstellar Expeditions Base #22'
+sucsId: 3113
+xcood: -734.294
+ycood: -1753.113
+spectralType:
+  source: canon
+  value: G1V
+primarySlot: 5
+event:
+  - date: '3095-03-19'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: DZJ1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 1
+    icon: barren4
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.57
+    diameter:
+      value: 7500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 110
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: DUW-1
+      - name:
+          value: DUW-0
+  - name:
+      value: DZJ2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 2
+    icon: greenhouse13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 157
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: L-1
+      - name:
+          value: L-0
+  - name:
+      value: DZJ3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: frozen1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.04
+    diameter:
+      value: 11500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -4
+    water:
+      value: 36
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: G-1
+      - name:
+          value: G-2
+      - name:
+          value: G-3
+  - name:
+      value: DZJ4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 4
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: M9X1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: 'Interstellar Expeditions Base #22'
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 5
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 6
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: N-1
+        size:
+          value: large
+        icon: rock14
+    event:
+      - date: '3095-10-03'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 750.0
+        socioIndustrial:
+          value: B-X-X-X-X
+  - name:
+      value: DZJ6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: 8R01
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 8R02
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: 8R03
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 8R04
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: 4T0-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 38.8
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -224
+  - name:
+      value: DZJ7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 8
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 678.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: DZJ8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 9
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1911.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: N01
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: DZJ9
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 307.6
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 5394.9
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: M8R-1
+        size:
+          value: medium
+        icon: oddmoon1

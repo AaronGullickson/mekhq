@@ -1,0 +1,331 @@
+id: Alto
+sucsId: 104
+xcood: 106.484
+ycood: -194.18
+spectralType:
+  value: F0V
+primarySlot: 4
+event:
+  - date: '2674-10-28'
+    nadirCharge:
+      value: yes
+  - date: '2899-02-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Vásquez
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: greenhouse2
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 377
+    water:
+      value: 0
+  - name:
+      value: González's Mistake
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 900
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 166
+    water:
+      value: 0
+  - name:
+      value: Jardín de López
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.4
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Gangjang-ri I
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Gangjang-ri II
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: Alto
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green39
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.99
+    diameter:
+      value: 13200
+    density:
+      value: 5.2795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 30
+    water:
+      value: 28
+    lifeForm:
+      value: MICROBE
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Elección de Carrillo
+        capital:
+          value: Newkirk
+      - name:
+          value: Hernández
+    event:
+      - date: '2638-03-26'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 55361.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2640-01-01'
+        population:
+          value: 134010.0
+      - date: '2650-01-01'
+        population:
+          value: 3590217.0
+      - date: '2660-01-01'
+        population:
+          value: 25859327.0
+      - date: '2670-01-01'
+        population:
+          value: 84391779.0
+      - date: '2671-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2680-01-01'
+        population:
+          value: 171564232.0
+      - date: '2681-11-15'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 261312092.0
+      - date: '2700-01-01'
+        population:
+          value: 336230015.0
+      - date: '2710-01-01'
+        population:
+          value: 389598297.0
+      - date: '2720-01-01'
+        population:
+          value: 426372378.0
+      - date: '2730-01-01'
+        population:
+          value: 450069683.0
+      - date: '2740-01-01'
+        population:
+          value: 463830438.0
+      - date: '2750-01-01'
+        population:
+          value: 473736391.0
+      - date: '2760-01-01'
+        population:
+          value: 477520712.0
+      - date: '2770-01-01'
+        population:
+          value: 476869989.0
+      - date: '2780-01-01'
+        population:
+          value: 473579229.0
+      - date: '2790-01-01'
+        population:
+          value: 369294137.0
+      - date: '2800-01-01'
+        population:
+          value: 142399569.0
+      - date: '2810-01-01'
+        population:
+          value: 45750352.0
+      - date: '2820-01-01'
+        population:
+          value: 10626504.0
+      - date: '2830-01-01'
+        population:
+          value: 3555391.0
+      - date: '2840-01-01'
+        population:
+          value: 1784418.0
+      - date: '2850-01-01'
+        population:
+          value: 971244.0
+      - date: '2860-01-01'
+        population:
+          value: 573301.0
+      - date: '2870-05-05'
+        population:
+          value: 315222.0
+        socioIndustrial:
+          value: D-D-C-F-D
+      - date: '2880-01-01'
+        population:
+          value: 141513.0
+      - date: '2890-01-01'
+        population:
+          value: 59780.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: D-D-C-F-F
+      - date: '2899-05-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Olivarez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 5
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 24.0
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Martínez
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Villa
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Clark's Mistake
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 31.36
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 17500
+    density:
+      value: 4.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 175.6
+  - name:
+      value: B21 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 123.52
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 1372.8
+    temperature:
+      value: -231

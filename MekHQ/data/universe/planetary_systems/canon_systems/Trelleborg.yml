@@ -1,0 +1,495 @@
+id: Trelleborg
+sucsId: 3040
+xcood: 109.262
+ycood: 920.57
+spectralType:
+  source: canon
+  value: A9II
+primarySlot: 2
+event:
+  - date: '3049-03-12'
+    zenithCharge:
+      value: yes
+  - date: '3103-03-13'
+    nadirCharge:
+      value: yes
+    zenithCharge:
+      value: yes
+  - date: '3110-07-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: V1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.68
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 1600
+    density:
+      value: 6.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 546
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Trelleborg
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.19
+    sysPos:
+      value: 2
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: DXX1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: DXX2
+        size:
+          value: medium
+        icon: oddmoon3
+    event:
+      - date: '3049-08-17'
+        faction:
+          source: canon
+          value:
+            - CGB
+        hpg:
+          value: A
+        population:
+          value: 853.0
+        socioIndustrial:
+          value: A-X-X-X-X
+      - date: '3103-03-13'
+        faction:
+          source: canon
+          value:
+            - RD
+        population:
+          value: 469.0
+        socioIndustrial:
+          value: B-X-X-X-X
+      - date: '3110-06-18'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: V3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.7
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.62
+    diameter:
+      value: 10500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 245
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: OB-1
+      - name:
+          value: OB-0
+  - name:
+      value: V4
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.72
+    sysPos:
+      value: 4
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: 5Q-1
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: V5
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.76
+    sysPos:
+      value: 5
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 10.5
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: ZUN-1
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: V6
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 8.84
+    sysPos:
+      value: 6
+    icon: barren16
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.45
+    diameter:
+      value: 7500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 18
+    yearLength:
+      value: 26.3
+    temperature:
+      value: -40
+    water:
+      value: 0
+    landmass:
+      - name:
+          value: A-1
+      - name:
+          value: A-0
+  - name:
+      value: V7
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 17.0
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 70.1
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: N1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: N2
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: N3
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: V8
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 33.32
+    sysPos:
+      value: 8
+    icon: frozen20
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 192.3
+    temperature:
+      value: -142
+    water:
+      value: 35
+    landmass:
+      - name:
+          value: G-1
+      - name:
+          value: G-2
+      - name:
+          value: G-3
+      - name:
+          value: G-4
+  - name:
+      value: V9
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 65.96
+    sysPos:
+      value: 9
+    icon: frozen2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 24
+    yearLength:
+      value: 535.7
+    temperature:
+      value: -185
+    water:
+      value: 42
+    landmass:
+      - name:
+          value: 2M1
+      - name:
+          value: 2M2
+  - name:
+      value: V10
+    type:
+      value: GAS_GIANT
+    orbitalDist: 131.24
+    sysPos:
+      value: 10
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1503.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: V11
+    type:
+      value: GAS_GIANT
+    orbitalDist: 261.8
+    sysPos:
+      value: 11
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4236.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 4WT.1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 4WT.2
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: 4WT.3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 4WT.4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: V12
+    type:
+      value: GAS_GIANT
+    orbitalDist: 522.92
+    sysPos:
+      value: 12
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 11957.799999999999
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: JFJ1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: JFJ2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: JFJ3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: JFJ4
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: JFJ5
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: JFJ6
+        size:
+          value: medium
+        icon: oddmoon3

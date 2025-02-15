@@ -1,0 +1,518 @@
+id: Able's Glory
+sucsId: 3126
+xcood: -539.23
+ycood: 124.7
+spectralType:
+  value: F5V
+primarySlot: 4
+planet:
+  - name:
+      value: Garbrecht
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1000
+    density:
+      value: 2.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 242
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Vera
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 45000
+    density:
+      value: 1.3
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Borlase
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: McGee
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Johnson
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.12
+    diameter:
+      value: 1700
+    density:
+      value: 5.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 53
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Able's Glory
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green28
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.31
+    diameter:
+      value: 13500
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 38
+    water:
+      value: 36
+    lifeForm:
+      value: INSECT
+    landmass:
+      - name:
+          value: Thurso
+        capital:
+          value: Forestville
+      - name:
+          value: New Nashwauk
+      - name:
+          value: Peva
+    event:
+      - date: '3130-12-03'
+        faction:
+          source: canon
+          value:
+            - RIM
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '3140-01-01'
+        population:
+          value: 119346.0
+      - date: '3143-01-22'
+        hpg:
+          value: X
+      - date: '3145-01-01'
+        population:
+          value: 131568.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - TiC
+  - name:
+      value: Canto's Glory
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 55000
+    density:
+      value: 2.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Setesh A
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Setesh B
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Setesh C
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Jamshed
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: frozen5
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Argon and Sulfuric
+        Acid
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 52.4
+    temperature:
+      value: -158
+    water:
+      value: 90
+    landmass:
+      - name:
+          value: Dodd Archipelago
+      - name:
+          value: Canepanova's Hole Archipelago
+      - name:
+          value: Jean Archipelago
+      - name:
+          value: Ford Archipelago
+      - name:
+          value: Samways's Rift Archipelago
+      - name:
+          value: Hughes Archipelago
+      - name:
+          value: Terminiello's Field Archipelago
+      - name:
+          value: Cavell Archipelago
+      - name:
+          value: Jackson Archipelago
+  - name:
+      value: Port Chabot
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: frozen49
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 143.7
+    temperature:
+      value: -191
+    water:
+      value: 48
+    landmass:
+      - name:
+          value: New Parke
+      - name:
+          value: Beekmantown
+      - name:
+          value: Dimos Ilio
+      - name:
+          value: Ambohipo
+      - name:
+          value: Canillo
+      - name:
+          value: New Dartmouth
+  - name:
+      value: Nasser
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 400.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Ross's Mistake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1123.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Vallance's Delight
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.6
+    sysPos:
+      value: 10
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 3165.7
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Feronia A
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Feronia B
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Feronia C
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Feronia D
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Feronia E
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Dubus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 430.64
+    sysPos:
+      value: 11
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 8936.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Tkac 1
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Tkac 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tkac 3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Washington
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 12
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 25251.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Gorrell
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Aksoy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1720.88
+    sysPos:
+      value: 13
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 71388.100000000006
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Sharp
+        size:
+          value: medium
+        icon: oddmoon3

@@ -1,0 +1,463 @@
+id: Zanbasa
+sucsId: 2814
+xcood: -316.661
+ycood: 458.801
+spectralType:
+  value: F3V
+primarySlot: 3
+event:
+  - date: '2879-08-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Granger
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: barren9
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.17
+    diameter:
+      value: 16500
+    density:
+      value: 5.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 274
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Mercury
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Janus
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Island Lake South
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: barren20
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.37
+    diameter:
+      value: 5500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 140
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Zanbasa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: dry10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 10800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 46
+    water:
+      value: 19
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Northern Old Toubetsu-chō
+        capital:
+          value: Kurubumany
+      - name:
+          value: Southern Old Toubetsu-chō
+    satellite:
+      - name:
+          value: Kocurek I
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Kocurek II
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Kocurek III
+        size:
+          value: medium
+        icon: rock6
+    event:
+      - date: '2685-10-23'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 48531.0
+        socioIndustrial:
+          value: C-D-D-C-F
+      - date: '2687-01-01'
+        socioIndustrial:
+          value: D-D-D-C-F
+      - date: '2688-01-16'
+        hpg:
+          value: X
+      - date: '2690-01-01'
+        population:
+          value: 455032.0
+      - date: '2700-01-01'
+        population:
+          value: 6418768.0
+      - date: '2710-01-01'
+        population:
+          value: 23385514.0
+      - date: '2720-01-01'
+        population:
+          value: 44181765.0
+      - date: '2727-01-01'
+        socioIndustrial:
+          value: F-F-D-D-F
+      - date: '2730-01-01'
+        population:
+          value: 60289378.0
+      - date: '2740-01-01'
+        population:
+          value: 70230484.0
+      - date: '2750-01-01'
+        population:
+          value: 75343821.0
+      - date: '2760-01-01'
+        population:
+          value: 77576593.0
+      - date: '2770-01-01'
+        population:
+          value: 43449932.0
+      - date: '2779-03-22'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 18868480.0
+      - date: '2790-01-01'
+        population:
+          value: 6844660.0
+      - date: '2800-01-01'
+        population:
+          value: 1991024.0
+      - date: '2810-01-01'
+        population:
+          value: 638880.0
+      - date: '2820-01-01'
+        population:
+          value: 185842.0
+      - date: '2830-01-01'
+        population:
+          value: 55857.0
+      - date: '2840-01-01'
+        population:
+          value: 17065.0
+      - date: '2850-10-06'
+        population:
+          value: 5171.0
+        socioIndustrial:
+          value: F-F-D-D-F
+      - date: '2860-01-01'
+        population:
+          value: 1468.0
+      - date: '2870-01-01'
+        population:
+          value: 448.0
+      - date: '2879-11-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Olivença
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.2
+    sysPos:
+      value: 4
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 130000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 8.7
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: X1
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: New Tysfjord
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 8
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Lucas 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lucas 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: El Dorado's Dawn
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 58.1
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: García
+        size:
+          value: giant
+        icon: rock1
+  - name:
+      value: Krumpos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 19
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: LG41
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: LG42
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: LG43
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: LG44
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Meier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Zuhair's Meridian
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 9
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Nogues
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Dunham
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Veschagin
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Cannell
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Stallone
+        size:
+          value: large
+        icon: rock14

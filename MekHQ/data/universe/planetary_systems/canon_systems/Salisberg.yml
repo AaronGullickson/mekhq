@@ -1,0 +1,372 @@
+id: Salisberg
+sucsId: 2217
+xcood: -315.421
+ycood: 454.769
+spectralType:
+  value: K3V
+primarySlot: 2
+event:
+  - date: '2851-03-03'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Asteria
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: barren11
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 135
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Salisberg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: green43
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 26
+    water:
+      value: 52
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Green Valley
+        capital:
+          value: Brunavas pagasts
+      - name:
+          value: Lubānas Novads
+      - name:
+          value: Kuldīga
+      - name:
+          value: ZelenoSmith
+    event:
+      - date: '2693-10-15'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 49751.0
+        socioIndustrial:
+          value: C-D-B-D-B
+      - date: '2700-01-01'
+        population:
+          value: 1018986.0
+      - date: '2709-03-17'
+        hpg:
+          value: X
+      - date: '2710-01-01'
+        population:
+          value: 9610131.0
+      - date: '2720-01-01'
+        population:
+          value: 26896134.0
+      - date: '2723-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '2730-02-19'
+        population:
+          value: 42909499.0
+        socioIndustrial:
+          value: D-C-C-C-B
+      - date: '2740-01-01'
+        population:
+          value: 53157818.0
+      - date: '2750-01-01'
+        population:
+          value: 58715697.0
+      - date: '2760-01-01'
+        population:
+          value: 61549634.0
+      - date: '2770-01-01'
+        population:
+          value: 63351445.0
+      - date: '2779-09-02'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 64376492.0
+      - date: '2790-01-01'
+        population:
+          value: 64366134.0
+      - date: '2800-01-01'
+        population:
+          value: 63565484.0
+      - date: '2810-01-01'
+        population:
+          value: 56586182.0
+      - date: '2820-01-01'
+        population:
+          value: 7682533.0
+      - date: '2830-01-01'
+        population:
+          value: 1742615.0
+      - date: '2840-01-01'
+        population:
+          value: 432461.0
+      - date: '2850-01-01'
+        population:
+          value: 59824.0
+      - date: '2851-08-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Pyerun Belt A
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -21
+  - name:
+      value: Maenads
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+  - name:
+      value: Phorcys's Grove
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Shango
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Yemanja
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Orixas
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Nabatov
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Oya
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Poseidon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 6
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 13
+    yearLength:
+      value: 18.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Varov 1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Varov 2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Varov 3
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Varov 4
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Pyerun Belt B
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 13.72
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 50.8
+    temperature:
+      value: -216
+  - name:
+      value: Echo
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 54.04
+    sysPos:
+      value: 8
+    icon: rock13
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 397.3
+    temperature:
+      value: -244
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: CDW-1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: CDW-2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: CDW-3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: CDW-4
+        size:
+          value: medium
+        icon: oddmoon1

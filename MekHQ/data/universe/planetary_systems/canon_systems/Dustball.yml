@@ -1,0 +1,526 @@
+id: Dustball
+sucsId: 757
+xcood: -104.483
+ycood: 266.199
+spectralType:
+  source: canon
+  value: A9V
+primarySlot: 6
+event:
+  - date: '2693-11-15'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Ngourkosso
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.68
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1500
+    density:
+      value: 1.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 306
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Meadowlakes
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.19
+    sysPos:
+      value: 2
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: E11
+        size:
+          value: large
+        icon: rock6
+  - name:
+      value: Catadau
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.7
+    sysPos:
+      value: 3
+    icon: barren18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen
+    gravity:
+      value: 0.45
+    diameter:
+      value: 7500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 113
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Woodlynne
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 8.84
+    sysPos:
+      value: 4
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.57
+    diameter:
+      value: 9500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 29
+    yearLength:
+      value: 26.3
+    temperature:
+      value: -112
+    water:
+      value: 0
+  - name:
+      value: Shahrestān-e Ābādeh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.76
+    sysPos:
+      value: 5
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 10.5
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Hahhimas 1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Hahhimas 2
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Hahhimas 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Hahhimas 4
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Hahhimas 5
+        size:
+          value: large
+        icon: rock17
+  - name:
+      source: canon
+      value: Dustball
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.72
+    sysPos:
+      value: 6
+    icon: green23
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.96
+    diameter:
+      value: 10601
+    density:
+      value: 6.355211911069
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.7
+    temperature:
+      source: canon
+      value: 71
+    water:
+      source: canon
+      value: 20
+    lifeForm:
+      source: canon
+      value: NONE
+    desc: |-
+      Dustball is a small, dry, and hot planet barely suitable for human life. Despite this, the planet was settled due to reports suggesting arge tracts of mineral wealth just below the surface. Unfortunately after mining began, it was soon discovered that the reports had been incorrect. Soon after most of the miners left and the planet would have likely been abandoned entirely if not for the Malthus crime family.
+
+      The Malthus crime family had each of the 5 domed cities set up to cater to a different vice from gambling to prostitution. There were attempts by the Lyran government to stamp out the illegal activities on Dustball, unfortunately enough high officials could be blackmailed, usually due to having enjoyed a visit to Dustball, so no measures ever held up. The establishment of Kooken’s Pleasure Pit as a legal alternative was an attempt in the early 3000s to stamp out the Malthus crime family. However, their business did not come to an end until the Clan invasion.
+    landmass:
+      - capital:
+          source: canon
+          value: New Monaco
+    satellite:
+      - name:
+          value: Mirage
+        size:
+          value: giant
+        icon: rock4
+    event:
+      - date: '2665-04-10'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 46944.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2670-01-01'
+        population:
+          value: 741777.0
+      - date: '2673-01-01'
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2679-11-10'
+        hpg:
+          source: canon
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 24225468.0
+      - date: '2690-01-01'
+        population:
+          value: 155970509.0
+      - date: '2698-01-01'
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '2700-01-01'
+        population:
+          value: 422984122.0
+      - date: '2710-01-01'
+        population:
+          value: 720609880.0
+      - date: '2720-01-01'
+        population:
+          value: 963130190.0
+      - date: '2730-01-01'
+        population:
+          value: 1128499984.0
+      - date: '2740-01-01'
+        population:
+          value: 1235120768.0
+      - date: '2750-01-01'
+        population:
+          value: 1299645973.0
+      - date: '2760-01-01'
+        population:
+          value: 1332463061.0
+      - date: '2770-01-01'
+        population:
+          value: 1352331771.0
+      - date: '2780-01-01'
+        population:
+          value: 1362908505.0
+      - date: '2790-01-01'
+        population:
+          value: 1340925745.0
+      - date: '2800-01-01'
+        population:
+          value: 1267835491.0
+      - date: '2810-01-01'
+        population:
+          value: 1172096494.0
+      - date: '2820-01-01'
+        population:
+          value: 1093844969.0
+      - date: '2830-01-01'
+        population:
+          value: 1056190200.0
+      - date: '2840-01-01'
+        population:
+          value: 1022792544.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2850-01-01'
+        population:
+          value: 981162698.0
+      - date: '2860-01-01'
+        population:
+          value: 922987565.0
+      - date: '2870-01-01'
+        population:
+          value: 878389044.0
+      - date: '2880-01-01'
+        population:
+          value: 852465134.0
+      - date: '2890-01-01'
+        population:
+          value: 825509442.0
+      - date: '2893-01-01'
+        socioIndustrial:
+          value: F-D-D-D-D
+      - date: '2900-01-01'
+        population:
+          value: 809903423.0
+      - date: '2910-01-01'
+        population:
+          value: 813236575.0
+      - date: '2920-01-01'
+        population:
+          value: 821331899.0
+      - date: '2930-01-01'
+        population:
+          value: 830109231.0
+      - date: '2940-01-01'
+        population:
+          value: 837158134.0
+      - date: '2950-01-01'
+        population:
+          value: 852259211.0
+      - date: '2960-01-01'
+        population:
+          value: 857008051.0
+      - date: '2970-01-01'
+        population:
+          value: 846309032.0
+      - date: '2980-01-01'
+        population:
+          value: 832720439.0
+      - date: '2990-01-01'
+        population:
+          value: 824114572.0
+      - date: '3000-01-01'
+        population:
+          value: 819152106.0
+      - date: '3010-01-01'
+        population:
+          value: 811274239.0
+      - date: '3020-01-01'
+        population:
+          value: 805221041.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: F-D-D-D-F
+      - date: '3030-01-01'
+        population:
+          value: 808947194.0
+      - date: '3040-01-01'
+        population:
+          value: 817649403.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: D-D-C-C-F
+      - date: '3050-01-01'
+        population:
+          value: 824216833.0
+      - date: '3057-12-01'
+        faction:
+          source: canon
+          value:
+            - ARDC
+      - date: '3060-01-01'
+        population:
+          value: 829259921.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 833000000.0
+      - date: '3067-04-24'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3070-01-01'
+        population:
+          value: 834500750.0
+      - date: '3080-01-01'
+        population:
+          value: 836505957.0
+      - date: '3090-01-01'
+        population:
+          value: 836840627.0
+      - date: '3100-01-01'
+        population:
+          value: 839690727.0
+      - date: '3105-01-01'
+        socioIndustrial:
+          value: D-D-B-C-F
+      - date: '3110-01-01'
+        population:
+          value: 845589183.0
+      - date: '3120-01-01'
+        population:
+          value: 849317973.0
+      - date: '3130-05-29'
+        faction:
+          source: canon
+          value:
+            - CJF
+            - LA
+        population:
+          value: 849148126.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3135-03-24'
+        faction:
+          source: canon
+          value:
+            - CJF
+      - date: '3140-01-01'
+        population:
+          value: 852722048.0
+      - date: '3145-01-01'
+        population:
+          value: 855968556.0
+      - date: '3151-08-13'
+        faction:
+          source: canon
+          value:
+            - MalC
+  - name:
+      value: Hestenes's Hold
+    type:
+      value: ICE_GIANT
+    orbitalDist: 17.0
+    sysPos:
+      value: 7
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 55000
+    density:
+      value: 1.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 70.1
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Zhou
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Hana
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Arnaville
+    type:
+      value: ICE_GIANT
+    orbitalDist: 33.32
+    sysPos:
+      value: 8
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 192.3
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Lillis 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lillis 2
+        size:
+          value: medium
+        icon: oddmoon1

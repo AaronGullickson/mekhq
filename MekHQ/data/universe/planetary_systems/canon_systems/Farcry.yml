@@ -1,0 +1,596 @@
+id: Farcry
+sucsId: 851
+xcood: -485.097
+ycood: 248.963
+spectralType:
+  value: K6V
+primarySlot: 1
+event:
+  - date: '2874-11-24'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Farcry
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green24
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 12300
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 35
+    water:
+      value: 35
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Camp's Hole
+        capital:
+          value: New Verkhnelandekhovskiy
+    event:
+      - date: '2688-02-27'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 51470.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2690-01-01'
+        population:
+          value: 136605.0
+      - date: '2700-01-01'
+        population:
+          value: 3336256.0
+      - date: '2708-09-15'
+        hpg:
+          value: X
+      - date: '2710-01-01'
+        population:
+          value: 15345371.0
+      - date: '2711-01-01'
+        socioIndustrial:
+          value: C-D-A-C-D
+      - date: '2712-01-01'
+        socioIndustrial:
+          value: C-F-A-C-D
+      - date: '2720-01-01'
+        population:
+          value: 31603772.0
+      - date: '2730-01-01'
+        population:
+          value: 44345923.0
+      - date: '2740-01-01'
+        population:
+          value: 51771602.0
+      - date: '2750-01-01'
+        population:
+          value: 55590578.0
+      - date: '2760-01-01'
+        population:
+          value: 57660343.0
+      - date: '2770-01-01'
+        population:
+          value: 59043535.0
+      - date: '2779-08-31'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 47847618.0
+      - date: '2790-01-01'
+        population:
+          value: 22891881.0
+      - date: '2800-01-01'
+        population:
+          value: 10744502.0
+      - date: '2810-01-01'
+        population:
+          value: 4538907.0
+      - date: '2820-01-01'
+        population:
+          value: 1270326.0
+      - date: '2830-01-01'
+        population:
+          value: 338913.0
+      - date: '2840-01-01'
+        population:
+          value: 98556.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: D-F-B-C-D
+      - date: '2850-01-01'
+        population:
+          value: 34378.0
+      - date: '2860-01-01'
+        population:
+          value: 16448.0
+      - date: '2870-01-01'
+        population:
+          value: 9084.0
+      - date: '2874-06-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Lokkju
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1500
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 17
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Nott
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: frozen45
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 16
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -18
+    water:
+      value: 36
+    landmass:
+      - name:
+          value: Frio
+      - name:
+          value: Nova Nez Perce
+      - name:
+          value: Manassas
+  - name:
+      value: NEQ1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -82
+  - name:
+      value: Hladgunnr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Þórr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Ashtoreth
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Vohu Mana
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Enki
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Ormizd
+        size:
+          value: medium
+        icon: rock12
+  - name:
+      value: NEQ2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 14.7
+    temperature:
+      value: -197
+  - name:
+      value: Asgård
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 110000
+    density:
+      value: 1.7
+    dayLength:
+      value: 19
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Hoffman
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Frigg
+    type:
+      value: GAS_GIANT
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 170000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 112.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: UM-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: UM-2
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: UM-3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: UM-4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: UM-5
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: UM-6
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Hnoss
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 13500
+    density:
+      value: 8.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Ruchendorf
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hall
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Randall
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Vuldr
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 20
+    yearLength:
+      value: 888.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Harper 1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Harper 2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Harper 3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Harper 4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Harper 5
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Harper 6
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Gunn's Rest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.56
+    sysPos:
+      value: 12
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 2507.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Xuan 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Xuan 2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Xuan 3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Xuan 4
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Jurata's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 368.88
+    sysPos:
+      value: 13
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 7084.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Murray Alpha
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Murray Beta
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Murray Gamma
+        size:
+          value: large
+        icon: rock11

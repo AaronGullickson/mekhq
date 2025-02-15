@@ -1,0 +1,689 @@
+id: Genoa
+sucsId: 945
+xcood: 39.026
+ycood: -59.756
+spectralType:
+  source: canon
+  value: M9III
+primarySlot: 4
+event:
+  - date: '2372-08-09'
+    zenithCharge:
+      value: yes
+  - date: '2466-12-17'
+    nadirCharge:
+      value: yes
+  - date: '2787-05-07'
+    zenithCharge:
+      value: no
+  - date: '2794-03-31'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Casagrande
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -25
+    water:
+      value: 0
+  - name:
+      value: Bedeschi's Planet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.24
+    diameter:
+      value: 14500
+    density:
+      value: 6.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Fornasari's Frontier
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 8
+  - name:
+      source: canon
+      value: Genoa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 4
+    icon: dry13
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 13097
+    density:
+      value: 5.360520078823
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    temperature:
+      source: canon
+      value: 25
+    water:
+      source: canon
+      value: 12
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: |-
+      3135 - In 2300, seven ships carrying 100,000 colonists set out for Genoa (named after the port city in the Italian Genova Province), expecting a vibrant world rich in life, however they found a barren, dry, rocky, and only marginally habitable planet. Genoa's lush plant and plentiful animal life had died off after the planet was forced from its orbit by a passing meteor a millennia ago.
+
+      The planet‘s harsh frozen environment forced the population underground, where they discovered huge underground lakes teeming with aquatic life, as well as vast deposits of rich ore, minerals, and high-grade gemstones. Vast networks of tunnels were cut during mining operations. Small underground cities were built throughout the northern and southern continents. The capital city of Columbus and two of the planet‘s four spaceports are located on Rivera, the northern continent, where the large veins of ore are mined. Genova, the southern continent, are where most of the high-grade gemstones and minerals are mined. All raw materials are shipped to ports via a mass underground-transit system.
+
+      In 2315, Genoa became a member of the Liao Protectorate before it was taken by the Terran Hegemony. After the fall of the Star League, Genoa became part of the Capellan Confederation. During the Fourth Succession War, the planet was captured and held by the Federated Commonwealth until the collapse of the Sarna March in 3057. Genoa became part of the Chaos March, refusing to bow to Capellan raiders during the Xin Sheng movement. Control was regained by the Federated Suns in the waning months of the FedCom Civil War but did not last long, during the Jihad, World of Blake forces attempted to take Genoa. The armed population fought for every inch of ground and even after three nuclear weapons were used the planet never fell; one-third of the population died before Stone’s Lament relieved the planet by annihilating the remaining Blakists. After their rescue, the majority of the population became staunch supporters of The Republic of the Sphere.
+    landmass:
+      - name:
+          source: canon
+          value: Rivera
+        capital:
+          source: canon
+          value: Columbus
+      - name:
+          source: canon
+          value: Genova
+    satellite:
+      - name:
+          value: Sant'Andrea di Ponticello
+        size:
+          value: medium
+        icon: rock14
+    event:
+      - date: '2247-10-10'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47813.0
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2250-01-01'
+        population:
+          value: 75129.0
+      - date: '2260-01-01'
+        population:
+          value: 297488.0
+      - date: '2270-01-01'
+        population:
+          value: 976843.0
+      - date: '2276-01-01'
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '2280-01-01'
+        population:
+          value: 2731327.0
+      - date: '2290-01-01'
+        population:
+          value: 6647708.0
+      - date: '2300-01-01'
+        population:
+          value: 14379739.0
+      - date: '2310-01-01'
+        population:
+          value: 28000856.0
+      - date: '2315-02-02'
+        faction:
+          source: canon
+          value:
+            - DoL
+      - date: '2320-01-01'
+        population:
+          value: 49773368.0
+      - date: '2330-01-01'
+        population:
+          value: 82054585.0
+      - date: '2340-01-01'
+        population:
+          value: 126407239.0
+      - date: '2350-01-01'
+        population:
+          value: 181811459.0
+      - date: '2360-01-01'
+        population:
+          value: 247557310.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 322570767.0
+      - date: '2380-01-01'
+        population:
+          value: 403542336.0
+      - date: '2390-01-01'
+        population:
+          value: 489012054.0
+      - date: '2400-01-01'
+        population:
+          value: 579297502.0
+      - date: '2410-01-01'
+        population:
+          value: 669243094.0
+      - date: '2420-01-01'
+        population:
+          value: 756606765.0
+      - date: '2430-01-01'
+        population:
+          value: 838590455.0
+      - date: '2440-01-01'
+        population:
+          value: 917283419.0
+      - date: '2450-01-01'
+        population:
+          value: 994088625.0
+      - date: '2460-01-01'
+        population:
+          value: 1063760793.0
+      - date: '2470-01-01'
+        population:
+          value: 1127548418.0
+      - date: '2480-01-01'
+        population:
+          value: 1180489214.0
+      - date: '2490-01-01'
+        population:
+          value: 1227804752.0
+      - date: '2500-01-01'
+        population:
+          value: 1277813744.0
+      - date: '2510-01-01'
+        population:
+          value: 1325470992.0
+      - date: '2520-01-01'
+        population:
+          value: 1371124625.0
+      - date: '2530-01-01'
+        population:
+          value: 1417351486.0
+      - date: '2540-01-01'
+        population:
+          value: 1461413849.0
+      - date: '2550-01-01'
+        population:
+          value: 1504346157.0
+      - date: '2560-01-01'
+        population:
+          value: 1544453044.0
+      - date: '2570-01-01'
+        population:
+          value: 1582015364.0
+      - date: '2571-06-11'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2580-01-01'
+        population:
+          value: 1611167619.0
+      - date: '2590-01-01'
+        population:
+          value: 1633814600.0
+      - date: '2600-01-01'
+        population:
+          value: 1654348038.0
+      - date: '2610-01-01'
+        population:
+          value: 1661013762.0
+      - date: '2620-01-01'
+        population:
+          value: 1670551916.0
+      - date: '2630-01-01'
+        population:
+          value: 1686295923.0
+      - date: '2633-10-03'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1704544867.0
+      - date: '2650-01-01'
+        population:
+          value: 1713189546.0
+      - date: '2660-01-01'
+        population:
+          value: 1730493825.0
+      - date: '2670-01-01'
+        population:
+          value: 1744610128.0
+      - date: '2680-01-01'
+        population:
+          value: 1761915402.0
+      - date: '2690-01-01'
+        population:
+          value: 1772657805.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: B-C-C-B-D
+      - date: '2700-01-01'
+        population:
+          value: 1784646028.0
+      - date: '2710-01-01'
+        population:
+          value: 1784017741.0
+      - date: '2720-01-01'
+        population:
+          value: 1778665852.0
+      - date: '2730-01-01'
+        population:
+          value: 1774717562.0
+      - date: '2740-01-01'
+        population:
+          value: 1764082823.0
+      - date: '2750-10-18'
+        population:
+          value: 1748674548.0
+        socioIndustrial:
+          value: A-B-C-A-C
+      - date: '2760-01-01'
+        population:
+          value: 1744285546.0
+      - date: '2767-03-23'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 1733966935.0
+      - date: '2779-11-11'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 1727449728.0
+      - date: '2786-12-22'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2790-01-01'
+        population:
+          value: 1717890045.0
+      - date: '2800-01-01'
+        population:
+          value: 1708383265.0
+      - date: '2810-01-01'
+        population:
+          value: 1699181648.0
+      - date: '2820-01-01'
+        population:
+          value: 1693801975.0
+      - date: '2830-01-01'
+        population:
+          value: 1689945858.0
+      - date: '2840-01-01'
+        population:
+          value: 1688355677.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-C-D-B-C
+      - date: '2850-01-01'
+        population:
+          value: 1678263784.0
+      - date: '2860-01-01'
+        population:
+          value: 1665506753.0
+      - date: '2870-01-01'
+        population:
+          value: 1655551436.0
+      - date: '2880-01-01'
+        population:
+          value: 1653256217.0
+      - date: '2890-01-01'
+        population:
+          value: 1654649363.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: C-D-D-C-D
+      - date: '2900-01-01'
+        population:
+          value: 1645737166.0
+      - date: '2910-01-01'
+        population:
+          value: 1632013988.0
+      - date: '2920-01-01'
+        population:
+          value: 1611683411.0
+      - date: '2930-01-01'
+        population:
+          value: 1593973676.0
+      - date: '2940-01-01'
+        population:
+          value: 1578334300.0
+      - date: '2950-01-01'
+        population:
+          value: 1561455148.0
+      - date: '2960-01-01'
+        population:
+          value: 1542920655.0
+      - date: '2970-01-01'
+        population:
+          value: 1530054825.0
+      - date: '2980-01-01'
+        population:
+          value: 1517070759.0
+      - date: '2990-01-01'
+        population:
+          value: 1502855940.0
+      - date: '3000-01-01'
+        population:
+          value: 1491210566.0
+      - date: '3010-01-01'
+        population:
+          value: 1479215613.0
+      - date: '3020-01-01'
+        population:
+          value: 1468626371.0
+      - date: '3030-04-01'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 1472120975.0
+        socioIndustrial:
+          value: B-C-D-B-D
+      - date: '3040-01-01'
+        population:
+          value: 1484687335.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3047-01-01'
+        socioIndustrial:
+          value: A-B-C-A-C
+      - date: '3050-01-01'
+        population:
+          value: 1494219805.0
+      - date: '3057-11-01'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3060-01-01'
+        population:
+          value: 1509086047.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3069-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 1525777629.0
+      - date: '3077-01-30'
+        faction:
+          source: canon
+          value:
+            - CC
+            - WOB
+      - date: '3077-04-15'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3077-10-21'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 1542036894.0
+      - date: '3081-08-21'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1561277195.0
+      - date: '3096-01-01'
+        socioIndustrial:
+          value: A-B-C-A-C
+      - date: '3100-01-01'
+        population:
+          value: 1586775867.0
+      - date: '3110-01-01'
+        population:
+          value: 1604005921.0
+      - date: '3120-01-01'
+        population:
+          value: 1603685152.0
+      - date: '3130-01-01'
+        population:
+          value: 1610434794.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 1625319157.0
+      - date: '3145-12-06'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 1629550485.0
+  - name:
+      value: Lee's Rest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 5
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 2000
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -135
+    water:
+      value: 0
+  - name:
+      value: Merico
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 6
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Charula
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 7
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Menichelli's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.88
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 7.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+  - name:
+      value: Santa Saarikoski
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.72
+    sysPos:
+      value: 9
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 21.5
+    smallMoons:
+      value: 7

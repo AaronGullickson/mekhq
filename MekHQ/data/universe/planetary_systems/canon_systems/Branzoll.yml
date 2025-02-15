@@ -1,0 +1,523 @@
+id: Branzoll
+sucsId: 382
+xcood: 207.085
+ycood: -175.168
+spectralType:
+  value: F1V
+primarySlot: 3
+event:
+  - date: '2722-10-21'
+    nadirCharge:
+      value: yes
+  - date: '2725-08-12'
+    zenithCharge:
+      value: yes
+  - date: '2796-11-14'
+    nadirCharge:
+      value: no
+  - date: '2921-01-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Borgo Val di Taro
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: greenhouse34
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 346
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Corato
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: greenhouse36
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.67
+    diameter:
+      value: 13500
+    density:
+      value: 3.5
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.4
+    temperature:
+      value: 119
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Branzoll
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 3
+    icon: green48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 11700
+    density:
+      value: 6.8337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 28
+    water:
+      value: 41
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 8
+    landmass:
+      - name:
+          value: Minor Vallefoglia
+        capital:
+          value: Nuova Morciano di Romagna
+      - name:
+          value: Major Vallefoglia
+    event:
+      - date: '2713-03-10'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 54398.0
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '2714-01-19'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 176941.0
+      - date: '2730-01-01'
+        population:
+          value: 727437.0
+      - date: '2740-01-01'
+        population:
+          value: 2278822.0
+      - date: '2750-01-01'
+        population:
+          value: 5794644.0
+      - date: '2760-01-01'
+        population:
+          value: 12327895.0
+      - date: '2770-01-01'
+        population:
+          value: 22569008.0
+      - date: '2780-01-01'
+        population:
+          value: 36573643.0
+      - date: '2790-01-01'
+        population:
+          value: 39398989.0
+      - date: '2800-01-01'
+        population:
+          value: 21619973.0
+      - date: '2810-01-01'
+        population:
+          value: 10868151.0
+      - date: '2820-01-01'
+        population:
+          value: 6294383.0
+      - date: '2830-01-01'
+        population:
+          value: 4285809.0
+      - date: '2840-01-01'
+        population:
+          value: 2898572.0
+      - date: '2850-01-01'
+        population:
+          value: 1656246.0
+      - date: '2860-01-01'
+        population:
+          value: 985453.0
+      - date: '2870-01-01'
+        population:
+          value: 482195.0
+      - date: '2880-01-01'
+        population:
+          value: 222052.0
+      - date: '2890-01-01'
+        population:
+          value: 97541.0
+      - date: '2900-01-01'
+        population:
+          value: 38206.0
+      - date: '2910-01-01'
+        population:
+          value: 14469.0
+      - date: '2920-01-01'
+        population:
+          value: 5744.0
+      - date: '2921-09-25'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Nova San Pietro di Caridà
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 4
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 50000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 9.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: SEH1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: SEH2
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: SEH3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Surfside Beach
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 16.0
+    sysPos:
+      value: 5
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1600
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 64.0
+    temperature:
+      value: -162
+    water:
+      value: 0
+  - name:
+      value: Nuova Battagram
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 6
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 175.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: DNC1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: DNC2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: DNC3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Gazoldo degli Ippoliti
+    type:
+      value: ICE_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 7
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 489.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Alpanu
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Aplu
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Menrva
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ragnarøkr
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Abu Chō
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 8
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1372.8
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Rebun Chō
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Garbagnate Monastero
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Vigolo Vattaro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.4
+    sysPos:
+      value: 9
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 20
+    yearLength:
+      value: 3867.8
+    smallMoons:
+      value: 19
+  - name:
+      value: Hippona Belt A
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 492.16
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 10918.4
+    temperature:
+      value: -253
+  - name:
+      value: Hippona Belt B
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 983.68
+    sysPos:
+      value: 11
+    icon: asteroid2
+    yearLength:
+      value: 30851.799999999999
+    temperature:
+      value: -259
+  - name:
+      value: Hotham
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1966.72
+    sysPos:
+      value: 12
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 87219.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+  - name:
+      value: Manciano
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3932.8
+    sysPos:
+      value: 13
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 35000
+    density:
+      value: 2.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 246633.899999999994
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Bellagio I
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Bellagio II
+        size:
+          value: medium
+        icon: oddmoon3

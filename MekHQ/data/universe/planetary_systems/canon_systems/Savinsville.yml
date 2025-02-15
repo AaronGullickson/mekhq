@@ -1,0 +1,494 @@
+id: Savinsville
+sucsId: 2251
+xcood: 141.899
+ycood: 356.185
+spectralType:
+  source: canon
+  value: F9V
+primarySlot: 5
+event:
+  - date: '2668-04-06'
+    zenithCharge:
+      value: yes
+  - date: '2675-02-10'
+    nadirCharge:
+      value: yes
+  - date: '2787-06-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Phra Indra
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.44
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1400
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Jin
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 2
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 2
+  - name:
+      value: Ba Ngu's Harvest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.08
+    sysPos:
+      value: 3
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1400
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 5.5
+    temperature:
+      value: -85
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Lang Singalang Burong
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 4
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.6
+    temperature:
+      value: -24
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Savinsville
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 5
+    icon: green20
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 10820
+    density:
+      value: 6.486260995574
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      source: canon
+      value: 15
+    water:
+      source: canon
+      value: 30
+    lifeForm:
+      source: canon
+      value: FISH
+    desc: Savinsville attracts tourists every thirty three years when the world’s
+      three moons come into alignment on the night side, appearing as an immense eye
+      in the sky for a single night.
+    landmass:
+      - name:
+          source: canon
+          value: Craton
+        capital:
+          source: canon
+          value: Manahawkin
+    satellite:
+      - name:
+          value: Sclera
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Iris
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Pupil
+        size:
+          value: large
+        icon: rock10
+    event:
+      - date: '2663-01-07'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 54193.0
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2670-01-01'
+        population:
+          value: 2184587.0
+      - date: '2674-01-01'
+        socioIndustrial:
+          value: C-C-B-C-F
+      - date: '2679-05-11'
+        hpg:
+          source: canon
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 50501935.0
+      - date: '2690-01-01'
+        population:
+          value: 271655633.0
+      - date: '2696-01-01'
+        socioIndustrial:
+          value: C-B-A-B-D
+      - date: '2700-01-01'
+        population:
+          value: 665532073.0
+      - date: '2710-01-01'
+        population:
+          value: 1071058210.0
+      - date: '2720-01-01'
+        population:
+          value: 1378618536.0
+      - date: '2730-01-01'
+        population:
+          value: 1573219814.0
+      - date: '2740-01-01'
+        population:
+          value: 1680536769.0
+      - date: '2750-01-01'
+        population:
+          value: 1732355818.0
+      - date: '2760-01-01'
+        population:
+          value: 1754100807.0
+      - date: '2770-01-01'
+        population:
+          value: 1760491845.0
+      - date: '2780-01-01'
+        population:
+          value: 1763747963.0
+      - date: '2790-01-01'
+        population:
+          value: 1760231615.0
+      - date: '2800-01-01'
+        population:
+          value: 1759227332.0
+      - date: '2810-01-01'
+        population:
+          value: 1762628756.0
+      - date: '2820-01-01'
+        population:
+          value: 1765339130.0
+      - date: '2830-01-01'
+        population:
+          value: 1766424447.0
+      - date: '2840-01-01'
+        population:
+          value: 1771472162.0
+      - date: '2850-01-01'
+        population:
+          value: 1771627705.0
+      - date: '2854-01-01'
+        socioIndustrial:
+          value: C-C-B-C-F
+      - date: '2860-01-01'
+        population:
+          value: 1768985333.0
+      - date: '2870-01-01'
+        population:
+          value: 1763093096.0
+      - date: '2880-01-01'
+        population:
+          value: 1760463453.0
+      - date: '2890-01-01'
+        population:
+          value: 1755524173.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2900-01-01'
+        population:
+          value: 1750137702.0
+      - date: '2910-01-01'
+        population:
+          value: 1753290626.0
+      - date: '2920-01-01'
+        population:
+          value: 1751828809.0
+      - date: '2930-01-01'
+        population:
+          value: 1749215967.0
+      - date: '2940-01-01'
+        population:
+          value: 1742241930.0
+      - date: '2950-01-01'
+        population:
+          value: 1732099092.0
+      - date: '2960-01-01'
+        population:
+          value: 1721108379.0
+      - date: '2970-01-01'
+        population:
+          value: 1709061612.0
+      - date: '2980-01-01'
+        population:
+          value: 1697546243.0
+      - date: '2990-01-01'
+        population:
+          value: 1687219136.0
+      - date: '3000-01-01'
+        population:
+          value: 1673424879.0
+      - date: '3010-01-01'
+        population:
+          value: 1661055454.0
+      - date: '3020-01-01'
+        population:
+          value: 1657704486.0
+      - date: '3030-01-01'
+        population:
+          value: 1665550670.0
+      - date: '3040-01-01'
+        population:
+          value: 1688525734.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-B-C-D
+      - date: '3050-01-01'
+        population:
+          value: 1713187725.0
+      - date: '3050-07-01'
+        faction:
+          source: canon
+          value:
+            - CSJ
+      - date: '3059-09-15'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '3060-01-01'
+        population:
+          value: 1735257473.0
+      - date: '3070-01-01'
+        population:
+          value: 1750245041.0
+      - date: '3080-01-01'
+        population:
+          value: 1760778079.0
+      - date: '3090-01-01'
+        population:
+          value: 1769250130.0
+      - date: '3100-01-01'
+        population:
+          value: 1792759049.0
+      - date: '3110-02-02'
+        population:
+          value: 1821673896.0
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '3120-01-01'
+        population:
+          value: 1839246178.0
+      - date: '3130-01-01'
+        population:
+          value: 1845510257.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 1863312470.0
+      - date: '3145-01-01'
+        population:
+          value: 1875275912.0
+  - name:
+      value: Thosganth
+    type:
+      value: ICE_GIANT
+    orbitalDist: 5.72
+    sysPos:
+      value: 6
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 40000
+    density:
+      value: 2.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 13.7
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Zorya Polunochnaya I
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Zorya Polunochnaya II
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Zorya Polunochnaya III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Zorya Polunochnaya IV
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Picot
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 7
+    icon: gasg23
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Bremond A
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Bremond B
+        size:
+          value: medium
+        icon: rock15
+  - name:
+      value: Setesuyara
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 21.56
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 100.1

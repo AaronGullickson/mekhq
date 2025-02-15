@@ -1,0 +1,319 @@
+id: Skaslien
+sucsId: 2349
+xcood: 220.523
+ycood: -191.965
+spectralType:
+  value: G4V
+primarySlot: 2
+event:
+  - date: '2717-09-04'
+    zenithCharge:
+      value: yes
+  - date: '2718-01-05'
+    nadirCharge:
+      value: yes
+  - date: '2791-10-19'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Larsen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: greenhouse10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Nitrous Oxide and Complex
+        Hydrocarbons
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 376
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Magni
+        size:
+          value: large
+        icon: rock1
+  - name:
+      source: canon
+      value: Skaslien
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: dry12
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.78
+    diameter:
+      value: 11700
+    density:
+      value: 4.6818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 33
+    water:
+      value: 19
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Stuer
+        capital:
+          value: Hemne
+      - name:
+          value: Malvik
+    event:
+      - date: '2681-05-12'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 48288.0
+        socioIndustrial:
+          value: B-D-C-D-F
+      - date: '2682-01-01'
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2688-01-04'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 2744195.0
+      - date: '2700-01-01'
+        population:
+          value: 27230787.0
+      - date: '2710-01-01'
+        population:
+          value: 84593275.0
+      - date: '2715-01-01'
+        socioIndustrial:
+          value: F-F-C-D-F
+      - date: '2720-01-01'
+        population:
+          value: 149350444.0
+      - date: '2730-01-01'
+        population:
+          value: 198449184.0
+      - date: '2740-01-01'
+        population:
+          value: 229188902.0
+      - date: '2750-01-01'
+        population:
+          value: 246304466.0
+      - date: '2760-01-01'
+        population:
+          value: 254511414.0
+      - date: '2770-01-01'
+        population:
+          value: 19562068.0
+      - date: '2780-01-01'
+        population:
+          value: 86533.0
+      - date: '2790-01-01'
+        population:
+          value: 447.0
+      - date: '2791-06-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Cabrera
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: badwater42
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 33
+    water:
+      value: 52
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Teigebyen
+      - name:
+          value: Tsardikos
+  - name:
+      value: Wifstrand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.87
+    diameter:
+      value: 160000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Imsety
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Menu
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lagerlöf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 21
+  - name:
+      value: Acheron Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 10.2
+    temperature:
+      value: -146
+  - name:
+      value: Cape Shakeri
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 7
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Hell I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Hell II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hell III
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Hell IV
+        size:
+          value: large
+        icon: rock12

@@ -1,0 +1,536 @@
+id: Bithinia
+sucsId: 333
+xcood: -18.878
+ycood: -178.455
+spectralType:
+  source: canon
+  value: K8V
+primarySlot: 2
+event:
+  - date: '2380-03-29'
+    zenithCharge:
+      value: yes
+  - date: '2424-09-02'
+    nadirCharge:
+      value: yes
+  - date: '2788-06-13'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Zemyna
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 1
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Bithinia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 2
+    icon: green22
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.9
+    diameter:
+      value: 10656
+    density:
+      value: 5.929871453689
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 30
+    water:
+      source: canon
+      value: 55
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Bithinia is one of the largest entertainment planets in the Capellan region, catering exclusively to the richest families in the Confederation and surrounding Inner Sphere states. Bithinia also has extensive iron and steel facilities located in its southern hemisphere. In the early 31st Century an underground Aerospace maintenance facility was constructed by the Capellan Confederation near the south pole.
+
+      Bithinia is home to a Duchy RTC training facility which trains vehicle crews and unarmored infantry.
+
+      Manufacturing centers:
+      Bithinian Ballistics
+    landmass:
+      - name:
+          source: canon
+          value: Chalcedon
+      - name:
+          source: canon
+          value: Cius
+      - name:
+          source: canon
+          value: Nicomdeia
+        capital:
+          source: canon
+          value: Bithinia
+    satellite:
+      - name:
+          value: Paludina
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Valvata
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Littorina
+        size:
+          value: large
+        icon: rock3
+    event:
+      - date: '2270-07-23'
+        faction:
+          source: canon
+          value:
+            - CH
+        population:
+          value: 48828.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2280-01-01'
+        population:
+          value: 234787.0
+      - date: '2290-01-01'
+        population:
+          value: 899961.0
+      - date: '2300-01-01'
+        population:
+          value: 2851796.0
+      - date: '2310-04-11'
+        faction:
+          source: canon
+          value:
+            - CCom
+        population:
+          value: 7693222.0
+      - date: '2320-01-01'
+        population:
+          value: 18041766.0
+      - date: '2330-01-01'
+        population:
+          value: 37524269.0
+      - date: '2340-01-01'
+        population:
+          value: 70578711.0
+      - date: '2350-01-01'
+        population:
+          value: 122154130.0
+      - date: '2360-01-01'
+        population:
+          value: 196650249.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 297023462.0
+      - date: '2375-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2380-01-01'
+        population:
+          value: 423099961.0
+      - date: '2390-01-01'
+        population:
+          value: 575889136.0
+      - date: '2400-01-01'
+        population:
+          value: 755462110.0
+      - date: '2410-01-01'
+        population:
+          value: 954802861.0
+      - date: '2420-01-01'
+        population:
+          value: 1171312415.0
+      - date: '2430-01-01'
+        population:
+          value: 1396317616.0
+      - date: '2440-01-01'
+        population:
+          value: 1623892029.0
+      - date: '2450-01-01'
+        population:
+          value: 1853549426.0
+      - date: '2460-01-01'
+        population:
+          value: 2066460184.0
+      - date: '2470-01-01'
+        population:
+          value: 2259657900.0
+      - date: '2480-01-01'
+        population:
+          value: 2428038251.0
+      - date: '2490-01-01'
+        population:
+          value: 2596110869.0
+      - date: '2500-01-01'
+        population:
+          value: 2770221299.0
+      - date: '2510-01-01'
+        population:
+          value: 2943888600.0
+      - date: '2520-01-01'
+        population:
+          value: 3099852345.0
+      - date: '2530-01-01'
+        population:
+          value: 3240628521.0
+      - date: '2540-01-01'
+        population:
+          value: 3366944200.0
+      - date: '2550-01-01'
+        population:
+          value: 3477065955.0
+      - date: '2560-01-01'
+        population:
+          value: 3574182735.0
+      - date: '2570-01-01'
+        population:
+          value: 3654583297.0
+      - date: '2580-01-01'
+        population:
+          value: 3730657904.0
+      - date: '2590-01-01'
+        population:
+          value: 3792173890.0
+      - date: '2600-01-01'
+        population:
+          value: 3818993691.0
+      - date: '2610-01-01'
+        population:
+          value: 3863680310.0
+      - date: '2620-01-01'
+        population:
+          value: 3899667864.0
+      - date: '2630-01-01'
+        population:
+          value: 3932273612.0
+      - date: '2639-11-19'
+        hpg:
+          source: canon
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 3960563745.0
+      - date: '2650-01-01'
+        population:
+          value: 3973940419.0
+      - date: '2660-01-01'
+        population:
+          value: 3964071779.0
+      - date: '2670-01-01'
+        population:
+          value: 3956842779.0
+      - date: '2672-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2680-01-01'
+        population:
+          value: 3958182710.0
+      - date: '2690-01-01'
+        population:
+          value: 3977987016.0
+      - date: '2700-01-01'
+        population:
+          value: 3974485513.0
+      - date: '2708-01-01'
+        socioIndustrial:
+          value: A-A-A-A-B
+      - date: '2710-01-01'
+        population:
+          value: 3954320393.0
+      - date: '2720-01-01'
+        population:
+          value: 3921101827.0
+      - date: '2730-01-01'
+        population:
+          value: 3909602598.0
+      - date: '2740-01-01'
+        population:
+          value: 3912747096.0
+      - date: '2750-01-01'
+        population:
+          value: 3906417250.0
+      - date: '2760-01-01'
+        population:
+          value: 3925169621.0
+      - date: '2770-01-01'
+        population:
+          value: 3959956973.0
+      - date: '2780-01-01'
+        population:
+          value: 4001680590.0
+      - date: '2790-01-01'
+        population:
+          value: 4004002390.0
+      - date: '2800-01-01'
+        population:
+          value: 3945372475.0
+      - date: '2810-01-01'
+        population:
+          value: 3876750612.0
+      - date: '2820-01-01'
+        population:
+          value: 3846769092.0
+      - date: '2830-01-01'
+        population:
+          value: 3830378205.0
+      - date: '2840-01-01'
+        population:
+          value: 3817612172.0
+      - date: '2850-01-01'
+        population:
+          value: 3811984929.0
+      - date: '2853-01-01'
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2860-01-01'
+        population:
+          value: 3824138306.0
+      - date: '2870-01-01'
+        population:
+          value: 3824732144.0
+      - date: '2880-01-01'
+        population:
+          value: 3809322289.0
+      - date: '2890-01-01'
+        population:
+          value: 3788676250.0
+      - date: '2900-12-22'
+        population:
+          value: 3756749975.0
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2910-01-01'
+        population:
+          value: 3726828377.0
+      - date: '2920-01-01'
+        population:
+          value: 3703177779.0
+      - date: '2930-01-01'
+        population:
+          value: 3667698237.0
+      - date: '2940-01-01'
+        population:
+          value: 3626640980.0
+      - date: '2950-01-01'
+        population:
+          value: 3583538507.0
+      - date: '2960-01-01'
+        population:
+          value: 3512200117.0
+      - date: '2970-01-01'
+        population:
+          value: 3434273721.0
+      - date: '2980-01-01'
+        population:
+          value: 3374541398.0
+      - date: '2990-01-01'
+        population:
+          value: 3343767713.0
+      - date: '3000-01-01'
+        population:
+          value: 3314818426.0
+      - date: '3010-01-01'
+        population:
+          value: 3287650882.0
+      - date: '3020-01-01'
+        population:
+          value: 3272879987.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 3298000000.0
+      - date: '3030-01-01'
+        population:
+          value: 3324518581.0
+      - date: '3040-01-01'
+        population:
+          value: 3445180484.0
+      - date: '3047-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-B-B
+      - date: '3050-01-01'
+        population:
+          value: 3549070747.0
+      - date: '3060-01-01'
+        population:
+          value: 3632556725.0
+      - date: '3070-01-01'
+        population:
+          value: 3686290022.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 3710700000.0
+      - date: '3080-01-01'
+        population:
+          value: 3715155513.0
+      - date: '3090-01-01'
+        population:
+          value: 3756999141.0
+      - date: '3100-12-02'
+        population:
+          value: 3811491331.0
+        socioIndustrial:
+          value: B-B-B-B-B
+      - date: '3110-01-01'
+        population:
+          value: 3881495580.0
+      - date: '3120-01-01'
+        population:
+          value: 3952785570.0
+      - date: '3130-01-01'
+        population:
+          value: 4011721850.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 4089491105.0
+      - date: '3145-01-01'
+        population:
+          value: 4128939268.0
+  - name:
+      value: Zaltys
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 40000
+    density:
+      value: 2.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 8
+  - name:
+      value: Sietynas
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: GW1
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Salida
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+  - name:
+      value: Meir's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 6.0
+    sysPos:
+      value: 6
+    icon: asteroid3
+    yearLength:
+      value: 14.7
+    temperature:
+      value: -202

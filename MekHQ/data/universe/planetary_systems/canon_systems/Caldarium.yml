@@ -1,0 +1,647 @@
+id: Caldarium
+sucsId: 436
+xcood: -444.773
+ycood: 234.442
+spectralType:
+  value: F2V
+primarySlot: 4
+planet:
+  - name:
+      value: Nardone
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: greenhouse12
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.85
+    diameter:
+      value: 12500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 351
+    water:
+      value: 0
+  - name:
+      value: Ashley's Planet
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.05
+    sysPos:
+      value: 2
+    icon: barren10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 172
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Price
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 3
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1900
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 80
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Caldarium
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 4
+    icon: green18
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 11400
+    density:
+      value: 6.3437
+    dayLength:
+      value: 28
+    yearLength:
+      value: 3.9
+    temperature:
+      value: 35
+    water:
+      value: 46
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 8
+    landmass:
+      - name:
+          value: New Florida
+        capital:
+          value: Paseko City
+    event:
+      - date: '2614-01-25'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 48059.0
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2620-01-01'
+        population:
+          value: 255099.0
+      - date: '2621-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2630-01-01'
+        population:
+          value: 1860968.0
+      - date: '2640-01-01'
+        population:
+          value: 6776502.0
+      - date: '2649-01-01'
+        socioIndustrial:
+          value: D-D-A-C-B
+      - date: '2650-01-01'
+        population:
+          value: 15726278.0
+      - date: '2660-01-01'
+        population:
+          value: 27260923.0
+      - date: '2668-12-23'
+        hpg:
+          value: X
+      - date: '2670-01-01'
+        population:
+          value: 38910979.0
+      - date: '2680-01-01'
+        population:
+          value: 49166297.0
+      - date: '2690-01-01'
+        population:
+          value: 57398073.0
+      - date: '2700-01-01'
+        population:
+          value: 63839451.0
+      - date: '2710-01-01'
+        population:
+          value: 69042386.0
+      - date: '2720-01-01'
+        population:
+          value: 72852905.0
+      - date: '2730-01-01'
+        population:
+          value: 75709581.0
+      - date: '2740-01-01'
+        population:
+          value: 77736000.0
+      - date: '2750-01-01'
+        population:
+          value: 79050861.0
+      - date: '2760-01-01'
+        population:
+          value: 80403068.0
+      - date: '2770-01-01'
+        population:
+          value: 81684035.0
+      - date: '2779-12-14'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 82422903.0
+      - date: '2790-01-01'
+        population:
+          value: 81790847.0
+      - date: '2800-01-01'
+        population:
+          value: 79792826.0
+      - date: '2810-01-01'
+        population:
+          value: 76210803.0
+      - date: '2820-01-01'
+        population:
+          value: 73401232.0
+      - date: '2830-01-01'
+        population:
+          value: 72776048.0
+      - date: '2840-01-01'
+        population:
+          value: 72721936.0
+      - date: '2850-01-01'
+        population:
+          value: 71741438.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: D-D-B-C-B
+      - date: '2860-01-01'
+        population:
+          value: 70932263.0
+      - date: '2870-01-01'
+        population:
+          value: 70054011.0
+      - date: '2880-01-01'
+        population:
+          value: 68648389.0
+      - date: '2890-01-01'
+        population:
+          value: 65933448.0
+      - date: '2900-10-08'
+        population:
+          value: 62379200.0
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '2910-01-01'
+        population:
+          value: 59878783.0
+      - date: '2920-01-01'
+        population:
+          value: 58220838.0
+      - date: '2930-01-01'
+        population:
+          value: 56862002.0
+      - date: '2940-01-01'
+        population:
+          value: 56819723.0
+      - date: '2950-01-01'
+        population:
+          value: 57222645.0
+      - date: '2960-01-01'
+        population:
+          value: 57180098.0
+      - date: '2970-01-01'
+        population:
+          value: 57553460.0
+      - date: '2980-01-01'
+        population:
+          value: 58253326.0
+      - date: '2990-01-01'
+        population:
+          value: 58080266.0
+      - date: '3000-01-01'
+        population:
+          value: 58101870.0
+      - date: '3010-01-01'
+        population:
+          value: 58448636.0
+      - date: '3020-01-01'
+        population:
+          value: 57724951.0
+      - date: '3030-01-01'
+        population:
+          value: 57619752.0
+      - date: '3040-01-01'
+        population:
+          value: 58379537.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3048-11-15'
+        faction:
+          source: canon
+          value:
+            - RIM
+      - date: '3050-01-01'
+        population:
+          value: 59060682.0
+      - date: '3060-01-01'
+        population:
+          value: 59815536.0
+      - date: '3070-01-01'
+        population:
+          value: 60573980.0
+      - date: '3080-01-01'
+        population:
+          value: 61084945.0
+      - date: '3090-01-01'
+        population:
+          value: 61563270.0
+      - date: '3100-01-01'
+        population:
+          value: 62418732.0
+      - date: '3106-01-01'
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3110-01-01'
+        population:
+          value: 63425465.0
+      - date: '3120-01-01'
+        population:
+          value: 64101350.0
+      - date: '3130-07-09'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 64758530.0
+      - date: '3140-01-01'
+        population:
+          value: 65934738.0
+      - date: '3145-01-01'
+        population:
+          value: 66411181.0
+  - name:
+      value: Krystofial's Rift
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 4.2
+    sysPos:
+      value: 5
+    icon: frozen44
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.04
+    diameter:
+      value: 12500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -57
+    water:
+      value: 53
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Tervo
+      - name:
+          value: Tel
+      - name:
+          value: Strogino
+  - name:
+      value: James's Mistake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Horne's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.0
+    sysPos:
+      value: 7
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 58.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Rezov
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 8
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 150000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: La Reine
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Laamu Atholhu
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ixchel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 9
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 444.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Mergozzo
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Aukra
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Urra
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Beilin's Hold
+    type:
+      value: ICE_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 10
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 30000
+    density:
+      value: 1.8
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1246.1
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Bennion
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Villamarin
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Karakaev
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: God S
+    type:
+      value: GAS_GIANT
+    orbitalDist: 231.0
+    sysPos:
+      value: 11
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 3510.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Raiju 1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Raiju 2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Raiju 3
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Whaley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 12
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 20
+    yearLength:
+      value: 9911.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Parry Sound
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Shullsburg
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kiriba
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Friuli Venezia Giulia
+        size:
+          value: medium
+        icon: oddmoon1

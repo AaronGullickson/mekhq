@@ -1,0 +1,544 @@
+id: Calafell
+sucsId: 434
+xcood: -366.542
+ycood: 130.232
+spectralType:
+  value: F0V
+primarySlot: 4
+planet:
+  - name:
+      value: Montejo de Tiermes
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 900
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 308
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Santillana del Mar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: barren21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 190
+    water:
+      value: 0
+  - name:
+      value: Nueva Limeray
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 3
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.4
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Calafell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 4
+    icon: green57
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 24
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 34
+    water:
+      value: 48
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Menéndez 1
+        capital:
+          value: Nueva Prullans
+      - name:
+          value: Menéndez 2
+      - name:
+          value: Menéndez 3
+      - name:
+          value: Menéndez 4
+      - name:
+          value: Menéndez 5
+      - name:
+          value: Menéndez 6
+    satellite:
+      - name:
+          value: Torres
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Díaz
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Estrada
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2639-08-09'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 48681.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2640-01-01'
+        population:
+          value: 75003.0
+      - date: '2650-01-01'
+        population:
+          value: 2038314.0
+      - date: '2660-11-11'
+        hpg:
+          value: B
+        population:
+          value: 14909963.0
+      - date: '2670-01-01'
+        population:
+          value: 49204110.0
+      - date: '2680-01-01'
+        population:
+          value: 100858010.0
+      - date: '2690-01-01'
+        population:
+          value: 155491010.0
+      - date: '2700-01-01'
+        population:
+          value: 200732655.0
+      - date: '2710-01-01'
+        population:
+          value: 234011845.0
+      - date: '2720-01-01'
+        population:
+          value: 255831460.0
+      - date: '2730-01-01'
+        population:
+          value: 272568154.0
+      - date: '2740-01-01'
+        population:
+          value: 284305050.0
+      - date: '2745-01-01'
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2750-01-01'
+        population:
+          value: 292832778.0
+      - date: '2760-01-01'
+        population:
+          value: 297486628.0
+      - date: '2770-01-01'
+        population:
+          value: 301512353.0
+      - date: '2780-01-01'
+        population:
+          value: 305542460.0
+      - date: '2790-01-01'
+        population:
+          value: 305564699.0
+      - date: '2800-01-01'
+        population:
+          value: 302136001.0
+      - date: '2810-01-01'
+        population:
+          value: 299861255.0
+      - date: '2820-01-01'
+        population:
+          value: 296036487.0
+      - date: '2830-01-01'
+        population:
+          value: 290360552.0
+      - date: '2840-01-01'
+        population:
+          value: 286301072.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2850-01-01'
+        population:
+          value: 281772785.0
+      - date: '2860-01-01'
+        population:
+          value: 276799833.0
+      - date: '2870-01-01'
+        population:
+          value: 271155656.0
+      - date: '2880-01-01'
+        population:
+          value: 266535592.0
+      - date: '2890-01-01'
+        population:
+          value: 263381183.0
+      - date: '2900-01-01'
+        population:
+          value: 259215409.0
+      - date: '2909-01-01'
+        socioIndustrial:
+          value: D-F-C-C-F
+      - date: '2910-01-01'
+        population:
+          value: 255194768.0
+      - date: '2920-01-01'
+        population:
+          value: 255962076.0
+      - date: '2930-01-01'
+        population:
+          value: 255459097.0
+      - date: '2940-01-01'
+        population:
+          value: 255353333.0
+      - date: '2950-01-01'
+        population:
+          value: 253824662.0
+      - date: '2960-01-01'
+        population:
+          value: 252461912.0
+      - date: '2970-01-01'
+        population:
+          value: 250950550.0
+      - date: '2980-01-01'
+        population:
+          value: 247134847.0
+      - date: '2990-01-01'
+        population:
+          value: 244285900.0
+      - date: '3000-01-01'
+        population:
+          value: 241319853.0
+      - date: '3010-01-01'
+        population:
+          value: 236693005.0
+      - date: '3020-01-01'
+        population:
+          value: 230860655.0
+      - date: '3030-01-01'
+        population:
+          value: 229117980.0
+      - date: '3040-03-09'
+        population:
+          value: 230658225.0
+        socioIndustrial:
+          value: D-F-B-C-F
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: C-D-A-C-D
+      - date: '3050-01-01'
+        population:
+          value: 232115958.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 233980334.0
+      - date: '3070-01-01'
+        population:
+          value: 236166501.0
+      - date: '3080-01-01'
+        population:
+          value: 239352430.0
+      - date: '3090-01-01'
+        population:
+          value: 242678390.0
+      - date: '3097-01-01'
+        socioIndustrial:
+          value: C-C-A-C-C
+      - date: '3100-01-01'
+        population:
+          value: 246641797.0
+      - date: '3110-01-01'
+        population:
+          value: 250269182.0
+      - date: '3120-01-01'
+        population:
+          value: 253848357.0
+      - date: '3130-01-01'
+        population:
+          value: 256861510.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 260587075.0
+      - date: '3145-01-01'
+        population:
+          value: 262312638.0
+  - name:
+      value: Shamokin
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.48
+    sysPos:
+      value: 5
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.33
+    diameter:
+      value: 55000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 9.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Nuada Argatlam A
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Nuada Argatlam B
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Sant Miquel de Campmajor
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 6
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 150000
+    density:
+      value: 0.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 24.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Huitaca I
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Huitaca II
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Huitaca III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Huitaca IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Perseus
+    type:
+      value: ICE_GIANT
+    orbitalDist: 31.36
+    sysPos:
+      value: 7
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 175.6
+    smallMoons:
+      value: 8
+  - name:
+      value: New Celada del Camino
+    type:
+      value: GAS_GIANT
+    orbitalDist: 62.08
+    sysPos:
+      value: 8
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 489.1
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Gratiae A
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Gratiae B
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Gratiae C
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Gratiae D
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Gratiae E
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Manihiki
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 123.52
+    sysPos:
+      value: 9
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1372.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 8

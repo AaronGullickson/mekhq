@@ -1,0 +1,66 @@
+id: Winston
+sucsId: 3143
+xcood: -747.634
+ycood: 1085.037
+spectralType:
+  source: canon
+  value: G6IV
+primarySlot: 1
+event:
+  - date: '3080-11-14'
+    nadirCharge:
+      value: yes
+  - date: '3082-11-03'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      source: canon
+      value: Winston
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.1
+    sysPos:
+      value: 1
+    icon: green30
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.67
+    diameter:
+      value: 11700
+    density:
+      value: 4.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.6
+    temperature:
+      value: 34
+    water:
+      value: 40
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: I1
+      - name:
+          value: I2
+      - name:
+          value: I3
+    event:
+      - date: '3080-11-14'
+        faction:
+          source: canon
+          value:
+            - CEI
+        hpg:
+          value: A
+        population:
+          value: 523.0
+        socioIndustrial:
+          value: A-X-X-X-X

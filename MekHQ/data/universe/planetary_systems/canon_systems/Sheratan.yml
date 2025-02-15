@@ -1,0 +1,675 @@
+id: Sheratan
+sucsId: 2303
+xcood: 40.84
+ycood: -21.506
+spectralType:
+  source: canon
+  value: K5V
+primarySlot: 5
+event:
+  - date: '2374-06-17'
+    nadirCharge:
+      value: yes
+  - date: '2390-11-01'
+    zenithCharge:
+      value: yes
+  - date: '2787-08-01'
+    zenithCharge:
+      value: no
+  - date: '2797-03-14'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Charles
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.96
+    sysPos:
+      value: 1
+    icon: rock5
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.78
+    diameter:
+      value: 11500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -131
+    water:
+      value: 0
+    smallMoons:
+      value: 5
+  - name:
+      value: Macías
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: rock7
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 11
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Eckhardt's End
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: frozen32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -29
+    water:
+      value: 65
+    landmass:
+      - name:
+          value: MopaniMunicipality
+      - name:
+          value: Eufaula
+      - name:
+          value: Gokase-chō
+      - name:
+          value: Jayton
+  - name:
+      value: Kim
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1100
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -85
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Sheratan
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: green35
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.9
+    diameter:
+      value: 12425
+    density:
+      value: 5.085435867644
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 31
+    water:
+      source: canon
+      value: 40
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Once the emerald jewel in the crown of the Terran Hegemony, Sheratan‘s surface was a single landmass blanketed by thick forests, lush jungles, and verdant farmland; dotted by a few, large, landlocked seas. Sheratan‘s ruling family, the Grensons, were staunch supporters of Terra‘s Cameron family when they assumed leadership of the Terran Hegemony and, later, founded the First Star League. In fact, First Lord Jonathan Cameron married Lady Ludmella Grenson, a connection to the First Star League that Sheratan‘s population remains proud of to this day. During the fall of the First Star League, on the order of the Usurper Stefan Amaris, the Grenson family was nearly wiped out for its association with the Camerons. With no hereditary rulers, the Capellan Confederation easily claimed Sheratan after the fall of the First Star League.
+
+      Aside from its fertile soil, Sheratan lacks significant resources, so Sheratan‘s small population and agriculture were spared most of the ravages of the Succession Wars. When the Federated Suns invaded the Capellan Confederation at the outset of the Fourth Succession War, Sheratan was one of many Capellan worlds near Terra that were cut off from the Confederation and incorporated in the short-lived Tikonov Free Republic. Sheratan reverted to the Federated Commonwealth when an assassin brought an end to the new Tikonov state. The subsequent invasion by House Liao troops in the years before the FedCom Civil War left the world ravaged.
+
+      By the time of the founding of The Republic of the Sphere, Sheratan‘s population had fallen to levels the planet‘s now-meager agricultural output could support and the economy stabilized. When a portion of the Wolf Clan joined The Republic, interest in Sheratan‘s ties to the First Star League led some to settle near Sheratan‘s capital of Gellen‘s Heights, further boosting the planet‘s economy.
+    landmass:
+      - capital:
+          source: canon
+          value: Gellen‘s Heights
+    event:
+      - date: '2240-10-31'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 45065.0
+        socioIndustrial:
+          value: D-F-B-D-F
+      - date: '2250-01-01'
+        population:
+          value: 232437.0
+      - date: '2260-01-01'
+        population:
+          value: 955352.0
+      - date: '2270-01-01'
+        population:
+          value: 3211621.0
+      - date: '2280-01-01'
+        population:
+          value: 9134299.0
+      - date: '2290-01-01'
+        population:
+          value: 22530699.0
+      - date: '2300-01-01'
+        population:
+          value: 49428429.0
+      - date: '2310-01-01'
+        population:
+          value: 97561525.0
+      - date: '2319-05-16'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2320-01-01'
+        population:
+          value: 175512850.0
+      - date: '2330-01-01'
+        population:
+          value: 291473975.0
+      - date: '2340-01-01'
+        population:
+          value: 453316435.0
+      - date: '2350-01-01'
+        population:
+          value: 666151072.0
+      - date: '2360-01-01'
+        population:
+          value: 930678545.0
+      - date: '2370-01-01'
+        population:
+          value: 1243451018.0
+      - date: '2380-01-01'
+        population:
+          value: 1599437399.0
+      - date: '2390-01-01'
+        population:
+          value: 1986754105.0
+      - date: '2400-01-01'
+        population:
+          value: 2377810140.0
+      - date: '2410-01-01'
+        population:
+          value: 2760471946.0
+      - date: '2420-01-01'
+        population:
+          value: 3142903176.0
+      - date: '2430-01-01'
+        population:
+          value: 3500592398.0
+      - date: '2440-01-01'
+        population:
+          value: 3851543853.0
+      - date: '2450-01-01'
+        population:
+          value: 4164283358.0
+      - date: '2459-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2460-01-01'
+        population:
+          value: 4441608553.0
+      - date: '2470-01-01'
+        population:
+          value: 4691293744.0
+      - date: '2480-01-01'
+        population:
+          value: 4918556335.0
+      - date: '2490-01-01'
+        population:
+          value: 5128128493.0
+      - date: '2500-01-01'
+        population:
+          value: 5339460808.0
+      - date: '2510-01-01'
+        population:
+          value: 5529312309.0
+      - date: '2519-01-01'
+        socioIndustrial:
+          value: C-C-B-C-F
+      - date: '2520-01-01'
+        population:
+          value: 5716352271.0
+      - date: '2530-01-01'
+        population:
+          value: 5917977210.0
+      - date: '2535-01-01'
+        socioIndustrial:
+          value: B-B-B-B-F
+      - date: '2540-01-01'
+        population:
+          value: 6122870937.0
+      - date: '2550-01-01'
+        population:
+          value: 6312534595.0
+      - date: '2560-01-01'
+        population:
+          value: 6487922085.0
+      - date: '2570-01-01'
+        population:
+          value: 6614184049.0
+      - date: '2580-01-01'
+        population:
+          value: 6722628172.0
+      - date: '2590-01-01'
+        population:
+          value: 6819636788.0
+      - date: '2600-01-01'
+        population:
+          value: 6899407033.0
+      - date: '2610-01-01'
+        population:
+          value: 6971094544.0
+      - date: '2620-01-01'
+        population:
+          value: 7039898199.0
+      - date: '2630-01-01'
+        population:
+          value: 7118184671.0
+      - date: '2633-01-23'
+        hpg:
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 7191366688.0
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: A-A-B-A-D
+      - date: '2650-01-01'
+        population:
+          value: 7238348430.0
+      - date: '2660-01-01'
+        population:
+          value: 7273855267.0
+      - date: '2670-01-01'
+        population:
+          value: 7359898666.0
+      - date: '2680-01-01'
+        population:
+          value: 7446509208.0
+      - date: '2690-01-01'
+        population:
+          value: 7549241988.0
+      - date: '2700-01-01'
+        population:
+          value: 7624799555.0
+      - date: '2710-01-01'
+        population:
+          value: 7694216862.0
+      - date: '2720-01-01'
+        population:
+          value: 7788720427.0
+      - date: '2730-01-01'
+        population:
+          value: 7851179936.0
+      - date: '2740-01-01'
+        population:
+          value: 7884201308.0
+      - date: '2750-01-01'
+        population:
+          value: 7903406965.0
+      - date: '2760-01-01'
+        population:
+          value: 7915202979.0
+      - date: '2767-11-17'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 7909804084.0
+      - date: '2779-02-01'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 7874157531.0
+      - date: '2790-03-18'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 7803698108.0
+      - date: '2800-01-01'
+        population:
+          value: 7740159567.0
+      - date: '2810-01-01'
+        population:
+          value: 7656360805.0
+      - date: '2820-01-01'
+        population:
+          value: 7587850268.0
+      - date: '2830-01-01'
+        population:
+          value: 7511805297.0
+      - date: '2840-01-01'
+        population:
+          value: 7446606092.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-B-C-B-F
+      - date: '2850-01-01'
+        population:
+          value: 7399999985.0
+      - date: '2860-01-01'
+        population:
+          value: 7334777240.0
+      - date: '2870-01-01'
+        population:
+          value: 7278014712.0
+      - date: '2880-01-01'
+        population:
+          value: 7248161274.0
+      - date: '2890-01-01'
+        population:
+          value: 7210609496.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: C-C-D-C-F
+      - date: '2900-01-01'
+        population:
+          value: 7181032545.0
+      - date: '2910-01-01'
+        population:
+          value: 7138022790.0
+      - date: '2920-01-01'
+        population:
+          value: 7113561544.0
+      - date: '2930-01-01'
+        population:
+          value: 7115168257.0
+      - date: '2940-01-01'
+        population:
+          value: 7095591123.0
+      - date: '2950-01-01'
+        population:
+          value: 7064571141.0
+      - date: '2960-01-01'
+        population:
+          value: 7048952846.0
+      - date: '2970-01-01'
+        population:
+          value: 7033369079.0
+      - date: '2980-01-01'
+        population:
+          value: 7007367154.0
+      - date: '2990-01-01'
+        population:
+          value: 6975787549.0
+      - date: '3000-01-01'
+        population:
+          value: 6920865306.0
+      - date: '3010-01-01'
+        population:
+          value: 6881278420.0
+      - date: '3020-01-01'
+        population:
+          value: 6866995792.0
+      - date: '3029-05-06'
+        faction:
+          source: canon
+          value:
+            - TFR
+        socioIndustrial:
+          value: B-B-D-B-F
+      - date: '3030-01-01'
+        population:
+          value: 6882271585.0
+      - date: '3032-09-25'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3040-01-01'
+        population:
+          value: 6968143055.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: A-A-C-A-D
+      - date: '3050-01-01'
+        population:
+          value: 7029030375.0
+      - date: '3057-11-01'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3060-01-01'
+        population:
+          value: 7079114078.0
+      - date: '3068-02-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 7143113671.0
+      - date: '3078-02-24'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - WOB
+      - date: '3078-02-26'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 7219233397.0
+      - date: '3081-03-09'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 7345947272.0
+      - date: '3100-01-01'
+        population:
+          value: 7498843207.0
+      - date: '3110-01-01'
+        population:
+          value: 7627413291.0
+      - date: '3119-01-01'
+        socioIndustrial:
+          value: A-A-C-A-C
+      - date: '3120-01-01'
+        population:
+          value: 7764396784.0
+      - date: '3130-01-01'
+        population:
+          value: 7872288198.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 7949815888.0
+      - date: '3145-01-12'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 7986469279.0
+  - name:
+      value: Hardtke's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Lee
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pasanen
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Watson
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Marcus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: frozen19
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 18.5
+    temperature:
+      value: -196
+    water:
+      value: 37
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: New Umpire
+      - name:
+          value: New Rača
+  - name:
+      value: Holmes
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: barren17
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.32
+    diameter:
+      value: 6500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 50.8
+    temperature:
+      value: -217
+    water:
+      value: 0

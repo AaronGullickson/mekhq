@@ -1,0 +1,387 @@
+id: Viluisk
+sucsId: 2689
+xcood: -437.338
+ycood: 345.102
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2880-03-05'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Viluisk
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 34
+    water:
+      value: 53
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Novaya Biryulyovo Vostochnoye I
+        capital:
+          value: New Khunzakhskiy Prime
+      - name:
+          value: Novaya Biryulyovo Vostochnoye II
+      - name:
+          value: Novaya Biryulyovo Vostochnoye III
+      - name:
+          value: Novaya Biryulyovo Vostochnoye IV
+      - name:
+          value: Novaya Biryulyovo Vostochnoye V
+      - name:
+          value: Novaya Biryulyovo Vostochnoye VI
+    event:
+      - date: '2690-02-18'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 53496.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2700-07-03'
+        hpg:
+          value: X
+        population:
+          value: 1696366.0
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: C-C-A-C-B
+      - date: '2710-01-01'
+        population:
+          value: 8641061.0
+      - date: '2720-01-01'
+        population:
+          value: 18622119.0
+      - date: '2730-01-01'
+        population:
+          value: 26656859.0
+      - date: '2733-01-01'
+        socioIndustrial:
+          value: D-C-B-C-B
+      - date: '2740-01-01'
+        population:
+          value: 31533345.0
+      - date: '2750-01-01'
+        population:
+          value: 34000829.0
+      - date: '2760-01-01'
+        population:
+          value: 34968567.0
+      - date: '2770-01-01'
+        population:
+          value: 35312557.0
+      - date: '2779-06-12'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 35564199.0
+      - date: '2790-01-01'
+        population:
+          value: 35244217.0
+      - date: '2800-01-01'
+        population:
+          value: 34255473.0
+      - date: '2810-01-01'
+        population:
+          value: 33255198.0
+      - date: '2820-01-01'
+        population:
+          value: 32246053.0
+      - date: '2830-01-01'
+        population:
+          value: 11864955.0
+      - date: '2840-01-01'
+        population:
+          value: 1295035.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: F-C-C-C-C
+      - date: '2850-01-01'
+        population:
+          value: 145767.0
+      - date: '2860-01-01'
+        population:
+          value: 17994.0
+      - date: '2870-01-01'
+        population:
+          value: 2551.0
+      - date: '2880-07-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Benten
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.7
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Dyurtyulinskiy
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Gusev
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Horseheads
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1400
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -32
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Amatsu Kami
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -82
+    water:
+      value: 0
+  - name:
+      value: Isbel
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: frozen16
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -121
+    water:
+      value: 37
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New Gorod Chelyabinsk
+      - name:
+          value: Novaya Brabourne
+      - name:
+          value: Pestrechinskiy
+      - name:
+          value: Gorod Izberbash
+      - name:
+          value: Dyurtyulinskiy
+  - name:
+      value: Zbyshevsky
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: frozen40
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -165
+    water:
+      value: 56
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Sheidin
+      - name:
+          value: Butt
+  - name:
+      value: Kannon
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 7
+    icon: barren9
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide and
+        Nitrous Oxide
+    gravity:
+      value: 0.5
+    diameter:
+      value: 5500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 27
+    yearLength:
+      value: 30.7
+    temperature:
+      value: -212
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Tehmenev's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 19.4
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 85.5
+    temperature:
+      value: -234
+  - name:
+      value: Nogayskiy
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 130000
+    density:
+      value: 1.6
+    dayLength:
+      value: 15
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 21

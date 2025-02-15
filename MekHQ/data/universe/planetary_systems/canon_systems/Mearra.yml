@@ -1,0 +1,315 @@
+id: Mearra
+sucsId: 1649
+xcood: -245.965
+ycood: 502.42
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2770-08-15'
+    zenithCharge:
+      value: yes
+  - date: '2813-05-16'
+    zenithCharge:
+      value: no
+  - date: '3007-07-17'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Mearra
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green50
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 16
+    water:
+      value: 64
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Nueva Corçà I
+        capital:
+          value: Nueva Ngulu
+      - name:
+          value: Nueva Corçà II
+    event:
+      - date: '2743-04-07'
+        faction:
+          source: canon
+          value:
+            - RWR
+        hpg:
+          value: X
+        population:
+          value: 54095.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2750-01-01'
+        population:
+          value: 144424.0
+      - date: '2760-01-01'
+        population:
+          value: 464965.0
+      - date: '2770-01-01'
+        population:
+          value: 1192255.0
+      - date: '2779-04-08'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 2534413.0
+      - date: '2790-01-01'
+        population:
+          value: 4647022.0
+      - date: '2800-01-01'
+        population:
+          value: 7572839.0
+      - date: '2810-01-01'
+        population:
+          value: 11185670.0
+      - date: '2820-01-01'
+        population:
+          value: 8812080.0
+      - date: '2830-01-01'
+        population:
+          value: 5692257.0
+      - date: '2840-01-01'
+        population:
+          value: 3396117.0
+      - date: '2850-01-01'
+        population:
+          value: 2211259.0
+      - date: '2860-01-01'
+        population:
+          value: 1267896.0
+      - date: '2870-01-01'
+        population:
+          value: 704246.0
+      - date: '2880-01-01'
+        population:
+          value: 420168.0
+      - date: '2890-01-01'
+        population:
+          value: 258776.0
+      - date: '2900-01-01'
+        population:
+          value: 167825.0
+      - date: '2909-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2910-01-01'
+        population:
+          value: 105017.0
+      - date: '2920-01-01'
+        population:
+          value: 63912.0
+      - date: '2930-01-01'
+        population:
+          value: 35783.0
+      - date: '2940-01-01'
+        population:
+          value: 19640.0
+      - date: '2950-01-01'
+        population:
+          value: 11172.0
+      - date: '2960-01-01'
+        population:
+          value: 6963.0
+      - date: '2970-01-01'
+        population:
+          value: 4204.0
+      - date: '2980-01-01'
+        population:
+          value: 2631.0
+      - date: '2990-01-01'
+        population:
+          value: 1620.0
+      - date: '3000-01-01'
+        population:
+          value: 971.0
+      - date: '3007-11-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Javier's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: asteroid2
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+  - name:
+      value: Maestas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Montoya
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: López
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Rodríguez
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Hlaing
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: De La Cruz's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -146
+  - name:
+      value: Gómez
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Fuentes I
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Fuentes II
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Reyes's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -203
+  - name:
+      value: Tanner
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 14

@@ -1,0 +1,625 @@
+id: Lima
+sucsId: 1490
+xcood: 235.741
+ycood: 53.979
+spectralType:
+  value: G4V
+primarySlot: 3
+planet:
+  - name:
+      value: Haquira
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 2000
+    density:
+      value: 1.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 186
+    water:
+      value: 0
+  - name:
+      value: Conila
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.62
+    diameter:
+      value: 7500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 93
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Lima
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green39
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 13800
+    density:
+      value: 5.8284
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 32
+    water:
+      value: 45
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Paucar Del Sara Sara
+        capital:
+          value: Marcas
+      - name:
+          value: Greater New Maria Parado De Bellido
+      - name:
+          value: Lesser New Maria Parado De Bellido
+      - name:
+          value: Haquira
+      - name:
+          value: Quillo
+    event:
+      - date: '2276-05-28'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50044.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2280-01-01'
+        population:
+          value: 100312.0
+      - date: '2290-01-01'
+        population:
+          value: 477319.0
+      - date: '2299-01-01'
+        socioIndustrial:
+          value: D-C-B-D-F
+      - date: '2300-01-01'
+        population:
+          value: 1829115.0
+      - date: '2310-01-01'
+        population:
+          value: 5786234.0
+      - date: '2320-01-01'
+        population:
+          value: 15547780.0
+      - date: '2322-01-01'
+        socioIndustrial:
+          value: D-B-B-D-F
+      - date: '2330-01-01'
+        population:
+          value: 36310475.0
+      - date: '2340-01-01'
+        population:
+          value: 75276539.0
+      - date: '2345-11-10'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2350-01-01'
+        population:
+          value: 141774971.0
+      - date: '2360-01-01'
+        population:
+          value: 244513042.0
+      - date: '2370-01-01'
+        population:
+          value: 391639513.0
+      - date: '2380-01-01'
+        population:
+          value: 585102575.0
+      - date: '2390-01-01'
+        population:
+          value: 828831197.0
+      - date: '2400-01-01'
+        population:
+          value: 1111583279.0
+      - date: '2410-01-01'
+        population:
+          value: 1439647015.0
+      - date: '2420-01-01'
+        population:
+          value: 1799903717.0
+      - date: '2430-01-01'
+        population:
+          value: 2177987532.0
+      - date: '2440-01-01'
+        population:
+          value: 2568969988.0
+      - date: '2450-01-01'
+        population:
+          value: 2959260576.0
+      - date: '2460-01-01'
+        population:
+          value: 3332349826.0
+      - date: '2470-01-01'
+        population:
+          value: 3686380014.0
+      - date: '2480-01-01'
+        population:
+          value: 3994751574.0
+      - date: '2490-01-01'
+        population:
+          value: 4267792748.0
+      - date: '2500-01-01'
+        population:
+          value: 4521831013.0
+      - date: '2510-01-01'
+        population:
+          value: 4724322931.0
+      - date: '2520-01-01'
+        population:
+          value: 4947049724.0
+      - date: '2530-01-01'
+        population:
+          value: 5160386509.0
+      - date: '2540-01-01'
+        population:
+          value: 5356566936.0
+      - date: '2550-01-01'
+        population:
+          value: 5529696382.0
+      - date: '2560-01-01'
+        population:
+          value: 5673082936.0
+      - date: '2570-01-01'
+        population:
+          value: 5776033311.0
+      - date: '2580-01-01'
+        population:
+          value: 5897903181.0
+      - date: '2590-01-01'
+        population:
+          value: 5984724712.0
+      - date: '2600-01-01'
+        population:
+          value: 6011859208.0
+      - date: '2610-01-01'
+        population:
+          value: 6033283537.0
+      - date: '2620-01-01'
+        population:
+          value: 6051826151.0
+      - date: '2630-01-01'
+        population:
+          value: 6064054012.0
+      - date: '2631-07-03'
+        hpg:
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 6061465818.0
+      - date: '2650-01-01'
+        population:
+          value: 6029446695.0
+      - date: '2660-01-01'
+        population:
+          value: 6016107011.0
+      - date: '2670-01-01'
+        population:
+          value: 5987277158.0
+      - date: '2680-01-01'
+        population:
+          value: 5958124494.0
+      - date: '2690-01-01'
+        population:
+          value: 5967290968.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: C-A-A-C-D
+      - date: '2700-01-01'
+        population:
+          value: 6026285380.0
+      - date: '2710-01-01'
+        population:
+          value: 6065030316.0
+      - date: '2720-01-01'
+        population:
+          value: 6099335713.0
+      - date: '2730-01-01'
+        population:
+          value: 6112304080.0
+      - date: '2740-01-01'
+        population:
+          value: 6126085905.0
+      - date: '2750-01-01'
+        population:
+          value: 6142150502.0
+      - date: '2760-01-01'
+        population:
+          value: 6170583704.0
+      - date: '2770-01-01'
+        population:
+          value: 6224168536.0
+      - date: '2780-01-01'
+        population:
+          value: 6284828231.0
+      - date: '2790-01-01'
+        population:
+          value: 6275650943.0
+      - date: '2800-01-01'
+        population:
+          value: 6197658034.0
+      - date: '2810-01-01'
+        population:
+          value: 6163478512.0
+      - date: '2820-01-01'
+        population:
+          value: 6091471602.0
+      - date: '2830-01-01'
+        population:
+          value: 6015767648.0
+      - date: '2840-01-01'
+        population:
+          value: 5952215591.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: C-B-B-D-D
+      - date: '2850-01-01'
+        population:
+          value: 5912697601.0
+      - date: '2860-01-01'
+        population:
+          value: 5876764854.0
+      - date: '2870-01-01'
+        population:
+          value: 5890815510.0
+      - date: '2880-01-01'
+        population:
+          value: 5910468596.0
+      - date: '2890-01-01'
+        population:
+          value: 5935779934.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: D-C-C-D-D
+      - date: '2900-01-01'
+        population:
+          value: 5957829051.0
+      - date: '2910-01-01'
+        population:
+          value: 5965321900.0
+      - date: '2920-09-24'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 5978457068.0
+      - date: '2930-01-01'
+        population:
+          value: 5961199667.0
+      - date: '2940-01-01'
+        population:
+          value: 5949597786.0
+      - date: '2950-01-01'
+        population:
+          value: 5951467529.0
+      - date: '2960-01-01'
+        population:
+          value: 5937645334.0
+      - date: '2970-01-01'
+        population:
+          value: 5936152967.0
+      - date: '2980-01-01'
+        population:
+          value: 5933542227.0
+      - date: '2990-01-01'
+        population:
+          value: 5958952378.0
+      - date: '3000-01-01'
+        population:
+          value: 5981087571.0
+      - date: '3010-01-01'
+        population:
+          value: 5977330064.0
+      - date: '3020-01-01'
+        population:
+          value: 5949971688.0
+      - date: '3030-08-13'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 5972010980.0
+      - date: '3038-01-01'
+        socioIndustrial:
+          value: C-B-C-D-D
+      - date: '3040-01-01'
+        population:
+          value: 6027206993.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3045-01-01'
+        socioIndustrial:
+          value: B-A-B-C-D
+      - date: '3050-01-01'
+        population:
+          value: 6075010504.0
+      - date: '3060-01-01'
+        population:
+          value: 6135451798.0
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 6182877130.0
+      - date: '3080-01-01'
+        population:
+          value: 6212626281.0
+      - date: '3090-01-01'
+        population:
+          value: 6281342416.0
+      - date: '3100-01-01'
+        population:
+          value: 6347009253.0
+      - date: '3110-01-01'
+        population:
+          value: 6359715974.0
+      - date: '3117-01-01'
+        socioIndustrial:
+          value: B-A-B-C-F
+      - date: '3120-01-01'
+        population:
+          value: 6373722751.0
+      - date: '3130-01-01'
+        population:
+          value: 6377548132.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 6382652212.0
+      - date: '3145-06-14'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 6378823770.0
+  - name:
+      value: Delicia de Peron
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: frozen7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen, plus trace amounts of Water Vapor and Hydrogen Peroxide
+    gravity:
+      value: 0.79
+    diameter:
+      value: 9500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -31
+    water:
+      value: 35
+    landmass:
+      - name:
+          value: New Rupa-Rupa
+      - name:
+          value: Calapuja
+    satellite:
+      - name:
+          value: E1
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Gondul Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -100
+  - name:
+      value: Ancash
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Poggio San Lorenzo
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Gulfport
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Chernabog
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 20
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: 5SF-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Dayr al Kahf
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 170000
+    density:
+      value: 1.1
+    dayLength:
+      value: 16
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Baba Jaga
+    type:
+      value: ICE_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: López
+        size:
+          value: large
+        icon: rock6

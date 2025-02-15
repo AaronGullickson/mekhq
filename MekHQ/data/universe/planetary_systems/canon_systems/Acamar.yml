@@ -1,0 +1,805 @@
+id: Acamar
+sucsId: 15
+xcood: 39.543
+ycood: -38.565
+spectralType:
+  source: canon
+  value: K7V
+primarySlot: 8
+planet:
+  - name:
+      value: Adams
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 11.76
+    sysPos:
+      value: 1
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 18500
+    density:
+      value: 3.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 40.3
+    smallMoons:
+      value: 1
+  - name:
+      value: Oglethorpe's Tears
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock14
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1500
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 8
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: SMJ-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Blevins
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1200
+    density:
+      value: 4.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.9
+    temperature:
+      value: -38
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Balderson
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: frozen25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -77
+    water:
+      value: 46
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Twin Grove
+      - name:
+          value: Leander
+      - name:
+          value: Nova Rocewood
+      - name:
+          value: Rohrberg
+      - name:
+          value: New Woodworth
+  - name:
+      value: River Vale
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: rock4
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.3
+    temperature:
+      value: -133
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: MacKinney
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Wade
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Pioneer
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: frozen23
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.64
+    diameter:
+      value: 8500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 5.6
+    temperature:
+      value: -164
+    water:
+      value: 46
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: New White River
+      - name:
+          value: General Taboada
+  - name:
+      value: Dunham
+    type:
+      value: ICE_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 12
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 8
+  - name:
+      source: canon
+      value: Acamar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 8
+    icon: green32
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 14071
+    density:
+      value: 4.990815569168
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 20
+    water:
+      source: canon
+      value: 63
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Acamar was discovered early in the 23rd century by a Tikonov survey team. Acamar is locked in a perpetual winter as it orbits a great distance from its star. Acamar was only colonised after the discovery of vast titanium ore deposits, followed by deposits of gold and silver. As a result Acamar was coveted by the Capellan Confederation, Federated Suns, and the Free World League.
+
+      Acamar has three continents and a very large island group, however only the continent of Katenga, situated in the planet‘s equatorial region, was suitable for colonisation. The continents of Tamarack and Asta are located in the northern hemisphere, they are frozen year round, making them unsuitable for settlement. Acamar‘s planetary system has a large asteroid belt, called Illeudian, where mining operations are headquartered.
+
+      Katenga has two large valleys where most of the planet‘s population is located. Tomahn is the larger of the two valleys, located in the northeastern part of Tomahn is the capital of Kalskag. Flat, the second-largest city, is located southwest of the capital near the Tokal Mountains, where a large silver mine is located. The Otal foothills separate Tomahn Moraine from Trans-Mahn, the southern valley, where the Mahn River flows and the city of Huss was founded. The Osz Forest covers the northern approach to Trans-Mahn.
+
+      GM and Taijian Petrochemicals have vested interest in Acamar because they have helped the world recover from the chaos of the last few years. When the World of Blake forces landed on Acamar, the defenders were ordered to lay down their arms without firing a shot as the Blakist forces had infiltrated the military command during the upheaval of the Chaos March. This saved Acamar from the full, devastating effects of the Jihad.
+    landmass:
+      - name:
+          source: canon
+          value: Katenga
+        capital:
+          source: canon
+          value: Kalskag
+      - name:
+          source: canon
+          value: Tamarack
+      - name:
+          source: canon
+          value: Asta
+    satellite:
+      - name:
+          value: Aiken
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2240-03-13'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47746.0
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2247-01-01'
+        socioIndustrial:
+          value: C-C-C-C-F
+      - date: '2250-01-01'
+        population:
+          value: 248044.0
+      - date: '2260-01-01'
+        population:
+          value: 1020426.0
+      - date: '2270-01-01'
+        population:
+          value: 3444689.0
+      - date: '2280-01-01'
+        population:
+          value: 9853468.0
+      - date: '2290-01-01'
+        population:
+          value: 24314110.0
+      - date: '2300-01-01'
+        population:
+          value: 53167000.0
+      - date: '2310-01-01'
+        population:
+          value: 104683511.0
+      - date: '2320-09-18'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 188253192.0
+      - date: '2330-01-01'
+        population:
+          value: 312987798.0
+      - date: '2340-01-01'
+        population:
+          value: 484009725.0
+      - date: '2350-01-01'
+        population:
+          value: 700315803.0
+      - date: '2360-01-01'
+        population:
+          value: 958585694.0
+      - date: '2370-01-01'
+        population:
+          value: 1255861180.0
+      - date: '2380-01-01'
+        population:
+          value: 1584464755.0
+      - date: '2390-01-01'
+        population:
+          value: 1933742537.0
+      - date: '2400-01-01'
+        population:
+          value: 2303449576.0
+      - date: '2410-01-01'
+        population:
+          value: 2687545298.0
+      - date: '2420-01-01'
+        population:
+          value: 3076244761.0
+      - date: '2430-01-01'
+        population:
+          value: 3448633255.0
+      - date: '2433-01-01'
+        socioIndustrial:
+          value: B-B-C-B-F
+      - date: '2440-01-01'
+        population:
+          value: 3810491596.0
+      - date: '2450-01-01'
+        population:
+          value: 4177984220.0
+      - date: '2460-01-01'
+        population:
+          value: 4527047283.0
+      - date: '2470-01-01'
+        population:
+          value: 4838977320.0
+      - date: '2480-01-01'
+        population:
+          value: 5121918277.0
+      - date: '2490-01-01'
+        population:
+          value: 5427912181.0
+      - date: '2500-01-01'
+        population:
+          value: 5722593647.0
+      - date: '2510-01-01'
+        population:
+          value: 5994431765.0
+      - date: '2520-01-01'
+        population:
+          value: 6251097729.0
+      - date: '2530-01-01'
+        population:
+          value: 6475785631.0
+      - date: '2540-01-01'
+        population:
+          value: 6684204953.0
+      - date: '2550-01-01'
+        population:
+          value: 6898386997.0
+      - date: '2560-01-01'
+        population:
+          value: 7097347432.0
+      - date: '2570-01-01'
+        population:
+          value: 7231300783.0
+      - date: '2580-01-01'
+        population:
+          value: 7316275261.0
+      - date: '2590-01-01'
+        population:
+          value: 7364305359.0
+      - date: '2600-01-01'
+        population:
+          value: 7435661305.0
+      - date: '2610-01-01'
+        population:
+          value: 7540100369.0
+      - date: '2620-01-01'
+        population:
+          value: 7668079522.0
+      - date: '2630-01-01'
+        population:
+          value: 7758064094.0
+      - date: '2634-09-17'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 7867714340.0
+      - date: '2650-01-01'
+        population:
+          value: 7992347747.0
+      - date: '2654-01-01'
+        socioIndustrial:
+          value: A-A-C-A-D
+      - date: '2660-01-01'
+        population:
+          value: 8102576801.0
+      - date: '2670-01-01'
+        population:
+          value: 8214864612.0
+      - date: '2680-01-01'
+        population:
+          value: 8281691585.0
+      - date: '2690-01-01'
+        population:
+          value: 8352419804.0
+      - date: '2700-01-01'
+        population:
+          value: 8383889779.0
+      - date: '2710-01-01'
+        population:
+          value: 8386106842.0
+      - date: '2720-01-01'
+        population:
+          value: 8316031395.0
+      - date: '2730-01-01'
+        population:
+          value: 8267840121.0
+      - date: '2740-01-01'
+        population:
+          value: 8201943317.0
+      - date: '2750-01-01'
+        population:
+          value: 8156414563.0
+      - date: '2760-01-01'
+        population:
+          value: 8202971940.0
+      - date: '2767-07-24'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 8218100466.0
+      - date: '2779-06-11'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 8201969030.0
+      - date: '2790-11-23'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 8197098320.0
+      - date: '2800-01-01'
+        population:
+          value: 8188862170.0
+      - date: '2810-01-01'
+        population:
+          value: 8177270729.0
+      - date: '2820-01-01'
+        population:
+          value: 8143338930.0
+      - date: '2830-01-01'
+        population:
+          value: 8111771586.0
+      - date: '2840-01-01'
+        population:
+          value: 8104732107.0
+      - date: '2846-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '2850-01-01'
+        population:
+          value: 8107695353.0
+      - date: '2860-01-01'
+        population:
+          value: 8111771586.0
+      - date: '2870-01-01'
+        population:
+          value: 8132555113.0
+      - date: '2880-01-01'
+        population:
+          value: 8165695695.0
+      - date: '2890-01-01'
+        population:
+          value: 8168681231.0
+      - date: '2900-01-01'
+        population:
+          value: 8183999244.0
+      - date: '2902-01-01'
+        socioIndustrial:
+          value: C-C-C-B-D
+      - date: '2910-01-01'
+        population:
+          value: 8201594257.0
+      - date: '2920-01-01'
+        population:
+          value: 8215847665.0
+      - date: '2930-01-01'
+        population:
+          value: 8234639895.0
+      - date: '2940-01-01'
+        population:
+          value: 8237650638.0
+      - date: '2950-01-01'
+        population:
+          value: 8255360998.0
+      - date: '2960-01-01'
+        population:
+          value: 8250458582.0
+      - date: '2970-01-01'
+        population:
+          value: 8270463634.0
+      - date: '2980-01-01'
+        population:
+          value: 8273487475.0
+      - date: '2990-01-01'
+        population:
+          value: 8271975416.0
+      - date: '3000-01-01'
+        population:
+          value: 8202718626.0
+      - date: '3010-01-01'
+        population:
+          value: 8120672300.0
+      - date: '3020-01-01'
+        population:
+          value: 8037242801.0
+      - date: '3029-09-13'
+        faction:
+          source: canon
+          value:
+            - TFR
+        socioIndustrial:
+          value: C-C-D-B-D
+      - date: '3030-06-19'
+        population:
+          value: 8039234821.0
+        socioIndustrial:
+          value: B-B-D-B-D
+      - date: '3032-11-28'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3040-01-01'
+        population:
+          value: 8125716485.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: A-A-D-B-D
+      - date: '3050-01-01'
+        population:
+          value: 8231217245.0
+      - date: '3057-11-01'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3058-02-01'
+        faction:
+          source: canon
+          value:
+            - MERC
+            - CM
+      - date: '3058-08-01'
+        faction:
+          source: canon
+          value:
+            - PIR
+      - date: '3060-01-01'
+        population:
+          value: 8333919778.0
+      - date: '3061-02-09'
+        faction:
+          source: canon
+          value:
+            - MERC
+            - PIR
+      - date: '3061-08-31'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3065-12-01'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3068-08-01'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 8441279588.0
+      - date: '3078-01-15'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - WOB
+      - date: '3078-01-05'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 8580857988.0
+      - date: '3081-12-07'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 8708799115.0
+      - date: '3100-01-01'
+        population:
+          value: 8828047837.0
+      - date: '3110-01-01'
+        population:
+          value: 8907858878.0
+      - date: '3120-01-01'
+        population:
+          value: 8999184005.0
+      - date: '3130-01-01'
+        population:
+          value: 9089627308.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3136-01-01'
+        socioIndustrial:
+          value: A-A-D-B-D
+      - date: '3140-01-01'
+        population:
+          value: 9155308794.0
+      - date: '3145-03-14'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 9166301759.0
+  - name:
+      value: Lindsay's Choice
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 23.28
+    sysPos:
+      value: 9
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1200
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 112.3
+    temperature:
+      value: -235
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: BY-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 46.32
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 315.2
+    temperature:
+      value: -246
+  - name:
+      value: Larson's Wheel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 11
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 140000
+    density:
+      value: 0.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 888.2
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Nam Shub A
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Nam Shub B
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Nam Shub C
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Nam Shub D
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Nam Shub E
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Nam Shub F
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Nam Shub G
+        size:
+          value: medium
+        icon: oddmoon3

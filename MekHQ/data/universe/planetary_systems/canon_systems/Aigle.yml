@@ -1,0 +1,587 @@
+id: Aigle
+sucsId: 43
+xcood: -234.767
+ycood: -19.069
+spectralType:
+  value: M6V
+primarySlot: 1
+event:
+  - date: '2674-02-26'
+    nadirCharge:
+      value: yes
+  - date: '2712-11-26'
+    zenithCharge:
+      value: yes
+  - date: '2802-10-31'
+    nadirCharge:
+      value: no
+  - date: '2833-07-27'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Aigle
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.08
+    sysPos:
+      value: 1
+    icon: green42
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 11400
+    density:
+      value: 5.2795
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.4
+    temperature:
+      value: 24
+    water:
+      value: 35
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Rüti
+        capital:
+          value: Widmannburg
+      - name:
+          value: Imboden
+    event:
+      - date: '2667-09-22'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 54193.0
+        socioIndustrial:
+          value: B-D-A-C-C
+      - date: '2668-07-17'
+        hpg:
+          value: B
+      - date: '2670-01-01'
+        population:
+          value: 265489.0
+      - date: '2680-01-01'
+        population:
+          value: 9345407.0
+      - date: '2689-01-01'
+        socioIndustrial:
+          value: B-D-B-C-C
+      - date: '2690-01-01'
+        population:
+          value: 61980550.0
+      - date: '2700-01-01'
+        population:
+          value: 169251539.0
+      - date: '2710-01-01'
+        population:
+          value: 286590015.0
+      - date: '2720-01-01'
+        population:
+          value: 376636316.0
+      - date: '2730-01-01'
+        population:
+          value: 433318643.0
+      - date: '2732-01-01'
+        socioIndustrial:
+          value: A-C-B-C-B
+      - date: '2740-01-01'
+        population:
+          value: 465049067.0
+      - date: '2750-01-01'
+        population:
+          value: 483917594.0
+      - date: '2760-01-01'
+        population:
+          value: 495045131.0
+      - date: '2770-01-01'
+        population:
+          value: 498863653.0
+      - date: '2780-01-01'
+        population:
+          value: 497679215.0
+      - date: '2790-01-01'
+        population:
+          value: 495799572.0
+      - date: '2800-01-01'
+        population:
+          value: 495001087.0
+      - date: '2810-01-01'
+        population:
+          value: 442491248.0
+      - date: '2820-01-01'
+        population:
+          value: 8733501.0
+      - date: '2830-01-01'
+        population:
+          value: 30709.0
+      - date: '2833-08-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Cochecton
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.14
+    sysPos:
+      value: 2
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -81
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Alhmann's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: asteroid1
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -113
+  - name:
+      value: Aether's Stand
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 110000
+    density:
+      value: 1.7
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.5
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: GNZ1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: GNZ2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: GNZ3
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Pan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Alhmann's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.04
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 1.2
+    temperature:
+      value: -203
+  - name:
+      value: Hyacinthus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.0
+    sysPos:
+      value: 7
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 16
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Hapi 1
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Hapi 2
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Hapi 3
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Hapi 4
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Hapi 5
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Helice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.92
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 160000
+    density:
+      value: 0.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Taylor A
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Taylor B
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Taylor C
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Taylor D
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Njorth
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.76
+    sysPos:
+      value: 9
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 21.6
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Yahshua A
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Yahshua B
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Yahshua C
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Yahshua D
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Yahshua E
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Yahshua F
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Yahshua G
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Yahshua H
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Aeacussgarten
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.44
+    sysPos:
+      value: 10
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 60.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Kochta
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Ortíz
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Cronos's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.8
+    sysPos:
+      value: 11
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.92
+    diameter:
+      value: 90000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 170.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Rebholz's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.52
+    sysPos:
+      value: 12
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.96
+    diameter:
+      value: 160000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 482.5
+    smallMoons:
+      value: 13
+  - name:
+      value: Bezirk Kulm
+    type:
+      value: GAS_GIANT
+    orbitalDist: 122.96
+    sysPos:
+      value: 13
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1363.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: M11
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ariadne
+    type:
+      value: GAS_GIANT
+    orbitalDist: 245.84
+    sysPos:
+      value: 14
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 160000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3854.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 26

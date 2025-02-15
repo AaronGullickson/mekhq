@@ -1,0 +1,586 @@
+id: Aea
+sucsId: 2881
+xcood: 156.052
+ycood: -426.165
+spectralType:
+  value: K7V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Aea
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: green1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.67
+    diameter:
+      value: 11700
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 36
+    water:
+      value: 39
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Nkwanta North
+        capital:
+          value: New Kwabre
+      - name:
+          value: Awutu Senya
+      - name:
+          value: Bibiani
+      - name:
+          value: Beaver
+    event:
+      - date: '2735-02-28'
+        faction:
+          source: canon
+          value:
+            - SL
+        hpg:
+          value: B
+        population:
+          value: 51376.0
+        socioIndustrial:
+          value: B-F-B-D-F
+      - date: '2781-08-12'
+        faction:
+          value:
+            - IND
+        population:
+          value: 60278.0
+      - date: '2790-01-01'
+        population:
+          value: 53962.0
+      - date: '3021-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+      - date: '3022-01-01'
+        faction:
+          source: canon
+          value:
+            - ARD
+      - date: '3026-01-01'
+        faction:
+          source: canon
+          value:
+            - ARC
+        population:
+          value: 48806.0
+      - date: '3030-05-01'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 60376.0
+        socioIndustrial:
+          value: C-C-B-D-F
+      - date: '3039-01-01'
+        socioIndustrial:
+          value: D-C-B-D-F
+      - date: '3040-01-01'
+        population:
+          value: 141780.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: F-D-B-D-F
+      - date: '3050-01-01'
+        population:
+          value: 191332.0
+      - date: '3060-01-01'
+        population:
+          value: 227310.0
+      - date: '3070-01-01'
+        population:
+          value: 131293.0
+      - date: '3075-09-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Heret
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 2
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Cossey
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Aspinall
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Metherell
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Limb
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Guan Gong
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Tennyson
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Gaze
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Reshep
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 3
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      value: Nekhbet's Revenge
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 4
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 110000
+    density:
+      value: 0.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Oshun
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Set
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.76
+    sysPos:
+      value: 5
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 18
+    yearLength:
+      value: 40.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Ga Gaah Alpha
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Ga Gaah Beta
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Ga Gaah Gamma
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Ga Gaah Delta
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Ga Gaah Epsilon
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Sakhmet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 23.28
+    sysPos:
+      value: 6
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.05
+    diameter:
+      value: 18500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 112.3
+    smallMoons:
+      value: 2
+  - name:
+      value: Re
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.32
+    sysPos:
+      value: 7
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 315.2
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Stercutus I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Stercutus II
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Aten
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.4
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 888.2
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: FHU1
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: FHU2
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: FHU3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: FHU4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Osun's Tears
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.56
+    sysPos:
+      value: 9
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 9
+    yearLength:
+      value: 2507.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Cleveland
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Min
+    type:
+      value: GAS_GIANT
+    orbitalDist: 368.88
+    sysPos:
+      value: 10
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 80000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7084.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Oya Iyansan 1
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Oya Iyansan 2
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Oya Iyansan 3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Oya Iyansan 4
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Oya Iyansan 5
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Oya Iyansan 6
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Oya Iyansan 7
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Oya Iyansan 8
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Oya Iyansan 9
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Huh
+    type:
+      value: ICE_GIANT
+    orbitalDist: 737.52
+    sysPos:
+      value: 11
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.92
+    diameter:
+      value: 50000
+    density:
+      value: 1.3
+    dayLength:
+      value: 14
+    yearLength:
+      value: 20029.099999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Tchernobog 1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Tchernobog 2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Tchernobog 3
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Tchernobog 4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Tchernobog 5
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Tchernobog 6
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tchernobog 7
+        size:
+          value: medium
+        icon: oddmoon1

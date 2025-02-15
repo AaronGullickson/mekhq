@@ -1,0 +1,548 @@
+id: Fronde
+sucsId: 904
+xcood: -5.962
+ycood: -251.599
+spectralType:
+  value: G3V
+primarySlot: 3
+planet:
+  - name:
+      value: Cère
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1300
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 180
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: SVH.1
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Saint-Désir
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 70
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: 9MF-1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      source: canon
+      value: Fronde
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: green37
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.12
+    diameter:
+      value: 13500
+    density:
+      value: 5.8284
+    dayLength:
+      value: 28
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 38
+    water:
+      value: 54
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Nouveau Agnicourt-et-Séchelles
+        capital:
+          value: Saint-Cricq
+      - name:
+          value: Little Feuquières
+      - name:
+          value: Big Feuquières
+      - name:
+          value: Nouveau Fontaines-les-Sèches
+      - name:
+          value: Lorleau
+    event:
+      - date: '2603-10-22'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 47013.0
+        socioIndustrial:
+          value: B-D-B-F-C
+      - date: '2610-01-01'
+        population:
+          value: 552161.0
+      - date: '2620-01-01'
+        population:
+          value: 6603168.0
+      - date: '2630-01-01'
+        population:
+          value: 33996392.0
+      - date: '2640-01-01'
+        population:
+          value: 100688042.0
+      - date: '2650-01-01'
+        population:
+          value: 206828233.0
+      - date: '2651-07-08'
+        hpg:
+          value: B
+      - date: '2660-01-01'
+        population:
+          value: 334182248.0
+      - date: '2670-01-01'
+        population:
+          value: 461181514.0
+      - date: '2680-01-01'
+        population:
+          value: 572972619.0
+      - date: '2690-01-01'
+        population:
+          value: 662219304.0
+      - date: '2692-01-01'
+        socioIndustrial:
+          value: B-D-B-D-C
+      - date: '2700-01-01'
+        population:
+          value: 730142339.0
+      - date: '2710-01-01'
+        population:
+          value: 783268037.0
+      - date: '2720-01-01'
+        population:
+          value: 818672475.0
+      - date: '2730-01-01'
+        population:
+          value: 841282061.0
+      - date: '2733-01-01'
+        socioIndustrial:
+          value: B-D-B-C-C
+      - date: '2740-03-03'
+        population:
+          value: 852298674.0
+        socioIndustrial:
+          value: B-C-B-B-C
+      - date: '2743-01-01'
+        socioIndustrial:
+          value: B-B-B-A-B
+      - date: '2750-01-01'
+        population:
+          value: 860669001.0
+      - date: '2760-01-01'
+        population:
+          value: 868897913.0
+      - date: '2770-01-01'
+        population:
+          value: 874797330.0
+      - date: '2780-01-01'
+        population:
+          value: 876445332.0
+      - date: '2790-01-01'
+        population:
+          value: 869497772.0
+      - date: '2800-01-01'
+        population:
+          value: 857688159.0
+      - date: '2810-01-01'
+        population:
+          value: 839062337.0
+      - date: '2820-01-01'
+        population:
+          value: 822387199.0
+      - date: '2830-01-01'
+        population:
+          value: 802411108.0
+      - date: '2840-01-01'
+        population:
+          value: 782625623.0
+      - date: '2850-01-01'
+        population:
+          value: 767360849.0
+      - date: '2860-01-01'
+        population:
+          value: 760364973.0
+      - date: '2863-01-01'
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '2870-01-01'
+        population:
+          value: 762849311.0
+      - date: '2880-01-01'
+        population:
+          value: 765918105.0
+      - date: '2890-01-01'
+        population:
+          value: 762657921.0
+      - date: '2900-01-01'
+        population:
+          value: 757698578.0
+      - date: '2904-01-01'
+        socioIndustrial:
+          value: C-D-D-C-C
+      - date: '2910-01-01'
+        population:
+          value: 750508261.0
+      - date: '2920-01-01'
+        population:
+          value: 745347336.0
+      - date: '2930-01-01'
+        population:
+          value: 746376674.0
+      - date: '2940-01-01'
+        population:
+          value: 748533522.0
+      - date: '2950-01-01'
+        population:
+          value: 753243848.0
+      - date: '2960-01-01'
+        population:
+          value: 753716508.0
+      - date: '2970-01-01'
+        population:
+          value: 753338356.0
+      - date: '2980-01-01'
+        population:
+          value: 750696602.0
+      - date: '2990-01-01'
+        population:
+          value: 753149352.0
+      - date: '3000-01-01'
+        population:
+          value: 751073428.0
+      - date: '3010-01-01'
+        population:
+          value: 735869922.0
+      - date: '3020-01-01'
+        population:
+          value: 715298046.0
+      - date: '3030-01-01'
+        population:
+          value: 707131571.0
+      - date: '3030-11-26'
+        faction:
+          source: canon
+          value:
+            - DA
+            - CC
+      - date: '3031-09-10'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3040-01-01'
+        population:
+          value: 711814075.0
+      - date: '3046-01-01'
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '3050-01-01'
+        population:
+          value: 716455936.0
+      - date: '3060-01-01'
+        population:
+          value: 721055958.0
+      - date: '3070-01-01'
+        population:
+          value: 725612950.0
+      - date: '3080-01-01'
+        population:
+          value: 733492041.0
+      - date: '3090-01-01'
+        population:
+          value: 741753328.0
+      - date: '3100-10-09'
+        population:
+          value: 750858146.0
+        socioIndustrial:
+          value: C-C-C-B-B
+      - date: '3110-01-01'
+        population:
+          value: 760074722.0
+      - date: '3120-01-01'
+        population:
+          value: 769866210.0
+      - date: '3130-01-01'
+        population:
+          value: 779783835.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 784476602.0
+      - date: '3145-01-01'
+        population:
+          value: 784319722.0
+  - name:
+      value: Apach
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 4
+    icon: frozen32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.57
+    diameter:
+      value: 11500
+    density:
+      value: 3.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -97
+    water:
+      value: 41
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Lamotte
+      - name:
+          value: Little Laporte's Stand
+      - name:
+          value: Roussel
+      - name:
+          value: Big Laporte's Stand
+  - name:
+      value: Lisors
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 5
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: 6M-1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: 6M-2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: 6M-3
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: 6M-4
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: New Nova Itarana
+    type:
+      value: GAS_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 6
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 31.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Elion
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Y'shua
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Yahshua
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Neptunus
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 7
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Chang Fei
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Dies Pater
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 8
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 11
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Abundantia
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Loki Laufeyjarson Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -241

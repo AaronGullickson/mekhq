@@ -1,0 +1,356 @@
+id: Ulvskollen
+sucsId: 2623
+xcood: 582.383
+ycood: -207.234
+spectralType:
+  value: G5V
+primarySlot: 3
+event:
+  - date: '2805-01-08'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Hommelvik
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 193
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Tyr
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Goðheimr
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Baldr
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Dalen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: barren24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 70
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Ulvskollen
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 12000
+    density:
+      value: 5.8284
+    dayLength:
+      value: 30
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 34
+    water:
+      value: 47
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Lel
+        capital:
+          value: Sveio
+      - name:
+          value: Ny Rogaland Fylke
+      - name:
+          value: Little South Westfield
+      - name:
+          value: Big South Westfield
+    event:
+      - date: '2714-04-10'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 42859.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2720-01-01'
+        population:
+          value: 89726.0
+      - date: '2724-10-30'
+        hpg:
+          value: B
+      - date: '2730-01-01'
+        population:
+          value: 255358.0
+      - date: '2740-01-01'
+        population:
+          value: 605746.0
+      - date: '2750-01-01'
+        population:
+          value: 1226245.0
+      - date: '2760-01-01'
+        population:
+          value: 2190620.0
+      - date: '2770-01-01'
+        population:
+          value: 3525594.0
+      - date: '2780-01-01'
+        population:
+          value: 2403776.0
+      - date: '2790-01-01'
+        population:
+          value: 93934.0
+      - date: '2798-01-01'
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2800-01-01'
+        population:
+          value: 4528.0
+      - date: '2805-05-12'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Vik
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1200
+    density:
+      value: 6.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -52
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Frol
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Dionysus I
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Dionysus II
+        size:
+          value: large
+        icon: rock15
+  - name:
+      value: Johnsen's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 10.2
+    temperature:
+      value: -151
+  - name:
+      value: Sawyer
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 27.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Hesperia
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Fates
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Sirens
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: BJ7-1
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Stokmarknes
+    type:
+      value: ICE_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 40000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 74.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Juno 1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Juno 2
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Juno 3
+        size:
+          value: medium
+        icon: rock17

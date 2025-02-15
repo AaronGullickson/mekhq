@@ -1,0 +1,271 @@
+id: Vangburg
+sucsId: 2657
+xcood: 613.999
+ycood: 267.841
+spectralType:
+  value: M1V
+primarySlot: 1
+event:
+  - date: '2904-10-16'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Vangburg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.81
+    diameter:
+      value: 10800
+    density:
+      value: 5.2795
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 27
+    water:
+      value: 26
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Tolé
+        capital:
+          value: Jakobsson City
+      - name:
+          value: Mas-Saint-Chély
+      - name:
+          value: Skien
+    event:
+      - date: '2731-11-26'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 51302.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2735-02-19'
+        hpg:
+          value: X
+      - date: '2740-01-01'
+        population:
+          value: 135263.0
+      - date: '2750-01-01'
+        population:
+          value: 328340.0
+      - date: '2760-01-01'
+        population:
+          value: 671572.0
+      - date: '2770-01-01'
+        population:
+          value: 1203784.0
+      - date: '2780-01-01'
+        population:
+          value: 1939157.0
+      - date: '2790-01-01'
+        population:
+          value: 2850657.0
+      - date: '2800-01-01'
+        population:
+          value: 3898475.0
+      - date: '2810-01-01'
+        population:
+          value: 5013913.0
+      - date: '2820-01-01'
+        population:
+          value: 5424952.0
+      - date: '2830-01-01'
+        population:
+          value: 2094622.0
+      - date: '2840-01-01'
+        population:
+          value: 715110.0
+      - date: '2850-01-01'
+        population:
+          value: 214109.0
+      - date: '2860-01-01'
+        population:
+          value: 65166.0
+      - date: '2864-10-28'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 24550.0
+      - date: '2880-01-01'
+        population:
+          value: 8804.0
+      - date: '2890-01-01'
+        population:
+          value: 2530.0
+      - date: '2900-01-01'
+        population:
+          value: 783.0
+      - date: '2904-09-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Sarasvati
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.29
+    diameter:
+      value: 70000
+    density:
+      value: 1.3
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Q-1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Q-2
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Gullveig's Rift
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 110000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Olson
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Griffith
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Thune
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lopu Mate Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.6
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -187
+  - name:
+      value: Indra
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 5
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Y-1
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Y-2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Y-3
+        size:
+          value: large
+        icon: rock3

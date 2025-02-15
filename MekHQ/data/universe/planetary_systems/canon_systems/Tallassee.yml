@@ -1,0 +1,345 @@
+id: Tallassee
+sucsId: 2471
+xcood: 146.776
+ycood: 3.931
+spectralType:
+  value: F1V
+primarySlot: 3
+event:
+  - date: '2794-05-22'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Wells
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 1
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.4
+    smallMoons:
+      value: 4
+  - name:
+      value: Jenkins
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 2
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 2.4
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Tallassee
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.56
+    sysPos:
+      value: 3
+    icon: green26
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 20
+    yearLength:
+      value: 4.3
+    temperature:
+      value: 36
+    water:
+      value: 38
+    lifeForm:
+      value: MICROBE
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Bowen
+        capital:
+          value: Krampus
+      - name:
+          value: Jones's Delight
+      - name:
+          value: Faulkner's Den
+      - name:
+          value: Gounaris
+      - name:
+          value: Clark's Folly
+    event:
+      - date: '2749-05-05'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 59629.0
+        socioIndustrial:
+          value: C-D-A-D-F
+      - date: '2750-10-13'
+        hpg:
+          value: B
+        population:
+          value: 74031.0
+      - date: '2760-01-01'
+        population:
+          value: 493388.0
+      - date: '2770-01-01'
+        population:
+          value: 2196397.0
+      - date: '2780-01-01'
+        population:
+          value: 555166.0
+      - date: '2790-01-01'
+        population:
+          value: 91018.0
+      - date: '2794-06-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: West's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.48
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 9.6
+    temperature:
+      value: -64
+  - name:
+      value: Sun Hou Tze
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.32
+    sysPos:
+      value: 5
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 24.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: L7-1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: L7-2
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Holt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 16.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.19
+    diameter:
+      value: 160000
+    density:
+      value: 1.4
+    dayLength:
+      value: 20
+    yearLength:
+      value: 64.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Johnson's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 31.36
+    sysPos:
+      value: 7
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 175.6
+    satellite:
+      - name:
+          value: Hun Ahau 1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Hun Ahau 2
+        size:
+          value: large
+        icon: rock11
+  - name:
+      value: Farrell
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.52
+    sysPos:
+      value: 8
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1372.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Tschiertschen-Praden A
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Tschiertschen-Praden B
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Higginson
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 246.4
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 3867.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: W1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: W2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: W3
+        size:
+          value: medium
+        icon: oddmoon3

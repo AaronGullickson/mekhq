@@ -1,0 +1,463 @@
+id: Las Tunas
+sucsId: 1460
+xcood: 693.4
+ycood: 269.407
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2819-12-25'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Rosales
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane and Hydrochloric
+        Acid
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 190
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Las Tunas
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 12000
+    density:
+      value: 6.8337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 31
+    water:
+      value: 38
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: New Camagüey
+        capital:
+          value: Klohse City
+      - name:
+          value: Morán's Rock
+    event:
+      - date: '2631-04-22'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 48012.0
+        socioIndustrial:
+          value: C-D-B-C-F
+      - date: '2640-01-01'
+        population:
+          value: 394776.0
+      - date: '2642-01-01'
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2650-01-01'
+        population:
+          value: 1796789.0
+      - date: '2651-01-01'
+        socioIndustrial:
+          value: D-C-B-C-C
+      - date: '2660-01-01'
+        population:
+          value: 4694320.0
+      - date: '2670-01-01'
+        population:
+          value: 8611195.0
+      - date: '2680-01-01'
+        population:
+          value: 12627209.0
+      - date: '2690-01-01'
+        population:
+          value: 16122167.0
+      - date: '2700-01-01'
+        population:
+          value: 18833206.0
+      - date: '2708-11-16'
+        hpg:
+          value: B
+      - date: '2710-01-01'
+        population:
+          value: 20845089.0
+      - date: '2720-01-01'
+        population:
+          value: 22326668.0
+      - date: '2730-01-01'
+        population:
+          value: 23393944.0
+      - date: '2740-01-01'
+        population:
+          value: 24125083.0
+      - date: '2750-01-01'
+        population:
+          value: 24638570.0
+      - date: '2760-01-01'
+        population:
+          value: 24941847.0
+      - date: '2770-01-01'
+        population:
+          value: 25134179.0
+      - date: '2776-12-23'
+        hpg:
+          value: X
+      - date: '2780-09-05'
+        hpg:
+          value: B
+        population:
+          value: 25180448.0
+      - date: '2790-01-01'
+        population:
+          value: 24933744.0
+      - date: '2800-01-01'
+        population:
+          value: 24022103.0
+      - date: '2810-01-01'
+        population:
+          value: 8680176.0
+      - date: '2819-08-29'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Rodríguez
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: barren10
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 12
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+  - name:
+      value: Batara Kali
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.66
+    diameter:
+      value: 15500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.7
+  - name:
+      value: Port Mora
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Warner 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Warner 2
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Warner 3
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Warner 4
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Warner 5
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Baldr
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.07
+    diameter:
+      value: 1300
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -151
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Aditinggi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Antilla Alpha
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Antilla Beta
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Castillo's Frontier
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 8
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: R1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: R2
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Ennugi
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 9
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 150000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1367.5
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Z1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Z2
+        size:
+          value: giant
+        icon: rock13
+      - name:
+          value: Z3
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Z4
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Z5
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Z6
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Z7
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Z8
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Z9
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Z10
+        size:
+          value: medium
+        icon: oddmoon1

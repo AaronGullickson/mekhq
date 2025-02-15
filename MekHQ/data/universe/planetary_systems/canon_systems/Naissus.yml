@@ -1,0 +1,573 @@
+id: Naissus
+sucsId: 1789
+xcood: -347.184
+ycood: -162.059
+spectralType:
+  value: K4V
+primarySlot: 1
+event:
+  - date: '2706-03-10'
+    nadirCharge:
+      value: yes
+  - date: '2789-01-16'
+    nadirCharge:
+      value: no
+  - date: '2924-12-11'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Naissus
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green19
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 35
+    water:
+      value: 43
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Petrovac
+        capital:
+          value: XM1 City
+      - name:
+          value: Cubrilovic
+    event:
+      - date: '2621-02-28'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 52712.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2630-01-01'
+        population:
+          value: 800236.0
+      - date: '2640-01-01'
+        population:
+          value: 5745507.0
+      - date: '2649-12-04'
+        hpg:
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 20156526.0
+      - date: '2660-09-20'
+        population:
+          value: 44841476.0
+        socioIndustrial:
+          value: B-D-A-D-C
+      - date: '2670-01-01'
+        population:
+          value: 74915870.0
+      - date: '2680-01-01'
+        population:
+          value: 104297704.0
+      - date: '2690-01-01'
+        population:
+          value: 128469347.0
+      - date: '2700-01-01'
+        population:
+          value: 146036824.0
+      - date: '2710-01-01'
+        population:
+          value: 158854408.0
+      - date: '2720-01-01'
+        population:
+          value: 167937596.0
+      - date: '2730-01-01'
+        population:
+          value: 174417776.0
+      - date: '2740-01-01'
+        population:
+          value: 179237129.0
+      - date: '2750-01-01'
+        population:
+          value: 180823007.0
+      - date: '2760-01-01'
+        population:
+          value: 181451815.0
+      - date: '2770-01-01'
+        population:
+          value: 181268907.0
+      - date: '2780-01-01'
+        population:
+          value: 180671243.0
+      - date: '2790-01-01'
+        population:
+          value: 153246031.0
+      - date: '2800-01-01'
+        population:
+          value: 79088940.0
+      - date: '2810-01-01'
+        population:
+          value: 31519149.0
+      - date: '2820-01-01'
+        population:
+          value: 12753729.0
+      - date: '2830-01-01'
+        population:
+          value: 6100196.0
+      - date: '2840-01-01'
+        population:
+          value: 3449008.0
+      - date: '2843-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2850-01-01'
+        population:
+          value: 1935275.0
+      - date: '2860-01-01'
+        population:
+          value: 1102542.0
+      - date: '2870-01-01'
+        population:
+          value: 496233.0
+      - date: '2880-01-01'
+        population:
+          value: 211769.0
+      - date: '2890-01-01'
+        population:
+          value: 110967.0
+      - date: '2899-01-01'
+        socioIndustrial:
+          value: D-D-C-F-C
+      - date: '2900-01-01'
+        population:
+          value: 53889.0
+      - date: '2910-01-01'
+        population:
+          value: 25580.0
+      - date: '2920-01-01'
+        population:
+          value: 11254.0
+      - date: '2924-07-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: XM2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: greenhouse29
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 10500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 57
+    water:
+      value: 0
+  - name:
+      value: XM3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: frozen10
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -13
+    water:
+      value: 47
+    landmass:
+      - name:
+          value: Linwood
+      - name:
+          value: Novi York Haven
+      - name:
+          value: Surčin
+      - name:
+          value: Kraljevo
+  - name:
+      value: XM4
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.5
+    temperature:
+      value: -78
+    water:
+      value: 0
+  - name:
+      value: XM5
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 55000
+    density:
+      value: 1.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Hodur
+        size:
+          value: giant
+        icon: rock8
+      - name:
+          value: Gudrun
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: XM6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Pupovac A
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Pupovac B
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Pupovac C
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Pupovac D
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Pupovac E
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Pupovac F
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Pupovac G
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pupovac H
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: Zupljanin's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 18.5
+    temperature:
+      value: -195
+  - name:
+      value: XM7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 80000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+  - name:
+      value: Koljevic's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 141.5
+    temperature:
+      value: -233
+  - name:
+      value: XM8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Pallas Athena 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pallas Athena 2
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Pallas Athena 3
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: XM9
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1119.3
+    smallMoons:
+      value: 7
+  - name:
+      value: XM10
+    type:
+      value: GAS_GIANT
+    orbitalDist: 215.32
+    sysPos:
+      value: 12
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 100000
+    density:
+      value: 0.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 3159.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: D-1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: D-2
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: D-3
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: D-4
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: D-5
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: D-6
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: D-7
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: D-8
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: D-9
+        size:
+          value: medium
+        icon: oddmoon2

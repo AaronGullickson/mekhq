@@ -1,0 +1,377 @@
+id: Gant
+sucsId: 2903
+xcood: 311.293
+ycood: -460.545
+spectralType:
+  value: G1V
+primarySlot: 4
+planet:
+  - name:
+      value: Moreau's Roost
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.35
+    diameter:
+      value: 50000
+    density:
+      value: 1.9
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 10
+  - name:
+      value: Moi
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.64
+    diameter:
+      value: 30000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: K-1
+        size:
+          value: giant
+        icon: rock11
+  - name:
+      value: Mercier
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 2100
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 31
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Gant
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green40
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.86
+    diameter:
+      value: 12900
+    density:
+      value: 4.6818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 23
+    water:
+      value: 36
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Lancken-Granitz
+        capital:
+          value: New Pedrosillo de los Aires
+      - name:
+          value: Béning-lès-Saint-Avold Prime
+      - name:
+          value: Meyer
+    event:
+      - date: '3028-06-28'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 50774.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '3030-01-01'
+        population:
+          value: 260537.0
+      - date: '3035-06-17'
+        hpg:
+          value: D
+      - date: '3040-01-01'
+        population:
+          value: 6529194.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '3050-01-01'
+        population:
+          value: 11353245.0
+      - date: '3060-01-01'
+        population:
+          value: 12423685.0
+      - date: '3070-01-01'
+        population:
+          value: 12582815.0
+      - date: '3080-01-01'
+        population:
+          value: 7193500.0
+      - date: '3090-01-01'
+        population:
+          value: 1501715.0
+      - date: '3100-01-01'
+        population:
+          value: 353184.0
+      - date: '3110-01-01'
+        population:
+          value: 110951.0
+      - date: '3120-01-07'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Korriban
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Di Manes Alpha
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Di Manes Beta
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Hubert
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 21
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Rosteig
+        size:
+          value: giant
+        icon: rock14
+  - name:
+      value: R-1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 31.6
+    temperature:
+      value: -177
+  - name:
+      value: Bernard's Glory
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Optimus Maximus
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Dies Pater
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Empanda
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Spes
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Romulus
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Crouzet
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Beaufils
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: JX-1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: JX-2
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: JX-3
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: JX-4
+        size:
+          value: medium
+        icon: oddmoon2

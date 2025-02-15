@@ -1,0 +1,344 @@
+id: Dresden
+sucsId: 740
+xcood: -202.799
+ycood: 81.307
+spectralType:
+  value: F5V
+primarySlot: 2
+event:
+  - date: '2659-03-13'
+    zenithCharge:
+      value: yes
+  - date: '2671-08-05'
+    nadirCharge:
+      value: yes
+  - date: '2786-03-07'
+    nadirCharge:
+      value: no
+  - date: '2818-08-11'
+    zenithCharge:
+      value: no
+  - date: '2859-12-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Rosler's World
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 1
+    icon: gasg20
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.5
+  - name:
+      source: canon
+      value: Dresden
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: green46
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 45
+    water:
+      value: 24
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: New Bühlertann
+        capital:
+          value: Nova Bad Endbach
+      - name:
+          value: Retzow
+    satellite:
+      - name:
+          value: Nikothoe
+        size:
+          value: large
+        icon: rock6
+    event:
+      - date: '2629-03-21'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 52314.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2630-01-01'
+        population:
+          value: 80664.0
+      - date: '2633-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2640-01-01'
+        population:
+          value: 2320617.0
+      - date: '2646-05-27'
+        hpg:
+          value: B
+      - date: '2650-01-01'
+        population:
+          value: 18552274.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2660-01-01'
+        population:
+          value: 66986990.0
+      - date: '2670-01-01'
+        population:
+          value: 147386918.0
+      - date: '2680-01-01'
+        population:
+          value: 239772850.0
+      - date: '2690-01-01'
+        population:
+          value: 324556491.0
+      - date: '2700-01-01'
+        population:
+          value: 391029575.0
+      - date: '2710-01-01'
+        population:
+          value: 437119928.0
+      - date: '2720-01-01'
+        population:
+          value: 468806444.0
+      - date: '2730-01-01'
+        population:
+          value: 489376031.0
+      - date: '2740-01-01'
+        population:
+          value: 504192241.0
+      - date: '2750-01-01'
+        population:
+          value: 513467668.0
+      - date: '2760-01-01'
+        population:
+          value: 518144985.0
+      - date: '2770-01-01'
+        population:
+          value: 518666179.0
+      - date: '2780-01-01'
+        population:
+          value: 520063209.0
+      - date: '2790-01-01'
+        population:
+          value: 517357616.0
+      - date: '2800-01-01'
+        population:
+          value: 505735001.0
+      - date: '2810-01-01'
+        population:
+          value: 493359510.0
+      - date: '2820-01-01'
+        population:
+          value: 481682275.0
+      - date: '2830-01-01'
+        population:
+          value: 467777662.0
+      - date: '2840-01-01'
+        population:
+          value: 50990182.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: D-D-D-F-D
+      - date: '2850-01-01'
+        population:
+          value: 3163930.0
+      - date: '2859-12-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Aalto's Glory
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 45000
+    density:
+      value: 2.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 3.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 3
+  - name:
+      value: Frauenfelder's Wheel
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 27.44
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Sleipner
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Kianyandaarwa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 400.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Siebke I
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Siebke II
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ophovens Ende
+    type:
+      value: GAS_GIANT
+    orbitalDist: 108.08
+    sysPos:
+      value: 6
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.42
+    diameter:
+      value: 150000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1123.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Earendel
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Walkyries
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Eostre
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Frau Perchta
+        size:
+          value: medium
+        icon: rock10

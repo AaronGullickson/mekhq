@@ -1,0 +1,663 @@
+id: Elektrougli
+sucsId: 787
+xcood: -113.194
+ycood: -184.105
+spectralType:
+  value: G1V
+primarySlot: 4
+planet:
+  - name:
+      value: Tenyalang
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren3
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.67
+    diameter:
+      value: 13500
+    density:
+      value: 3.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 234
+    water:
+      value: 0
+    smallMoons:
+      value: 6
+  - name:
+      value: Sukreep
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.59
+    diameter:
+      value: 6500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 29
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 242
+    water:
+      value: 0
+  - name:
+      value: Igushev's Ship
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: YZO1
+        size:
+          value: large
+        icon: rock9
+  - name:
+      source: canon
+      value: Elektrougli
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: wet19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.3
+    temperature:
+      value: 22
+    water:
+      value: 88
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Ozërsk
+        capital:
+          value: Tretyak
+      - name:
+          value: Ekzemplyarsky
+    event:
+      - date: '2268-10-02'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 57992.0
+        socioIndustrial:
+          value: D-C-A-D-C
+      - date: '2270-01-01'
+        population:
+          value: 76921.0
+      - date: '2280-03-05'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 279882.0
+      - date: '2290-01-01'
+        population:
+          value: 855065.0
+      - date: '2300-01-01'
+        population:
+          value: 2258947.0
+      - date: '2310-01-01'
+        population:
+          value: 5211230.0
+      - date: '2320-01-01'
+        population:
+          value: 10694380.0
+      - date: '2330-01-01'
+        population:
+          value: 19852027.0
+      - date: '2340-01-01'
+        population:
+          value: 33790121.0
+      - date: '2350-01-01'
+        population:
+          value: 53510148.0
+      - date: '2360-01-01'
+        population:
+          value: 79631151.0
+      - date: '2370-01-01'
+        population:
+          value: 111966607.0
+      - date: '2380-01-01'
+        population:
+          value: 149951520.0
+      - date: '2390-01-01'
+        population:
+          value: 193403559.0
+      - date: '2400-01-01'
+        population:
+          value: 241619467.0
+      - date: '2410-01-01'
+        population:
+          value: 292677751.0
+      - date: '2420-01-01'
+        population:
+          value: 348296459.0
+      - date: '2430-01-01'
+        population:
+          value: 405813977.0
+      - date: '2440-01-01'
+        population:
+          value: 463817802.0
+      - date: '2450-01-01'
+        population:
+          value: 520359593.0
+      - date: '2460-01-01'
+        population:
+          value: 571972362.0
+      - date: '2470-01-01'
+        population:
+          value: 615970911.0
+      - date: '2480-01-01'
+        population:
+          value: 655482530.0
+      - date: '2490-01-01'
+        population:
+          value: 693600342.0
+      - date: '2500-01-01'
+        population:
+          value: 723180758.0
+      - date: '2510-01-01'
+        population:
+          value: 748276775.0
+      - date: '2520-01-01'
+        population:
+          value: 769235505.0
+      - date: '2521-01-01'
+        socioIndustrial:
+          value: C-C-A-D-C
+      - date: '2530-01-01'
+        population:
+          value: 786003496.0
+      - date: '2540-01-01'
+        population:
+          value: 800936377.0
+      - date: '2550-01-01'
+        population:
+          value: 817684695.0
+      - date: '2560-01-01'
+        population:
+          value: 830129444.0
+      - date: '2570-01-01'
+        population:
+          value: 836609805.0
+      - date: '2580-01-01'
+        population:
+          value: 842694132.0
+      - date: '2590-01-01'
+        population:
+          value: 848665423.0
+      - date: '2593-01-01'
+        socioIndustrial:
+          value: B-B-A-C-B
+      - date: '2600-01-01'
+        population:
+          value: 855116989.0
+      - date: '2602-01-01'
+        socioIndustrial:
+          value: A-A-A-B-A
+      - date: '2610-01-01'
+        population:
+          value: 861246651.0
+      - date: '2620-01-01'
+        population:
+          value: 865506626.0
+      - date: '2630-01-01'
+        population:
+          value: 863533255.0
+      - date: '2636-01-04'
+        hpg:
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 862382381.0
+      - date: '2650-01-01'
+        population:
+          value: 858388892.0
+      - date: '2660-01-01'
+        population:
+          value: 857165909.0
+      - date: '2670-01-01'
+        population:
+          value: 857077462.0
+      - date: '2680-01-01'
+        population:
+          value: 858717448.0
+      - date: '2690-01-01'
+        population:
+          value: 860441895.0
+      - date: '2700-01-01'
+        population:
+          value: 862310661.0
+      - date: '2710-01-01'
+        population:
+          value: 864030387.0
+      - date: '2720-01-01'
+        population:
+          value: 865990957.0
+      - date: '2730-01-01'
+        population:
+          value: 867885296.0
+      - date: '2740-01-01'
+        population:
+          value: 873581599.0
+      - date: '2750-01-01'
+        population:
+          value: 878251961.0
+      - date: '2760-01-01'
+        population:
+          value: 883493652.0
+      - date: '2770-01-01'
+        population:
+          value: 893617644.0
+      - date: '2780-01-01'
+        population:
+          value: 899767614.0
+      - date: '2790-01-01'
+        population:
+          value: 896367960.0
+      - date: '2800-01-01'
+        population:
+          value: 891547184.0
+      - date: '2810-01-01'
+        population:
+          value: 874959075.0
+      - date: '2820-01-01'
+        population:
+          value: 856287831.0
+      - date: '2830-01-01'
+        population:
+          value: 843408487.0
+      - date: '2840-01-01'
+        population:
+          value: 831882234.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-B-B-C-B
+      - date: '2850-01-01'
+        population:
+          value: 820284669.0
+      - date: '2860-01-01'
+        population:
+          value: 802332439.0
+      - date: '2870-01-01'
+        population:
+          value: 783242322.0
+      - date: '2880-01-01'
+        population:
+          value: 766742110.0
+      - date: '2890-08-05'
+        population:
+          value: 749961679.0
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2900-01-01'
+        population:
+          value: 732934926.0
+      - date: '2910-01-01'
+        population:
+          value: 720301820.0
+      - date: '2920-01-01'
+        population:
+          value: 717828145.0
+      - date: '2930-01-01'
+        population:
+          value: 716961035.0
+      - date: '2940-01-01'
+        population:
+          value: 721105922.0
+      - date: '2950-01-01'
+        population:
+          value: 723254585.0
+      - date: '2960-01-01'
+        population:
+          value: 720368794.0
+      - date: '2970-01-01'
+        population:
+          value: 718896798.0
+      - date: '2980-01-01'
+        population:
+          value: 718629486.0
+      - date: '2990-01-01'
+        population:
+          value: 717561231.0
+      - date: '3000-01-01'
+        population:
+          value: 707952282.0
+      - date: '3010-01-01'
+        population:
+          value: 700032344.0
+      - date: '3020-01-01'
+        population:
+          value: 693747333.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: C-C-B-C-B
+      - date: '3030-01-01'
+        population:
+          value: 695127850.0
+      - date: '3040-01-01'
+        population:
+          value: 704716634.0
+      - date: '3048-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3050-01-01'
+        population:
+          value: 714009155.0
+      - date: '3060-01-01'
+        population:
+          value: 723351871.0
+      - date: '3070-01-01'
+        population:
+          value: 733770115.0
+      - date: '3080-01-01'
+        population:
+          value: 742628400.0
+      - date: '3081-09-30'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3090-01-01'
+        population:
+          value: 755663208.0
+      - date: '3093-01-01'
+        socioIndustrial:
+          value: B-C-A-B-A
+      - date: '3100-01-01'
+        population:
+          value: 769080607.0
+      - date: '3110-01-01'
+        population:
+          value: 781484866.0
+      - date: '3120-01-01'
+        population:
+          value: 794089190.0
+      - date: '3130-01-01'
+        population:
+          value: 807219628.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 820567181.0
+      - date: '3145-10-27'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 825175247.0
+  - name:
+      value: Batara Kali
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 45000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.8
+    smallMoons:
+      value: 2
+  - name:
+      value: D-1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 11.9
+    satellite:
+      - name:
+          value: EW1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: EW2
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: Labetsky's Planet
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 1300
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 31.6
+    temperature:
+      value: -177
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: D-2
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1100
+    density:
+      value: 6.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 86.8
+    temperature:
+      value: -204
+    water:
+      value: 0
+  - name:
+      value: Taghizadeh's Meridian
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: frozen18
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Methane, plus trace amounts of Methane and Argon
+    gravity:
+      value: 0.85
+    diameter:
+      value: 12500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 25
+    yearLength:
+      value: 241.7
+    temperature:
+      value: -218
+    water:
+      value: 41
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Chernabog
+      - name:
+          value: Bogatyri
+      - name:
+          value: Baba Yaga
+  - name:
+      value: Anek Warna
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: rock16
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Argon
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -238
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Antaboga
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1911.1

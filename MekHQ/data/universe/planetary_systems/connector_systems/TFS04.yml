@@ -1,0 +1,293 @@
+id: TFS 04
+sucsId: .na
+xcood: 415.0
+ycood: 555.0
+spectralType:
+  value: M7V
+planet:
+  - name:
+      value: DEA-1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 68
+    water:
+      value: 0
+  - name:
+      value: VIX1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.07
+    sysPos:
+      value: 2
+    icon: asteroid1
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -15
+  - name:
+      value: DEA-2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.1
+    sysPos:
+      value: 3
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: W1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: W2
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: DEA-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.16
+    sysPos:
+      value: 4
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: KM1
+        size:
+          value: giant
+        icon: rock14
+      - name:
+          value: KM2
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: KM3
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: KM4
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: KM5
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: KM6
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: KM7
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: KM8
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: KM9
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: DEA-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 5
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 0.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: O1
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: O2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: DEA-5
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 6
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.64
+    diameter:
+      value: 16500
+    density:
+      value: 7.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: AIV-1
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: AIV-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: VIX2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -205
+  - name:
+      value: DEA-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 8
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: WR1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: WR2
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: WR3
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: WR4
+        size:
+          value: medium
+        icon: oddmoon1

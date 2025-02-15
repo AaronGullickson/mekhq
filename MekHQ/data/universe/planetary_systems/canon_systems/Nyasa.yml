@@ -1,0 +1,398 @@
+id: Nyasa
+sucsId: 1914
+xcood: -413.731
+ycood: 394.298
+spectralType:
+  value: G4V
+primarySlot: 3
+event:
+  - date: '2798-02-12'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Jalili's Meridian
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: greenhouse41
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 240
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Nālūt
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kabirizi
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Mfaki's Grove
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1800
+    density:
+      value: 3.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      source: canon
+      value: Nyasa
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: green2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.63
+    diameter:
+      value: 11100
+    density:
+      value: 4.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 25
+    water:
+      value: 44
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: New Elbert
+        capital:
+          value: New Mabatini
+      - name:
+          value: New Bwejuu
+    event:
+      - date: '2676-05-10'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 54716.0
+        socioIndustrial:
+          value: C-D-A-D-D
+      - date: '2680-01-01'
+        population:
+          value: 263421.0
+      - date: '2690-01-01'
+        population:
+          value: 3254068.0
+      - date: '2694-01-01'
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2700-01-01'
+        population:
+          value: 11933491.0
+      - date: '2710-01-01'
+        population:
+          value: 23305783.0
+      - date: '2720-01-01'
+        population:
+          value: 32881282.0
+      - date: '2730-06-25'
+        hpg:
+          value: X
+        population:
+          value: 23697254.0
+      - date: '2740-01-01'
+        population:
+          value: 8534157.0
+      - date: '2750-01-01'
+        population:
+          value: 3226592.0
+      - date: '2760-01-01'
+        population:
+          value: 836837.0
+      - date: '2770-01-01'
+        population:
+          value: 178671.0
+      - date: '2779-04-13'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 46906.0
+      - date: '2790-01-01'
+        population:
+          value: 20771.0
+      - date: '2798-02-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Badawi's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.44
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 2.0
+    temperature:
+      value: -43
+  - name:
+      value: Freya
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: 8U01
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 8U02
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: 8U03
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: 8U04
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Soto
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 6
+    yearLength:
+      value: 10.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Sterquilinus
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Msamaki's Refuge
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.63
+    diameter:
+      value: 150000
+    density:
+      value: 1.7
+    dayLength:
+      value: 7
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Madukani
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Mugeta
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Gitting
+    type:
+      value: GAS_GIANT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 110000
+    density:
+      value: 1.5
+    dayLength:
+      value: 16
+    yearLength:
+      value: 74.1
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: S-1
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Badawi's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 206.4
+    temperature:
+      value: -227
+  - name:
+      value: Wamuyu
+    type:
+      value: GAS_GIANT
+    orbitalDist: 69.48
+    sysPos:
+      value: 10
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 579.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Lilitu
+        size:
+          value: medium
+        icon: rock5

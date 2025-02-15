@@ -1,0 +1,431 @@
+id: Manennaia
+sucsId: 1586
+xcood: 27.682
+ycood: -89.515
+spectralType:
+  value: K7V
+primarySlot: 1
+event:
+  - date: '2732-01-06'
+    zenithCharge:
+      value: yes
+  - date: '2824-06-03'
+    zenithCharge:
+      value: no
+  - date: '2925-08-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Manennaia
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.24
+    sysPos:
+      value: 1
+    icon: wet8
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.24
+    diameter:
+      value: 14500
+    density:
+      value: 6.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 24
+    water:
+      value: 86
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Southern Jones
+        capital:
+          value: S9-1 City
+      - name:
+          value: Northern Jones
+      - name:
+          value: Woodbury
+      - name:
+          value: Minami-Alps
+      - name:
+          value: Trzcinska
+      - name:
+          value: Ortley
+    event:
+      - date: '2718-12-04'
+        faction:
+          source: canon
+          value:
+            - CC
+        hpg:
+          value: B
+        population:
+          value: 49627.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2720-01-01'
+        population:
+          value: 73830.0
+      - date: '2730-01-01'
+        population:
+          value: 424857.0
+      - date: '2740-01-01'
+        population:
+          value: 1749253.0
+      - date: '2750-01-01'
+        population:
+          value: 5506135.0
+      - date: '2760-01-01'
+        population:
+          value: 13912210.0
+      - date: '2770-01-01'
+        population:
+          value: 29358577.0
+      - date: '2780-01-01'
+        population:
+          value: 53706024.0
+      - date: '2790-01-01'
+        population:
+          value: 60692922.0
+      - date: '2800-01-01'
+        population:
+          value: 38062225.0
+      - date: '2810-01-01'
+        population:
+          value: 23383533.0
+      - date: '2820-01-01'
+        population:
+          value: 17289707.0
+      - date: '2830-01-01'
+        population:
+          value: 12184416.0
+      - date: '2840-01-01'
+        population:
+          value: 8469577.0
+      - date: '2850-01-01'
+        population:
+          value: 5421981.0
+      - date: '2860-01-01'
+        population:
+          value: 3768903.0
+      - date: '2870-01-01'
+        population:
+          value: 2619823.0
+      - date: '2880-01-01'
+        population:
+          value: 1796258.0
+      - date: '2890-01-01'
+        population:
+          value: 1149913.0
+      - date: '2900-01-01'
+        population:
+          value: 668714.0
+      - date: '2910-01-01'
+        population:
+          value: 305854.0
+      - date: '2920-01-01'
+        population:
+          value: 127077.0
+      - date: '2925-10-11'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: S9-2
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.42
+    sysPos:
+      value: 2
+    icon: rock9
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 800
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 8
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: S9-3
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 3
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 80000
+    density:
+      value: 1.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.9
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Goodman 1
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Goodman 2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Goodman 3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: S9-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.96
+    sysPos:
+      value: 4
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.39
+    diameter:
+      value: 70000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Venus I
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Venus II
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Venus III
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Venus IV
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Venus V
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: S9-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.68
+    sysPos:
+      value: 5
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 8
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Adigamov 1
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Adigamov 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Adigamov 3
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: S9-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.12
+    sysPos:
+      value: 6
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 5.6
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Buddha
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Nandhini
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Ashvathaman
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Pulastja
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Durga
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Uma
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Rhibus
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: S9-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.0
+    sysPos:
+      value: 7
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 80000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 14.7
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Nyashin A
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Nyashin B
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Nyashin C
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Nyashin D
+        size:
+          value: medium
+        icon: oddmoon2

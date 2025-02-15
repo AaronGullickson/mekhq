@@ -1,0 +1,288 @@
+id: Itzehoe
+sucsId: 1222
+xcood: -76.479
+ycood: -518.769
+spectralType:
+  value: F5V
+primarySlot: 3
+event:
+  - date: '2924-11-07'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Perrett
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 1
+    icon: rock15
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1400
+    density:
+      value: 3.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 116
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Ehrnsperger
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 2
+    icon: barren8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.37
+    diameter:
+      value: 5500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 70
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Itzehoe
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 3
+    icon: green50
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 12600
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 37
+    water:
+      value: 44
+    lifeForm:
+      value: MAMMAL
+    landmass:
+      - name:
+          value: Lederhose
+        capital:
+          value: Dindorf
+      - name:
+          value: Rumohr
+      - name:
+          value: Herzogenrath
+      - name:
+          value: Amberg
+      - name:
+          value: New Lauenburg
+    event:
+      - date: '2676-02-26'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 50590.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2677-01-08'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 207716.0
+      - date: '2690-01-01'
+        population:
+          value: 2035770.0
+      - date: '2700-01-01'
+        population:
+          value: 6744803.0
+      - date: '2701-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2710-01-01'
+        population:
+          value: 12593646.0
+      - date: '2720-01-01'
+        population:
+          value: 17504106.0
+      - date: '2730-01-01'
+        population:
+          value: 20871036.0
+      - date: '2740-01-01'
+        population:
+          value: 22885550.0
+      - date: '2750-01-01'
+        population:
+          value: 23813679.0
+      - date: '2760-01-01'
+        population:
+          value: 24209068.0
+      - date: '2770-01-01'
+        population:
+          value: 24335379.0
+      - date: '2780-01-01'
+        population:
+          value: 24255216.0
+      - date: '2790-01-01'
+        population:
+          value: 20873451.0
+      - date: '2800-01-01'
+        population:
+          value: 8880084.0
+      - date: '2810-01-01'
+        population:
+          value: 3444965.0
+      - date: '2820-01-01'
+        population:
+          value: 1328257.0
+      - date: '2830-01-01'
+        population:
+          value: 544607.0
+      - date: '2840-01-01'
+        population:
+          value: 243371.0
+      - date: '2850-01-01'
+        population:
+          value: 115653.0
+      - date: '2858-01-01'
+        socioIndustrial:
+          value: F-D-C-D-F
+      - date: '2860-01-01'
+        population:
+          value: 77551.0
+      - date: '2870-01-01'
+        population:
+          value: 50427.0
+      - date: '2880-01-01'
+        population:
+          value: 26441.0
+      - date: '2890-01-01'
+        population:
+          value: 14653.0
+      - date: '2897-01-01'
+        socioIndustrial:
+          value: F-D-C-D-F
+      - date: '2900-01-01'
+        population:
+          value: 7225.0
+      - date: '2910-01-01'
+        population:
+          value: 3883.0
+      - date: '2920-01-01'
+        population:
+          value: 2048.0
+      - date: '2924-04-13'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Saggau
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.9
+  - name:
+      value: Odenthal
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 12
+    yearLength:
+      value: 19.7
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Thor I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Thor II
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Thor III
+        size:
+          value: medium
+        icon: oddmoon3

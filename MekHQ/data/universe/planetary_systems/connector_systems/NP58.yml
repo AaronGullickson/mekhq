@@ -1,0 +1,86 @@
+id: NP 58
+sucsId: .na
+xcood: 444.0
+ycood: 458.0
+spectralType:
+  value: M5V
+planet:
+  - name:
+      value: CI1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.14
+    sysPos:
+      value: 1
+    icon: asteroid2
+    yearLength:
+      value: 0.5
+    temperature:
+      value: -65
+  - name:
+      value: JT-1
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.2
+    sysPos:
+      value: 2
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: JT-2
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.56
+    sysPos:
+      value: 3
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 15
+    yearLength:
+      value: 0.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: G-1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: G-2
+        size:
+          value: medium
+        icon: rock6

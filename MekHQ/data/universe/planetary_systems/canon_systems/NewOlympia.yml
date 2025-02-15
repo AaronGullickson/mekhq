@@ -1,0 +1,802 @@
+id: New Olympia
+sucsId: 1841
+xcood: -150.168
+ycood: -130.286
+spectralType:
+  source: canon
+  value: G1V
+primarySlot: 3
+event:
+  - date: '2368-05-02'
+    zenithCharge:
+      value: yes
+  - date: '2374-12-16'
+    nadirCharge:
+      value: yes
+  - date: '2792-02-05'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Esopus
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1900
+    density:
+      value: 1.0
+    dayLength:
+      value: 30
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 208
+    water:
+      value: 0
+  - name:
+      value: Rödermark
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: greenhouse17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.41
+    diameter:
+      value: 4500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 242
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Yu Huang Shangdi
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Zhu Yi
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      source: canon
+      value: New Olympia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: wet14
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.95
+    diameter:
+      value: 14023
+    density:
+      value: 4.757521353878
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.4
+    temperature:
+      source: canon
+      value: 35
+    water:
+      source: canon
+      value: 82
+    lifeForm:
+      source: canon
+      value: PLANT
+    desc: |-
+      An uneasy peace has covered New Olympia for centuries between the Olympica Province and the rest of the planet which is part of the Free Worlds League. Technically the island province is an independent realm in the middle of the Free Worlds League. This unique status as an independent region has drawn the wealthy of the Free Worlds League that are eager to live under the comforts provided at the heart of the League while avoiding the taxes imposed on most planets.
+
+      Most industry on the planet is centered around catering to the rich individuals seeking to take advantage of the Olympica Provinces’ tax free status.
+    landmass:
+      - name:
+          source: canon
+          value: New Greenland
+        capital:
+          source: canon
+          value: Kasnov
+      - name:
+          source: canon
+          value: Olympica
+        capital:
+          source: canon
+          value: Darienbad
+    satellite:
+      - name:
+          value: Delphi
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2241-08-29'
+        faction:
+          source: canon
+          value:
+            - MCM
+        population:
+          value: 60406.0
+        socioIndustrial:
+          value: D-D-A-D-C
+      - date: '2250-01-01'
+        population:
+          value: 225793.0
+      - date: '2260-01-01'
+        population:
+          value: 810172.0
+      - date: '2265-01-01'
+        socioIndustrial:
+          value: D-C-A-C-C
+      - date: '2270-01-01'
+        population:
+          value: 2451903.0
+      - date: '2271-06-01'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2280-01-01'
+        population:
+          value: 6395589.0
+      - date: '2290-01-01'
+        population:
+          value: 14702528.0
+      - date: '2300-01-01'
+        population:
+          value: 30158018.0
+      - date: '2310-01-01'
+        population:
+          value: 56207395.0
+      - date: '2320-01-01'
+        population:
+          value: 96393701.0
+      - date: '2322-01-01'
+        socioIndustrial:
+          value: C-B-A-B-C
+      - date: '2330-01-01'
+        population:
+          value: 154283694.0
+      - date: '2340-01-01'
+        population:
+          value: 231001626.0
+      - date: '2350-01-01'
+        population:
+          value: 327930318.0
+      - date: '2360-01-01'
+        population:
+          value: 444921698.0
+      - date: '2370-01-01'
+        population:
+          value: 579952769.0
+      - date: '2380-01-01'
+        population:
+          value: 735650833.0
+      - date: '2390-01-01'
+        population:
+          value: 909979087.0
+      - date: '2400-01-01'
+        population:
+          value: 1091406342.0
+      - date: '2410-01-01'
+        population:
+          value: 1278315045.0
+      - date: '2420-01-01'
+        population:
+          value: 1461944420.0
+      - date: '2430-01-01'
+        population:
+          value: 1651376679.0
+      - date: '2440-01-01'
+        population:
+          value: 1817361445.0
+      - date: '2450-01-01'
+        population:
+          value: 1961889876.0
+      - date: '2460-01-01'
+        population:
+          value: 2096613629.0
+      - date: '2470-01-01'
+        population:
+          value: 2216097744.0
+      - date: '2480-01-01'
+        population:
+          value: 2331001467.0
+      - date: '2490-01-01'
+        population:
+          value: 2427633498.0
+      - date: '2500-01-01'
+        population:
+          value: 2520348289.0
+      - date: '2510-01-01'
+        population:
+          value: 2595035569.0
+      - date: '2520-01-01'
+        population:
+          value: 2661991150.0
+      - date: '2530-01-01'
+        population:
+          value: 2720101380.0
+      - date: '2540-01-01'
+        population:
+          value: 2758117630.0
+      - date: '2550-01-01'
+        population:
+          value: 2793797690.0
+      - date: '2560-01-01'
+        population:
+          value: 2826543294.0
+      - date: '2570-01-01'
+        population:
+          value: 2843044554.0
+      - date: '2580-01-01'
+        population:
+          value: 2851329174.0
+      - date: '2590-01-01'
+        population:
+          value: 2858971674.0
+      - date: '2600-01-01'
+        population:
+          value: 2860931546.0
+      - date: '2610-01-01'
+        population:
+          value: 2866382632.0
+      - date: '2620-01-01'
+        population:
+          value: 2866107141.0
+      - date: '2624-01-01'
+        socioIndustrial:
+          value: B-A-A-A-B
+      - date: '2630-01-01'
+        population:
+          value: 2854272602.0
+      - date: '2632-01-02'
+        hpg:
+          source: canon
+          value: A
+      - date: '2640-01-01'
+        population:
+          value: 2855294637.0
+      - date: '2650-01-01'
+        population:
+          value: 2864941426.0
+      - date: '2660-01-01'
+        population:
+          value: 2864056845.0
+      - date: '2670-01-01'
+        population:
+          value: 2871224068.0
+      - date: '2680-01-01'
+        population:
+          value: 2879232996.0
+      - date: '2690-01-01'
+        population:
+          value: 2887131056.0
+      - date: '2700-01-01'
+        population:
+          value: 2888725224.0
+      - date: '2710-01-01'
+        population:
+          value: 2909062940.0
+      - date: '2720-01-01'
+        population:
+          value: 2941014944.0
+      - date: '2730-01-01'
+        population:
+          value: 2965438636.0
+      - date: '2740-01-01'
+        population:
+          value: 2991201297.0
+      - date: '2750-01-01'
+        population:
+          value: 3012390959.0
+      - date: '2760-01-01'
+        population:
+          value: 3021723042.0
+      - date: '2770-12-23'
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 3026407504.0
+      - date: '2780-12-14'
+        hpg:
+          source: canon
+          value: A
+        population:
+          value: 3048959146.0
+      - date: '2790-01-01'
+        population:
+          value: 3048876534.0
+      - date: '2800-01-01'
+        population:
+          value: 3028742561.0
+      - date: '2810-01-01'
+        population:
+          value: 3021852261.0
+      - date: '2820-01-01'
+        population:
+          value: 3030938223.0
+      - date: '2830-01-01'
+        population:
+          value: 3037220316.0
+      - date: '2840-01-01'
+        population:
+          value: 3005939518.0
+      - date: '2850-01-01'
+        population:
+          value: 2940076789.0
+      - date: '2860-01-01'
+        population:
+          value: 2873871499.0
+      - date: '2870-04-19'
+        population:
+          value: 2824028056.0
+        socioIndustrial:
+          value: C-B-B-B-C
+      - date: '2880-01-01'
+        population:
+          value: 2797548304.0
+      - date: '2890-01-01'
+        population:
+          value: 2784257558.0
+      - date: '2900-01-01'
+        population:
+          value: 2783969331.0
+      - date: '2902-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2910-01-01'
+        population:
+          value: 2801895945.0
+      - date: '2920-01-01'
+        population:
+          value: 2820813936.0
+      - date: '2930-01-01'
+        population:
+          value: 2830174275.0
+      - date: '2940-01-01'
+        population:
+          value: 2838683909.0
+      - date: '2950-01-01'
+        population:
+          value: 2831346500.0
+      - date: '2960-01-01'
+        population:
+          value: 2822274446.0
+      - date: '2970-01-01'
+        population:
+          value: 2803636893.0
+      - date: '2980-01-01'
+        population:
+          value: 2755011575.0
+      - date: '2990-01-01'
+        population:
+          value: 2698834616.0
+      - date: '3000-01-01'
+        population:
+          value: 2654499078.0
+      - date: '3010-01-01'
+        population:
+          value: 2617386991.0
+      - date: '3014-10-21'
+        faction:
+          source: canon
+          value:
+            - FWL
+            - FWLR
+      - date: '3014-11-14'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '3020-01-01'
+        population:
+          value: 2568001023.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 2540000000.0
+      - date: '3030-01-01'
+        population:
+          value: 2539880838.0
+      - date: '3040-01-01'
+        population:
+          value: 2538629973.0
+      - date: '3044-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-C-B-C
+      - date: '3049-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-B-B-A-B
+      - date: '3050-01-01'
+        population:
+          value: 2537213070.0
+      - date: '3060-01-01'
+        population:
+          value: 2535880238.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 2535000000.0
+      - date: '3070-01-01'
+        population:
+          value: 2544651326.0
+      - date: '3079-09-25'
+        faction:
+          source: canon
+          value:
+            - MSC
+      - date: '3080-01-01'
+        population:
+          value: 2586727691.0
+      - date: '3090-01-01'
+        population:
+          value: 2628973950.0
+      - date: '3100-01-01'
+        population:
+          value: 2665505277.0
+      - date: '3109-01-01'
+        socioIndustrial:
+          value: C-B-B-A-B
+      - date: '3110-01-01'
+        population:
+          value: 2713918786.0
+      - date: '3120-01-01'
+        population:
+          value: 2760449799.0
+      - date: '3130-01-01'
+        population:
+          value: 2792098984.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 2819032207.0
+      - date: '3145-11-06'
+        faction:
+          source: canon
+          value:
+            - CWE
+        population:
+          value: 2833729354.0
+  - name:
+      value: Moord
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 45000
+    density:
+      value: 2.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Apollon
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Kerkopes
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Asclepius
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: LV1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: asteroid3
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -91
+  - name:
+      value: Strother
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 110000
+    density:
+      value: 1.5
+    dayLength:
+      value: 21
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Cannon I
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Cannon II
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Cannon III
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Cannon IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Cannon V
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cannon VI
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cannon VII
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: LV2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: asteroid2
+    yearLength:
+      value: 31.6
+    temperature:
+      value: -177
+  - name:
+      value: Faridkot
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 86.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Green
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Wilson
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Iovis
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Sterculius
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Salacia
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Jove
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Tiberinus
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Bennettsville
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Jin Sho Bao
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Ts'ao Kuo Chiu
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: LV3 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 678.3
+    temperature:
+      value: -238
+  - name:
+      value: Mahoning
+    type:
+      value: GAS_GIANT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 90000
+    density:
+      value: 0.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1911.1
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Bimbogami
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Tsukuyomi
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Otohime
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Susano O
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Izanagi
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Benten
+        size:
+          value: medium
+        icon: rock5

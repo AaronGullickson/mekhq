@@ -1,0 +1,469 @@
+id: Quantraine
+sucsId: 2088
+xcood: 455.618
+ycood: 205.207
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 4
+event:
+  - date: '2555-12-19'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Val-Cenis
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: greenhouse34
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 240
+    water:
+      value: 0
+  - name:
+      value: Milledgeville
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 2
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 15500
+    density:
+      value: 7.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.0
+    satellite:
+      - name:
+          value: K1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: K2
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Rockledge
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.9
+    sysPos:
+      value: 3
+    icon: iceg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 55000
+    density:
+      value: 2.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Krampus
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Wyrd
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Eastre
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Wotan
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Ēostre
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      source: canon
+      value: Quantraine
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 4
+    icon: green49
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 12300
+    density:
+      value: 6.8337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 47
+    water:
+      value: 32
+    lifeForm:
+      source: canon
+      value: BIRD
+    desc: No description available.
+    landmass:
+      - name:
+          value: New Saint-Luc-de-Bellechasse
+        capital:
+          value: Outhwaite
+      - name:
+          value: Anderson
+      - name:
+          value: Old Vihiga
+      - name:
+          value: New Glapwell
+      - name:
+          value: New Chitray
+    satellite:
+      - name:
+          value: Pallas Athena
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Eos
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Acidalia
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2544-12-25'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 4852.0
+        socioIndustrial:
+          value: D-D-A-D-B
+      - date: '2550-01-01'
+        population:
+          value: 4891.0
+      - date: '2560-01-01'
+        population:
+          value: 4921.0
+      - date: '2570-01-01'
+        population:
+          value: 4937.0
+      - date: '2580-01-01'
+        population:
+          value: 4947.0
+      - date: '2584-01-01'
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2590-01-01'
+        population:
+          value: 4961.0
+      - date: '2600-01-01'
+        population:
+          value: 5007.0
+      - date: '2610-01-01'
+        population:
+          value: 5055.0
+      - date: '2618-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2620-01-01'
+        population:
+          value: 5102.0
+      - date: '2624-01-01'
+        socioIndustrial:
+          value: A-B-A-B-A
+      - date: '2630-01-01'
+        population:
+          value: 5158.0
+      - date: '2640-01-01'
+        population:
+          value: 5200.0
+      - date: '2650-01-01'
+        population:
+          value: 5239.0
+      - date: '2660-01-01'
+        population:
+          value: 5256.0
+      - date: '2670-01-01'
+        population:
+          value: 5238.0
+      - date: '2678-07-26'
+        hpg:
+          source: canon
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 5203.0
+      - date: '2690-01-01'
+        population:
+          value: 5197.0
+      - date: '2700-01-01'
+        population:
+          value: 5183.0
+      - date: '2710-01-01'
+        population:
+          value: 5166.0
+      - date: '2720-01-01'
+        population:
+          value: 5135.0
+      - date: '2730-01-01'
+        population:
+          value: 5110.0
+      - date: '2740-01-01'
+        population:
+          value: 5066.0
+      - date: '2750-01-01'
+        population:
+          value: 5022.0
+      - date: '2760-01-01'
+        population:
+          value: 4981.0
+      - date: '2770-01-01'
+        population:
+          value: 4943.0
+      - date: '2780-01-01'
+        population:
+          value: 4918.0
+      - date: '2790-01-01'
+        population:
+          value: 4897.0
+      - date: '2800-01-01'
+        population:
+          value: 4875.0
+      - date: '2810-01-01'
+        population:
+          value: 4852.0
+      - date: '2820-01-01'
+        population:
+          value: 4825.0
+      - date: '2830-01-01'
+        population:
+          value: 4796.0
+      - date: '2837-01-29'
+        hpg:
+          source: canon
+          value: D
+      - date: '2840-01-01'
+        population:
+          value: 4772.0
+      - date: '2850-01-01'
+        population:
+          value: 4743.0
+      - date: '2860-03-17'
+        population:
+          value: 4716.0
+        socioIndustrial:
+          value: B-B-B-C-B
+      - date: '2870-01-01'
+        population:
+          value: 4689.0
+      - date: '2880-01-01'
+        population:
+          value: 4666.0
+      - date: '2890-01-01'
+        population:
+          value: 4652.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: C-B-C-D-C
+      - date: '2900-01-01'
+        population:
+          value: 4631.0
+      - date: '2910-01-01'
+        population:
+          value: 4605.0
+      - date: '2920-01-01'
+        population:
+          value: 4579.0
+      - date: '2930-01-01'
+        population:
+          value: 4552.0
+      - date: '2940-01-01'
+        population:
+          value: 4545.0
+      - date: '2950-01-01'
+        population:
+          value: 4537.0
+      - date: '2960-01-01'
+        population:
+          value: 4523.0
+      - date: '2970-01-01'
+        population:
+          value: 4509.0
+      - date: '2980-01-01'
+        population:
+          value: 4502.0
+      - date: '2990-01-01'
+        population:
+          value: 4497.0
+      - date: '3000-01-01'
+        population:
+          value: 4497.0
+      - date: '3010-01-01'
+        population:
+          value: 4500.0
+      - date: '3020-01-01'
+        population:
+          value: 4497.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 4500.0
+      - date: '3030-01-01'
+        population:
+          value: 14953.0
+      - date: '3036-01-01'
+        socioIndustrial:
+          value: C-B-B-D-B
+      - date: '3040-01-01'
+        population:
+          value: 144469.0
+      - date: '3041-01-01'
+        socioIndustrial:
+          value: B-B-A-C-A
+      - date: '3049-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3050-01-01'
+        population:
+          value: 1705103.0
+      - date: '3060-01-01'
+        population:
+          value: 14740867.0
+      - date: '3070-01-01'
+        population:
+          value: 51382667.0
+      - date: '3080-01-01'
+        population:
+          value: 52096663.0
+      - date: '3083-11-18'
+        faction:
+          source: canon
+          value:
+            - RA
+      - date: '3090-01-01'
+        population:
+          value: 52989877.0
+      - date: '3100-01-01'
+        population:
+          value: 53909186.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '3110-01-01'
+        population:
+          value: 54767716.0
+      - date: '3120-01-01'
+        population:
+          value: 55484344.0
+      - date: '3130-01-01'
+        population:
+          value: 56165399.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 56480808.0
+      - date: '3145-01-01'
+        population:
+          value: 56548625.0
+  - name:
+      value: Coconino
+    type:
+      value: ICE_GIANT
+    orbitalDist: 4.68
+    sysPos:
+      value: 5
+    icon: iceg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.96
+    diameter:
+      value: 45000
+    density:
+      value: 1.5
+    dayLength:
+      value: 10
+    yearLength:
+      value: 10.2
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: La Vansa i Fórnols
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Caza de Jbayl
+        size:
+          value: medium
+        icon: rock7

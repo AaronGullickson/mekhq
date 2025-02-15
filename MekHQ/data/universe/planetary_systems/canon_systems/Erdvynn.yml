@@ -1,0 +1,431 @@
+id: Erdvynn
+sucsId: 815
+xcood: -453.557
+ycood: -21.346
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2711-09-30'
+    nadirCharge:
+      value: yes
+  - date: '2796-12-22'
+    nadirCharge:
+      value: no
+  - date: '2831-09-15'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Erdvynn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green13
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.8
+    diameter:
+      value: 14100
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 32
+    water:
+      value: 42
+    lifeForm:
+      value: INSECT
+    smallMoons:
+      value: 4
+    landmass:
+      - name:
+          value: Holstebro
+        capital:
+          value: Anderson
+      - name:
+          value: Santa Rosa de Río Primero
+    event:
+      - date: '2675-02-28'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 52466.0
+        socioIndustrial:
+          value: C-D-B-C-B
+      - date: '2679-02-03'
+        hpg:
+          value: X
+      - date: '2680-01-01'
+        population:
+          value: 504844.0
+      - date: '2687-01-01'
+        socioIndustrial:
+          value: B-C-B-C-B
+      - date: '2690-01-01'
+        population:
+          value: 8206094.0
+      - date: '2700-01-01'
+        population:
+          value: 34303186.0
+      - date: '2710-01-01'
+        population:
+          value: 71766934.0
+      - date: '2713-01-01'
+        socioIndustrial:
+          value: A-B-B-B-A
+      - date: '2720-01-01'
+        population:
+          value: 104706618.0
+      - date: '2730-01-01'
+        population:
+          value: 125870699.0
+      - date: '2740-01-01'
+        population:
+          value: 138101781.0
+      - date: '2750-01-01'
+        population:
+          value: 84152971.0
+      - date: '2760-01-01'
+        population:
+          value: 27823051.0
+      - date: '2770-01-01'
+        population:
+          value: 12202898.0
+      - date: '2779-09-15'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 6237292.0
+      - date: '2790-01-01'
+        population:
+          value: 2161649.0
+      - date: '2800-01-01'
+        population:
+          value: 606083.0
+      - date: '2810-01-01'
+        population:
+          value: 126603.0
+      - date: '2820-01-01'
+        population:
+          value: 31554.0
+      - date: '2830-01-01'
+        population:
+          value: 7772.0
+      - date: '2831-08-02'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Ilia
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 2
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 140000
+    density:
+      value: 1.1
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Airmid
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Sung Ti Wang
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: iceg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Hersilia
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 4
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 50000
+    density:
+      value: 1.8
+    dayLength:
+      value: 19
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Dean
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Bajang
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Pipek
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Old Macuto
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 5
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Yax Balam A
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Yax Balam B
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Yax Balam C
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Menrva
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 6
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.68
+    diameter:
+      value: 30000
+    density:
+      value: 1.6
+    dayLength:
+      value: 10
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Jūratė A
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Jūratė B
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Lucifer
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 19.4
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 6
+    satellite:
+      - name:
+          value: Sumeru I
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Sumeru II
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Jupiter
+    type:
+      value: ICE_GIANT
+    orbitalDist: 38.6
+    sysPos:
+      value: 8
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 20
+    yearLength:
+      value: 239.8
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: N-1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: N-2
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: N-3
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: N-4
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: N-5
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Leshey Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 77.0
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 675.7
+    temperature:
+      value: -254

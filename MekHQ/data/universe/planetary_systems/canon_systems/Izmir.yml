@@ -1,0 +1,483 @@
+id: Izmir
+sucsId: 1224
+xcood: -340.859
+ycood: -268.167
+spectralType:
+  value: K3V
+primarySlot: 1
+event:
+  - date: '2924-06-06'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Izmir
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: green5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.16
+    diameter:
+      value: 12900
+    density:
+      value: 6.3437
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 35
+    water:
+      value: 25
+    lifeForm:
+      value: BIRD
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Yeni Lavaca
+        capital:
+          value: New Collick Town
+      - name:
+          value: Beyazköy Bucağı
+    event:
+      - date: '2732-09-13'
+        faction:
+          source: canon
+          value:
+            - FWL
+        hpg:
+          value: B
+        population:
+          value: 48537.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2740-01-01'
+        population:
+          value: 148624.0
+      - date: '2750-01-01'
+        population:
+          value: 471179.0
+      - date: '2760-01-01'
+        population:
+          value: 1191301.0
+      - date: '2770-01-01'
+        population:
+          value: 2507744.0
+      - date: '2775-05-17'
+        hpg:
+          value: X
+      - date: '2780-10-15'
+        hpg:
+          value: B
+        population:
+          value: 4570809.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2790-01-01'
+        population:
+          value: 5268620.0
+      - date: '2800-01-01'
+        population:
+          value: 3107955.0
+      - date: '2810-01-01'
+        population:
+          value: 1724040.0
+      - date: '2820-01-01'
+        population:
+          value: 908584.0
+      - date: '2830-01-01'
+        population:
+          value: 441139.0
+      - date: '2840-01-01'
+        population:
+          value: 213089.0
+      - date: '2850-01-01'
+        population:
+          value: 105602.0
+      - date: '2860-01-01'
+        population:
+          value: 53968.0
+      - date: '2870-01-01'
+        population:
+          value: 33510.0
+      - date: '2880-01-01'
+        population:
+          value: 20177.0
+      - date: '2890-01-01'
+        population:
+          value: 10418.0
+      - date: '2900-01-01'
+        population:
+          value: 5270.0
+      - date: '2910-01-01'
+        population:
+          value: 2559.0
+      - date: '2920-01-01'
+        population:
+          value: 1464.0
+      - date: '2924-05-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Gölbaşı
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 2
+    icon: badwater4
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Water Vapor and Chlorine
+    gravity:
+      value: 0.51
+    diameter:
+      value: 7500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 36
+    water:
+      value: 22
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Bahçeli
+  - name:
+      value: Yeni Bitlis
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Sancakli I
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Sancakli II
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Sancakli III
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Sancakli IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Hayrat Bucağı
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 4
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.18
+    diameter:
+      value: 90000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+  - name:
+      value: Gencek Bucağı
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 2.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Butters
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Nuri
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Aybar
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Kızılağaç
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 3.64
+    sysPos:
+      value: 6
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 7.0
+  - name:
+      value: Sulakyurt
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.0
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 14
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 18
+  - name:
+      value: Tire
+    type:
+      value: ICE_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 8
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 50000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 50.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Invidia
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Venus
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Fabulinus
+        size:
+          value: large
+        icon: rock3
+  - name:
+      value: Q31 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 27.16
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 141.5
+    temperature:
+      value: -233
+  - name:
+      value: New El Llano
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.04
+    sysPos:
+      value: 10
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 19
+    yearLength:
+      value: 397.3
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Opet 1
+        size:
+          value: giant
+        icon: rock17
+      - name:
+          value: Opet 2
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: Opet 3
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Opet 4
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Bandırma
+    type:
+      value: GAS_GIANT
+    orbitalDist: 107.8
+    sysPos:
+      value: 11
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 120000
+    density:
+      value: 1.3
+    dayLength:
+      value: 5
+    yearLength:
+      value: 1119.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Odin A
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Odin B
+        size:
+          value: large
+        icon: rock17

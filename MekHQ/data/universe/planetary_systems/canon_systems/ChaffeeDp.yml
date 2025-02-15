@@ -1,0 +1,359 @@
+id: Chaffee (DP)
+sucsId: 3107
+xcood: 275.835
+ycood: -1758.012
+spectralType:
+  value: F7V
+primarySlot: 3
+planet:
+  - name:
+      value: Amarynthia
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: iceg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Gravel Hill A
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Gravel Hill B
+        size:
+          value: large
+        icon: rock13
+  - name:
+      value: Dighton
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 96
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Chaffee (DP)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: green8
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 10800
+    density:
+      value: 4.6818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 32
+    water:
+      value: 25
+    lifeForm:
+      value: INSECT
+    landmass:
+      - name:
+          value: Lesser Nora
+        capital:
+          value: New Beverly Beach
+      - name:
+          value: Greater Nora
+      - name:
+          value: Nokomis
+    satellite:
+      - name:
+          value: Bunker Hill
+        size:
+          value: large
+        icon: rock11
+    event:
+      - date: '3095-10-16'
+        faction:
+          source: canon
+          value:
+            - IE
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '3097-12-22'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 78416.0
+      - date: '3110-01-01'
+        population:
+          value: 138175.0
+      - date: '3120-01-01'
+        population:
+          value: 167674.0
+      - date: '3130-01-01'
+        population:
+          value: 208413.0
+      - date: '3140-01-01'
+        population:
+          value: 255960.0
+      - date: '3145-01-01'
+        population:
+          value: 285580.0
+  - name:
+      value: Pittsburgh Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 3.2
+    temperature:
+      value: -29
+  - name:
+      value: Sigel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 5
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 18
+    yearLength:
+      value: 7.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Qeb I
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Qeb II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Qeb III
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Lake Providence
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 6
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 120000
+    density:
+      value: 1.6
+    dayLength:
+      value: 8
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Holland
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Manning
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Horn
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Lower Natimao-an
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 128.6
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Chernobog
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Chernabog
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Kamchatka
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Christensen
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Jung
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Volos
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Wise
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Antelope Lake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      value: 8
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 358.2
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Gregg
+        size:
+          value: giant
+        icon: rock12
+      - name:
+          value: Richards
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Johnson
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Workman
+        size:
+          value: medium
+        icon: rock13

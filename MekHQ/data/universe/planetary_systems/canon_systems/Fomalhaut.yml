@@ -1,0 +1,701 @@
+id: Fomalhaut
+sucsId: 890
+xcood: 20.928
+ycood: 5.382
+spectralType:
+  source: canon
+  value: A3V
+primarySlot: 3
+event:
+  - date: '2358-07-13'
+    nadirCharge:
+      value: yes
+  - date: '2425-06-18'
+    zenithCharge:
+      value: yes
+  - date: '2829-06-11'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Cinteotl
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.96
+    sysPos:
+      value: 1
+    icon: greenhouse3
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 8500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.8
+    temperature:
+      value: 460
+    water:
+      value: 0
+  - name:
+      value: Citlatonac
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.68
+    sysPos:
+      value: 2
+    icon: barren24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.65
+    diameter:
+      value: 9500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.7
+    temperature:
+      value: 235
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Fomalhaut
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 6.72
+    sysPos:
+      value: 3
+    icon: wet13
+    pressure:
+      source: canon
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.11
+    diameter:
+      value: 11969
+    density:
+      value: 6.491795686283
+    dayLength:
+      value: 20
+    yearLength:
+      value: 17.5
+    temperature:
+      source: canon
+      value: 26
+    water:
+      source: canon
+      value: 92
+    lifeForm:
+      source: canon
+      value: AMPHIBIAN
+    desc: 3135 - The first colonists to Fomalhaut saw a world blessed with an unlimited
+      water supply and lush semi-tropical forestlands. Only a pair of small landmasses—Oanhu
+      in the southern hemisphere, and Lyria in the equatorial zone—and a few dozen
+      islands rise from the Endless Seas, Fomalhaut‘s planet-wide ocean. Settlers,
+      most descended from the Hawaiian and Filipino cultures of Terra, readily took
+      to this planet, and established themselves on every landmass that could support
+      life before too long. Exploiting the natural beauty, unique three-moon nightscape,
+      and infinite emerald seas, these settlers made Fomalhaut into a resort world.
+      Larger industries failed to take root on the planet, though an orbital ore-refining
+      station was established to take advantage of the metals found on the volcanic
+      inner moon of Scarlet. By the time of the Star League, very little had changed
+      on Fomalhaut, and the planet was a favorite getaway for the Terran Hegemony‘s
+      idle rich. The lack of heavy industry spared the world much of the damage inflicted
+      by Amaris forces during the final days of the Star League, save for the destruction
+      of the Scarlet refining station and the planetary spaceport of Otaku. Thus,
+      when the Federated Suns and later the Draconis Combine claimed the world after
+      the League‘s fall, they too benefited from the tranquil beauty of this ocean
+      world, though the centuries of near-constant warfare led to the planet being
+      raided by hostile troops on more than one occasion. During the Jihad, however,
+      Blakist forces were not as impressed with the eternal splendor of Fomalhaut.
+      As a hostile border world, just one jump from Terra, the planet was assaulted
+      and occupied in a lightning strike by mercenaries, in the Word of Blake‘s employ,
+      who had to be rooted out of the planet‘s cities by Combine troops during the
+      campaign to end the Jihad. Many of the world‘s most beautiful resort towns were
+      reduced to rubble in the fighting, and the capital city, Lollanda, on Oanhu,
+      had to be completely rebuilt after the Blakist mercenaries set it ablaze to
+      distract the liberating forces.
+    landmass:
+      - name:
+          source: canon
+          value: Lyria
+      - name:
+          source: canon
+          value: Oanhu
+        capital:
+          source: canon
+          value: Lollanda
+    satellite:
+      - name:
+          value: Cryos
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Iolius
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Scarlet
+        size:
+          value: large
+        icon: rock4
+    event:
+      - date: '2264-04-30'
+        faction:
+          source: canon
+          value:
+            - TA
+        population:
+          value: 48274.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2270-01-01'
+        population:
+          value: 125591.0
+      - date: '2280-01-01'
+        population:
+          value: 512873.0
+      - date: '2290-01-01'
+        population:
+          value: 1709587.0
+      - date: '2300-01-01'
+        population:
+          value: 4782022.0
+      - date: '2310-01-01'
+        population:
+          value: 11553206.0
+      - date: '2316-04-23'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2317-12-01'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2320-01-01'
+        population:
+          value: 24615385.0
+      - date: '2328-01-01'
+        socioIndustrial:
+          value: C-C-A-C-F
+      - date: '2330-01-01'
+        population:
+          value: 47104282.0
+      - date: '2340-01-01'
+        population:
+          value: 81980746.0
+      - date: '2350-01-01'
+        population:
+          value: 132808200.0
+      - date: '2360-01-01'
+        population:
+          value: 200564729.0
+      - date: '2370-01-01'
+        population:
+          value: 284657151.0
+      - date: '2380-01-01'
+        population:
+          value: 384708235.0
+      - date: '2390-01-01'
+        population:
+          value: 497149416.0
+      - date: '2400-01-01'
+        population:
+          value: 620573134.0
+      - date: '2401-01-01'
+        socioIndustrial:
+          value: B-B-A-B-D
+      - date: '2410-01-01'
+        population:
+          value: 749957290.0
+      - date: '2420-01-01'
+        population:
+          value: 883538862.0
+      - date: '2430-01-01'
+        population:
+          value: 1020130833.0
+      - date: '2440-01-01'
+        population:
+          value: 1163519357.0
+      - date: '2450-01-01'
+        population:
+          value: 1299265286.0
+      - date: '2460-01-01'
+        population:
+          value: 1419121435.0
+      - date: '2470-01-01'
+        population:
+          value: 1531238357.0
+      - date: '2480-01-01'
+        population:
+          value: 1639394663.0
+      - date: '2490-01-01'
+        population:
+          value: 1748475121.0
+      - date: '2500-01-01'
+        population:
+          value: 1855330549.0
+      - date: '2510-01-01'
+        population:
+          value: 1954686274.0
+      - date: '2520-01-01'
+        population:
+          value: 2041384987.0
+      - date: '2530-01-01'
+        population:
+          value: 2122307443.0
+      - date: '2540-01-01'
+        population:
+          value: 2191488735.0
+      - date: '2550-01-01'
+        population:
+          value: 2247194511.0
+      - date: '2560-01-01'
+        population:
+          value: 2301457619.0
+      - date: '2570-01-01'
+        population:
+          value: 2349541510.0
+      - date: '2580-01-01'
+        population:
+          value: 2404420688.0
+      - date: '2590-01-01'
+        population:
+          value: 2453086744.0
+      - date: '2600-01-01'
+        population:
+          value: 2492347001.0
+      - date: '2610-01-01'
+        population:
+          value: 2517814558.0
+      - date: '2615-01-01'
+        socioIndustrial:
+          value: A-A-A-A-C
+      - date: '2620-01-01'
+        population:
+          value: 2539228691.0
+      - date: '2630-01-01'
+        population:
+          value: 2563095505.0
+      - date: '2631-10-05'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 2591443192.0
+      - date: '2650-01-01'
+        population:
+          value: 2605939797.0
+      - date: '2660-01-01'
+        population:
+          value: 2611349655.0
+      - date: '2670-01-01'
+        population:
+          value: 2606833132.0
+      - date: '2680-01-01'
+        population:
+          value: 2616626192.0
+      - date: '2690-01-01'
+        population:
+          value: 2633699842.0
+      - date: '2700-01-01'
+        population:
+          value: 2655706760.0
+      - date: '2710-01-01'
+        population:
+          value: 2678624644.0
+      - date: '2720-01-01'
+        population:
+          value: 2715060110.0
+      - date: '2730-01-01'
+        population:
+          value: 2739245739.0
+      - date: '2740-01-01'
+        population:
+          value: 2753143285.0
+      - date: '2750-01-01'
+        population:
+          value: 2757227128.0
+      - date: '2760-01-01'
+        population:
+          value: 2749322662.0
+      - date: '2767-08-02'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 2742329152.0
+      - date: '2779-03-16'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 2705800340.0
+      - date: '2790-11-16'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 2681965691.0
+      - date: '2800-01-01'
+        population:
+          value: 2652834127.0
+      - date: '2810-01-01'
+        population:
+          value: 2598029801.0
+      - date: '2820-01-01'
+        population:
+          value: 2552813627.0
+      - date: '2821-01-20'
+        faction:
+          source: canon
+          value:
+            - DC
+      - date: '2830-01-01'
+        population:
+          value: 2536630976.0
+      - date: '2840-01-01'
+        population:
+          value: 2539437963.0
+      - date: '2850-01-01'
+        population:
+          value: 2541193906.0
+      - date: '2851-01-01'
+        socioIndustrial:
+          value: B-B-B-B-D
+      - date: '2860-10-03'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 2557759243.0
+      - date: '2870-01-01'
+        population:
+          value: 2559527855.0
+      - date: '2880-01-01'
+        population:
+          value: 2541193906.0
+      - date: '2890-01-01'
+        population:
+          value: 2531376236.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 2537332432.0
+      - date: '2910-01-01'
+        population:
+          value: 2525434022.0
+      - date: '2920-01-01'
+        population:
+          value: 2474287596.0
+      - date: '2930-01-01'
+        population:
+          value: 2421162694.0
+      - date: '2940-01-01'
+        population:
+          value: 2388911935.0
+      - date: '2950-02-19'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 2343444362.0
+      - date: '2960-01-01'
+        population:
+          value: 2297888942.0
+      - date: '2970-01-01'
+        population:
+          value: 2234606472.0
+      - date: '2980-01-01'
+        population:
+          value: 2176674771.0
+      - date: '2990-01-01'
+        population:
+          value: 2103603004.0
+      - date: '3000-01-01'
+        population:
+          value: 2035515326.0
+      - date: '3010-01-01'
+        population:
+          value: 1952551427.0
+      - date: '3020-01-01'
+        population:
+          value: 1901143303.0
+      - date: '3030-01-01'
+        population:
+          value: 1889846777.0
+      - date: '3037-01-01'
+        socioIndustrial:
+          value: B-C-B-B-D
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3040-09-15'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 1903883515.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: A-B-A-A-D
+      - date: '3050-01-01'
+        population:
+          value: 1916107445.0
+      - date: '3060-01-01'
+        population:
+          value: 1932270537.0
+      - date: '3068-06-18'
+        faction:
+          source: canon
+          value:
+            - DC
+            - WOB
+      - date: '3068-07-05'
+        faction:
+          source: canon
+          value:
+            - WOB
+      - date: '3070-01-01'
+        population:
+          value: 1950129451.0
+      - date: '3077-11-10'
+        faction:
+          source: canon
+          value:
+            - Stone
+            - DC
+            - WOB
+      - date: '3078-04-07'
+        faction:
+          source: canon
+          value:
+            - Stone
+      - date: '3080-01-01'
+        population:
+          value: 1979601884.0
+      - date: '3081-04-23'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 2002698970.0
+      - date: '3095-01-01'
+        socioIndustrial:
+          value: A-B-B-A-D
+      - date: '3100-01-01'
+        population:
+          value: 2038258477.0
+      - date: '3110-01-01'
+        population:
+          value: 2076109596.0
+      - date: '3120-01-01'
+        population:
+          value: 2114240731.0
+      - date: '3130-01-01'
+        population:
+          value: 2149200163.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 2180372548.0
+      - date: '3145-01-01'
+        population:
+          value: 2192178407.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - DC
+  - name:
+      value: Barendran
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.84
+    sysPos:
+      value: 4
+    icon: barren2
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.96
+    diameter:
+      value: 11500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 7.7
+    temperature:
+      value: 63
+    water:
+      value: 0
+  - name:
+      value: Xochiquetzal
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 5
+    icon: rock6
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.13
+    diameter:
+      value: 1500
+    density:
+      value: 6.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 4.0
+    temperature:
+      value: 141
+    water:
+      value: 0
+  - name:
+      value: Guéry
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 12.48
+    sysPos:
+      value: 6
+    icon: frozen35
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 23
+    yearLength:
+      value: 44.1
+    temperature:
+      value: -82
+    water:
+      value: 73
+    landmass:
+      - name:
+          value: García
+      - name:
+          value: Berry
+      - name:
+          value: Greater Cawsey
+      - name:
+          value: Rivers's Madness
+      - name:
+          value: Linter
+      - name:
+          value: Groeneveld
+      - name:
+          value: Lesser Cawsey
+      - name:
+          value: New Holzhausen
+  - name:
+      value: Bin Omar's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 24.0
+    sysPos:
+      value: 7
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 117.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+  - name:
+      value: Florida Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 47.04
+    sysPos:
+      value: 8
+    icon: asteroid3
+    yearLength:
+      value: 322.6
+    temperature:
+      value: -180
+  - name:
+      value: Florida Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 93.12
+    sysPos:
+      value: 9
+    icon: asteroid2
+    yearLength:
+      value: 898.6
+    temperature:
+      value: -207

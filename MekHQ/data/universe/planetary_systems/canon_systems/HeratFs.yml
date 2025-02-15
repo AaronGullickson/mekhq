@@ -1,0 +1,441 @@
+id: Herat (FS)
+sucsId: 1094
+xcood: 200.136
+ycood: -185.658
+spectralType:
+  value: G8V
+primarySlot: 2
+event:
+  - date: '2793-07-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Shīnḏanḏ
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: greenhouse20
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane and Argon
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 218
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Herat (FS)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green47
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13800
+    density:
+      value: 6.8337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 34
+    water:
+      value: 27
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 4
+    landmass:
+      - capital:
+          value: Tani
+    event:
+      - date: '2708-03-18'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 46802.0
+        socioIndustrial:
+          value: C-D-B-C-D
+      - date: '2710-10-20'
+        hpg:
+          value: B
+        population:
+          value: 65855.0
+      - date: '2720-01-01'
+        population:
+          value: 297773.0
+      - date: '2730-01-01'
+        population:
+          value: 1008359.0
+      - date: '2740-01-01'
+        population:
+          value: 1118277.0
+      - date: '2750-01-01'
+        population:
+          value: 437631.0
+      - date: '2751-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2760-01-01'
+        population:
+          value: 174680.0
+      - date: '2770-01-01'
+        population:
+          value: 83287.0
+      - date: '2780-01-01'
+        population:
+          value: 43833.0
+      - date: '2790-01-01'
+        population:
+          value: 23298.0
+      - date: '2793-01-01'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bahrām-e Shahīd
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: badwater12
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 20
+    water:
+      value: 100
+    landmass:
+      - name:
+          value: Eastern Heydari Archipelago
+      - name:
+          value: Shams Archipelago
+      - name:
+          value: Bin Duqaq Archipelago
+      - name:
+          value: Western Heydari Archipelago
+  - name:
+      value: Sar-e Pul
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.91
+    diameter:
+      value: 40000
+    density:
+      value: 1.6
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Fayrōz Nakhchīr 1
+        size:
+          value: giant
+        icon: rock4
+      - name:
+          value: Fayrōz Nakhchīr 2
+        size:
+          value: giant
+        icon: rock6
+  - name:
+      value: Hades Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: asteroid2
+    yearLength:
+      value: 3.5
+    temperature:
+      value: -107
+  - name:
+      value: Jalrēz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Kokopelli
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Isitoq
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Tirawa
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Great Hare
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Theelgeth
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Chāl
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.11
+    diameter:
+      value: 18500
+    density:
+      value: 8.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+  - name:
+      value: Hades Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: asteroid3
+    yearLength:
+      value: 62.1
+    temperature:
+      value: -210
+  - name:
+      value: New Farsī
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 170000
+    density:
+      value: 1.2
+    dayLength:
+      value: 21
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Rusalki I
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Rusalki II
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Sharan
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 10
+    icon: gasg33
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 13
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Kōhistānāt
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: South Fork
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Hades Belt 3
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 123.2
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 1367.5
+    temperature:
+      value: -251
+  - name:
+      value: Bottineau
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.08
+    sysPos:
+      value: 12
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 11
+    yearLength:
+      value: 3860.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Lobos
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Ansari
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Mirzaei
+        size:
+          value: large
+        icon: rock4

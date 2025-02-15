@@ -1,0 +1,452 @@
+id: Cephei
+sucsId: 3132
+xcood: 688.652
+ycood: -80.35
+spectralType:
+  value: K1V
+primarySlot: 2
+planet:
+  - name:
+      value: Port Rowarth
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: barren17
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.95
+    diameter:
+      value: 12500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 137
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: 5XC1
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: 5XC2
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      source: canon
+      value: Cephei
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: green54
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 12600
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 20
+    water:
+      value: 52
+    lifeForm:
+      value: AMPHIBIAN
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: NGA1
+        capital:
+          value: Kudo City
+      - name:
+          value: NGA2
+      - name:
+          value: NGA3
+    satellite:
+      - name:
+          value: Ha
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Dayman
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '3130-01-16'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-B-D-B
+      - date: '3138-01-22'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 138660.0
+      - date: '3145-01-01'
+        population:
+          value: 149235.0
+      - date: '3151-01-01'
+        faction:
+          source: sucs
+          value:
+            - IND
+  - name:
+      value: Huang
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: -20
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: De Jesús's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Cobden
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg30
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 24
+    satellite:
+      - name:
+          value: C'hi Ku
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Yu Huang
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: David
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Yen Lo Wang
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Shakyamuni
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: IOO-1
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Chang Sheng
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Jahovic
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 11
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 25
+    satellite:
+      - name:
+          value: Gill
+        size:
+          value: giant
+        icon: rock4
+  - name:
+      value: Saranyu
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: P1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: P2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: P3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Vasishtha
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 62.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 11
+  - name:
+      value: Roussel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 90000
+    density:
+      value: 1.2
+    dayLength:
+      value: 13
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Ardoch
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Herrera
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 61.76
+    sysPos:
+      value: 10
+    icon: gasg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.77
+    diameter:
+      value: 13500
+    density:
+      value: 4.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 485.4
+    smallMoons:
+      value: 3
+  - name:
+      value: Durgha
+    type:
+      value: GAS_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 11
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 90000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Höllviken
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Lepuix-Neuf
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Fatou
+        size:
+          value: medium
+        icon: rock8

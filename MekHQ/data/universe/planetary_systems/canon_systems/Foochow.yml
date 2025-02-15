@@ -1,0 +1,626 @@
+id: Foochow
+sucsId: 891
+xcood: 88.919
+ycood: -97.499
+spectralType:
+  source: canon
+  value: F4V
+primarySlot: 4
+event:
+  - date: '2394-12-19'
+    nadirCharge:
+      value: yes
+  - date: '2421-09-21'
+    zenithCharge:
+      value: yes
+  - date: '2788-05-29'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Ploestean
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: greenhouse9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.39
+    diameter:
+      value: 6500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 489
+    water:
+      value: 0
+    smallMoons:
+      value: 6
+  - name:
+      value: Hatta's Refuge
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: barren1
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen, plus trace amounts of Argon
+    gravity:
+      value: 0.46
+    diameter:
+      value: 5500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 156
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Gou Mang
+        size:
+          value: large
+        icon: rock7
+  - name:
+      value: Rani's Patch
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: barren18
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen, plus trace amounts of Argon and Sulfuric Acid
+    gravity:
+      value: 0.33
+    diameter:
+      value: 5500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 20
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 86
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Foochow
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: wet18
+    pressure:
+      source: canon
+      value: THIN
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.7
+    diameter:
+      value: 9168
+    density:
+      value: 5.354914039558
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3.6
+    temperature:
+      source: canon
+      value: 45
+    water:
+      source: canon
+      value: 80
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      3135 - Foochow is named after the capital of the Fujian province in southeast China. It was discovered almost by accident and colonized in the late 22nd century by a sizeable population escaping from China on Terra. Min-how, the only continent, is located along the equator and was mostly jungle when the colonists first landed. They spent the first 50 years fighting disease-carrying insects and large six-limbed carnivores the size of black bears called Dobars. The settlers overcame the land and were able to make it productive, even taming some of the Dobars.
+
+      Foochow became a seafood exporter to many worlds. The planetary capital, Vashura, located on eastern Min-how, is the largest seaport and produces the bulk of the planet‘s exports in fish. Foochow had very little industry until the discovery of minerals used to produce electronics on Min-how‘s southwest coast. The town of Redswan is the Foochow‘s leading industrial city.
+
+      Foochow was not involved in the Jihad until one of the Warrior Houses jumped into the system. Soon after, Word of Blake employed a small mercenary force that entered the system and began a high-speed burn toward the planet. Hidden among the planet‘s moons, the Warrior House launched an aerospace assault that completely destroyed the attacking mercenaries.
+    landmass:
+      - name:
+          source: canon
+          value: Min-how
+        capital:
+          source: canon
+          value: Vashura
+    satellite:
+      - name:
+          value: Li-Lung
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Lung-Wang
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Pan-Lung
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2176-02-16'
+        faction:
+          source: canon
+          value:
+            - SSUP
+        population:
+          value: 56243.0
+        socioIndustrial:
+          value: D-D-B-D-D
+      - date: '2180-01-01'
+        population:
+          value: 103063.0
+      - date: '2190-01-01'
+        population:
+          value: 411312.0
+      - date: '2200-01-01'
+        population:
+          value: 1384927.0
+      - date: '2210-01-01'
+        population:
+          value: 4048320.0
+      - date: '2220-01-01'
+        population:
+          value: 10413765.0
+      - date: '2230-01-01'
+        population:
+          value: 23773898.0
+      - date: '2240-01-01'
+        population:
+          value: 48866234.0
+      - date: '2245-01-01'
+        socioIndustrial:
+          value: D-D-B-C-D
+      - date: '2250-01-01'
+        population:
+          value: 92037511.0
+      - date: '2260-01-01'
+        population:
+          value: 160621832.0
+      - date: '2270-01-01'
+        population:
+          value: 261943148.0
+      - date: '2280-01-01'
+        population:
+          value: 404308879.0
+      - date: '2290-01-01'
+        population:
+          value: 592047692.0
+      - date: '2300-09-22'
+        population:
+          value: 830534552.0
+        socioIndustrial:
+          value: D-C-B-B-D
+      - date: '2310-01-01'
+        population:
+          value: 1115642566.0
+      - date: '2320-01-01'
+        population:
+          value: 1437453547.0
+      - date: '2330-01-01'
+        population:
+          value: 1797411314.0
+      - date: '2340-01-01'
+        population:
+          value: 2191622199.0
+      - date: '2350-01-01'
+        population:
+          value: 2604109252.0
+      - date: '2360-01-01'
+        population:
+          value: 3016289131.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 3435744379.0
+      - date: '2380-01-01'
+        population:
+          value: 3839650851.0
+      - date: '2390-01-01'
+        population:
+          value: 4237061673.0
+      - date: '2400-01-01'
+        population:
+          value: 4626768439.0
+      - date: '2410-01-01'
+        population:
+          value: 4964415163.0
+      - date: '2420-01-01'
+        population:
+          value: 5300191170.0
+      - date: '2430-01-01'
+        population:
+          value: 5630508133.0
+      - date: '2440-01-01'
+        population:
+          value: 5910443589.0
+      - date: '2450-01-01'
+        population:
+          value: 6160973730.0
+      - date: '2460-01-01'
+        population:
+          value: 6408072360.0
+      - date: '2470-01-01'
+        population:
+          value: 6675277560.0
+      - date: '2480-01-01'
+        population:
+          value: 6931140122.0
+      - date: '2490-01-01'
+        population:
+          value: 7174663136.0
+      - date: '2500-01-01'
+        population:
+          value: 7348492241.0
+      - date: '2510-01-01'
+        population:
+          value: 7481800366.0
+      - date: '2520-01-01'
+        population:
+          value: 7611574668.0
+      - date: '2530-01-01'
+        population:
+          value: 7763388055.0
+      - date: '2540-01-01'
+        population:
+          value: 7905933416.0
+      - date: '2550-01-01'
+        population:
+          value: 8039064202.0
+      - date: '2560-01-01'
+        population:
+          value: 8180422147.0
+      - date: '2570-01-01'
+        population:
+          value: 8290472386.0
+      - date: '2580-01-01'
+        population:
+          value: 8433217974.0
+      - date: '2590-01-01'
+        population:
+          value: 8577248823.0
+      - date: '2600-01-01'
+        population:
+          value: 8692388168.0
+      - date: '2610-03-31'
+        population:
+          value: 8792525589.0
+        socioIndustrial:
+          value: C-B-A-A-D
+      - date: '2620-01-01'
+        population:
+          value: 8821409631.0
+      - date: '2630-01-01'
+        population:
+          value: 8842589213.0
+      - date: '2635-02-15'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 8844342200.0
+      - date: '2650-01-01'
+        population:
+          value: 8857356337.0
+      - date: '2660-01-01'
+        population:
+          value: 8860952174.0
+      - date: '2670-01-01'
+        population:
+          value: 8914252216.0
+      - date: '2680-01-01'
+        population:
+          value: 9009583242.0
+      - date: '2690-01-01'
+        population:
+          value: 9097591757.0
+      - date: '2700-01-01'
+        population:
+          value: 9178392848.0
+      - date: '2710-01-01'
+        population:
+          value: 9253939838.0
+      - date: '2720-01-01'
+        population:
+          value: 9305735826.0
+      - date: '2730-01-01'
+        population:
+          value: 9365406424.0
+      - date: '2740-01-01'
+        population:
+          value: 9418232814.0
+      - date: '2750-01-01'
+        population:
+          value: 9460499911.0
+      - date: '2760-01-01'
+        population:
+          value: 9482743160.0
+      - date: '2770-01-01'
+        population:
+          value: 9494457689.0
+      - date: '2780-01-01'
+        population:
+          value: 9490038372.0
+      - date: '2790-01-01'
+        population:
+          value: 9382259462.0
+      - date: '2800-01-01'
+        population:
+          value: 9148891303.0
+      - date: '2810-01-01'
+        population:
+          value: 8898244715.0
+      - date: '2820-01-01'
+        population:
+          value: 8613456115.0
+      - date: '2830-01-01'
+        population:
+          value: 8330584904.0
+      - date: '2840-01-01'
+        population:
+          value: 8043099545.0
+      - date: '2850-01-01'
+        population:
+          value: 7815994962.0
+      - date: '2851-01-01'
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '2860-01-01'
+        population:
+          value: 7552787572.0
+      - date: '2870-01-01'
+        population:
+          value: 7377655971.0
+      - date: '2880-01-01'
+        population:
+          value: 7303698066.0
+      - date: '2890-01-01'
+        population:
+          value: 7249238262.0
+      - date: '2900-01-01'
+        population:
+          value: 7288995691.0
+      - date: '2906-01-01'
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2910-01-01'
+        population:
+          value: 7200364449.0
+      - date: '2920-01-01'
+        population:
+          value: 7072996391.0
+      - date: '2930-01-01'
+        population:
+          value: 7008142088.0
+      - date: '2940-01-01'
+        population:
+          value: 6955886089.0
+      - date: '2950-01-01'
+        population:
+          value: 6975938279.0
+      - date: '2960-01-01'
+        population:
+          value: 7011168807.0
+      - date: '2970-01-01'
+        population:
+          value: 7061806999.0
+      - date: '2980-01-01'
+        population:
+          value: 7094407214.0
+      - date: '2990-01-01'
+        population:
+          value: 7056726765.0
+      - date: '3000-01-01'
+        population:
+          value: 6866362137.0
+      - date: '3010-01-01'
+        population:
+          value: 6660969282.0
+      - date: '3020-01-01'
+        population:
+          value: 6481280740.0
+      - date: '3026-01-01'
+        socioIndustrial:
+          value: D-C-C-B-D
+      - date: '3030-02-05'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 6405073148.0
+        socioIndustrial:
+          value: D-C-C-B-F
+      - date: '3040-01-01'
+        population:
+          value: 6487585034.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: C-B-B-A-F
+      - date: '3050-01-01'
+        population:
+          value: 6569845760.0
+      - date: '3057-11-01'
+        faction:
+          source: canon
+          value:
+            - CM
+      - date: '3060-01-01'
+        population:
+          value: 6655145772.0
+      - date: '3062-03-24'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3070-01-01'
+        population:
+          value: 6740879161.0
+      - date: '3080-01-01'
+        population:
+          value: 6754374410.0
+      - date: '3085-05-04'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 6776023028.0
+      - date: '3093-01-01'
+        socioIndustrial:
+          value: B-B-B-A-F
+      - date: '3100-01-01'
+        population:
+          value: 6815438155.0
+      - date: '3110-01-01'
+        population:
+          value: 6877053953.0
+      - date: '3120-01-01'
+        population:
+          value: 6968432839.0
+      - date: '3130-01-01'
+        population:
+          value: 7052557774.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-12-08'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '3140-01-01'
+        population:
+          value: 7116317281.0
+      - date: '3145-01-01'
+        population:
+          value: 7172041598.0
+  - name:
+      value: Cape Thomas
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 3.92
+    sysPos:
+      value: 5
+    icon: rock16
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.52
+    diameter:
+      value: 10500
+    density:
+      value: 3.5
+    dayLength:
+      value: 27
+    yearLength:
+      value: 7.9
+    temperature:
+      value: -69
+    water:
+      value: 0
+  - name:
+      value: Hancock's Grove
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.28
+    sysPos:
+      value: 6
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 110000
+    density:
+      value: 0.8
+    dayLength:
+      value: 15
+    yearLength:
+      value: 19.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Papoulis I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Papoulis II
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Papoulis III
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Papoulis IV
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Papoulis V
+        size:
+          value: medium
+        icon: oddmoon1

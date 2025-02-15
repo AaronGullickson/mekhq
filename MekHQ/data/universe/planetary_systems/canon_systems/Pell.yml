@@ -1,0 +1,558 @@
+id: Pell
+sucsId: 2005
+xcood: 16.092
+ycood: -334.88
+spectralType:
+  value: G9V
+primarySlot: 3
+event:
+  - date: '2671-12-20'
+    nadirCharge:
+      value: yes
+  - date: '2691-10-28'
+    zenithCharge:
+      value: yes
+  - date: '2796-08-21'
+    zenithCharge:
+      value: no
+  - date: '2824-04-19'
+    nadirCharge:
+      value: no
+  - date: '2921-04-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Acrsio's World
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 0.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Z1
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Fontanela
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 9
+  - name:
+      source: canon
+      value: Pell
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green15
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.11
+    diameter:
+      value: 12300
+    density:
+      value: 6.3437
+    dayLength:
+      value: 25
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 33
+    water:
+      value: 48
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 3
+    landmass:
+      - name:
+          value: Heng O
+        capital:
+          value: Hallschlag
+      - name:
+          value: Meng Po Niang
+    event:
+      - date: '2666-09-22'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 45538.0
+        socioIndustrial:
+          value: B-D-A-D-D
+      - date: '2670-01-01'
+        population:
+          value: 237733.0
+      - date: '2680-01-01'
+        population:
+          value: 3652932.0
+      - date: '2682-10-18'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 16252466.0
+      - date: '2700-01-01'
+        population:
+          value: 36522426.0
+      - date: '2706-01-01'
+        socioIndustrial:
+          value: B-C-A-C-C
+      - date: '2710-01-01'
+        population:
+          value: 56820353.0
+      - date: '2720-01-01'
+        population:
+          value: 72810915.0
+      - date: '2730-01-01'
+        population:
+          value: 83554160.0
+      - date: '2740-01-01'
+        population:
+          value: 90352220.0
+      - date: '2750-01-01'
+        population:
+          value: 94577018.0
+      - date: '2760-01-01'
+        population:
+          value: 97415588.0
+      - date: '2770-01-01'
+        population:
+          value: 99638902.0
+      - date: '2780-01-01'
+        population:
+          value: 101191409.0
+      - date: '2790-01-01'
+        population:
+          value: 82584960.0
+      - date: '2800-01-01'
+        population:
+          value: 29953850.0
+      - date: '2810-01-01'
+        population:
+          value: 12770877.0
+      - date: '2820-01-01'
+        population:
+          value: 5444886.0
+      - date: '2830-01-01'
+        population:
+          value: 1989446.0
+      - date: '2840-01-01'
+        population:
+          value: 690453.0
+      - date: '2850-01-01'
+        population:
+          value: 292220.0
+      - date: '2859-01-01'
+        socioIndustrial:
+          value: C-C-B-C-C
+      - date: '2860-01-01'
+        population:
+          value: 112407.0
+      - date: '2870-01-01'
+        population:
+          value: 53905.0
+      - date: '2880-01-01'
+        population:
+          value: 32464.0
+      - date: '2890-01-01'
+        population:
+          value: 15117.0
+      - date: '2900-01-01'
+        population:
+          value: 6122.0
+      - date: '2906-01-01'
+        socioIndustrial:
+          value: D-C-C-C-D
+      - date: '2910-01-01'
+        population:
+          value: 2830.0
+      - date: '2920-01-01'
+        population:
+          value: 1461.0
+      - date: '2921-09-05'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Bin Nadim's Belt 1
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 1.7
+    temperature:
+      value: -60
+  - name:
+      value: Abha
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg36
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 3.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Wahlstrøm
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Knippschild
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Common
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Talus
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Bishop
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Winslade
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 6
+    yearLength:
+      value: 8.5
+    satellite:
+      - name:
+          value: Bilobog
+        size:
+          value: giant
+        icon: rock2
+  - name:
+      value: Yarbrough's Run
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 22.6
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Hadji I
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: Hadji II
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Hadji III
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Hadji IV
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hadji V
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Marinatos
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 6
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Q73-1
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Bin Nadim's Belt 2
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: asteroid1
+    yearLength:
+      value: 172.9
+    temperature:
+      value: -230
+  - name:
+      value: Seri
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.76
+    sysPos:
+      value: 10
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 485.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Brunhilt I
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Brunhilt II
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Brunhilt III
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Brunhilt IV
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Brunhilt V
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Brunhilt VI
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Arc-Chaschin
+    type:
+      value: ICE_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 11
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1367.5
+    smallMoons:
+      value: 7
+  - name:
+      value: Green Valley
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.08
+    sysPos:
+      value: 12
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 3860.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: KB.1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: KB.2
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: KB.3
+        size:
+          value: large
+        icon: rock2

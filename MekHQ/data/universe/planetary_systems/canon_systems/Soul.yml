@@ -1,0 +1,568 @@
+id: Soul
+sucsId: 2380
+xcood: 377.396
+ycood: 279.121
+spectralType:
+  source: canon
+  value: M2V
+primarySlot: 5
+planet:
+  - name:
+      value: Beobwon
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 1
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.22
+    diameter:
+      value: 45000
+    density:
+      value: 1.9
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 6
+  - name:
+      value: Frickenhausen
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 0.6
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Kim
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Huitaca Chibch
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      value: La Chorrera
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 3
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.7
+    temperature:
+      value: -88
+    water:
+      value: 0
+  - name:
+      value: Goseong-dong
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.64
+    sysPos:
+      value: 4
+    icon: frozen35
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Ammonia, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.59
+    diameter:
+      value: 6500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.8
+    temperature:
+      value: -109
+    water:
+      value: 42
+    landmass:
+      - name:
+          value: Little Pyon
+      - name:
+          value: Big Pyon
+  - name:
+      source: canon
+      value: Soul
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 5
+    icon: wet18
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.13
+    diameter:
+      value: 12946
+    density:
+      value: 6.134631571851
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.6
+    temperature:
+      source: canon
+      value: 11
+    water:
+      source: canon
+      value: 82
+    lifeForm:
+      source: canon
+      value: NONE
+    desc: An inhospitable ice ball orbiting a dim star, Soul tests its inhabitants’
+      survival abilities every day. Lacking axial tilt in its circular orbit, there
+      are no significant seasonal changes; just long days of bright but cold sunlight
+      and long nights of biting cold. An equator‐girdling network of immense greenhouses,
+      using fusion power for heat and sunlamps, grow food for the locals. The capital
+      city is located on the perpetual terminator at the planet’s northern pole.
+    landmass:
+      - name:
+          source: canon
+          value: Soul
+        capital:
+          source: canon
+          value: Terminus
+      - name:
+          source: canon
+          value: Spirit
+      - name:
+          source: canon
+          value: Eternus
+    event:
+      - date: '2681-11-16'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 48298.0
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2690-01-01'
+        population:
+          value: 5186558.0
+      - date: '2691-05-20'
+        hpg:
+          source: canon
+          value: B
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: C-C-B-C-D
+      - date: '2700-01-01'
+        population:
+          value: 71912548.0
+      - date: '2710-01-01'
+        population:
+          value: 258367189.0
+      - date: '2719-01-01'
+        socioIndustrial:
+          value: B-B-B-B-D
+      - date: '2720-01-01'
+        population:
+          value: 485001363.0
+      - date: '2725-01-01'
+        socioIndustrial:
+          value: A-A-A-A-C
+      - date: '2730-01-01'
+        population:
+          value: 661227702.0
+      - date: '2740-01-01'
+        population:
+          value: 767684118.0
+      - date: '2750-01-01'
+        population:
+          value: 824216297.0
+      - date: '2760-01-01'
+        population:
+          value: 848226203.0
+      - date: '2770-01-01'
+        population:
+          value: 861187702.0
+      - date: '2780-01-01'
+        population:
+          value: 876955321.0
+      - date: '2790-01-01'
+        population:
+          value: 880462277.0
+      - date: '2800-01-01'
+        population:
+          value: 873327469.0
+      - date: '2810-01-01'
+        population:
+          value: 871742787.0
+      - date: '2820-01-01'
+        population:
+          value: 874343176.0
+      - date: '2830-01-01'
+        population:
+          value: 876760219.0
+      - date: '2840-09-07'
+        population:
+          value: 875741703.0
+        socioIndustrial:
+          value: B-B-B-B-C
+      - date: '2850-01-01'
+        population:
+          value: 870160982.0
+      - date: '2860-01-01'
+        population:
+          value: 856550930.0
+      - date: '2870-01-01'
+        population:
+          value: 841684964.0
+      - date: '2880-01-01'
+        population:
+          value: 830147019.0
+      - date: '2890-01-01'
+        population:
+          value: 823061102.0
+      - date: '2900-01-01'
+        population:
+          value: 815502299.0
+      - date: '2904-01-01'
+        socioIndustrial:
+          value: C-C-C-C-C
+      - date: '2910-01-01'
+        population:
+          value: 805375731.0
+      - date: '2920-01-01'
+        population:
+          value: 796242110.0
+      - date: '2930-01-01'
+        population:
+          value: 784471790.0
+      - date: '2940-01-01'
+        population:
+          value: 772201990.0
+      - date: '2950-01-01'
+        population:
+          value: 765944467.0
+      - date: '2960-01-01'
+        population:
+          value: 763389126.0
+      - date: '2970-01-01'
+        population:
+          value: 761174021.0
+      - date: '2980-01-01'
+        population:
+          value: 761284624.0
+      - date: '2990-01-01'
+        population:
+          value: 757918469.0
+      - date: '3000-01-01'
+        population:
+          value: 752104450.0
+      - date: '3010-01-01'
+        population:
+          value: 746985945.0
+      - date: '3020-01-01'
+        population:
+          value: 744169412.0
+      - date: '3030-01-01'
+        population:
+          value: 746122784.0
+      - date: '3040-01-01'
+        population:
+          value: 756339369.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          source: canon
+          value: B-B-B-B-C
+      - date: '3050-01-01'
+        population:
+          value: 767232724.0
+      - date: '3060-01-01'
+        population:
+          value: 778282973.0
+      - date: '3070-01-01'
+        population:
+          value: 788230198.0
+      - date: '3080-01-01'
+        population:
+          value: 794561330.0
+      - date: '3090-01-01'
+        population:
+          value: 800142771.0
+      - date: '3095-01-01'
+        socioIndustrial:
+          value: A-B-B-B-C
+      - date: '3100-01-01'
+        population:
+          value: 804153504.0
+      - date: '3110-01-01'
+        population:
+          value: 810612533.0
+      - date: '3120-01-01'
+        population:
+          value: 812560340.0
+      - date: '3130-01-01'
+        population:
+          value: 817777403.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 829140959.0
+      - date: '3145-01-01'
+        population:
+          value: 836469598.0
+  - name:
+      value: Taehang-myŏn
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 6
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: YA1
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: YA2
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: YA3
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Bupyeong-dong
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.84
+    sysPos:
+      value: 7
+    icon: gasg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.48
+    diameter:
+      value: 130000
+    density:
+      value: 0.8
+    dayLength:
+      value: 17
+    yearLength:
+      value: 22.0
+    smallMoons:
+      value: 24
+  - name:
+      value: Powiat jasielski
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.52
+    sysPos:
+      value: 8
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 18
+    yearLength:
+      value: 61.1
+    smallMoons:
+      value: 25
+  - name:
+      value: Wando-eup
+    type:
+      value: GAS_GIANT
+    orbitalDist: 30.88
+    sysPos:
+      value: 9
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 171.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Kim I
+        size:
+          value: giant
+        icon: rock1
+      - name:
+          value: Kim II
+        size:
+          value: giant
+        icon: rock15
+      - name:
+          value: Kim III
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Kim IV
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Kim V
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kim VI
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Kim VII
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Kim VIII
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Beonam-myeon
+    type:
+      value: GAS_GIANT
+    orbitalDist: 61.6
+    sysPos:
+      value: 10
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 17
+    yearLength:
+      value: 483.5
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: 9UL1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 9UL2
+        size:
+          value: large
+        icon: rock3

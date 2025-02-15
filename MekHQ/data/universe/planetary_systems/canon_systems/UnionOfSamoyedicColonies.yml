@@ -1,0 +1,563 @@
+id: Union of Samoyedic Colonies
+sucsId: 3064
+xcood: -896.324
+ycood: 34.81
+spectralType:
+  value: F3V
+primarySlot: 2
+planet:
+  - name:
+      value: Saint-Julien-du-Puy
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.6
+    sysPos:
+      value: 1
+    icon: iceg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.21
+    diameter:
+      value: 50000
+    density:
+      value: 1.7
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 12
+  - name:
+      source: canon
+      value: Union of Samoyedic Colonies
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.5
+    sysPos:
+      value: 2
+    icon: dry10
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.88
+    diameter:
+      value: 11700
+    density:
+      value: 5.2795
+    dayLength:
+      value: 19
+    yearLength:
+      value: 2.2
+    temperature:
+      value: 39
+    water:
+      value: 15
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Sbarro
+        capital:
+          value: Liverød
+      - name:
+          value: Malden
+      - name:
+          value: Archena
+    event:
+      - date: '2821-10-23'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 59618.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2826-06-16'
+        hpg:
+          value: X
+      - date: '2830-01-01'
+        population:
+          value: 184684.0
+      - date: '2840-01-01'
+        population:
+          value: 479691.0
+      - date: '2850-01-01'
+        population:
+          value: 983001.0
+      - date: '2860-01-01'
+        population:
+          value: 1685664.0
+      - date: '2870-01-01'
+        population:
+          value: 2531624.0
+      - date: '2880-01-01'
+        population:
+          value: 3435876.0
+      - date: '2883-01-01'
+        socioIndustrial:
+          value: D-D-C-D-F
+      - date: '2890-01-01'
+        population:
+          value: 4325188.0
+      - date: '2900-01-01'
+        population:
+          value: 5138686.0
+      - date: '2910-01-01'
+        population:
+          value: 5876074.0
+      - date: '2920-01-01'
+        population:
+          value: 6497721.0
+      - date: '2930-01-01'
+        population:
+          value: 6983748.0
+      - date: '2940-01-01'
+        population:
+          value: 7358169.0
+      - date: '2950-01-01'
+        population:
+          value: 7638117.0
+      - date: '2960-01-01'
+        population:
+          value: 7815419.0
+      - date: '2970-01-01'
+        population:
+          value: 7950957.0
+      - date: '2980-01-01'
+        population:
+          value: 8058489.0
+      - date: '2990-01-01'
+        population:
+          value: 8113309.0
+      - date: '3000-01-01'
+        population:
+          value: 8121945.0
+      - date: '3010-01-01'
+        population:
+          value: 8120382.0
+      - date: '3020-01-01'
+        population:
+          value: 8130139.0
+      - date: '3030-01-01'
+        population:
+          value: 8101608.0
+      - date: '3040-01-01'
+        population:
+          value: 8088164.0
+      - date: '3045-01-01'
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '3050-01-01'
+        population:
+          value: 8051638.0
+      - date: '3060-01-01'
+        population:
+          value: 7984448.0
+      - date: '3070-01-01'
+        population:
+          value: 7994933.0
+      - date: '3080-01-01'
+        population:
+          value: 8081746.0
+      - date: '3090-01-01'
+        population:
+          value: 8130383.0
+      - date: '3100-01-01'
+        population:
+          value: 8213737.0
+      - date: '3110-01-01'
+        population:
+          value: 8327872.0
+      - date: '3120-01-01'
+        population:
+          value: 8448661.0
+      - date: '3129-01-01'
+        socioIndustrial:
+          value: D-C-C-C-D
+      - date: '3130-01-01'
+        population:
+          value: 8571202.0
+      - date: '3140-01-01'
+        population:
+          value: 8721646.0
+      - date: '3145-01-01'
+        population:
+          value: 8767117.0
+  - name:
+      value: Rushen
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.4
+    sysPos:
+      value: 3
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.9
+    satellite:
+      - name:
+          value: Picot
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Durand
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: White
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Mence
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Loggia
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Coppens's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.2
+    sysPos:
+      value: 4
+    icon: asteroid3
+    yearLength:
+      value: 8.7
+    temperature:
+      value: -72
+  - name:
+      value: Presidencia Municipal de Tonatico
+    type:
+      value: GAS_GIANT
+    orbitalDist: 7.8
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 21.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Ailuros
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Thureris
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Bast
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Marica
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 15.0
+    sysPos:
+      value: 6
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 58.1
+  - name:
+      value: Tigbalogo
+    type:
+      value: GAS_GIANT
+    orbitalDist: 29.4
+    sysPos:
+      value: 7
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 159.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Hine Keha
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Lo'au
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: Heiligkreuzsteinach
+    type:
+      value: ICE_GIANT
+    orbitalDist: 58.2
+    sysPos:
+      value: 8
+    icon: iceg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 444.0
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Glenn Heights
+        size:
+          value: medium
+        icon: rock10
+      - name:
+          value: Menallen
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Sutekh
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Retreat
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Felicitas
+    type:
+      value: GAS_GIANT
+    orbitalDist: 115.8
+    sysPos:
+      value: 9
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 130000
+    density:
+      value: 1.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1246.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Gula A
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Gula B
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Gula C
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Gula D
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Gula E
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Gula F
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Gula G
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Gula H
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Gula I
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: El Oued
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 231.0
+    sysPos:
+      value: 10
+    icon: gasg28
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3510.9
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Ansari
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Sahún
+    type:
+      value: GAS_GIANT
+    orbitalDist: 461.4
+    sysPos:
+      value: 11
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 20
+    yearLength:
+      value: 9911.0
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Parksi
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Whitesburg
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Cliffside Park
+        size:
+          value: medium
+        icon: oddmoon2

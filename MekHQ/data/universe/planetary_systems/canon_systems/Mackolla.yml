@@ -1,0 +1,368 @@
+id: Mackolla
+sucsId: 1554
+xcood: 637.575
+ycood: -110.128
+spectralType:
+  value: M2V
+primarySlot: 1
+event:
+  - date: '2671-03-02'
+    zenithCharge:
+      value: yes
+  - date: '2801-12-14'
+    zenithCharge:
+      value: no
+  - date: '2846-01-11'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Mackolla
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 1
+    icon: green21
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.6
+    temperature:
+      value: 32
+    water:
+      value: 58
+    lifeForm:
+      value: BIRD
+    landmass:
+      - name:
+          value: Judea and Samaria Area
+        capital:
+          value: New Custonaci
+      - name:
+          value: El Maouna Prime
+      - name:
+          value: Minami's Hole
+      - name:
+          value: Peel
+    event:
+      - date: '2667-04-04'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 50782.0
+        socioIndustrial:
+          value: C-D-A-D-C
+      - date: '2670-09-10'
+        hpg:
+          value: B
+        population:
+          value: 160324.0
+      - date: '2680-01-01'
+        population:
+          value: 2188472.0
+      - date: '2690-01-01'
+        population:
+          value: 9013289.0
+      - date: '2700-01-01'
+        population:
+          value: 19400675.0
+      - date: '2710-01-01'
+        population:
+          value: 29306941.0
+      - date: '2715-01-01'
+        socioIndustrial:
+          value: B-D-A-C-B
+      - date: '2720-01-01'
+        population:
+          value: 36808603.0
+      - date: '2730-01-01'
+        population:
+          value: 41785514.0
+      - date: '2740-01-01'
+        population:
+          value: 44918446.0
+      - date: '2750-01-01'
+        population:
+          value: 46976241.0
+      - date: '2760-01-01'
+        population:
+          value: 48254850.0
+      - date: '2770-01-01'
+        population:
+          value: 48819325.0
+      - date: '2780-01-01'
+        population:
+          value: 49182250.0
+      - date: '2790-01-01'
+        population:
+          value: 49127562.0
+      - date: '2800-01-01'
+        population:
+          value: 48806125.0
+      - date: '2810-01-01'
+        population:
+          value: 48757396.0
+      - date: '2820-01-01'
+        population:
+          value: 45967925.0
+      - date: '2830-01-01'
+        population:
+          value: 2025345.0
+      - date: '2840-01-01'
+        population:
+          value: 46132.0
+      - date: '2846-09-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Parker
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1100
+    density:
+      value: 1.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.6
+    temperature:
+      value: -52
+    water:
+      value: 0
+  - name:
+      value: San Nicandro Garganico
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 3
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1600
+    density:
+      value: 2.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 0.7
+    temperature:
+      value: -88
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Pernfors
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.64
+    sysPos:
+      value: 4
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 90000
+    density:
+      value: 0.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: K971
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: K972
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: K973
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: K974
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: K975
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Mahmud
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 5
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.75
+    diameter:
+      value: 17500
+    density:
+      value: 3.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 3.1
+    satellite:
+      - name:
+          value: Holy Trinity
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Han Zhongli
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Jehovah
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Lithgow
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.0
+    sysPos:
+      value: 6
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 8.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 13
+    satellite:
+      - name:
+          value: Sun Wukong
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Holmes
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Au-Yong
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hsuan Tsang
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Trott
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: LF1 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 7.84
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 22.0
+    temperature:
+      value: -231
+  - name:
+      value: LF2 Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 15.52
+    sysPos:
+      value: 8
+    icon: asteroid2
+    yearLength:
+      value: 61.1
+    temperature:
+      value: -243

@@ -1,0 +1,528 @@
+id: Heidrunn
+sucsId: 3052
+xcood: -1877.204
+ycood: 279.173
+spectralType:
+  value: G9V
+primarySlot: 3
+planet:
+  - name:
+      value: Lalo Honua's Nest
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.32
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.04
+    diameter:
+      value: 1300
+    density:
+      value: 2.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 152
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Taburimai
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 2
+    icon: gasg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Zakar
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Abzu
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      source: canon
+      value: Heidrunn
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 3
+    icon: green41
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 36
+    water:
+      value: 45
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Western Good's Gulf
+        capital:
+          value: Ika Tere Maeri City
+      - name:
+          value: Milk
+      - name:
+          value: Eastern Good's Gulf
+    event:
+      - date: '3095-06-23'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: D-D-A-C-D
+      - date: '3096-07-10'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 84947.0
+      - date: '3110-01-01'
+        population:
+          value: 167758.0
+      - date: '3120-01-01'
+        population:
+          value: 186891.0
+      - date: '3130-01-01'
+        population:
+          value: 208205.0
+      - date: '3140-01-01'
+        population:
+          value: 235809.0
+      - date: '3145-01-01'
+        population:
+          value: 244820.0
+  - name:
+      value: Ro'o
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 4
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 8
+  - name:
+      value: Ch'i
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.24
+    sysPos:
+      value: 5
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 120000
+    density:
+      value: 1.4
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Girard I
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Girard II
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Girard III
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Girard IV
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: Ihsanoglu's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.16
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 8.5
+    temperature:
+      value: -155
+  - name:
+      value: Tanemahuta
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 8.0
+    sysPos:
+      value: 7
+    icon: frozen14
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 22.6
+    temperature:
+      value: -183
+    water:
+      value: 88
+    smallMoons:
+      value: 7
+    landmass:
+      - name:
+          value: Kasaba
+      - name:
+          value: Soto
+      - name:
+          value: Anammelech
+      - name:
+          value: Michandani
+      - name:
+          value: Sin's Hold
+      - name:
+          value: Márquez
+      - name:
+          value: Martínez
+      - name:
+          value: Anunnaku
+      - name:
+          value: Simon
+    satellite:
+      - name:
+          value: Guiemapun Alpha
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Guiemapun Beta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Guiemapun Gamma
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Ngaru
+    type:
+      value: GAS_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 8
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.22
+    diameter:
+      value: 130000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Valdés I
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Valdés II
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Valdés III
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Valdés IV
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Tumatauenga
+    type:
+      value: ICE_GIANT
+    orbitalDist: 31.04
+    sysPos:
+      value: 9
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 172.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+  - name:
+      value: Mountford's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 246.08
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 3860.2
+    temperature:
+      value: -258
+  - name:
+      value: Ruaumoko
+    type:
+      value: GAS_GIANT
+    orbitalDist: 491.84
+    sysPos:
+      value: 11
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.66
+    diameter:
+      value: 110000
+    density:
+      value: 1.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 10907.799999999999
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Kauravas Alpha
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Kauravas Beta
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Kauravas Gamma
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Kauravas Delta
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Kauravas Epsilon
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Kauravas Zeta
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Kauravas Eta
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Kauravas Theta
+        size:
+          value: medium
+        icon: rock10
+  - name:
+      value: Rakim's Field
+    type:
+      value: GAS_GIANT
+    orbitalDist: 983.36
+    sysPos:
+      value: 12
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 30836.799999999999
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Vishnu
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Karttireya
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Duryodhana
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Agastya
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Hanuman
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Hiiaka
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1966.4
+    sysPos:
+      value: 13
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.66
+    diameter:
+      value: 130000
+    density:
+      value: 0.9
+    dayLength:
+      value: 12
+    yearLength:
+      value: 87198.300000000003
+    ring:
+      value: yes
+    smallMoons:
+      value: 20

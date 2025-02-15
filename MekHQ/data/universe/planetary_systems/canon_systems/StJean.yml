@@ -1,0 +1,350 @@
+id: St. Jean
+sucsId: 3030
+xcood: -467.418
+ycood: 1066.007
+spectralType:
+  value: M7V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: St. Jean
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.04
+    sysPos:
+      value: 1
+    icon: green56
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 13200
+    density:
+      value: 5.8284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.3
+    temperature:
+      value: 37
+    water:
+      value: 42
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Ford
+        capital:
+          value: Saint-Michel-le-Cloucq
+      - name:
+          value: Berry
+      - name:
+          value: Cuvelier
+      - name:
+          value: Richardson
+      - name:
+          value: Delorme's Gulf
+      - name:
+          value: García
+    satellite:
+      - name:
+          value: Ventura
+        size:
+          value: medium
+        icon: rock11
+    event:
+      - date: '2900-07-26'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 48841.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2906-03-21'
+        hpg:
+          value: X
+      - date: '2910-01-01'
+        population:
+          value: 58579.0
+      - date: '2920-01-01'
+        population:
+          value: 66881.0
+      - date: '2921-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2930-01-01'
+        population:
+          value: 73497.0
+      - date: '2940-01-01'
+        population:
+          value: 79101.0
+      - date: '2950-01-01'
+        population:
+          value: 83448.0
+      - date: '2960-01-01'
+        population:
+          value: 87226.0
+      - date: '2970-01-01'
+        population:
+          value: 90601.0
+      - date: '2980-01-01'
+        population:
+          value: 93209.0
+      - date: '2990-01-01'
+        population:
+          value: 95707.0
+      - date: '3000-01-01'
+        population:
+          value: 97273.0
+      - date: '3010-01-01'
+        population:
+          value: 98580.0
+      - date: '3020-01-01'
+        population:
+          value: 98676.0
+      - date: '3030-01-01'
+        population:
+          value: 73338.0
+      - date: '3040-01-01'
+        population:
+          value: 54749.0
+      - date: '3049-10-27'
+        faction:
+          source: canon
+          value:
+            - CJF
+        socioIndustrial:
+          value: F-F-B-F-F
+      - date: '3050-01-01'
+        population:
+          value: 40332.0
+      - date: '3060-01-01'
+        population:
+          value: 33486.0
+      - date: '3070-01-01'
+        population:
+          value: 27344.0
+      - date: '3080-01-01'
+        population:
+          value: 20345.0
+      - date: '3090-01-01'
+        population:
+          value: 15391.0
+      - date: '3100-01-01'
+        population:
+          value: 11528.0
+      - date: '3110-02-22'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Sainte-Opportune-la-Mare
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.16
+    sysPos:
+      value: 2
+    icon: frozen27
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -93
+    water:
+      value: 22
+    landmass:
+      - name:
+          value: Tanière de Taylor
+      - name:
+          value: Gonçalves
+  - name:
+      value: Beauvais
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 3
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1700
+    density:
+      value: 1.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.3
+    temperature:
+      value: -144
+    water:
+      value: 0
+  - name:
+      value: New Romainville
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.52
+    sysPos:
+      value: 4
+    icon: iceg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 40000
+    density:
+      value: 1.8
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 6
+  - name:
+      value: Sables-Spanish Rivers
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.0
+    sysPos:
+      value: 5
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Tiamet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 6
+    icon: iceg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 35000
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.8
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Arduinna
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Honosuseri
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Midir
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: New Rosny-sur-Seine
+    type:
+      value: ICE_GIANT
+    orbitalDist: 7.72
+    sysPos:
+      value: 7
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 10
+    yearLength:
+      value: 21.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Saint-Saulge I
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Saint-Saulge II
+        size:
+          value: large
+        icon: rock13

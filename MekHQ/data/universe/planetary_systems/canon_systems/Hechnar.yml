@@ -1,0 +1,619 @@
+id: Hechnar
+sucsId: 1076
+xcood: -16.84
+ycood: -26.076
+spectralType:
+  value: G2V
+primarySlot: 2
+event:
+  - date: '2400-10-11'
+    zenithCharge:
+      value: yes
+  - date: '2792-07-10'
+    zenithCharge:
+      value: no
+  - date: '2830-05-29'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Kern
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.84
+    diameter:
+      value: 18500
+    density:
+      value: 7.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Altieri
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Nishida
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      source: canon
+      value: Hechnar
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: green42
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.03
+    diameter:
+      value: 11400
+    density:
+      value: 6.3437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 37
+    water:
+      value: 30
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Nova Asulau I
+        capital:
+          value: New Hordaland Fylke
+      - name:
+          value: Nova Asulau II
+      - name:
+          value: Nova Asulau III
+      - name:
+          value: Nova Asulau IV
+      - name:
+          value: Nova Asulau V
+    event:
+      - date: '2321-07-14'
+        faction:
+          source: canon
+          value:
+            - TH
+        population:
+          value: 51158.0
+        socioIndustrial:
+          value: D-D-A-D-F
+      - date: '2330-01-01'
+        population:
+          value: 256154.0
+      - date: '2340-01-01'
+        population:
+          value: 1166059.0
+      - date: '2350-01-01'
+        population:
+          value: 4150096.0
+      - date: '2360-01-01'
+        population:
+          value: 12118796.0
+      - date: '2370-01-01'
+        population:
+          value: 29912491.0
+      - date: '2380-01-01'
+        population:
+          value: 63889432.0
+      - date: '2390-01-01'
+        population:
+          value: 120876153.0
+      - date: '2400-01-01'
+        population:
+          value: 205506549.0
+      - date: '2410-01-01'
+        population:
+          value: 322020021.0
+      - date: '2420-01-01'
+        population:
+          value: 470851449.0
+      - date: '2430-01-01'
+        population:
+          value: 648383253.0
+      - date: '2440-01-01'
+        population:
+          value: 846608717.0
+      - date: '2450-01-01'
+        population:
+          value: 1057746892.0
+      - date: '2460-01-01'
+        population:
+          value: 1267823732.0
+      - date: '2470-01-01'
+        population:
+          value: 1473571571.0
+      - date: '2480-01-01'
+        population:
+          value: 1672498835.0
+      - date: '2490-01-01'
+        population:
+          value: 1866459563.0
+      - date: '2500-01-01'
+        population:
+          value: 2049247245.0
+      - date: '2510-01-01'
+        population:
+          value: 2223039721.0
+      - date: '2520-01-01'
+        population:
+          value: 2376589593.0
+      - date: '2530-01-01'
+        population:
+          value: 2520045624.0
+      - date: '2540-01-01'
+        population:
+          value: 2670902186.0
+      - date: '2550-01-01'
+        population:
+          value: 2817705058.0
+      - date: '2558-01-01'
+        socioIndustrial:
+          value: D-D-A-C-F
+      - date: '2560-01-01'
+        population:
+          value: 2941167336.0
+      - date: '2570-01-01'
+        population:
+          value: 3044346012.0
+      - date: '2580-01-01'
+        population:
+          value: 3146272060.0
+      - date: '2590-01-01'
+        population:
+          value: 3223037066.0
+      - date: '2600-01-01'
+        population:
+          value: 3269412404.0
+      - date: '2610-01-01'
+        population:
+          value: 3302855172.0
+      - date: '2620-01-01'
+        population:
+          value: 3331040533.0
+      - date: '2630-01-01'
+        population:
+          value: 3369161877.0
+      - date: '2633-01-03'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 3417226611.0
+      - date: '2648-01-01'
+        socioIndustrial:
+          value: D-C-A-B-F
+      - date: '2650-01-01'
+        population:
+          value: 3455739504.0
+      - date: '2660-01-01'
+        population:
+          value: 3513809932.0
+      - date: '2670-01-01'
+        population:
+          value: 3565141564.0
+      - date: '2680-01-01'
+        population:
+          value: 3612129637.0
+      - date: '2690-01-01'
+        population:
+          value: 3625203692.0
+      - date: '2697-01-01'
+        socioIndustrial:
+          value: C-B-A-A-D
+      - date: '2700-01-01'
+        population:
+          value: 3624624031.0
+      - date: '2710-01-01'
+        population:
+          value: 3635361756.0
+      - date: '2720-01-01'
+        population:
+          value: 3625749713.0
+      - date: '2730-01-01'
+        population:
+          value: 3604821492.0
+      - date: '2740-01-01'
+        population:
+          value: 3596626223.0
+      - date: '2750-01-01'
+        population:
+          value: 3611338928.0
+      - date: '2760-01-01'
+        population:
+          value: 3638449474.0
+      - date: '2767-01-09'
+        faction:
+          source: canon
+          value:
+            - RWR
+      - date: '2770-01-01'
+        population:
+          value: 3631555156.0
+      - date: '2779-03-17'
+        faction:
+          source: canon
+          value:
+            - TH
+      - date: '2780-01-01'
+        population:
+          value: 3563442098.0
+      - date: '2785-12-25'
+        faction:
+          source: canon
+          value:
+            - FWL
+      - date: '2790-01-01'
+        population:
+          value: 3477689129.0
+      - date: '2800-01-01'
+        population:
+          value: 3387507584.0
+      - date: '2810-01-01'
+        population:
+          value: 3316555093.0
+      - date: '2820-01-01'
+        population:
+          value: 183243935.0
+      - date: '2830-09-21'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Branville
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: badwater7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon and Methane
+    gravity:
+      value: 1.03
+    diameter:
+      value: 14500
+    density:
+      value: 5.0
+    dayLength:
+      value: 8
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 34
+    water:
+      value: 45
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Bowdre 1
+      - name:
+          value: Bowdre 2
+      - name:
+          value: Bowdre 3
+      - name:
+          value: Bowdre 4
+      - name:
+          value: Bowdre 5
+      - name:
+          value: Bowdre 6
+  - name:
+      value: Taylor
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 2.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Taranis
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Bacuri
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1400
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -99
+    water:
+      value: 0
+  - name:
+      value: Hesso
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.44
+    diameter:
+      value: 14500
+    density:
+      value: 7.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.9
+    smallMoons:
+      value: 8
+  - name:
+      value: Plzeňský kraj
+    type:
+      value: ICE_GIANT
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: iceg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 50000
+    density:
+      value: 2.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 7
+  - name:
+      value: Damāv
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Gilmore 1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Gilmore 2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Gilmore 3
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Gilmore 4
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Gilmore 5
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Gilmore 6
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Gilmore 7
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Arc-Volupta
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 13
+    yearLength:
+      value: 241.7
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Shahrestān-e Khūr va Bīābānak Alpha
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Shahrestān-e Khūr va Bīābānak Beta
+        size:
+          value: large
+        icon: rock14
+  - name:
+      value: South Platte
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 307.6
+    sysPos:
+      value: 10
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 16500
+    density:
+      value: 8.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 5394.9
+  - name:
+      value: Sullivan's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1229.2
+    sysPos:
+      value: 11
+    icon: asteroid1
+    yearLength:
+      value: 43095.699999999997
+    temperature:
+      value: -265
+  - name:
+      value: Regina
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2458.0
+    sysPos:
+      value: 12
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.4
+    diameter:
+      value: 130000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 121863.300000000003
+    ring:
+      value: yes
+    smallMoons:
+      value: 17

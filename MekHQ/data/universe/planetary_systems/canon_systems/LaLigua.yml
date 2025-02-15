@@ -1,0 +1,274 @@
+id: La Ligua
+sucsId: 1437
+xcood: 754.018
+ycood: 222.388
+spectralType:
+  value: G0V
+primarySlot: 2
+event:
+  - date: '2816-03-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: La Cruz
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.77
+    sysPos:
+      value: 1
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.94
+    diameter:
+      value: 16500
+    density:
+      value: 4.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Puerto Varas I
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Puerto Varas II
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Puerto Varas III
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      source: canon
+      value: La Ligua
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.76
+    sysPos:
+      value: 2
+    icon: green37
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 12600
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.6
+    temperature:
+      value: 34
+    water:
+      value: 36
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Futaleufu
+        capital:
+          value: Hualqui
+      - name:
+          value: Swan Hill
+      - name:
+          value: New Fairbanks North Star
+      - name:
+          value: Delgado
+      - name:
+          value: San Felipe
+    event:
+      - date: '2725-03-10'
+        faction:
+          source: canon
+          value:
+            - OA
+        population:
+          value: 46868.0
+        socioIndustrial:
+          value: C-D-C-D-F
+      - date: '2730-01-01'
+        population:
+          value: 76975.0
+      - date: '2732-02-25'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 181583.0
+      - date: '2750-01-01'
+        population:
+          value: 366088.0
+      - date: '2760-01-01'
+        population:
+          value: 650064.0
+      - date: '2770-01-01'
+        population:
+          value: 1045605.0
+      - date: '2780-01-01'
+        population:
+          value: 1259122.0
+      - date: '2790-01-01'
+        population:
+          value: 529695.0
+      - date: '2796-10-27'
+        hpg:
+          value: D
+      - date: '2800-01-01'
+        population:
+          value: 211585.0
+      - date: '2810-01-01'
+        population:
+          value: 75079.0
+      - date: '2816-01-27'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Torres del Paine
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.08
+    sysPos:
+      value: 3
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 45000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 5.5
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Idunn
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Zvoruna
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Acsumama Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.72
+    sysPos:
+      value: 4
+    icon: asteroid1
+    yearLength:
+      value: 13.7
+    temperature:
+      value: -141
+  - name:
+      value: Machali
+    type:
+      value: GAS_GIANT
+    orbitalDist: 11.0
+    sysPos:
+      value: 5
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 170000
+    density:
+      value: 1.2
+    dayLength:
+      value: 10
+    yearLength:
+      value: 36.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Colón
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Morales
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Jade Emperor
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Sánchez
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Zamora
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Aguilar
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      value: Acsumama Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 21.56
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 100.1
+    temperature:
+      value: -205

@@ -1,0 +1,381 @@
+id: Brundams
+sucsId: 3046
+xcood: -1877.428
+ycood: -441.992
+spectralType:
+  value: K9V
+primarySlot: 1
+planet:
+  - name:
+      source: canon
+      value: Brundams
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green51
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.23
+    diameter:
+      value: 12600
+    density:
+      value: 6.8337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 32
+    water:
+      value: 47
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Seilenos
+        capital:
+          value: Volus
+      - name:
+          value: Phorkys
+      - name:
+          value: Northern Farid
+      - name:
+          value: Esperanzoa
+      - name:
+          value: López
+      - name:
+          value: Southern Farid
+    event:
+      - date: '3095-07-13'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 50000.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3098-02-24'
+        hpg:
+          value: X
+      - date: '3100-01-01'
+        population:
+          value: 84101.0
+      - date: '3110-01-01'
+        population:
+          value: 182915.0
+      - date: '3120-01-01'
+        population:
+          value: 214760.0
+      - date: '3130-01-01'
+        population:
+          value: 265741.0
+      - date: '3140-01-01'
+        population:
+          value: 318150.0
+      - date: '3145-01-01'
+        population:
+          value: 340877.0
+  - name:
+      value: Hogan
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1300
+    density:
+      value: 1.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 15
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Madonna del Sasso
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 100000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 0.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 18
+  - name:
+      value: Newsome
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.77
+    diameter:
+      value: 130000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: T-1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: T-2
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: T-3
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Ts'ai
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 55000
+    density:
+      value: 1.3
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Odom
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: White's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.73
+    diameter:
+      value: 160000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 4.3
+    smallMoons:
+      value: 27
+  - name:
+      value: Bridget
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.82
+    diameter:
+      value: 80000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Bulver 1
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Bulver 2
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Bulver 3
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: South Prairie
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 40000
+    density:
+      value: 1.9
+    dayLength:
+      value: 19
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Aer
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Cynthia
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Opheim's Mistake
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 100000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 85.5
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: 4YC1
+        size:
+          value: giant
+        icon: rock7
+      - name:
+          value: 4YC2
+        size:
+          value: giant
+        icon: rock11
+      - name:
+          value: 4YC3
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: 4YC4
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: 4YC5
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: 4YC6
+        size:
+          value: large
+        icon: rock16

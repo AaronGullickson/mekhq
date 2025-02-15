@@ -1,0 +1,621 @@
+id: Pioche
+sucsId: .na
+xcood: -392.36
+ycood: -497.51
+spectralType:
+  source: canon
+  value: G1V
+primarySlot: 4
+planet:
+  - name:
+      value: Lamarque
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.4
+    sysPos:
+      value: 1
+    icon: barren4
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.42
+    diameter:
+      value: 8500
+    density:
+      value: 3.5
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 221
+    water:
+      value: 0
+  - name:
+      value: Tessier's Refuge
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 2
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.2
+    smallMoons:
+      value: 1
+  - name:
+      value: Lopez
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.0
+    sysPos:
+      value: 3
+    icon: rock12
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.06
+    diameter:
+      value: 1300
+    density:
+      value: 3.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 31
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: YH-1
+        size:
+          value: medium
+        icon: rock6
+  - name:
+      source: canon
+      value: Pioche
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.6
+    sysPos:
+      value: 4
+    icon: green39
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.0
+    diameter:
+      value: 15764
+    density:
+      value: 4.472135955
+    dayLength:
+      value: 21
+    yearLength:
+      value: 2.3
+    temperature:
+      source: canon
+      value: 22
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: REPTILE
+    landmass:
+      - name:
+          value: Labastide-Saint-Pierre 1
+        capital:
+          value: New Villevieille
+      - name:
+          value: Labastide-Saint-Pierre 2
+    satellite:
+      - name:
+          value: Francois
+        size:
+          value: large
+        icon: rock14
+    event:
+      - date: '2585-03-09'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 47342.0
+        socioIndustrial:
+          value: B-D-C-C-C
+      - date: '2590-01-01'
+        population:
+          value: 157356.0
+      - date: '2600-01-01'
+        population:
+          value: 987639.0
+      - date: '2604-01-01'
+        socioIndustrial:
+          value: C-D-C-D-C
+      - date: '2606-01-01'
+        socioIndustrial:
+          value: D-D-C-F-C
+      - date: '2610-01-01'
+        population:
+          value: 3576993.0
+      - date: '2620-01-01'
+        population:
+          value: 8790008.0
+      - date: '2622-01-01'
+        socioIndustrial:
+          value: D-D-B-F-C
+      - date: '2630-01-01'
+        population:
+          value: 16373904.0
+      - date: '2640-01-01'
+        population:
+          value: 25277560.0
+      - date: '2650-01-01'
+        population:
+          value: 34284865.0
+      - date: '2653-08-12'
+        hpg:
+          value: X
+      - date: '2660-01-01'
+        population:
+          value: 42541088.0
+      - date: '2670-01-01'
+        population:
+          value: 49438834.0
+      - date: '2680-01-01'
+        population:
+          value: 54805911.0
+      - date: '2690-01-01'
+        population:
+          value: 59138876.0
+      - date: '2700-01-01'
+        population:
+          value: 62649668.0
+      - date: '2710-01-01'
+        population:
+          value: 64982431.0
+      - date: '2720-01-01'
+        population:
+          value: 66666024.0
+      - date: '2730-01-01'
+        population:
+          value: 67792267.0
+      - date: '2740-01-01'
+        population:
+          value: 68413544.0
+      - date: '2750-01-01'
+        population:
+          value: 68923141.0
+      - date: '2760-01-01'
+        population:
+          value: 69156752.0
+      - date: '2770-01-01'
+        population:
+          value: 69384440.0
+      - date: '2780-01-01'
+        population:
+          value: 69558520.0
+      - date: '2790-01-01'
+        population:
+          value: 69039458.0
+      - date: '2800-01-01'
+        population:
+          value: 67698238.0
+      - date: '2810-01-01'
+        population:
+          value: 66531369.0
+      - date: '2820-01-01'
+        population:
+          value: 65548958.0
+      - date: '2830-01-01'
+        population:
+          value: 64401169.0
+      - date: '2840-11-14'
+        population:
+          value: 63414826.0
+        socioIndustrial:
+          value: D-F-C-F-D
+      - date: '2850-01-01'
+        population:
+          value: 62200223.0
+      - date: '2860-01-01'
+        population:
+          value: 61025902.0
+      - date: '2870-01-01'
+        population:
+          value: 60108018.0
+      - date: '2880-01-01'
+        population:
+          value: 59651492.0
+      - date: '2890-01-01'
+        population:
+          value: 59479808.0
+      - date: '2900-01-01'
+        population:
+          value: 59773633.0
+      - date: '2902-01-01'
+        socioIndustrial:
+          value: D-F-C-F-F
+      - date: '2910-01-01'
+        population:
+          value: 59651492.0
+      - date: '2920-01-01'
+        population:
+          value: 59297590.0
+      - date: '2930-01-01'
+        population:
+          value: 58732433.0
+      - date: '2940-01-01'
+        population:
+          value: 58498090.0
+      - date: '2950-01-01'
+        population:
+          value: 58053792.0
+      - date: '2960-01-01'
+        population:
+          value: 58129408.0
+      - date: '2970-01-01'
+        population:
+          value: 58432859.0
+      - date: '2980-01-01'
+        population:
+          value: 58721512.0
+      - date: '2990-01-01'
+        population:
+          value: 58863637.0
+      - date: '3000-01-01'
+        population:
+          value: 58956750.0
+      - date: '3010-01-01'
+        population:
+          value: 59099444.0
+      - date: '3020-01-01'
+        population:
+          value: 58962232.0
+      - date: '3030-01-01'
+        population:
+          value: 59183192.0
+      - date: '3033-01-01'
+        socioIndustrial:
+          value: D-F-C-F-D
+      - date: '3040-01-01'
+        population:
+          value: 59849769.0
+      - date: '3043-01-01'
+        socioIndustrial:
+          value: D-D-C-D-C
+      - date: '3050-01-01'
+        population:
+          value: 60632895.0
+      - date: '3060-01-01'
+        population:
+          value: 61506175.0
+      - date: '3070-01-01'
+        population:
+          value: 62304744.0
+      - date: '3080-01-01'
+        population:
+          value: 63056905.0
+      - date: '3090-01-01'
+        population:
+          value: 63958701.0
+      - date: '3100-01-01'
+        population:
+          value: 65081321.0
+      - date: '3102-01-01'
+        socioIndustrial:
+          value: C-C-B-D-B
+      - date: '3110-01-01'
+        population:
+          value: 66051687.0
+      - date: '3120-01-01'
+        population:
+          value: 66996312.0
+      - date: '3130-01-01'
+        population:
+          value: 68158616.0
+      - date: '3140-01-01'
+        population:
+          value: 69341084.0
+      - date: '3145-01-01'
+        population:
+          value: 69674721.0
+  - name:
+      value: Tanière de Wie
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.8
+    sysPos:
+      value: 5
+    icon: frozen38
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.72
+    diameter:
+      value: 9500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.8
+    temperature:
+      value: -86
+    water:
+      value: 51
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: East Bend
+  - name:
+      value: Poisson
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.2
+    sysPos:
+      value: 6
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 110000
+    density:
+      value: 0.9
+    dayLength:
+      value: 13
+    yearLength:
+      value: 11.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Lahaye
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Dinicu
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Allain
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Saint-Ciers-d'Abzac
+        size:
+          value: medium
+        icon: rock13
+  - name:
+      value: Père
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 10.0
+    sysPos:
+      value: 7
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 16500
+    density:
+      value: 6.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 31.6
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Pages
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Navarro
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.6
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 86.8
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Hall I
+        size:
+          value: giant
+        icon: rock9
+      - name:
+          value: Hall II
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Hall III
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Hall IV
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: Hall V
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Hall VI
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Hall VII
+        size:
+          value: large
+        icon: rock4
+  - name:
+      value: Roux's Nest
+    type:
+      value: GAS_GIANT
+    orbitalDist: 38.8
+    sysPos:
+      value: 9
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 80000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 241.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+  - name:
+      value: Villard
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.2
+    sysPos:
+      value: 10
+    icon: gasg5
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.42
+    diameter:
+      value: 100000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 678.3
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Cormier 1
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Cormier 2
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Cormier 3
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Cormier 4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Cormier 5
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Maillet's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 154.0
+    sysPos:
+      value: 11
+    icon: asteroid3
+    yearLength:
+      value: 1911.1
+    temperature:
+      value: -249

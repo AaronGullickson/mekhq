@@ -1,0 +1,448 @@
+id: Mas
+sucsId: 1620
+xcood: 227.33
+ycood: -425.51
+spectralType:
+  value: F8V
+primarySlot: 4
+event:
+  - date: '2923-12-10'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Echo's Den
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: barren22
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Methane
+    gravity:
+      value: 0.46
+    diameter:
+      value: 5500
+    density:
+      value: 5.8437
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 252
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Lacoste
+        size:
+          value: medium
+        icon: rock16
+      - name:
+          value: Miller
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Morrigan
+        size:
+          value: medium
+        icon: rock4
+  - name:
+      value: Nemean Lion
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.84
+    sysPos:
+      value: 2
+    icon: rock3
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.95
+    diameter:
+      value: 10500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 27
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 103
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Alcmene
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 3
+    icon: barren6
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.88
+    diameter:
+      value: 15500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 59
+    water:
+      value: 0
+    satellite:
+      - name:
+          value: Iuppiter 1
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Iuppiter 2
+        size:
+          value: medium
+        icon: rock17
+  - name:
+      source: canon
+      value: Mas
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.92
+    sysPos:
+      value: 4
+    icon: wet21
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 12900
+    density:
+      value: 6.8337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 2.9
+    temperature:
+      value: 33
+    water:
+      value: 76
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Luhurjaya Alpha
+        capital:
+          value: Chrétien City
+      - name:
+          value: Luhurjaya Beta
+      - name:
+          value: Luhurjaya Gamma
+      - name:
+          value: Luhurjaya Delta
+    event:
+      - date: '2736-07-16'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 55786.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2739-09-07'
+        hpg:
+          value: B
+      - date: '2740-01-01'
+        population:
+          value: 73147.0
+      - date: '2750-01-01'
+        population:
+          value: 131587.0
+      - date: '2760-01-01'
+        population:
+          value: 212415.0
+      - date: '2770-01-01'
+        population:
+          value: 316597.0
+      - date: '2780-01-01'
+        population:
+          value: 439164.0
+      - date: '2790-01-01'
+        population:
+          value: 462153.0
+      - date: '2800-01-01'
+        population:
+          value: 303211.0
+      - date: '2810-01-01'
+        population:
+          value: 190400.0
+      - date: '2820-01-01'
+        population:
+          value: 128333.0
+      - date: '2830-01-01'
+        population:
+          value: 101353.0
+      - date: '2840-01-01'
+        population:
+          value: 77391.0
+      - date: '2842-01-16'
+        hpg:
+          value: D
+      - date: '2850-01-01'
+        population:
+          value: 53952.0
+      - date: '2860-01-01'
+        population:
+          value: 33765.0
+      - date: '2870-01-01'
+        population:
+          value: 21274.0
+      - date: '2880-01-01'
+        population:
+          value: 13180.0
+      - date: '2890-01-01'
+        population:
+          value: 8503.0
+      - date: '2900-01-01'
+        population:
+          value: 5268.0
+      - date: '2910-01-01'
+        population:
+          value: 3421.0
+      - date: '2920-01-01'
+        population:
+          value: 2141.0
+      - date: '2923-05-09'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Khimaira
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 3.36
+    sysPos:
+      value: 5
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.1
+    diameter:
+      value: 1800
+    density:
+      value: 4.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 6.3
+    temperature:
+      value: -85
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      value: Klotho
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.24
+    sysPos:
+      value: 6
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.9
+    diameter:
+      value: 120000
+    density:
+      value: 1.7
+    dayLength:
+      value: 10
+    yearLength:
+      value: 15.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+  - name:
+      value: Délice de Ling
+    type:
+      value: GAS_GIANT
+    orbitalDist: 12.0
+    sysPos:
+      value: 7
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.57
+    diameter:
+      value: 110000
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 41.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Tavernier
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: François
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Courtois's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 23.52
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 114.1
+    temperature:
+      value: -202
+  - name:
+      value: Frontière de Hankins
+    type:
+      value: GAS_GIANT
+    orbitalDist: 46.56
+    sysPos:
+      value: 9
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 317.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Agrotora
+    type:
+      value: GAS_GIANT
+    orbitalDist: 92.64
+    sysPos:
+      value: 10
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.79
+    diameter:
+      value: 140000
+    density:
+      value: 1.4
+    dayLength:
+      value: 10
+    yearLength:
+      value: 891.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+  - name:
+      value: Xouaxange
+    type:
+      value: GAS_GIANT
+    orbitalDist: 184.8
+    sysPos:
+      value: 11
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.99
+    diameter:
+      value: 150000
+    density:
+      value: 1.4
+    dayLength:
+      value: 15
+    yearLength:
+      value: 2512.2
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Marie
+        size:
+          value: large
+        icon: rock15

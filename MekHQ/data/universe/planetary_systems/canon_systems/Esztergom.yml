@@ -1,0 +1,511 @@
+id: Esztergom
+sucsId: 826
+xcood: -237.219
+ycood: -96.946
+spectralType:
+  value: F5V
+primarySlot: 4
+event:
+  - date: '2923-01-02'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: N1
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1200
+    density:
+      value: 1.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.3
+    temperature:
+      value: 242
+    water:
+      value: 0
+  - name:
+      value: N2
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.98
+    sysPos:
+      value: 2
+    icon: barren2
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.68
+    diameter:
+      value: 7500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 137
+    water:
+      value: 0
+  - name:
+      value: N3
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 3
+    icon: greenhouse1
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Carbon Dioxide, plus trace amounts of Argon
+    gravity:
+      value: 0.67
+    diameter:
+      value: 13500
+    density:
+      value: 3.5
+    dayLength:
+      value: 23
+    yearLength:
+      value: 2.0
+    temperature:
+      value: 91
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Virta
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Mäkelä
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Lewry
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      source: canon
+      value: Esztergom
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: green48
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.08
+    diameter:
+      value: 12000
+    density:
+      value: 6.3437
+    dayLength:
+      value: 21
+    yearLength:
+      value: 3.6
+    temperature:
+      value: 28
+    water:
+      value: 65
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Smaller Old Reynoldsville
+        capital:
+          value: New Hajdúböszörményi Járás
+      - name:
+          value: Tata
+      - name:
+          value: Chrisp
+      - name:
+          value: Larger Old Reynoldsville
+    satellite:
+      - name:
+          value: Lounio A
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Lounio B
+        size:
+          value: medium
+        icon: rock17
+    event:
+      - date: '2712-11-17'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 43490.0
+        socioIndustrial:
+          value: B-F-A-D-B
+      - date: '2717-01-18'
+        hpg:
+          value: B
+      - date: '2720-01-01'
+        population:
+          value: 171119.0
+      - date: '2730-01-01'
+        population:
+          value: 707062.0
+      - date: '2740-01-01'
+        population:
+          value: 2233750.0
+      - date: '2750-01-01'
+        population:
+          value: 5678668.0
+      - date: '2760-01-01'
+        population:
+          value: 12116488.0
+      - date: '2768-01-01'
+        socioIndustrial:
+          value: B-D-A-D-B
+      - date: '2770-01-01'
+        population:
+          value: 22293681.0
+      - date: '2780-01-01'
+        population:
+          value: 36644060.0
+      - date: '2790-01-01'
+        population:
+          value: 39421850.0
+      - date: '2800-01-01'
+        population:
+          value: 18468894.0
+      - date: '2810-01-01'
+        population:
+          value: 7425195.0
+      - date: '2820-01-01'
+        population:
+          value: 2849409.0
+      - date: '2830-01-01'
+        population:
+          value: 1122939.0
+      - date: '2840-01-01'
+        population:
+          value: 416831.0
+      - date: '2848-01-01'
+        socioIndustrial:
+          value: B-C-A-C-B
+      - date: '2850-01-01'
+        population:
+          value: 145736.0
+      - date: '2860-01-01'
+        population:
+          value: 51294.0
+      - date: '2870-01-01'
+        population:
+          value: 18788.0
+      - date: '2880-01-01'
+        population:
+          value: 7757.0
+      - date: '2890-01-01'
+        population:
+          value: 3858.0
+      - date: '2900-01-01'
+        population:
+          value: 1894.0
+      - date: '2910-01-01'
+        population:
+          value: 819.0
+      - date: '2920-01-01'
+        population:
+          value: 345.0
+      - date: '2923-03-19'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: N5
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 7.28
+    sysPos:
+      value: 5
+    icon: frozen30
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.71
+    diameter:
+      value: 10500
+    density:
+      value: 4.7795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 19.7
+    temperature:
+      value: -123
+    water:
+      value: 36
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Ibrányi Járás
+    satellite:
+      - name:
+          value: Heimdallr 1
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Heimdallr 2
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: N6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 14.0
+    sysPos:
+      value: 6
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 120000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 52.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: N7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 27.44
+    sysPos:
+      value: 7
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 160000
+    density:
+      value: 1.0
+    dayLength:
+      value: 11
+    yearLength:
+      value: 143.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: N41
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: N42
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: N8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 54.32
+    sysPos:
+      value: 8
+    icon: gasg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 150000
+    density:
+      value: 1.2
+    dayLength:
+      value: 17
+    yearLength:
+      value: 400.4
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Mikula
+        size:
+          value: giant
+        icon: rock3
+      - name:
+          value: Mati Syra Zemlya
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Volus
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Frigg
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Dola
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: N9
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 108.08
+    sysPos:
+      value: 9
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1123.6
+    smallMoons:
+      value: 1
+    satellite:
+      - name:
+          value: Z3G1
+        size:
+          value: medium
+        icon: rock13
+      - name:
+          value: Z3G2
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Z3G3
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Thrudheim Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 430.64
+    sysPos:
+      value: 10
+    icon: asteroid1
+    yearLength:
+      value: 8936.6
+    temperature:
+      value: -255
+  - name:
+      value: N10
+    type:
+      value: GAS_GIANT
+    orbitalDist: 860.72
+    sysPos:
+      value: 11
+    icon: gasg26
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.56
+    diameter:
+      value: 120000
+    density:
+      value: 1.5
+    dayLength:
+      value: 15
+    yearLength:
+      value: 25251.799999999999
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Puistola
+        size:
+          value: medium
+        icon: rock11

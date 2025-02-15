@@ -1,0 +1,533 @@
+id: Eagle Rest
+sucsId: 762
+xcood: -244.105
+ycood: -549.928
+spectralType:
+  value: K0V
+primarySlot: 2
+event:
+  - date: '2940-08-23'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Jones
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.56
+    sysPos:
+      value: 1
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1200
+    density:
+      value: 2.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 45
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Eagle Rest
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 2
+    icon: green7
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.65
+    diameter:
+      value: 11400
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 37
+    water:
+      value: 35
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Little Silver
+        capital:
+          value: Annapolis
+      - name:
+          value: Tionesta
+      - name:
+          value: Anderson
+      - name:
+          value: Macon
+    event:
+      - date: '2713-10-27'
+        faction:
+          source: canon
+          value:
+            - MOC
+        population:
+          value: 53954.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2714-03-14'
+        hpg:
+          value: X
+      - date: '2720-01-01'
+        population:
+          value: 122604.0
+      - date: '2730-01-01'
+        population:
+          value: 332023.0
+      - date: '2740-01-01'
+        population:
+          value: 749637.0
+      - date: '2750-01-01'
+        population:
+          value: 1466354.0
+      - date: '2760-01-01'
+        population:
+          value: 2545506.0
+      - date: '2768-01-01'
+        socioIndustrial:
+          value: C-D-B-D-D
+      - date: '2770-01-01'
+        population:
+          value: 4003793.0
+      - date: '2780-01-01'
+        population:
+          value: 5062114.0
+      - date: '2790-01-01'
+        population:
+          value: 3373960.0
+      - date: '2800-01-01'
+        population:
+          value: 2312422.0
+      - date: '2810-01-01'
+        population:
+          value: 1584872.0
+      - date: '2820-01-01'
+        population:
+          value: 1009777.0
+      - date: '2830-01-01'
+        population:
+          value: 575414.0
+      - date: '2840-01-01'
+        population:
+          value: 308769.0
+      - date: '2850-01-01'
+        population:
+          value: 190085.0
+      - date: '2860-01-01'
+        population:
+          value: 148187.0
+      - date: '2864-09-15'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2870-01-01'
+        population:
+          value: 117021.0
+      - date: '2880-01-01'
+        population:
+          value: 88147.0
+      - date: '2890-01-01'
+        population:
+          value: 66684.0
+      - date: '2900-01-01'
+        population:
+          value: 47097.0
+      - date: '2910-01-01'
+        population:
+          value: 34575.0
+      - date: '2920-01-01'
+        population:
+          value: 22314.0
+      - date: '2930-01-01'
+        population:
+          value: 14588.0
+      - date: '2940-11-03'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Dunn
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.28
+    sysPos:
+      value: 3
+    icon: gasg22
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.49
+    diameter:
+      value: 17500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.7
+    smallMoons:
+      value: 7
+  - name:
+      value: Kouda's Wind
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.24
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.5
+    smallMoons:
+      value: 7
+  - name:
+      value: Mathis's Folly
+    type:
+      value: GAS_GIANT
+    orbitalDist: 4.16
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.05
+    diameter:
+      value: 90000
+    density:
+      value: 1.6
+    dayLength:
+      value: 14
+    yearLength:
+      value: 8.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+  - name:
+      value: Turner
+    type:
+      value: GAS_GIANT
+    orbitalDist: 8.0
+    sysPos:
+      value: 6
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 13
+    yearLength:
+      value: 22.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Yin Yang 1
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: Yin Yang 2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Yin Yang 3
+        size:
+          value: medium
+        icon: rock7
+      - name:
+          value: Yin Yang 4
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Cernache
+    type:
+      value: ICE_GIANT
+    orbitalDist: 15.68
+    sysPos:
+      value: 7
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 6
+    yearLength:
+      value: 62.1
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Johnson
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Carlson's Planet
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 31.04
+    sysPos:
+      value: 8
+    icon: frozen19
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Methane and Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 1.76
+    diameter:
+      value: 15500
+    density:
+      value: 8.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 172.9
+    temperature:
+      value: -225
+    water:
+      value: 100
+    smallMoons:
+      value: 1
+    landmass:
+      - name:
+          value: Richardson's Mistake A Archipelago
+        capital:
+          value: Richardson's Mistake A Archipelago City
+      - name:
+          value: Richardson's Mistake B Archipelago
+      - name:
+          value: Richardson's Mistake C Archipelago
+      - name:
+          value: Richardson's Mistake D Archipelago
+      - name:
+          value: Richardson's Mistake E Archipelago
+      - name:
+          value: Richardson's Mistake F Archipelago
+      - name:
+          value: Richardson's Mistake G Archipelago
+      - name:
+          value: Richardson's Mistake H Archipelago
+      - name:
+          value: Richardson's Mistake I Archipelago
+      - name:
+          value: Richardson's Mistake J Archipelago
+      - name:
+          value: Richardson's Mistake K Archipelago
+    satellite:
+      - name:
+          value: Jutas A
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Jutas B
+        size:
+          value: medium
+        icon: rock11
+  - name:
+      value: Davis's Roost
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 61.76
+    sysPos:
+      value: 9
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.62
+    diameter:
+      value: 14500
+    density:
+      value: 3.0
+    dayLength:
+      value: 14
+    yearLength:
+      value: 485.4
+    satellite:
+      - name:
+          value: Alpheos
+        size:
+          value: large
+        icon: rock1
+  - name:
+      value: Baldwin
+    type:
+      value: ICE_GIANT
+    orbitalDist: 123.2
+    sysPos:
+      value: 10
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.14
+    diameter:
+      value: 40000
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1367.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: 05P-1
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Cruz
+    type:
+      value: GAS_GIANT
+    orbitalDist: 246.08
+    sysPos:
+      value: 11
+    icon: gasg12
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 9
+    yearLength:
+      value: 3860.2
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: XH-1
+        size:
+          value: large
+        icon: rock1
+      - name:
+          value: XH-2
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: XH-3
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: XH-4
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: XH-5
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: XH-6
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: XH-7
+        size:
+          value: medium
+        icon: oddmoon2

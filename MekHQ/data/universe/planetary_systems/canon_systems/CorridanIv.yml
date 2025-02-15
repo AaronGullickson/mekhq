@@ -1,0 +1,854 @@
+id: Corridan IV
+sucsId: 604
+xcood: -38.014
+ycood: 121.453
+spectralType:
+  source: canon
+  value: G4V
+primarySlot: 4
+event:
+  - date: '2363-08-22'
+    zenithCharge:
+      value: yes
+  - date: '2484-11-30'
+    nadirCharge:
+      value: yes
+  - date: '2807-05-16'
+    zenithCharge:
+      value: no
+  - date: '2828-02-25'
+    nadirCharge:
+      value: no
+planet:
+  - name:
+      value: Corridan I
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: barren6
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 26
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 198
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: FSQ-1
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: FSQ-2
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: FSQ-3
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Corridan II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.86
+    diameter:
+      value: 9500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 74
+    water:
+      value: 0
+  - name:
+      value: Corridan III
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 12
+    yearLength:
+      value: 2.0
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: Davoodi
+        size:
+          value: large
+        icon: rock15
+  - name:
+      source: canon
+      value: Corridan IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 4
+    icon: green38
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.92
+    diameter:
+      value: 10517
+    density:
+      value: 6.178039534471
+    dayLength:
+      value: 30
+    yearLength:
+      value: 1.3
+    temperature:
+      source: canon
+      value: 44
+    water:
+      source: canon
+      value: 63
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      When first settled, Corridan IV promised colonists an abundance of raw materials and fertile lands, but posed just one small problem: the entire planet‘s water table was tainted by heavy metals and infested with native bacteria that rendered every living thing on the planet, from plants to animals, toxic for human consumption. Faced with starvation and the failure of their colony, the first settlers initially relied on ice ships, such as those of the Ryan Cartel.
+
+      Eventually Gabriel Tal, a resident part-time chemical engineer, stumbled upon a means to purify over ninety-five percent of the toxic agents from small quantities of Corridani water in a safe and economical fashion using an innovative fusion filtration system. Tal‘s invention ultimately became the basis for Water Pure Industries, which would become the largest of the Lyran Commonwealth‘s five water purifier manufacturers. Though publicly traded, Water Pure remained mostly in Tal family hands throughout its history, expanding to add manufacturing sites on Freedom and Ryde, and distribution sites on over a dozen worlds in the Federation of Skye. In spite of the destruction of its main Corridan plant six times in its history—the last during an incidental Word of Blake raid during the Jihad—Water Pure has managed to come back bigger and better every time. The value of clean, drinkable water obviously made Corridan IV a prime target during the Succession Wars, and for centuries its cities and the landscape on all three of its primary continents—Alorran and Cederban in the northern hemisphere, Fayrun in the southern—bore the scars of repeated raids and planetary assaults. When this planet was ceded to The Republic of the Sphere, a planetwide beautification project ultimately erased the last of these scars, resulting in the idyllic, pastoral world visitors see today.
+
+      Today, Corridan‘s greatest exports, after water purifiers, are agricultural and ranching produce, which range from native fruits and vegetables to the beef-like meat of the Corridani grazer, a dim-witted beast roughly half again the size of a Terran buffalo. For this reason, many travelers expect a world of mainly rural plains. In fact, close to half the planetary population lives in big cities, mostly concentrated on Feyrun and Cederban. The largest of these, Rio Grande, is home to Water Pure Industries, much of the Tal family fortune, and the largest planetary spaceport. The planetary capital, New Austin, is over seventy kilometers north of Rio Grande, and boasts the planet‘s largest shipping concern, Corridani Forward, which uses its own starport.
+    landmass:
+      - name:
+          source: canon
+          value: Alorran
+      - name:
+          source: canon
+          value: Cederban
+        capital:
+          source: canon
+          value: New Austin
+      - name:
+          source: canon
+          value: Fayrun
+    satellite:
+      - name:
+          value: Muse
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2350-01-24'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 51066.0
+        socioIndustrial:
+          value: D-F-B-D-C
+      - date: '2360-01-01'
+        population:
+          value: 270073.0
+      - date: '2370-01-01'
+        population:
+          value: 1094255.0
+      - date: '2380-01-01'
+        population:
+          value: 3545399.0
+      - date: '2390-01-01'
+        population:
+          value: 9514602.0
+      - date: '2400-01-01'
+        population:
+          value: 21722582.0
+      - date: '2410-01-01'
+        population:
+          value: 43038455.0
+      - date: '2420-01-01'
+        population:
+          value: 76418753.0
+      - date: '2430-01-01'
+        population:
+          value: 123407807.0
+      - date: '2440-01-01'
+        population:
+          value: 184297038.0
+      - date: '2450-01-01'
+        population:
+          value: 258689198.0
+      - date: '2460-01-01'
+        population:
+          value: 342590163.0
+      - date: '2470-01-01'
+        population:
+          value: 432581897.0
+      - date: '2480-01-01'
+        population:
+          value: 527530856.0
+      - date: '2490-01-01'
+        population:
+          value: 626601599.0
+      - date: '2500-01-01'
+        population:
+          value: 724544876.0
+      - date: '2510-01-01'
+        population:
+          value: 821162718.0
+      - date: '2520-01-01'
+        population:
+          value: 912282357.0
+      - date: '2530-01-01'
+        population:
+          value: 1001384339.0
+      - date: '2540-01-01'
+        population:
+          value: 1081494210.0
+      - date: '2550-01-01'
+        population:
+          value: 1154036327.0
+      - date: '2557-01-01'
+        socioIndustrial:
+          value: C-D-B-C-C
+      - date: '2560-01-01'
+        population:
+          value: 1218947820.0
+      - date: '2562-01-01'
+        socioIndustrial:
+          value: B-C-B-B-C
+      - date: '2570-01-01'
+        population:
+          value: 1281016415.0
+      - date: '2580-01-01'
+        population:
+          value: 1333701331.0
+      - date: '2590-01-01'
+        population:
+          value: 1373260007.0
+      - date: '2600-01-01'
+        population:
+          value: 1405867193.0
+      - date: '2605-01-01'
+        socioIndustrial:
+          value: A-B-A-A-C
+      - date: '2610-01-01'
+        population:
+          value: 1437526776.0
+      - date: '2620-01-01'
+        population:
+          value: 1463512441.0
+      - date: '2630-01-01'
+        population:
+          value: 1490242957.0
+      - date: '2638-08-26'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1509949446.0
+      - date: '2650-01-01'
+        population:
+          value: 1537611354.0
+      - date: '2660-01-01'
+        population:
+          value: 1564740245.0
+      - date: '2670-01-01'
+        population:
+          value: 1583777401.0
+      - date: '2680-01-01'
+        population:
+          value: 1599567724.0
+      - date: '2690-01-01'
+        population:
+          value: 1607805587.0
+      - date: '2700-01-01'
+        population:
+          value: 1618955860.0
+      - date: '2710-01-01'
+        population:
+          value: 1627425947.0
+      - date: '2720-01-01'
+        population:
+          value: 1631722481.0
+      - date: '2730-01-01'
+        population:
+          value: 1639161279.0
+      - date: '2740-01-01'
+        population:
+          value: 1641685659.0
+      - date: '2750-01-01'
+        population:
+          value: 1634470039.0
+      - date: '2760-01-01'
+        population:
+          value: 1624215846.0
+      - date: '2770-01-01'
+        population:
+          value: 1611055432.0
+      - date: '2771-07-20'
+        hpg:
+          value: X
+      - date: '2780-06-01'
+        hpg:
+          value: B
+        population:
+          value: 1600555327.0
+      - date: '2790-01-01'
+        population:
+          value: 1589767280.0
+      - date: '2800-01-01'
+        population:
+          value: 1579994015.0
+      - date: '2810-01-01'
+        population:
+          value: 1560930504.0
+      - date: '2820-01-01'
+        population:
+          value: 1547723068.0
+      - date: '2830-01-01'
+        population:
+          value: 1542471438.0
+      - date: '2840-01-01'
+        population:
+          value: 1532095965.0
+      - date: '2850-01-01'
+        population:
+          value: 1520903841.0
+      - date: '2860-01-01'
+        population:
+          value: 1506498166.0
+      - date: '2870-01-01'
+        population:
+          value: 1492663739.0
+      - date: '2871-01-01'
+        socioIndustrial:
+          value: B-C-B-B-C
+      - date: '2880-01-01'
+        population:
+          value: 1483703541.0
+      - date: '2890-01-01'
+        population:
+          value: 1474797129.0
+      - date: '2894-01-01'
+        socioIndustrial:
+          value: C-C-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 1462744576.0
+      - date: '2910-01-01'
+        population:
+          value: 1447202310.0
+      - date: '2920-01-01'
+        population:
+          value: 1432242387.0
+      - date: '2930-01-01'
+        population:
+          value: 1422401161.0
+      - date: '2940-01-01'
+        population:
+          value: 1417368285.0
+      - date: '2950-01-01'
+        population:
+          value: 1412558965.0
+      - date: '2960-01-01'
+        population:
+          value: 1411256397.0
+      - date: '2970-01-01'
+        population:
+          value: 1408723262.0
+      - date: '2980-01-01'
+        population:
+          value: 1407014259.0
+      - date: '2990-01-01'
+        population:
+          value: 1399587198.0
+      - date: '3000-01-01'
+        population:
+          value: 1392604997.0
+      - date: '3010-01-01'
+        population:
+          value: 1387879703.0
+      - date: '3020-01-01'
+        population:
+          value: 1384783243.0
+      - date: '3027-01-01'
+        socioIndustrial:
+          value: B-C-C-B-D
+      - date: '3030-01-01'
+        population:
+          value: 1391386657.0
+      - date: '3040-01-01'
+        population:
+          value: 1406917084.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3042-01-01'
+        socioIndustrial:
+          value: A-B-B-A-C
+      - date: '3050-01-01'
+        population:
+          value: 1419636489.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 1432470886.0
+      - date: '3070-01-01'
+        population:
+          value: 1447012151.0
+      - date: '3080-01-01'
+        population:
+          value: 1463309784.0
+      - date: '3081-03-26'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1476539014.0
+      - date: '3100-01-01'
+        population:
+          value: 1492273573.0
+      - date: '3110-01-01'
+        population:
+          value: 1510288731.0
+      - date: '3116-01-01'
+        socioIndustrial:
+          value: A-B-A-A-C
+      - date: '3118-01-01'
+        socioIndustrial:
+          value: A-C-A-A-C
+      - date: '3120-01-01'
+        population:
+          value: 1539874385.0
+      - date: '3130-01-01'
+        population:
+          value: 1574127019.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-03-03'
+        faction:
+          source: canon
+          value:
+            - CJF
+        population:
+          value: 1596639080.0
+      - date: '3145-01-01'
+        population:
+          value: 1606568994.0
+      - date: '3152-06-01'
+        faction:
+          source: canon
+          value:
+            - IND
+  - name:
+      value: Corridan V
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: iceg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 14
+    yearLength:
+      value: 4.1
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Hercules
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Putana Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 4.68
+    sysPos:
+      value: 6
+    icon: asteroid2
+    yearLength:
+      value: 10.2
+    temperature:
+      value: -146
+  - name:
+      value: Corridan VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.0
+    sysPos:
+      value: 7
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.54
+    diameter:
+      value: 120000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 27.0
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Ari Hes Nefer
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Selkit
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Benarbia
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 6F-1
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Sepa
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Nefer Tem
+        size:
+          value: medium
+        icon: rock15
+      - name:
+          value: Menhit
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: Putana Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 17.64
+    sysPos:
+      value: 8
+    icon: asteroid1
+    yearLength:
+      value: 74.1
+    temperature:
+      value: -208
+  - name:
+      value: Corridan VII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 34.92
+    sysPos:
+      value: 9
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.5
+    diameter:
+      value: 160000
+    density:
+      value: 1.1
+    dayLength:
+      value: 11
+    yearLength:
+      value: 206.4
+    ring:
+      value: yes
+    smallMoons:
+      value: 23
+    satellite:
+      - name:
+          value: Nes I
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Nes II
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Nes III
+        size:
+          value: large
+        icon: rock9
+  - name:
+      value: Putana Belt III
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 138.6
+    sysPos:
+      value: 10
+    icon: asteroid3
+    yearLength:
+      value: 1631.7
+    temperature:
+      value: -250
+  - name:
+      value: Corridan VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 276.84
+    sysPos:
+      value: 11
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.39
+    diameter:
+      value: 140000
+    density:
+      value: 1.2
+    dayLength:
+      value: 12
+    yearLength:
+      value: 4606.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Heimdall
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Freya
+        size:
+          value: large
+        icon: rock5
+      - name:
+          value: Valkyries
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Gotterdammerung
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Corridan IX
+    type:
+      value: GAS_GIANT
+    orbitalDist: 553.32
+    sysPos:
+      value: 12
+    icon: gasg10
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.28
+    diameter:
+      value: 100000
+    density:
+      value: 1.6
+    dayLength:
+      value: 16
+    yearLength:
+      value: 13015.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 26
+    satellite:
+      - name:
+          value: Hino 1
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hino 2
+        size:
+          value: medium
+        icon: rock2
+  - name:
+      value: Corridan X
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1106.28
+    sysPos:
+      value: 13
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.2
+    diameter:
+      value: 150000
+    density:
+      value: 1.5
+    dayLength:
+      value: 14
+    yearLength:
+      value: 36795.699999999997
+    ring:
+      value: yes
+    smallMoons:
+      value: 28
+    satellite:
+      - name:
+          value: Méndez
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Becker
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pikin
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Lane
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Vega
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Corridan XI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2212.2
+    sysPos:
+      value: 14
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 3.14
+    diameter:
+      value: 130000
+    density:
+      value: 1.7
+    dayLength:
+      value: 17
+    yearLength:
+      value: 104048.699999999997
+    ring:
+      value: yes
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Dimos Livadeia
+        size:
+          value: medium
+        icon: oddmoon1

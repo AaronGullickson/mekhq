@@ -1,0 +1,590 @@
+id: Colorado
+sucsId: 580
+xcood: 344.568
+ycood: -199.071
+spectralType:
+  source: canon
+  value: K4V
+primarySlot: 2
+event:
+  - date: '2370-03-29'
+    nadirCharge:
+      value: yes
+  - date: '2557-06-10'
+    zenithCharge:
+      value: yes
+  - date: '2802-10-31'
+    nadirCharge:
+      value: no
+  - date: '2836-09-07'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Harrison's Wheel
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 1
+    icon: rock2
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.02
+    diameter:
+      value: 1600
+    density:
+      value: 1.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.9
+    temperature:
+      value: 22
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Colorado
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 2
+    icon: green43
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.7
+    diameter:
+      value: 12423
+    density:
+      value: 3.944053188733
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.8
+    temperature:
+      source: canon
+      value: 15
+    water:
+      source: canon
+      value: 20
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: Colorado is a cold, unforgiving arctic planet and most of its continents
+      are covered in ice year round. However, there is enough arable land at the equator
+      to feed the planet without relying on imported food. Colorado was settled to
+      take advantage of the abundant sources of germanium and the planet has proven
+      to be the largest source of the material in the Federated Suns. Unfortunately,
+      the mining has caused serious damage to the world's ecology but the production
+      of JumpShips is too important to stop the process.
+    landmass:
+      - name:
+          source: canon
+          value: Chaffee
+      - name:
+          source: canon
+          value: Lincoln
+      - name:
+          source: canon
+          value: Montrose
+        capital:
+          source: canon
+          value: Denver
+      - name:
+          source: canon
+          value: Yuma
+    satellite:
+      - name:
+          value: Vale
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Aspen
+        size:
+          value: medium
+        icon: oddmoon1
+    event:
+      - date: '2274-08-20'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 36209.0
+        socioIndustrial:
+          value: D-D-A-D-D
+      - date: '2280-01-01'
+        population:
+          value: 72124.0
+      - date: '2290-01-01'
+        population:
+          value: 200704.0
+      - date: '2292-01-01'
+        socioIndustrial:
+          value: D-D-A-C-D
+      - date: '2300-01-01'
+        population:
+          value: 487004.0
+      - date: '2310-01-01'
+        population:
+          value: 1054783.0
+      - date: '2320-01-01'
+        population:
+          value: 2059780.0
+      - date: '2330-01-01'
+        population:
+          value: 3681115.0
+      - date: '2340-08-26'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 6088581.0
+      - date: '2350-01-01'
+        population:
+          value: 9440476.0
+      - date: '2360-01-01'
+        population:
+          value: 13760409.0
+      - date: '2370-01-01'
+        population:
+          value: 19013977.0
+      - date: '2380-01-01'
+        population:
+          value: 25231278.0
+      - date: '2390-01-01'
+        population:
+          value: 32264206.0
+      - date: '2400-01-01'
+        population:
+          value: 40158853.0
+      - date: '2405-01-01'
+        socioIndustrial:
+          value: C-C-A-B-D
+      - date: '2410-01-01'
+        population:
+          value: 48662272.0
+      - date: '2420-01-01'
+        population:
+          value: 57542247.0
+      - date: '2430-01-01'
+        population:
+          value: 66670156.0
+      - date: '2440-01-01'
+        population:
+          value: 75780870.0
+      - date: '2450-01-01'
+        population:
+          value: 84743700.0
+      - date: '2460-01-01'
+        population:
+          value: 93282338.0
+      - date: '2470-01-01'
+        population:
+          value: 101238129.0
+      - date: '2480-01-01'
+        population:
+          value: 109327722.0
+      - date: '2490-01-01'
+        population:
+          value: 116842322.0
+      - date: '2500-01-01'
+        population:
+          value: 123728258.0
+      - date: '2510-01-01'
+        population:
+          value: 130368266.0
+      - date: '2520-01-01'
+        population:
+          value: 136283868.0
+      - date: '2530-01-01'
+        population:
+          value: 142136242.0
+      - date: '2540-01-01'
+        population:
+          value: 147638417.0
+      - date: '2550-01-01'
+        population:
+          value: 152635901.0
+      - date: '2560-01-01'
+        population:
+          value: 157079365.0
+      - date: '2570-01-01'
+        population:
+          value: 161981823.0
+      - date: '2580-01-01'
+        population:
+          value: 166571829.0
+      - date: '2590-01-01'
+        population:
+          value: 170255612.0
+      - date: '2600-01-01'
+        population:
+          value: 172498025.0
+      - date: '2610-01-01'
+        population:
+          value: 174429819.0
+      - date: '2615-01-01'
+        socioIndustrial:
+          value: B-B-A-A-C
+      - date: '2620-01-01'
+        population:
+          value: 177349023.0
+      - date: '2630-01-01'
+        population:
+          value: 180504904.0
+      - date: '2640-01-01'
+        population:
+          value: 183422735.0
+      - date: '2650-01-01'
+        population:
+          value: 185075076.0
+      - date: '2660-01-01'
+        population:
+          value: 186788884.0
+      - date: '2670-01-01'
+        population:
+          value: 189000010.0
+      - date: '2680-01-01'
+        population:
+          value: 191091668.0
+      - date: '2690-01-01'
+        population:
+          value: 192726737.0
+      - date: '2694-12-09'
+        hpg:
+          source: canon
+          value: B
+      - date: '2700-01-01'
+        population:
+          value: 194061047.0
+      - date: '2710-01-01'
+        population:
+          value: 195177297.0
+      - date: '2720-01-01'
+        population:
+          value: 194518854.0
+      - date: '2730-01-01'
+        population:
+          value: 194275534.0
+      - date: '2740-01-01'
+        population:
+          value: 194647471.0
+      - date: '2750-01-01'
+        population:
+          value: 194551873.0
+      - date: '2760-01-01'
+        population:
+          value: 194344265.0
+      - date: '2767-08-01'
+        hpg:
+          source: canon
+          value: X
+      - date: '2770-01-01'
+        population:
+          value: 194456955.0
+      - date: '2780-04-28'
+        hpg:
+          source: canon
+          value: B
+        population:
+          value: 194505113.0
+      - date: '2790-01-01'
+        population:
+          value: 193195606.0
+      - date: '2800-01-01'
+        population:
+          value: 191111620.0
+      - date: '2810-01-01'
+        population:
+          value: 189374129.0
+      - date: '2820-01-01'
+        population:
+          value: 185337082.0
+      - date: '2830-01-01'
+        population:
+          value: 180379401.0
+      - date: '2840-01-01'
+        population:
+          value: 175704714.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: C-C-B-B-D
+      - date: '2850-01-01'
+        population:
+          value: 172992814.0
+      - date: '2860-01-01'
+        population:
+          value: 172229213.0
+      - date: '2870-01-01'
+        population:
+          value: 169425826.0
+      - date: '2880-01-01'
+        population:
+          value: 167383128.0
+      - date: '2890-01-01'
+        population:
+          value: 166858453.0
+      - date: '2896-01-01'
+        socioIndustrial:
+          value: D-D-C-C-D
+      - date: '2900-01-01'
+        population:
+          value: 167120585.0
+      - date: '2910-01-01'
+        population:
+          value: 166882267.0
+      - date: '2920-01-01'
+        population:
+          value: 164799667.0
+      - date: '2930-01-01'
+        population:
+          value: 163441274.0
+      - date: '2940-01-01'
+        population:
+          value: 162998723.0
+      - date: '2950-01-01'
+        population:
+          value: 163885027.0
+      - date: '2960-01-01'
+        population:
+          value: 164423814.0
+      - date: '2970-01-01'
+        population:
+          value: 164752638.0
+      - date: '2980-01-01'
+        population:
+          value: 162626977.0
+      - date: '2990-01-01'
+        population:
+          value: 159296457.0
+      - date: '3000-01-01'
+        population:
+          value: 156502446.0
+      - date: '3010-01-01'
+        population:
+          value: 153691630.0
+      - date: '3020-01-01'
+        population:
+          value: 150286522.0
+      - date: '3030-01-01'
+        population:
+          value: 149600415.0
+      - date: '3035-01-01'
+        socioIndustrial:
+          value: D-C-B-C-D
+      - date: '3040-01-01'
+        population:
+          value: 151270230.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-B-A-B-C
+      - date: '3050-01-01'
+        population:
+          value: 152622544.0
+      - date: '3060-01-01'
+        population:
+          value: 153571743.0
+      - date: '3063-01-01'
+        socioIndustrial:
+          value: C-B-A-B-D
+      - date: '3067-04-20'
+        faction:
+          source: canon
+          value:
+            - FS
+      - date: '3070-01-01'
+        population:
+          value: 154820726.0
+      - date: '3080-01-01'
+        population:
+          value: 156721108.0
+      - date: '3090-01-01'
+        population:
+          value: 158962423.0
+      - date: '3100-01-01'
+        population:
+          value: 159663399.0
+      - date: '3106-01-01'
+        socioIndustrial:
+          value: C-B-A-A-D
+      - date: '3110-01-01'
+        population:
+          value: 160303331.0
+      - date: '3120-01-01'
+        population:
+          value: 160624259.0
+      - date: '3130-01-01'
+        population:
+          value: 161171311.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 162530852.0
+      - date: '3145-01-01'
+        population:
+          value: 163410892.0
+  - name:
+      value: Bryant
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.12
+    sysPos:
+      value: 3
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Milda Alpha
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Milda Beta
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Milda Gamma
+        size:
+          value: medium
+        icon: rock1
+      - name:
+          value: Milda Delta
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Milda Epsilon
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Milda Zeta
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Njor Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 1.96
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 2.9
+    temperature:
+      value: -126
+  - name:
+      value: O'Herlihy
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 7.0
+    sysPos:
+      value: 5
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 18.5
+    smallMoons:
+      value: 2
+  - name:
+      value: New Cumberl
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.72
+    sysPos:
+      value: 6
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.79
+    diameter:
+      value: 140000
+    density:
+      value: 0.9
+    dayLength:
+      value: 10
+    yearLength:
+      value: 50.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 29
+    satellite:
+      - name:
+          value: Jesus Christ
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Yahshua
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Alaha
+        size:
+          value: medium
+        icon: rock7

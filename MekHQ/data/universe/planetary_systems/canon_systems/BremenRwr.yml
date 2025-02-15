@@ -1,0 +1,419 @@
+id: Bremen (RWR)
+sucsId: 387
+xcood: -472.113
+ycood: 338.415
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2834-07-22'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Bremen (RWR)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green6
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.0
+    diameter:
+      value: 11100
+    density:
+      value: 6.3437
+    dayLength:
+      value: 28
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 36
+    water:
+      value: 38
+    lifeForm:
+      value: FISH
+    landmass:
+      - name:
+          value: Tovar
+        capital:
+          value: Sawallischberg
+      - name:
+          value: Cape Loef
+      - name:
+          value: Davy
+      - name:
+          value: Jones
+      - name:
+          value: Strunz's Field
+    event:
+      - date: '2630-12-19'
+        faction:
+          source: canon
+          value:
+            - RWR
+        population:
+          value: 54329.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2640-01-01'
+        population:
+          value: 847204.0
+      - date: '2645-07-08'
+        hpg:
+          value: X
+      - date: '2650-01-01'
+        population:
+          value: 4743357.0
+      - date: '2653-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2660-01-01'
+        population:
+          value: 13930594.0
+      - date: '2670-01-01'
+        population:
+          value: 27289292.0
+      - date: '2680-01-01'
+        population:
+          value: 41539583.0
+      - date: '2684-01-01'
+        socioIndustrial:
+          value: F-F-B-D-F
+      - date: '2690-01-01'
+        population:
+          value: 53747237.0
+      - date: '2700-01-01'
+        population:
+          value: 62803600.0
+      - date: '2710-01-01'
+        population:
+          value: 68893227.0
+      - date: '2720-01-01'
+        population:
+          value: 72738988.0
+      - date: '2730-01-01'
+        population:
+          value: 75359774.0
+      - date: '2740-01-01'
+        population:
+          value: 76878905.0
+      - date: '2750-01-01'
+        population:
+          value: 77466301.0
+      - date: '2760-01-01'
+        population:
+          value: 77515186.0
+      - date: '2770-01-01'
+        population:
+          value: 77351347.0
+      - date: '2779-01-09'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '2780-01-01'
+        population:
+          value: 30629724.0
+      - date: '2790-01-01'
+        population:
+          value: 10812928.0
+      - date: '2800-01-01'
+        population:
+          value: 2563561.0
+      - date: '2810-01-01'
+        population:
+          value: 433954.0
+      - date: '2820-01-01'
+        population:
+          value: 92426.0
+      - date: '2830-01-01'
+        population:
+          value: 19386.0
+      - date: '2834-10-24'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Deschu's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: asteroid3
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 15
+  - name:
+      value: Weisenheim am S
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 8
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Nebthet I
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Nebthet II
+        size:
+          value: giant
+        icon: rock10
+  - name:
+      value: Griesheim
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg31
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 110000
+    density:
+      value: 1.3
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Mölsheim 1
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Mölsheim 2
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Mölsheim 3
+        size:
+          value: medium
+        icon: rock3
+  - name:
+      value: Wannecksredoute
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg9
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Rainbow Snake
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Karora
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Ortega's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 120000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+  - name:
+      value: Hoebig
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 15500
+    density:
+      value: 6.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 11.2
+  - name:
+      value: Jewell
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 140000
+    density:
+      value: 1.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 12
+    satellite:
+      - name:
+          value: Zech I
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Zech II
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Zech III
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Zech IV
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Rattelsdorf
+    type:
+      value: ICE_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: DUN-1
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: DUN-2
+        size:
+          value: large
+        icon: rock15

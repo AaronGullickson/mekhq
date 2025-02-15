@@ -1,0 +1,517 @@
+id: Herzberg
+sucsId: 1102
+xcood: -309.947
+ycood: 21.414
+spectralType:
+  source: canon
+  value: K9V
+primarySlot: 3
+event:
+  - date: '2741-12-01'
+    zenithCharge:
+      value: yes
+  - date: '2818-05-05'
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Oberdiebach
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 1
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.58
+    diameter:
+      value: 13500
+    density:
+      value: 3.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 4
+    satellite:
+      - name:
+          value: Whiteley
+        size:
+          value: medium
+        icon: rock17
+      - name:
+          value: Schmitz
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Großbardorf
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: rock11
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.05
+    diameter:
+      value: 1700
+    density:
+      value: 2.0
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 15
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Herzberg
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 3
+    icon: green34
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 1.36
+    diameter:
+      value: 13614
+    density:
+      value: 7.021834696364
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 22
+    water:
+      source: canon
+      value: 60
+    lifeForm:
+      source: canon
+      value: INSECT
+    desc: |-
+      Herzberg is an unremarkable mining planet with an abundance of natural resources and little else to attract attention. The planet’s climate and atmosphere are comfortable, though the planet has higher than standard gravity and the planet has trouble supporting agriculture, which requires the residents of Herzberg to import food. Along the coast of Herzberg’s Friday continent is the Andrea County Armor Yards, one of countless conventional armor refit yards located throughout the Inner Sphere.
+
+      Manufacturing centers:
+      Andrea County Armor Yards
+    landmass:
+      - name:
+          source: canon
+          value: Friday
+        capital:
+          source: canon
+          value: Brookland
+      - name:
+          source: canon
+          value: jaja
+      - name:
+          source: canon
+          value: Selzheim
+    satellite:
+      - name:
+          value: Gerhard
+        size:
+          value: medium
+        icon: rock9
+    event:
+      - date: '2734-02-16'
+        faction:
+          source: canon
+          value:
+            - FWL
+        population:
+          value: 45501.0
+        socioIndustrial:
+          value: C-D-A-C-F
+      - date: '2740-01-01'
+        population:
+          value: 128677.0
+      - date: '2744-02-05'
+        hpg:
+          source: canon
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 551557.0
+      - date: '2760-01-01'
+        population:
+          value: 1772056.0
+      - date: '2770-01-01'
+        population:
+          value: 4507580.0
+      - date: '2780-01-01'
+        population:
+          value: 9503929.0
+      - date: '2790-01-01'
+        population:
+          value: 17243110.0
+      - date: '2800-01-01'
+        population:
+          value: 27664228.0
+      - date: '2810-01-01'
+        population:
+          value: 40602753.0
+      - date: '2820-01-01'
+        population:
+          value: 55076084.0
+      - date: '2821-12-30'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2830-01-01'
+        population:
+          value: 70274297.0
+      - date: '2840-01-01'
+        population:
+          value: 85669776.0
+      - date: '2850-01-01'
+        population:
+          value: 99899099.0
+      - date: '2860-01-01'
+        population:
+          value: 113454917.0
+      - date: '2870-01-01'
+        population:
+          value: 125398250.0
+      - date: '2880-01-01'
+        population:
+          value: 135943671.0
+      - date: '2890-01-01'
+        population:
+          value: 144959898.0
+      - date: '2900-01-01'
+        population:
+          value: 153324750.0
+      - date: '2910-01-01'
+        population:
+          value: 161211539.0
+      - date: '2920-01-01'
+        population:
+          value: 168476360.0
+      - date: '2930-01-01'
+        population:
+          value: 174102194.0
+      - date: '2933-01-01'
+        socioIndustrial:
+          value: C-C-A-C-D
+      - date: '2940-01-01'
+        population:
+          value: 178927327.0
+      - date: '2950-01-01'
+        population:
+          value: 182886420.0
+      - date: '2960-01-01'
+        population:
+          value: 187231606.0
+      - date: '2970-01-01'
+        population:
+          value: 191311187.0
+      - date: '2980-01-01'
+        population:
+          value: 195053409.0
+      - date: '2990-01-01'
+        population:
+          value: 197097305.0
+      - date: '3000-01-01'
+        population:
+          value: 197575745.0
+      - date: '3010-01-01'
+        population:
+          value: 198348537.0
+      - date: '3020-01-01'
+        population:
+          value: 199623300.0
+      - date: '3030-01-01'
+        population:
+          value: 201445689.0
+      - date: '3040-01-01'
+        population:
+          value: 203941282.0
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3048-01-01'
+        socioIndustrial:
+          source: canon
+          value: C-C-A-D-D
+      - date: '3050-01-01'
+        population:
+          value: 206248896.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 207714862.0
+      - date: '3070-01-01'
+        population:
+          value: 209521127.0
+      - date: '3080-01-01'
+        population:
+          value: 211753863.0
+      - date: '3090-01-01'
+        population:
+          value: 214868148.0
+      - date: '3100-01-01'
+        population:
+          value: 218814552.0
+      - date: '3110-01-01'
+        population:
+          value: 222922589.0
+      - date: '3119-01-01'
+        socioIndustrial:
+          value: C-C-A-D-D
+      - date: '3120-01-01'
+        population:
+          value: 227244056.0
+      - date: '3130-01-01'
+        population:
+          value: 231510349.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 234821248.0
+      - date: '3145-01-01'
+        population:
+          value: 235762414.0
+  - name:
+      value: Sessenhausen
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: rock1
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.11
+    diameter:
+      value: 2000
+    density:
+      value: 4.0
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.0
+    temperature:
+      value: -82
+    water:
+      value: 0
+  - name:
+      value: Holzappel
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg21
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.8
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Inguz 1
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: Inguz 2
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Inguz 3
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      value: Stettin's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: asteroid1
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -167
+  - name:
+      value: Hyderabad
+    type:
+      value: GAS_GIANT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.72
+    diameter:
+      value: 110000
+    density:
+      value: 1.1
+    dayLength:
+      value: 15
+    yearLength:
+      value: 11.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 14
+    satellite:
+      - name:
+          value: Dies Pater Alpha
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Dies Pater Beta
+        size:
+          value: large
+        icon: rock8
+  - name:
+      value: Balder
+    type:
+      value: GAS_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: gasg35
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 120000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 30.7
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Salzgeber 1
+        size:
+          value: large
+        icon: rock8
+      - name:
+          value: Salzgeber 2
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Salzgeber 3
+        size:
+          value: medium
+        icon: rock2
+      - name:
+          value: Salzgeber 4
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Salzgeber 5
+        size:
+          value: medium
+        icon: rock9
+  - name:
+      value: Kuando Kubango
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg24
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: M651
+        size:
+          value: medium
+        icon: oddmoon1

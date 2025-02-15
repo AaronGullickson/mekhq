@@ -1,0 +1,515 @@
+id: Kochab
+sucsId: 1383
+xcood: -68.245
+ycood: 62.502
+spectralType:
+  source: canon
+  value: K4IV
+primarySlot: 4
+planet:
+  - name:
+      value: Imdugud
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.28
+    sysPos:
+      value: 1
+    icon: barren11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.8
+    diameter:
+      value: 10500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 27
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 309
+    water:
+      value: 0
+    smallMoons:
+      value: 4
+  - name:
+      value: Sin
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 1.12
+    sysPos:
+      value: 2
+    icon: rock17
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.03
+    diameter:
+      value: 1800
+    density:
+      value: 1.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 1.5
+    temperature:
+      value: 3
+    water:
+      value: 0
+  - name:
+      value: Huwawa
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.7
+    sysPos:
+      value: 3
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.99
+    diameter:
+      value: 17500
+    density:
+      value: 8.0
+    dayLength:
+      value: 12
+    yearLength:
+      value: 1.0
+    smallMoons:
+      value: 3
+  - name:
+      source: canon
+      value: Kochab
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.49
+    sysPos:
+      value: 4
+    icon: wet15
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.92
+    diameter:
+      value: 13028
+    density:
+      value: 4.959065502644
+    dayLength:
+      value: 20
+    yearLength:
+      value: 0.9
+    temperature:
+      source: canon
+      value: 44
+    water:
+      source: canon
+      value: 87
+    lifeForm:
+      source: canon
+      value: MAMMAL
+    desc: |-
+      Despite its abundance of surface water, Kochab is a remarkably dry world. It seems that the two main planetary landmasses, Dakkato and Insarria, formed almost exclusively around a series of rugged, crisscrossing mountain chains. Making matters worse is the fact that the few valleys and plains where the terrain is level and irrigated enough for farming and habitation are prone to chronic earthquakes. These drawbacks, however, did not prevent settlers from claiming this world as their own in the early days of humankind‘s expansion to the stars, or in establishing a series of cities and small towns on both continents within their first century. With few major veins of industrial materials within easy access, and the constant tectonic stresses wreaking havoc on a regular basis, settlements and industry on Kochab were kept deliberately small. This limited the planetary economy to subsistence-level only, with exports of common metals, commercial products, and native beef and pork from its ranching industry. Regarded as something of a backwater world, the Commonwealth invested very little energy into improving the lot of Kochab, and the planet was largely ignored as anything more than a convenient stop to anywhere else, until the early thirtieth century. Then the planet briefly enjoyed a boost from off-world investors and tourists that came about as a result of being the chosen filming location for the long-running Steinharts holodrama, produced by the (now-defunct) Commonwealth Nationwide (CNN) video network. Unfortunately for Kochab, fame proved a fickle mistress, and the weekly soap opera aired its last episode in 3023, the same year that CNN was folded into the expanding Donegal Broadcasting Company, which kept the series alive only in syndication. Kochab‘s slight economic boost evaporated with CNN‘s fall, and once more the planet faded into relative mediocrity, all but unknown to off-worlders, save those transferred there after the Jihad, under Devlin Stone‘s relocation mandates, or the occasional volunteer relief workers dispatched there after a particularly violent “earthquake season.”
+
+      The capital and primary spaceport of Kochab, Stenton, is located on Dakkato, just south of the Dakkato Prime mountain range. Saint Jaddah (known to Steinharts fans as Matrius, hometown of the Morik clan) is located on Insarria, and today is home to the Steinharts Museum of emorabilia, a nostalgic nod to Kochab‘s all-too-brief fling with fortune and glamour.
+    landmass:
+      - name:
+          source: canon
+          value: Dakkato
+        capital:
+          source: canon
+          value: Stenton
+      - name:
+          source: canon
+          value: Insarria
+    satellite:
+      - name:
+          value: None (dust ring)
+        size:
+          value: large
+        icon: rock9
+    event:
+      - date: '2271-12-17'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 39389.0
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '2280-01-01'
+        population:
+          value: 148094.0
+      - date: '2290-01-01'
+        population:
+          value: 530585.0
+      - date: '2299-02-07'
+        faction:
+          source: canon
+          value:
+            - FoS
+      - date: '2300-01-01'
+        population:
+          value: 1591784.0
+      - date: '2301-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '2310-01-01'
+        population:
+          value: 4115800.0
+      - date: '2320-01-01'
+        population:
+          value: 9348622.0
+      - date: '2330-01-01'
+        population:
+          value: 19086886.0
+      - date: '2340-01-01'
+        population:
+          value: 35431447.0
+      - date: '2341-10-10'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '2350-01-01'
+        population:
+          value: 60395203.0
+      - date: '2360-01-01'
+        population:
+          value: 95598141.0
+      - date: '2370-01-01'
+        population:
+          value: 141903404.0
+      - date: '2380-01-01'
+        population:
+          value: 200000671.0
+      - date: '2390-01-01'
+        population:
+          value: 269701096.0
+      - date: '2400-01-01'
+        population:
+          value: 349931586.0
+      - date: '2410-01-01'
+        population:
+          value: 437691896.0
+      - date: '2420-01-01'
+        population:
+          value: 530493563.0
+      - date: '2430-01-01'
+        population:
+          value: 628237506.0
+      - date: '2440-01-01'
+        population:
+          value: 731562309.0
+      - date: '2450-01-01'
+        population:
+          value: 833844749.0
+      - date: '2460-01-01'
+        population:
+          value: 933124595.0
+      - date: '2470-01-01'
+        population:
+          value: 1028770730.0
+      - date: '2480-01-01'
+        population:
+          value: 1114477501.0
+      - date: '2490-01-01'
+        population:
+          value: 1201688104.0
+      - date: '2500-01-01'
+        population:
+          value: 1286644825.0
+      - date: '2510-01-01'
+        population:
+          value: 1363378326.0
+      - date: '2520-01-01'
+        population:
+          value: 1433023141.0
+      - date: '2530-01-01'
+        population:
+          value: 1498143651.0
+      - date: '2540-01-01'
+        population:
+          value: 1558129410.0
+      - date: '2550-01-01'
+        population:
+          value: 1607455442.0
+      - date: '2560-01-01'
+        population:
+          value: 1655196031.0
+      - date: '2570-01-01'
+        population:
+          value: 1700969346.0
+      - date: '2580-01-01'
+        population:
+          value: 1736253495.0
+      - date: '2590-01-01'
+        population:
+          value: 1759963724.0
+      - date: '2600-01-01'
+        population:
+          value: 1776093439.0
+      - date: '2610-01-01'
+        population:
+          value: 1791728554.0
+      - date: '2611-01-01'
+        socioIndustrial:
+          value: B-C-B-C-F
+      - date: '2620-01-01'
+        population:
+          value: 1805847400.0
+      - date: '2630-01-01'
+        population:
+          value: 1822798752.0
+      - date: '2634-09-27'
+        hpg:
+          value: B
+      - date: '2640-01-01'
+        population:
+          value: 1842992762.0
+      - date: '2650-01-01'
+        population:
+          value: 1867197191.0
+      - date: '2660-01-01'
+        population:
+          value: 1882593473.0
+      - date: '2670-01-01'
+        population:
+          value: 1896749903.0
+      - date: '2680-01-01'
+        population:
+          value: 1920167788.0
+      - date: '2690-01-01'
+        population:
+          value: 1947114077.0
+      - date: '2700-01-01'
+        population:
+          value: 1971161609.0
+      - date: '2710-01-01'
+        population:
+          value: 1990329893.0
+      - date: '2720-01-01'
+        population:
+          value: 1993786066.0
+      - date: '2730-01-01'
+        population:
+          value: 1984714893.0
+      - date: '2740-01-01'
+        population:
+          value: 1973208449.0
+      - date: '2750-01-01'
+        population:
+          value: 1977092481.0
+      - date: '2760-01-01'
+        population:
+          value: 1968368271.0
+      - date: '2770-01-01'
+        population:
+          value: 1962893660.0
+      - date: '2780-01-01'
+        population:
+          value: 1968937999.0
+      - date: '2790-01-01'
+        population:
+          value: 1946392123.0
+      - date: '2800-01-01'
+        population:
+          value: 1919041247.0
+      - date: '2810-01-01'
+        population:
+          value: 1840335825.0
+      - date: '2820-01-01'
+        population:
+          value: 1760276897.0
+      - date: '2830-01-01'
+        population:
+          value: 1688082859.0
+      - date: '2840-01-01'
+        population:
+          value: 1638606058.0
+      - date: '2842-01-01'
+        socioIndustrial:
+          value: B-D-B-C-F
+      - date: '2850-01-01'
+        population:
+          value: 1601642750.0
+      - date: '2860-01-01'
+        population:
+          value: 1522704209.0
+      - date: '2870-01-01'
+        population:
+          value: 1461519475.0
+      - date: '2880-01-01'
+        population:
+          value: 1401578342.0
+      - date: '2890-01-01'
+        population:
+          value: 1375909633.0
+      - date: '2892-01-01'
+        socioIndustrial:
+          value: C-F-C-D-F
+      - date: '2900-01-01'
+        population:
+          value: 1369566248.0
+      - date: '2910-01-01'
+        population:
+          value: 1353835438.0
+      - date: '2920-01-01'
+        population:
+          value: 1364039781.0
+      - date: '2930-01-01'
+        population:
+          value: 1375512312.0
+      - date: '2940-01-01'
+        population:
+          value: 1399151695.0
+      - date: '2950-01-01'
+        population:
+          value: 1399960110.0
+      - date: '2960-01-01'
+        population:
+          value: 1375512312.0
+      - date: '2970-01-01'
+        population:
+          value: 1316814737.0
+      - date: '2980-01-01'
+        population:
+          value: 1230407089.0
+      - date: '2990-01-01'
+        population:
+          value: 1149669396.0
+      - date: '3000-01-01'
+        population:
+          value: 1066809359.0
+      - date: '3010-01-01'
+        population:
+          value: 1009846293.0
+      - date: '3020-01-01'
+        population:
+          value: 970950097.0
+      - date: '3030-01-01'
+        population:
+          value: 949882220.0
+      - date: '3040-10-16'
+        population:
+          value: 958949100.0
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '3040-01-19'
+        faction:
+          source: canon
+          value:
+            - FC
+      - date: '3050-01-01'
+        population:
+          value: 968199342.0
+      - date: '3057-09-18'
+        faction:
+          source: canon
+          value:
+            - LA
+      - date: '3060-01-01'
+        population:
+          value: 978223330.0
+      - date: '3070-01-01'
+        population:
+          value: 989438883.0
+      - date: '3080-01-01'
+        population:
+          value: 994796305.0
+      - date: '3081-07-22'
+        faction:
+          source: canon
+          value:
+            - ROS
+      - date: '3090-01-01'
+        population:
+          value: 1001183418.0
+      - date: '3100-01-01'
+        population:
+          value: 1008821400.0
+      - date: '3101-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '3110-01-01'
+        population:
+          value: 1026528497.0
+      - date: '3120-01-01'
+        population:
+          value: 1040792788.0
+      - date: '3130-01-01'
+        population:
+          value: 1050832512.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3135-10-01'
+        faction:
+          source: canon
+          value:
+            - IND
+      - date: '3140-01-01'
+        population:
+          value: 1053778966.0
+      - date: '3145-11-18'
+        faction:
+          source: canon
+          value:
+            - CJF
+        population:
+          value: 1055888633.0
+      - date: '3152-06-01'
+        faction:
+          source: sucs
+          value:
+            - IND
+  - name:
+      value: Robežnieku pagasts
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.96
+    sysPos:
+      value: 5
+    icon: iceg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 35000
+    density:
+      value: 1.8
+    dayLength:
+      value: 11
+    yearLength:
+      value: 2.9
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: Pérez
+        size:
+          value: large
+        icon: rock17

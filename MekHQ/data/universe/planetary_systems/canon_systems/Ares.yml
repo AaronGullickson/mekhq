@@ -1,0 +1,740 @@
+id: Ares
+sucsId: 169
+xcood: 95.382
+ycood: -173.994
+spectralType:
+  source: canon
+  value: M1IV
+primarySlot: 8
+event:
+  - date: '2384-09-13'
+    zenithCharge:
+      value: yes
+planet:
+  - name:
+      value: Serra da Raiz
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: rock10
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 1.02
+    diameter:
+      value: 13500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 26
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 164
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Maturéia
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 9.8
+    sysPos:
+      value: 2
+    icon: frozen53
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Nitrogen, plus trace amounts of Nitrous Oxide
+    gravity:
+      value: 0.87
+    diameter:
+      value: 11500
+    density:
+      value: 5.3284
+    dayLength:
+      value: 18
+    yearLength:
+      value: 30.7
+    temperature:
+      value: -209
+    water:
+      value: 36
+    landmass:
+      - name:
+          value: Telmo
+      - name:
+          value: Cachelivre
+      - name:
+          value: Garopaba
+      - name:
+          value: Drury's Dawn
+  - name:
+      value: Campo Grande do Piauí
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: greenhouse41
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane
+    gravity:
+      value: 0.33
+    diameter:
+      value: 5500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 25
+    yearLength:
+      value: 0.8
+    temperature:
+      value: 36
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      value: Rensselaer
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: iceg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.97
+    diameter:
+      value: 40000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 8
+  - name:
+      value: Miaoxian
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: frozen34
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 1.34
+    diameter:
+      value: 13500
+    density:
+      value: 7.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.8
+    temperature:
+      value: -104
+    water:
+      value: 88
+    landmass:
+      - name:
+          value: Couceiro
+      - name:
+          value: Sharman
+      - name:
+          value: Campo de Johnson Prime
+      - name:
+          value: Lemprire
+      - name:
+          value: Cristellys
+      - name:
+          value: Rebouas
+      - name:
+          value: Torgal
+      - name:
+          value: Hope
+    satellite:
+      - name:
+          value: Fudo
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Susanoo
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: F1
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: frozen40
+    pressure:
+      value: HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia and Carbon Dioxide, plus trace amounts of Methane
+    gravity:
+      value: 0.83
+    diameter:
+      value: 14500
+    density:
+      value: 4.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 4.3
+    temperature:
+      value: -138
+    water:
+      value: 49
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Muribeca
+      - name:
+          value: Santa Clara d'Oeste
+      - name:
+          value: Braamcamp
+      - name:
+          value: Parrot
+      - name:
+          value: Caïdat de Laouamra
+    satellite:
+      - name:
+          value: Thrudheim
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Skadi
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Njoerd
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Lima Campos
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: rock13
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.14
+    diameter:
+      value: 2000
+    density:
+      value: 5.0
+    dayLength:
+      value: 25
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -186
+    water:
+      value: 0
+    smallMoons:
+      value: 2
+  - name:
+      source: canon
+      value: Ares
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 8
+    icon: green47
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.98
+    diameter:
+      value: 11978
+    density:
+      value: 5.756813945537
+    dayLength:
+      value: 21
+    yearLength:
+      value: 0.7
+    temperature:
+      source: canon
+      value: 42
+    water:
+      source: canon
+      value: 36
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Ares is best known as the site of the peace conventions organised by Aleisha Liao which resulted in the Ares Conventions of Warfare. Ares was originally an independent colony before being absorbed by the Capella Commonality and later the Capellan Confederation. Ares is a prosperous small world thanks to its status as a freeport supported by on planet heavy industry that benefits greatly from local exemptions for standard import and export duties.
+
+      Ares is home to a Duchy RTC training facility which trains vehicle crews and unarmored infantry.
+
+      Manufacturing Centers:
+      Bergan Industries
+      Earthwerks Limited
+      Quikscell Company
+      Salvatore Incorporated
+    landmass:
+      - name:
+          source: canon
+          value: Harmonia
+        capital:
+          source: canon
+          value: New Olympia
+      - name:
+          source: canon
+          value: Anteros
+    satellite:
+      - name:
+          value: Aphrodite
+        size:
+          value: large
+        icon: rock2
+    event:
+      - date: '2270-08-10'
+        faction:
+          source: canon
+          value:
+            - CH
+        population:
+          value: 44031.0
+        socioIndustrial:
+          value: F-C-C-D-F
+      - date: '2280-01-01'
+        population:
+          value: 218083.0
+      - date: '2290-01-01'
+        population:
+          value: 858422.0
+      - date: '2300-01-01'
+        population:
+          value: 2784969.0
+      - date: '2301-01-01'
+        socioIndustrial:
+          value: D-C-C-D-F
+      - date: '2310-06-15'
+        faction:
+          source: canon
+          value:
+            - CCom
+        population:
+          value: 7642448.0
+      - date: '2320-01-01'
+        population:
+          value: 18180923.0
+      - date: '2330-01-01'
+        population:
+          value: 38412676.0
+      - date: '2340-01-01'
+        population:
+          value: 72878341.0
+      - date: '2350-01-01'
+        population:
+          value: 127286689.0
+      - date: '2360-01-01'
+        population:
+          value: 205810137.0
+      - date: '2367-07-01'
+        faction:
+          source: canon
+          value:
+            - CC
+      - date: '2370-01-01'
+        population:
+          value: 312869343.0
+      - date: '2380-01-01'
+        population:
+          value: 448936680.0
+      - date: '2390-01-01'
+        population:
+          value: 616763647.0
+      - date: '2400-01-01'
+        population:
+          value: 810556041.0
+      - date: '2410-01-01'
+        population:
+          value: 1025098476.0
+      - date: '2420-01-01'
+        population:
+          value: 1258511005.0
+      - date: '2425-01-01'
+        socioIndustrial:
+          value: C-C-C-C-F
+      - date: '2430-01-01'
+        population:
+          value: 1499003884.0
+      - date: '2440-01-01'
+        population:
+          value: 1741944798.0
+      - date: '2450-01-01'
+        population:
+          value: 1983777978.0
+      - date: '2460-01-01'
+        population:
+          value: 2214037354.0
+      - date: '2470-01-01'
+        population:
+          value: 2448481759.0
+      - date: '2480-01-01'
+        population:
+          value: 2666159636.0
+      - date: '2490-01-01'
+        population:
+          value: 2882116281.0
+      - date: '2500-01-01'
+        population:
+          value: 3088451044.0
+      - date: '2510-01-01'
+        population:
+          value: 3282491659.0
+      - date: '2520-01-01'
+        population:
+          value: 3464845850.0
+      - date: '2530-01-01'
+        population:
+          value: 3635877124.0
+      - date: '2540-01-01'
+        population:
+          value: 3786329016.0
+      - date: '2550-01-01'
+        population:
+          value: 3916652163.0
+      - date: '2560-01-01'
+        population:
+          value: 4034970741.0
+      - date: '2570-01-01'
+        population:
+          value: 4144667959.0
+      - date: '2580-01-01'
+        population:
+          value: 4232416824.0
+      - date: '2590-01-01'
+        population:
+          value: 4312211252.0
+      - date: '2600-01-01'
+        population:
+          value: 4406144756.0
+      - date: '2610-01-01'
+        population:
+          value: 4500180579.0
+      - date: '2620-01-01'
+        population:
+          value: 4592655013.0
+      - date: '2630-01-01'
+        population:
+          value: 4677866123.0
+      - date: '2636-05-04'
+        hpg:
+          source: canon
+          value: B
+      - date: '2638-01-01'
+        socioIndustrial:
+          value: B-B-C-B-F
+      - date: '2640-01-01'
+        population:
+          value: 4757193280.0
+      - date: '2650-01-01'
+        population:
+          value: 4829139990.0
+      - date: '2655-01-01'
+        socioIndustrial:
+          value: A-A-C-A-D
+      - date: '2660-01-01'
+        population:
+          value: 4891082939.0
+      - date: '2670-01-01'
+        population:
+          value: 4907744218.0
+      - date: '2680-01-01'
+        population:
+          value: 4893824731.0
+      - date: '2690-01-01'
+        population:
+          value: 4885063342.0
+      - date: '2700-01-01'
+        population:
+          value: 4855516894.0
+      - date: '2710-01-01'
+        population:
+          value: 4835769299.0
+      - date: '2720-01-01'
+        population:
+          value: 4793271551.0
+      - date: '2730-01-01'
+        population:
+          value: 4763979763.0
+      - date: '2740-01-01'
+        population:
+          value: 4774518289.0
+      - date: '2750-01-01'
+        population:
+          value: 4786878466.0
+      - date: '2760-01-01'
+        population:
+          value: 4820467661.0
+      - date: '2770-01-01'
+        population:
+          value: 4836045085.0
+      - date: '2780-01-01'
+        population:
+          value: 4813288765.0
+      - date: '2790-01-01'
+        population:
+          value: 4787615125.0
+      - date: '2800-01-01'
+        population:
+          value: 4753059472.0
+      - date: '2810-01-01'
+        population:
+          value: 4708208784.0
+      - date: '2820-01-01'
+        population:
+          value: 4645187638.0
+      - date: '2830-01-01'
+        population:
+          value: 4606504535.0
+      - date: '2840-01-01'
+        population:
+          value: 4552840278.0
+      - date: '2850-01-01'
+        population:
+          value: 4504117446.0
+      - date: '2851-01-01'
+        socioIndustrial:
+          value: B-B-C-B-D
+      - date: '2860-01-01'
+        population:
+          value: 4455204066.0
+      - date: '2870-01-01'
+        population:
+          value: 4408934898.0
+      - date: '2880-01-01'
+        population:
+          value: 4386214444.0
+      - date: '2890-01-01'
+        population:
+          value: 4343437057.0
+      - date: '2891-01-01'
+        socioIndustrial:
+          value: C-B-D-C-D
+      - date: '2900-01-01'
+        population:
+          value: 4307266802.0
+      - date: '2910-01-01'
+        population:
+          value: 4270032907.0
+      - date: '2920-01-01'
+        population:
+          value: 4261625964.0
+      - date: '2930-01-01'
+        population:
+          value: 4255954970.0
+      - date: '2940-01-01'
+        population:
+          value: 4255048311.0
+      - date: '2950-01-01'
+        population:
+          value: 4247349508.0
+      - date: '2960-01-01'
+        population:
+          value: 4216693340.0
+      - date: '2970-01-01'
+        population:
+          value: 4209736561.0
+      - date: '2980-01-01'
+        population:
+          value: 4219614119.0
+      - date: '2990-01-01'
+        population:
+          value: 4235601803.0
+      - date: '3000-01-01'
+        population:
+          value: 4250970738.0
+      - date: '3010-01-01'
+        population:
+          value: 4258222462.0
+      - date: '3020-01-01'
+        population:
+          value: 4252555996.0
+      - date: '3025-01-01'
+        population:
+          source: canon
+          value: 4227000000.0
+      - date: '3030-01-01'
+        population:
+          value: 4264326292.0
+      - date: '3037-01-01'
+        socioIndustrial:
+          value: B-B-D-B-D
+      - date: '3040-01-01'
+        population:
+          value: 4314822221.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-A-C-A-D
+      - date: '3050-01-01'
+        population:
+          value: 4381557781.0
+      - date: '3060-01-01'
+        population:
+          value: 4447336954.0
+      - date: '3067-01-01'
+        population:
+          source: canon
+          value: 4500000000.0
+      - date: '3070-01-01'
+        population:
+          value: 4504991688.0
+      - date: '3079-01-01'
+        population:
+          source: canon
+          value: 4520000000.0
+      - date: '3080-01-01'
+        population:
+          value: 4521749536.0
+      - date: '3090-01-01'
+        population:
+          value: 4574507233.0
+      - date: '3100-01-01'
+        population:
+          value: 4628806152.0
+      - date: '3110-01-01'
+        population:
+          value: 4685623468.0
+      - date: '3113-01-01'
+        socioIndustrial:
+          value: A-A-C-B-D
+      - date: '3120-01-01'
+        population:
+          value: 4758340554.0
+      - date: '3130-01-01'
+        population:
+          value: 4843797325.0
+      - date: '3132-08-07'
+        hpg:
+          source: canon
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 4930788845.0
+      - date: '3145-01-01'
+        population:
+          value: 4975366242.0
+  - name:
+      value: Jiquiriçá
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 38.6
+    sysPos:
+      value: 9
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1600
+    density:
+      value: 4.0
+    dayLength:
+      value: 27
+    yearLength:
+      value: 239.8
+    temperature:
+      value: -242
+    water:
+      value: 0
+  - name:
+      value: Laufakanaa
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.59
+    diameter:
+      value: 140000
+    density:
+      value: 0.8
+    dayLength:
+      value: 16
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: VS1
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: VS2
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: VS3
+        size:
+          value: medium
+        icon: rock15

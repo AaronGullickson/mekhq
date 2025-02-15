@@ -1,0 +1,492 @@
+id: Radstadt
+sucsId: 2106
+xcood: 41.368
+ycood: 316.631
+spectralType:
+  source: canon
+  value: G5III
+primarySlot: 3
+event:
+  - date: '2402-06-13'
+    zenithCharge:
+      value: yes
+  - date: '2404-09-28'
+    nadirCharge:
+      value: yes
+  - date: '2838-05-28'
+    zenithCharge:
+      value: no
+  - date: '3074-09-26'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: Tom Green
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.36
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1200
+    density:
+      value: 5.0
+    dayLength:
+      value: 21
+    yearLength:
+      value: 1.0
+    temperature:
+      value: 352
+    water:
+      value: 0
+  - name:
+      value: Neu Swabi
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.63
+    sysPos:
+      value: 2
+    icon: iceg6
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.17
+    diameter:
+      value: 55000
+    density:
+      value: 1.5
+    dayLength:
+      value: 11
+    yearLength:
+      value: 1.1
+    smallMoons:
+      value: 11
+    satellite:
+      - name:
+          value: Breitenau am Hochlantsch
+        size:
+          value: giant
+        icon: rock12
+  - name:
+      source: canon
+      value: Radstadt
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.44
+    sysPos:
+      value: 3
+    icon: green10
+    pressure:
+      source: canon
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      source: canon
+      value: 0.93
+    diameter:
+      value: 13257
+    density:
+      value: 4.926230043785
+    dayLength:
+      value: 24
+    yearLength:
+      value: 2.0
+    temperature:
+      source: canon
+      value: 23
+    water:
+      source: canon
+      value: 55
+    lifeForm:
+      source: canon
+      value: REPTILE
+    desc: |-
+      Overall Radstadt is a typical cool-temperate terran-planet that has sufficient resources, a lot of land devoted to agriculture with a thriving fishing industry and basic heavy industry that is capable of locally supplying most non-military grade machinery. The biggest exports from Radstadt are fish and timber, with the Radstadt Pine being prized due to its ability when treated to shimmer as if flecked with gold.
+
+      During its time in the Draconis Combine, Radstadt was infamous for being home to one of the largest prison complexes in the entire Combine. The Lotus Flower Correctional Institute could rival most small cities in size and was located right outside of Munich, the planetary capital. The ‘pinnacle’ of the prison complex was the Black Tower, a large windowless tower of black concrete that was used to house the worst offenders in the Combine.
+    landmass:
+      - capital:
+          source: canon
+          value: Munich
+    satellite:
+      - name:
+          value: Taurach
+        size:
+          value: giant
+        icon: rock16
+    event:
+      - date: '2328-11-05'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 63861.0
+        socioIndustrial:
+          value: D-D-B-D-C
+      - date: '2330-01-01'
+        population:
+          value: 89840.0
+      - date: '2340-01-01'
+        population:
+          value: 420180.0
+      - date: '2350-01-01'
+        population:
+          value: 1544893.0
+      - date: '2360-01-01'
+        population:
+          value: 4647579.0
+      - date: '2370-01-01'
+        population:
+          value: 11754864.0
+      - date: '2380-01-01'
+        population:
+          value: 25752229.0
+      - date: '2390-01-01'
+        population:
+          value: 49973100.0
+      - date: '2400-01-01'
+        population:
+          value: 87665246.0
+      - date: '2410-01-01'
+        population:
+          value: 141362247.0
+      - date: '2420-01-01'
+        population:
+          value: 211817806.0
+      - date: '2430-01-01'
+        population:
+          value: 300156150.0
+      - date: '2440-01-01'
+        population:
+          value: 405646133.0
+      - date: '2450-01-01'
+        population:
+          value: 524690325.0
+      - date: '2460-01-01'
+        population:
+          value: 652739672.0
+      - date: '2470-01-01'
+        population:
+          value: 785897414.0
+      - date: '2480-01-01'
+        population:
+          value: 921027246.0
+      - date: '2490-01-01'
+        population:
+          value: 1053999406.0
+      - date: '2500-01-01'
+        population:
+          value: 1180549503.0
+      - date: '2510-01-01'
+        population:
+          value: 1295234157.0
+      - date: '2520-01-01'
+        population:
+          value: 1391606840.0
+      - date: '2530-01-01'
+        population:
+          value: 1477019461.0
+      - date: '2540-01-01'
+        population:
+          value: 1546828537.0
+      - date: '2550-01-01'
+        population:
+          value: 1604056660.0
+      - date: '2560-01-01'
+        population:
+          value: 1650886837.0
+      - date: '2570-01-01'
+        population:
+          value: 1691196938.0
+      - date: '2580-01-01'
+        population:
+          value: 1725018852.0
+      - date: '2590-01-01'
+        population:
+          value: 1752606992.0
+      - date: '2600-01-01'
+        population:
+          value: 1777312026.0
+      - date: '2603-01-01'
+        socioIndustrial:
+          value: C-D-B-D-C
+      - date: '2610-01-01'
+        population:
+          value: 1790679444.0
+      - date: '2620-01-01'
+        population:
+          value: 1799413252.0
+      - date: '2630-01-01'
+        population:
+          value: 1804895255.0
+      - date: '2633-09-07'
+        hpg:
+          source: canon
+          value: A
+        socioIndustrial:
+          value: B-C-B-C-C
+      - date: '2640-01-01'
+        population:
+          value: 1808074898.0
+      - date: '2645-01-01'
+        socioIndustrial:
+          value: A-B-A-B-C
+      - date: '2650-01-01'
+        population:
+          value: 1806570482.0
+      - date: '2660-01-01'
+        population:
+          value: 1801554957.0
+      - date: '2670-01-01'
+        population:
+          value: 1801337540.0
+      - date: '2680-01-01'
+        population:
+          value: 1790766141.0
+      - date: '2690-01-01'
+        population:
+          value: 1778091769.0
+      - date: '2700-01-01'
+        population:
+          value: 1769233959.0
+      - date: '2710-01-01'
+        population:
+          value: 1756929247.0
+      - date: '2720-01-01'
+        population:
+          value: 1745940387.0
+      - date: '2730-01-01'
+        population:
+          value: 1736028600.0
+      - date: '2740-01-01'
+        population:
+          value: 1722113432.0
+      - date: '2750-01-01'
+        population:
+          value: 1708480498.0
+      - date: '2760-01-01'
+        population:
+          value: 1696559748.0
+      - date: '2770-01-01'
+        population:
+          value: 1681331014.0
+      - date: '2780-01-01'
+        population:
+          value: 1666935806.0
+      - date: '2790-01-01'
+        population:
+          value: 1632569344.0
+      - date: '2800-01-01'
+        population:
+          value: 1593999091.0
+      - date: '2810-01-01'
+        population:
+          value: 1563701634.0
+      - date: '2820-01-01'
+        population:
+          value: 1496796955.0
+      - date: '2830-01-01'
+        population:
+          value: 1420636579.0
+      - date: '2840-01-01'
+        population:
+          value: 1377939917.0
+      - date: '2841-01-01'
+        socioIndustrial:
+          value: B-C-B-C-D
+      - date: '2850-01-01'
+        population:
+          value: 1354303052.0
+      - date: '2860-01-01'
+        population:
+          value: 1311122862.0
+      - date: '2870-01-01'
+        population:
+          value: 1231557909.0
+      - date: '2880-01-01'
+        population:
+          value: 1137335216.0
+      - date: '2890-01-01'
+        population:
+          value: 1073369678.0
+      - date: '2898-01-01'
+        socioIndustrial:
+          value: C-D-C-D-D
+      - date: '2900-01-01'
+        population:
+          value: 1042093024.0
+      - date: '2910-01-01'
+        population:
+          value: 1017473064.0
+      - date: '2920-01-01'
+        population:
+          value: 1000963807.0
+      - date: '2930-01-01'
+        population:
+          value: 1018754228.0
+      - date: '2940-01-01'
+        population:
+          value: 999390565.0
+      - date: '2950-01-01'
+        population:
+          value: 975779471.0
+      - date: '2960-01-01'
+        population:
+          value: 949136333.0
+      - date: '2970-01-01'
+        population:
+          value: 907669457.0
+      - date: '2980-01-01'
+        population:
+          value: 903964937.0
+      - date: '2990-01-01'
+        population:
+          value: 897730159.0
+      - date: '3000-01-01'
+        population:
+          value: 866649949.0
+      - date: '3010-01-01'
+        population:
+          value: 844579221.0
+      - date: '3020-01-01'
+        population:
+          value: 848307203.0
+      - date: '3025-03-02'
+        population:
+          source: canon
+          value: 841000000.0
+        socioIndustrial:
+          value: B-D-C-D-C
+      - date: '3030-04-18'
+        faction:
+          source: canon
+          value:
+            - LA
+        population:
+          value: 744177195.0
+      - date: '3034-03-13'
+        faction:
+          source: canon
+          value:
+            - FRR
+      - date: '3040-01-01'
+        population:
+          value: 565141462.0
+      - date: '3042-01-01'
+        socioIndustrial:
+          source: canon
+          value: A-C-B-C-B
+      - date: '3050-01-01'
+        population:
+          value: 417315710.0
+      - date: '3050-10-03'
+        faction:
+          source: canon
+          value:
+            - CW
+            - FRR
+      - date: '3050-10-27'
+        faction:
+          source: canon
+          value:
+            - CW
+      - date: '3060-01-01'
+        population:
+          value: 327591117.0
+      - date: '3062-09-27'
+        faction:
+          source: canon
+          value:
+            - CGB
+      - date: '3070-01-01'
+        population:
+          value: 2865917.0
+      - date: '3074-05-28'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          source: canon
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Zwettl an der Rodl
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 0.9
+    sysPos:
+      value: 4
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.1
+    diameter:
+      value: 15500
+    density:
+      value: 5.0
+    dayLength:
+      value: 10
+    yearLength:
+      value: 1.3
+    smallMoons:
+      value: 3
+    satellite:
+      - name:
+          value: Pele
+        size:
+          value: giant
+        icon: rock15
+  - name:
+      value: Lubok Antu
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.52
+    sysPos:
+      value: 5
+    icon: rock10
+    pressure:
+      value: TRACE
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Argon
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 17
+    yearLength:
+      value: 4.1
+    temperature:
+      value: -37
+    water:
+      value: 0

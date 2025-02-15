@@ -1,0 +1,367 @@
+id: Micros III
+sucsId: 2913
+xcood: 361.497
+ycood: -433.497
+spectralType:
+  value: F7V
+primarySlot: 3
+planet:
+  - name:
+      value: Micros I
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.52
+    sysPos:
+      value: 1
+    icon: rock16
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.08
+    diameter:
+      value: 1800
+    density:
+      value: 3.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.2
+    temperature:
+      value: 216
+    water:
+      value: 0
+  - name:
+      value: Micros II
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 2
+    icon: rock8
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 1.22
+    diameter:
+      value: 13500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 22
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 96
+    water:
+      value: 0
+    smallMoons:
+      value: 1
+  - name:
+      source: canon
+      value: Micros III
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 3
+    icon: green38
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.79
+    diameter:
+      value: 13800
+    density:
+      value: 4.0
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 38
+    water:
+      value: 28
+    lifeForm:
+      value: REPTILE
+    smallMoons:
+      value: 5
+    landmass:
+      - name:
+          value: Neo Moíres
+        capital:
+          value: Fourakis
+      - name:
+          value: Dimos Gortyna
+      - name:
+          value: Dimos Kileler
+    event:
+      - date: '3035-08-14'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 48852.0
+        socioIndustrial:
+          value: F-F-A-D-F
+      - date: '3037-03-31'
+        hpg:
+          value: C
+      - date: '3040-01-01'
+        population:
+          value: 1422922.0
+      - date: '3050-01-01'
+        population:
+          value: 7009626.0
+      - date: '3060-01-01'
+        population:
+          value: 8590358.0
+      - date: '3070-01-01'
+        population:
+          value: 8865326.0
+      - date: '3080-01-01'
+        population:
+          value: 8907982.0
+      - date: '3090-01-01'
+        population:
+          value: 8900858.0
+      - date: '3100-01-01'
+        population:
+          value: 3094305.0
+      - date: '3110-01-01'
+        population:
+          value: 251861.0
+      - date: '3120-01-01'
+        population:
+          value: 14244.0
+      - date: '3130-01-08'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+  - name:
+      value: Micros IV
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 4
+    icon: frozen24
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Ammonia, plus trace amounts of Water Vapor
+    gravity:
+      value: 0.68
+    diameter:
+      value: 11500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.2
+    temperature:
+      value: -22
+    water:
+      value: 53
+    smallMoons:
+      value: 2
+    landmass:
+      - name:
+          value: Kutras 1
+      - name:
+          value: Kutras 2
+      - name:
+          value: Kutras 3
+      - name:
+          value: Kutras 4
+      - name:
+          value: Kutras 5
+  - name:
+      value: Micros V
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 6.76
+    sysPos:
+      value: 5
+    icon: frozen25
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Methane, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 1.13
+    diameter:
+      value: 12500
+    density:
+      value: 6.3337
+    dayLength:
+      value: 25
+    yearLength:
+      value: 17.6
+    temperature:
+      value: -130
+    water:
+      value: 31
+    landmass:
+      - name:
+          value: Dimos Malevizi
+  - name:
+      value: Micros VI
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.0
+    sysPos:
+      value: 6
+    icon: gasg18
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.59
+    diameter:
+      value: 140000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 46.9
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: Dimos Kastoria
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Lachesis
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Lakiotis
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: Dimos Agkistri
+        size:
+          value: large
+        icon: rock2
+      - name:
+          value: Triantafillou
+        size:
+          value: medium
+        icon: rock12
+      - name:
+          value: Dimos Velo-Vocha
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: Zaloumi
+        size:
+          value: medium
+        icon: rock14
+  - name:
+      value: Micros VII
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 25.48
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.7
+    diameter:
+      value: 16500
+    density:
+      value: 3.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 128.6
+  - name:
+      value: Micros VIII
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      value: 8
+    icon: gasg19
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.85
+    diameter:
+      value: 100000
+    density:
+      value: 1.3
+    dayLength:
+      value: 16
+    yearLength:
+      value: 358.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: B71
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: B72
+        size:
+          value: large
+        icon: rock14
+      - name:
+          value: B73
+        size:
+          value: medium
+        icon: rock16
+  - name:
+      value: Leonidis's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 100.36
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 1005.4
+    temperature:
+      value: -238

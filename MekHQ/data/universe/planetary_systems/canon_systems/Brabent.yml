@@ -1,0 +1,351 @@
+id: Brabent
+sucsId: 380
+xcood: 174.029
+ycood: -192.577
+spectralType:
+  value: F7V
+primarySlot: 2
+event:
+  - date: '2925-09-09'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: GJ-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 1
+    icon: barren11
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICCAUSTIC
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Sulfur Dioxide
+    gravity:
+      value: 0.51
+    diameter:
+      value: 8500
+    density:
+      value: 4.1818
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 116
+    water:
+      value: 0
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+  - name:
+      source: canon
+      value: Brabent
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.3
+    sysPos:
+      value: 2
+    icon: green50
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.72
+    diameter:
+      value: 12600
+    density:
+      value: 4.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 1.9
+    temperature:
+      value: 38
+    water:
+      value: 28
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Lassolaz
+        capital:
+          value: New Péault
+      - name:
+          value: Gorz
+    event:
+      - date: '2743-04-18'
+        faction:
+          source: canon
+          value:
+            - FS
+        population:
+          value: 44752.0
+        socioIndustrial:
+          value: D-D-C-D-D
+      - date: '2744-09-30'
+        hpg:
+          value: B
+      - date: '2750-01-01'
+        population:
+          value: 158642.0
+      - date: '2760-01-01'
+        population:
+          value: 703810.0
+      - date: '2770-01-01'
+        population:
+          value: 2306477.0
+      - date: '2780-01-01'
+        population:
+          value: 5924992.0
+      - date: '2790-01-01'
+        population:
+          value: 7826772.0
+      - date: '2800-01-01'
+        population:
+          value: 4402007.0
+      - date: '2802-01-01'
+        socioIndustrial:
+          value: C-D-C-C-D
+      - date: '2810-01-01'
+        population:
+          value: 3020953.0
+      - date: '2820-01-01'
+        population:
+          value: 2039997.0
+      - date: '2830-01-01'
+        population:
+          value: 1230448.0
+      - date: '2840-01-01'
+        population:
+          value: 800199.0
+      - date: '2850-01-01'
+        population:
+          value: 573295.0
+      - date: '2860-01-01'
+        population:
+          value: 438114.0
+      - date: '2870-01-01'
+        population:
+          value: 331226.0
+      - date: '2880-01-01'
+        population:
+          value: 247737.0
+      - date: '2890-01-01'
+        population:
+          value: 188306.0
+      - date: '2900-01-01'
+        population:
+          value: 135638.0
+      - date: '2910-01-01'
+        population:
+          value: 100904.0
+      - date: '2920-01-01'
+        population:
+          value: 68139.0
+      - date: '2925-01-15'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: GJ-3
+    type:
+      value: ICE_GIANT
+    orbitalDist: 2.08
+    sysPos:
+      value: 3
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 55000
+    density:
+      value: 1.6
+    dayLength:
+      value: 17
+    yearLength:
+      value: 3.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 5
+    satellite:
+      - name:
+          value: Pecican 1
+        size:
+          value: medium
+        icon: rock5
+      - name:
+          value: Pecican 2
+        size:
+          value: medium
+        icon: rock8
+      - name:
+          value: Pecican 3
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: Pecican 4
+        size:
+          value: medium
+        icon: rock1
+  - name:
+      value: GJ-4
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 4
+    icon: gasg25
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 18
+    satellite:
+      - name:
+          value: Espiritu A
+        size:
+          value: medium
+        icon: rock9
+      - name:
+          value: Espiritu B
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: Espiritu C
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Espiritu D
+        size:
+          value: medium
+        icon: rock8
+  - name:
+      value: GJ-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 5
+    icon: gasg7
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.37
+    diameter:
+      value: 80000
+    density:
+      value: 1.2
+    dayLength:
+      value: 7
+    yearLength:
+      value: 17.6
+    smallMoons:
+      value: 15
+    satellite:
+      - name:
+          value: Méréville
+        size:
+          value: medium
+        icon: rock5
+  - name:
+      value: GJ-6
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 13.0
+    sysPos:
+      value: 6
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.15
+    diameter:
+      value: 13500
+    density:
+      value: 6.0
+    dayLength:
+      value: 19
+    yearLength:
+      value: 46.9
+    smallMoons:
+      value: 3
+  - name:
+      value: GJ-7
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 25.48
+    sysPos:
+      value: 7
+    icon: gasg2
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.32
+    diameter:
+      value: 18500
+    density:
+      value: 5.0
+    dayLength:
+      value: 16
+    yearLength:
+      value: 128.6
+    smallMoons:
+      value: 2
+    satellite:
+      - name:
+          value: Puikkonen
+        size:
+          value: giant
+        icon: rock9

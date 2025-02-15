@@ -1,0 +1,521 @@
+id: Kohlman
+sucsId: 1386
+xcood: 20.581
+ycood: -198.301
+spectralType:
+  value: K9V
+primarySlot: 1
+event:
+  - date: '2681-09-01'
+    zenithCharge:
+      value: yes
+  - date: '2925-08-18'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      source: canon
+      value: Kohlman
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.2
+    sysPos:
+      value: 1
+    icon: green32
+    pressure:
+      value: THIN
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 13500
+    density:
+      value: 4.6818
+    dayLength:
+      value: 22
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 31
+    water:
+      value: 38
+    lifeForm:
+      value: REPTILE
+    landmass:
+      - name:
+          value: Tamu
+        capital:
+          value: Haines
+      - name:
+          value: New Wallowa
+      - name:
+          value: Shaffer
+      - name:
+          value: Norris
+      - name:
+          value: Jones
+      - name:
+          value: Lempäälä
+    satellite:
+      - name:
+          value: Northwest Marion
+        size:
+          value: medium
+        icon: rock11
+      - name:
+          value: East Washington
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Pontiac
+        size:
+          value: medium
+        icon: oddmoon2
+    event:
+      - date: '2672-05-10'
+        faction:
+          source: canon
+          value:
+            - CC
+        population:
+          value: 54542.0
+        socioIndustrial:
+          value: C-D-D-D-B
+      - date: '2675-02-05'
+        hpg:
+          value: B
+      - date: '2680-01-01'
+        population:
+          value: 2671884.0
+      - date: '2690-01-01'
+        population:
+          value: 39596106.0
+      - date: '2700-01-01'
+        population:
+          value: 158487438.0
+      - date: '2704-01-01'
+        socioIndustrial:
+          value: B-C-D-C-B
+      - date: '2710-03-30'
+        population:
+          value: 321517325.0
+        socioIndustrial:
+          value: A-B-D-B-A
+      - date: '2720-01-01'
+        population:
+          value: 461248075.0
+      - date: '2730-01-01'
+        population:
+          value: 552307153.0
+      - date: '2740-01-01'
+        population:
+          value: 603166424.0
+      - date: '2750-01-01'
+        population:
+          value: 629664523.0
+      - date: '2760-01-01'
+        population:
+          value: 639689800.0
+      - date: '2770-01-01'
+        population:
+          value: 642710017.0
+      - date: '2780-01-01'
+        population:
+          value: 643718385.0
+      - date: '2790-01-01'
+        population:
+          value: 508708229.0
+      - date: '2800-01-01'
+        population:
+          value: 188967936.0
+      - date: '2810-01-01'
+        population:
+          value: 72000446.0
+      - date: '2820-01-01'
+        population:
+          value: 35065775.0
+      - date: '2830-01-01'
+        population:
+          value: 14789086.0
+      - date: '2840-01-01'
+        population:
+          value: 7022017.0
+      - date: '2844-01-01'
+        socioIndustrial:
+          value: B-C-D-C-B
+      - date: '2850-01-01'
+        population:
+          value: 3391050.0
+      - date: '2860-01-01'
+        population:
+          value: 1406178.0
+      - date: '2870-01-01'
+        population:
+          value: 467921.0
+      - date: '2880-01-01'
+        population:
+          value: 172352.0
+      - date: '2890-01-01'
+        population:
+          value: 71470.0
+      - date: '2900-01-01'
+        population:
+          value: 32805.0
+      - date: '2901-01-01'
+        socioIndustrial:
+          value: C-C-D-D-C
+      - date: '2910-01-01'
+        population:
+          value: 20079.0
+      - date: '2920-01-01'
+        population:
+          value: 11103.0
+      - date: '2925-06-26'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: Cape Evans
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.35
+    sysPos:
+      value: 2
+    icon: barren5
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Nitrogen and Ammonia, plus trace amounts of Methane and Carbonyl Sulfide
+    gravity:
+      value: 0.37
+    diameter:
+      value: 7500
+    density:
+      value: 3.5
+    dayLength:
+      value: 19
+    yearLength:
+      value: 0.7
+    temperature:
+      value: 31
+    water:
+      value: 0
+    smallMoons:
+      value: 3
+  - name:
+      value: Murray's Choice
+    type:
+      value: ICE_GIANT
+    orbitalDist: 0.5
+    sysPos:
+      value: 3
+    icon: iceg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 35000
+    density:
+      value: 1.7
+    dayLength:
+      value: 18
+    yearLength:
+      value: 0.8
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: PO.1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: PO.2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: PO.3
+        size:
+          value: large
+        icon: rock5
+  - name:
+      value: Hawk
+    type:
+      value: GAS_GIANT
+    orbitalDist: 0.8
+    sysPos:
+      value: 4
+    icon: gasg38
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.03
+    diameter:
+      value: 130000
+    density:
+      value: 1.1
+    dayLength:
+      value: 17
+    yearLength:
+      value: 1.0
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Wright
+        size:
+          value: large
+        icon: rock17
+  - name:
+      value: Clements's Land
+    type:
+      value: GAS_GIANT
+    orbitalDist: 1.4
+    sysPos:
+      value: 5
+    icon: gasg16
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.2
+    diameter:
+      value: 120000
+    density:
+      value: 0.7
+    dayLength:
+      value: 16
+    yearLength:
+      value: 1.8
+    smallMoons:
+      value: 21
+    satellite:
+      - name:
+          value: Cooper
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: MacNamara
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Cranworth
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Grant's Planet
+    type:
+      value: GAS_GIANT
+    orbitalDist: 2.6
+    sysPos:
+      value: 6
+    icon: gasg34
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.41
+    diameter:
+      value: 90000
+    density:
+      value: 1.1
+    dayLength:
+      value: 13
+    yearLength:
+      value: 4.3
+    ring:
+      value: yes
+    smallMoons:
+      value: 22
+    satellite:
+      - name:
+          value: Aroteh
+        size:
+          value: large
+        icon: rock4
+      - name:
+          value: Hogan
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Boccanera
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Hodges
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Sanford's Belt I
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 5.0
+    sysPos:
+      value: 7
+    icon: asteroid3
+    yearLength:
+      value: 11.2
+    temperature:
+      value: -197
+  - name:
+      value: Fulton's Fate
+    type:
+      value: ICE_GIANT
+    orbitalDist: 9.8
+    sysPos:
+      value: 8
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 45000
+    density:
+      value: 1.4
+    dayLength:
+      value: 9
+    yearLength:
+      value: 30.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+  - name:
+      value: Panorn Maruek
+    type:
+      value: GAS_GIANT
+    orbitalDist: 19.4
+    sysPos:
+      value: 9
+    icon: gasg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 150000
+    density:
+      value: 1.1
+    dayLength:
+      value: 12
+    yearLength:
+      value: 85.5
+    ring:
+      value: yes
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: 4N0-1
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 4N0-2
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: French's Choice
+    type:
+      value: GAS_GIANT
+    orbitalDist: 77.0
+    sysPos:
+      value: 10
+    icon: gasg37
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.35
+    diameter:
+      value: 110000
+    density:
+      value: 1.5
+    dayLength:
+      value: 12
+    yearLength:
+      value: 675.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 20
+    satellite:
+      - name:
+          value: 1R1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: 1R2
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: 1R3
+        size:
+          value: large
+        icon: rock10
+  - name:
+      value: Sanford's Belt II
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 153.8
+    sysPos:
+      value: 11
+    icon: asteroid2
+    yearLength:
+      value: 1907.4
+    temperature:
+      value: -259

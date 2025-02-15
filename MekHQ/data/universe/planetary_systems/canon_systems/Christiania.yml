@@ -1,0 +1,434 @@
+id: Christiania
+sucsId: 554
+xcood: 17.531
+ycood: 366.005
+spectralType:
+  value: F7V
+primarySlot: 3
+event:
+  - date: '2798-07-20'
+    nadirCharge:
+      value: no
+    zenithCharge:
+      value: no
+planet:
+  - name:
+      value: B-1
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 0.91
+    sysPos:
+      value: 1
+    icon: barren20
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Carbon Dioxide and Nitrogen, plus trace amounts of Carbon Dioxide
+    gravity:
+      value: 0.47
+    diameter:
+      value: 9500
+    density:
+      value: 3.5
+    dayLength:
+      value: 24
+    yearLength:
+      value: 1.4
+    temperature:
+      value: 106
+    water:
+      value: 0
+  - name:
+      value: B-2
+    type:
+      value: ICE_GIANT
+    orbitalDist: 1.3
+    sysPos:
+      value: 2
+    icon: iceg3
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.09
+    diameter:
+      value: 45000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 1.9
+    smallMoons:
+      value: 9
+    satellite:
+      - name:
+          value: PA-1
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: PA-2
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: PA-3
+        size:
+          value: medium
+        icon: rock7
+  - name:
+      source: canon
+      value: Christiania
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 2.08
+    sysPos:
+      value: 3
+    icon: green27
+    pressure:
+      value: THIN
+    atmosphere:
+      value: TAINTEDPOISON
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 0.9
+    diameter:
+      value: 12000
+    density:
+      value: 5.2795
+    dayLength:
+      value: 22
+    yearLength:
+      value: 3.2
+    temperature:
+      value: 18
+    water:
+      value: 51
+    lifeForm:
+      value: FISH
+    smallMoons:
+      value: 6
+    landmass:
+      - name:
+          value: Sandøy
+        capital:
+          value: Bosse
+    event:
+      - date: '2646-08-25'
+        faction:
+          source: canon
+          value:
+            - DC
+        population:
+          value: 50003.0
+        socioIndustrial:
+          value: C-D-A-D-B
+      - date: '2650-01-01'
+        population:
+          value: 225142.0
+      - date: '2660-01-01'
+        population:
+          value: 3133098.0
+      - date: '2670-01-01'
+        population:
+          value: 14828319.0
+      - date: '2680-01-01'
+        population:
+          value: 37153231.0
+      - date: '2687-03-17'
+        hpg:
+          value: B
+      - date: '2690-01-01'
+        population:
+          value: 63780413.0
+      - date: '2700-01-01'
+        population:
+          value: 87544922.0
+      - date: '2703-01-01'
+        socioIndustrial:
+          value: B-C-A-C-A
+      - date: '2710-01-01'
+        population:
+          value: 105479007.0
+      - date: '2720-01-01'
+        population:
+          value: 117886878.0
+      - date: '2730-01-01'
+        population:
+          value: 126299067.0
+      - date: '2740-01-01'
+        population:
+          value: 131893404.0
+      - date: '2750-01-01'
+        population:
+          value: 135883200.0
+      - date: '2760-01-01'
+        population:
+          value: 137659350.0
+      - date: '2770-01-01'
+        population:
+          value: 137855676.0
+      - date: '2780-01-01'
+        population:
+          value: 137572019.0
+      - date: '2790-01-01'
+        population:
+          value: 3896074.0
+      - date: '2798-09-06'
+        faction:
+          source: canon
+          value:
+            - ABN
+        hpg:
+          value: X
+        population:
+          value: 0.0
+        socioIndustrial:
+          value: X-X-X-X-X
+  - name:
+      value: B-4
+    type:
+      value: ICE_GIANT
+    orbitalDist: 3.64
+    sysPos:
+      value: 4
+    icon: iceg17
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.73
+    diameter:
+      value: 30000
+    density:
+      value: 1.7
+    dayLength:
+      value: 15
+    yearLength:
+      value: 7.0
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Inti 1
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Inti 2
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: B-5
+    type:
+      value: GAS_GIANT
+    orbitalDist: 6.76
+    sysPos:
+      value: 5
+    icon: gasg11
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 7
+    yearLength:
+      value: 17.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Nicostrate
+        size:
+          value: large
+        icon: rock9
+      - name:
+          value: Fames
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Gjøvik
+        size:
+          value: large
+        icon: rock15
+      - name:
+          value: Sibilja
+        size:
+          value: large
+        icon: rock7
+      - name:
+          value: Djous Pater
+        size:
+          value: large
+        icon: rock16
+  - name:
+      value: B-6
+    type:
+      value: GAS_GIANT
+    orbitalDist: 13.0
+    sysPos:
+      value: 6
+    icon: gasg8
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.19
+    diameter:
+      value: 110000
+    density:
+      value: 1.4
+    dayLength:
+      value: 14
+    yearLength:
+      value: 46.9
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Apsu A
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Apsu B
+        size:
+          value: large
+        icon: rock12
+  - name:
+      value: B-7
+    type:
+      value: GAS_GIANT
+    orbitalDist: 25.48
+    sysPos:
+      value: 7
+    icon: gasg32
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.88
+    diameter:
+      value: 110000
+    density:
+      value: 1.2
+    dayLength:
+      value: 16
+    yearLength:
+      value: 128.6
+    ring:
+      value: yes
+    smallMoons:
+      value: 16
+    satellite:
+      - name:
+          value: Asther
+        size:
+          value: giant
+        icon: rock16
+      - name:
+          value: Storhaug
+        size:
+          value: giant
+        icon: rock5
+      - name:
+          value: Grotenfelt
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: Carlsson
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Jónsson
+        size:
+          value: large
+        icon: rock2
+  - name:
+      value: B-8
+    type:
+      value: GAS_GIANT
+    orbitalDist: 50.44
+    sysPos:
+      value: 8
+    icon: gasg4
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 2.13
+    diameter:
+      value: 100000
+    density:
+      value: 1.5
+    dayLength:
+      value: 7
+    yearLength:
+      value: 358.2
+    ring:
+      value: yes
+    smallMoons:
+      value: 19
+    satellite:
+      - name:
+          value: Blom I
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Blom II
+        size:
+          value: large
+        icon: rock3
+      - name:
+          value: Blom III
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Lopti Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 100.36
+    sysPos:
+      value: 9
+    icon: asteroid3
+    yearLength:
+      value: 1005.4
+    temperature:
+      value: -238

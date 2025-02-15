@@ -1,0 +1,436 @@
+id: Cadiz (TC)
+sucsId: 2886
+xcood: 328.076
+ycood: -424.041
+spectralType:
+  value: F8V
+primarySlot: 2
+planet:
+  - name:
+      value: Mateo
+    type:
+      value: DWARF_TERRESTRIAL
+    orbitalDist: 0.48
+    sysPos:
+      value: 1
+    icon: rock7
+    pressure:
+      value: VACUUM
+    atmosphere:
+      value: NONE
+    gravity:
+      value: 0.09
+    diameter:
+      value: 1300
+    density:
+      value: 5.0
+    dayLength:
+      value: 23
+    yearLength:
+      value: 1.1
+    temperature:
+      value: 225
+    water:
+      value: 0
+  - name:
+      source: canon
+      value: Cadiz (TC)
+    type:
+      value: TERRESTRIAL
+    orbitalDist: 1.2
+    sysPos:
+      value: 2
+    icon: green57
+    pressure:
+      value: STANDARD
+    atmosphere:
+      value: BREATHABLE
+    composition:
+      value: Nitrogen and Oxygen, plus trace gases
+    gravity:
+      value: 1.07
+    diameter:
+      value: 12900
+    density:
+      value: 5.8284
+    dayLength:
+      value: 20
+    yearLength:
+      value: 1.7
+    temperature:
+      value: 38
+    water:
+      value: 40
+    lifeForm:
+      value: AMPHIBIAN
+    landmass:
+      - name:
+          value: Rossetti
+        capital:
+          value: Ciudad Díaz
+      - name:
+          value: New Diggings
+      - name:
+          value: Grandas de Salime
+      - name:
+          value: Arroyo de San Serván
+    event:
+      - date: '3028-11-24'
+        faction:
+          source: canon
+          value:
+            - TC
+        population:
+          value: 50783.0
+        socioIndustrial:
+          value: B-D-B-D-F
+      - date: '3030-01-01'
+        population:
+          value: 207181.0
+      - date: '3032-01-01'
+        socioIndustrial:
+          value: C-D-B-D-F
+      - date: '3033-09-02'
+        hpg:
+          value: B
+      - date: '3039-01-01'
+        socioIndustrial:
+          value: D-D-B-D-F
+      - date: '3040-06-03'
+        population:
+          value: 3449075.0
+        socioIndustrial:
+          value: F-D-B-D-F
+      - date: '3050-01-01'
+        population:
+          value: 5700247.0
+      - date: '3060-01-01'
+        population:
+          value: 6208222.0
+      - date: '3070-01-01'
+        population:
+          value: 6266910.0
+      - date: '3080-01-01'
+        population:
+          value: 6288254.0
+      - date: '3090-01-01'
+        population:
+          value: 6295805.0
+      - date: '3100-01-01'
+        population:
+          value: 6334960.0
+      - date: '3106-01-01'
+        socioIndustrial:
+          value: F-D-B-D-F
+      - date: '3110-01-01'
+        population:
+          value: 6416568.0
+      - date: '3120-03-02'
+        faction:
+          source: canon
+          value:
+            - IND
+        population:
+          value: 6504430.0
+      - date: '3130-01-01'
+        population:
+          value: 6614627.0
+      - date: '3132-08-07'
+        hpg:
+          value: X
+      - date: '3140-01-01'
+        population:
+          value: 6726692.0
+      - date: '3145-01-01'
+        population:
+          value: 6775299.0
+  - name:
+      value: Rosa's World
+    type:
+      value: GAS_GIANT
+    orbitalDist: 3.36
+    sysPos:
+      value: 3
+    icon: gasg29
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.71
+    diameter:
+      value: 100000
+    density:
+      value: 1.2
+    dayLength:
+      value: 19
+    yearLength:
+      value: 6.3
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Hyppolyte 1
+        size:
+          value: large
+        icon: rock13
+      - name:
+          value: Hyppolyte 2
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Hyppolyte 3
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Hyppolyte 4
+        size:
+          value: medium
+        icon: oddmoon1
+      - name:
+          value: Hyppolyte 5
+        size:
+          value: medium
+        icon: rock3
+      - name:
+          value: Hyppolyte 6
+        size:
+          value: medium
+        icon: oddmoon3
+      - name:
+          value: Hyppolyte 7
+        size:
+          value: medium
+        icon: oddmoon2
+  - name:
+      value: Ramírez's Belt
+    type:
+      value: ASTEROID_BELT
+    orbitalDist: 6.24
+    sysPos:
+      value: 4
+    icon: asteroid2
+    yearLength:
+      value: 15.6
+    temperature:
+      value: -135
+  - name:
+      value: Ríos
+    type:
+      value: ICE_GIANT
+    orbitalDist: 23.52
+    sysPos:
+      value: 5
+    icon: iceg15
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.6
+    diameter:
+      value: 30000
+    density:
+      value: 1.4
+    dayLength:
+      value: 13
+    yearLength:
+      value: 114.1
+    ring:
+      value: yes
+    smallMoons:
+      value: 10
+    satellite:
+      - name:
+          value: Three Fates
+        size:
+          value: medium
+        icon: rock6
+      - name:
+          value: Klotho
+        size:
+          value: medium
+        icon: oddmoon3
+  - name:
+      value: Aranda's Planet
+    type:
+      value: ICE_GIANT
+    orbitalDist: 46.56
+    sysPos:
+      value: 6
+    icon: iceg1
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.02
+    diameter:
+      value: 45000
+    density:
+      value: 1.6
+    dayLength:
+      value: 13
+    yearLength:
+      value: 317.7
+    smallMoons:
+      value: 8
+    satellite:
+      - name:
+          value: Innana
+        size:
+          value: giant
+        icon: rock4
+  - name:
+      value: Mason
+    type:
+      value: ICE_GIANT
+    orbitalDist: 92.64
+    sysPos:
+      value: 7
+    icon: iceg14
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 0.85
+    diameter:
+      value: 30000
+    density:
+      value: 2.0
+    dayLength:
+      value: 18
+    yearLength:
+      value: 891.7
+    ring:
+      value: yes
+    smallMoons:
+      value: 7
+    satellite:
+      - name:
+          value: López A
+        size:
+          value: large
+        icon: rock16
+      - name:
+          value: López B
+        size:
+          value: large
+        icon: rock10
+      - name:
+          value: López C
+        size:
+          value: medium
+        icon: rock14
+      - name:
+          value: López D
+        size:
+          value: medium
+        icon: oddmoon2
+      - name:
+          value: López E
+        size:
+          value: medium
+        icon: rock4
+      - name:
+          value: López F
+        size:
+          value: medium
+        icon: oddmoon1
+  - name:
+      value: Blandford
+    type:
+      value: GIANT_TERRESTRIAL
+    orbitalDist: 369.12
+    sysPos:
+      value: 8
+    icon: gasg13
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.25
+    diameter:
+      value: 17500
+    density:
+      value: 5.0
+    dayLength:
+      value: 9
+    yearLength:
+      value: 7091.7
+  - name:
+      value: Moreta
+    type:
+      value: GAS_GIANT
+    orbitalDist: 737.76
+    sysPos:
+      value: 9
+    icon: gasg27
+    pressure:
+      value: VERY_HIGH
+    atmosphere:
+      value: TOXICPOISON
+    composition:
+      value: Hydrogen and Helium, plus trace gases
+    gravity:
+      value: 1.28
+    diameter:
+      value: 90000
+    density:
+      value: 1.0
+    dayLength:
+      value: 13
+    yearLength:
+      value: 20038.799999999999
+    smallMoons:
+      value: 17
+    satellite:
+      - name:
+          value: Cenn Cruach
+        size:
+          value: giant
+        icon: rock2
+      - name:
+          value: Finn Mccool
+        size:
+          value: giant
+        icon: rock10
+      - name:
+          value: Cromm Cruach
+        size:
+          value: large
+        icon: rock6
+      - name:
+          value: Alaya
+        size:
+          value: large
+        icon: rock12
+      - name:
+          value: Arteaga
+        size:
+          value: large
+        icon: rock17
+      - name:
+          value: Cuchulainn
+        size:
+          value: large
+        icon: rock11
+      - name:
+          value: Lugh
+        size:
+          value: medium
+        icon: rock16
